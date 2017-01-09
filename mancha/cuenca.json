@@ -1,4 +1,4 @@
-{ "date": "11:47PM-January-03-2017",
+{ "date": "11:19PM-January-09-2017",
   "users": [
   { "name": "FelipeTorr",
     "position": 1,
@@ -9,7 +9,7 @@
     "followers": 1,
     "repositories":1,
     "organizations":0,
-    "join": "2013-10-17 00:58:23 UTC",
+    "join": "2013-10-17",
     "avatar": "https://avatars2.githubusercontent.com/u/5705251"
   },
   { "name": "GGGFred",
@@ -21,7 +21,7 @@
     "followers": 0,
     "repositories":5,
     "organizations":0,
-    "join": "2013-01-15 16:38:02 UTC",
+    "join": "2013-01-15",
     "avatar": "https://avatars2.githubusercontent.com/u/3277081"
   },
   { "name": "localizacionencuevas",
@@ -33,7 +33,7 @@
     "followers": 0,
     "repositories":4,
     "organizations":0,
-    "join": "2016-11-21 08:48:21 UTC",
+    "join": "2016-11-21",
     "avatar": "https://avatars3.githubusercontent.com/u/23629118"
   },
   { "name": "sylviamolina",
@@ -45,7 +45,7 @@
     "followers": 0,
     "repositories":9,
     "organizations":0,
-    "join": "2016-12-16 11:28:15 UTC",
+    "join": "2016-12-16",
     "avatar": "https://avatars3.githubusercontent.com/u/24606165"
   },
   { "name": "XaviMontero",
@@ -57,7 +57,7 @@
     "followers": 0,
     "repositories":2,
     "organizations":0,
-    "join": "2016-12-03 17:59:13 UTC",
+    "join": "2016-12-03",
     "avatar": "https://avatars2.githubusercontent.com/u/24358710"
   },
   { "name": "Menjaplom",
@@ -69,7 +69,7 @@
     "followers": 0,
     "repositories":1,
     "organizations":0,
-    "join": "2016-04-10 13:27:25 UTC",
+    "join": "2016-04-10",
     "avatar": "https://avatars1.githubusercontent.com/u/18379240"
   },
   { "name": "vsaquicela",
@@ -81,7 +81,7 @@
     "followers": 1,
     "repositories":2,
     "organizations":0,
-    "join": "2011-09-19 17:05:01 UTC",
+    "join": "2011-09-19",
     "avatar": "https://avatars0.githubusercontent.com/u/1062684"
   },
   { "name": "fredadri",
@@ -93,7 +93,7 @@
     "followers": 0,
     "repositories":9,
     "organizations":0,
-    "join": "2013-05-01 04:11:39 UTC",
+    "join": "2013-05-01",
     "avatar": "https://avatars3.githubusercontent.com/u/4308791"
   },
   { "name": "Tebo555",
@@ -105,7 +105,7 @@
     "followers": 0,
     "repositories":0,
     "organizations":0,
-    "join": "2013-02-21 17:37:32 UTC",
+    "join": "2013-02-21",
     "avatar": "https://avatars3.githubusercontent.com/u/3661837"
   },
   { "name": "angelespinozav",
@@ -117,7 +117,7 @@
     "followers": 1,
     "repositories":1,
     "organizations":0,
-    "join": "2012-10-30 14:45:36 UTC",
+    "join": "2012-10-30",
     "avatar": "https://avatars3.githubusercontent.com/u/2684248"
   },
   { "name": "edtegomez",
@@ -129,23 +129,11 @@
     "followers": 0,
     "repositories":1,
     "organizations":0,
-    "join": "2013-06-13 16:42:47 UTC",
+    "join": "2013-06-13",
     "avatar": "https://avatars2.githubusercontent.com/u/4690577"
   },
-  { "name": "Patopilon",
-    "position": 12,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 0,
-    "repositories":17,
-    "organizations":0,
-    "join": "2014-03-01 16:32:22 UTC",
-    "avatar": "https://avatars1.githubusercontent.com/u/6825628"
-  },
   { "name": "pablascu",
-    "position": 13,
+    "position": 12,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -153,8 +141,20 @@
     "followers": 0,
     "repositories":0,
     "organizations":0,
-    "join": "2014-02-19 15:29:30 UTC",
+    "join": "2014-02-19",
     "avatar": "https://avatars3.githubusercontent.com/u/6728378"
+  },
+  { "name": "Patopilon",
+    "position": 13,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 0,
+    "repositories":17,
+    "organizations":0,
+    "join": "2014-03-01",
+    "avatar": "https://avatars1.githubusercontent.com/u/6825628"
   },
   { "name": "DesarrollandoAndroid",
     "position": 14,
@@ -165,7 +165,7 @@
     "followers": 10,
     "repositories":20,
     "organizations":0,
-    "join": "2014-06-22 12:23:34 UTC",
+    "join": "2014-06-22",
     "avatar": "https://avatars3.githubusercontent.com/u/7956170"
   },
   { "name": "jonndrakecuco",
@@ -177,7 +177,7 @@
     "followers": 0,
     "repositories":0,
     "organizations":0,
-    "join": "2014-07-23 18:17:42 UTC",
+    "join": "2014-07-23",
     "avatar": "https://avatars0.githubusercontent.com/u/8249057"
   },
   { "name": "EnmanuelVelasco",
@@ -189,10 +189,10 @@
     "followers": 0,
     "repositories":1,
     "organizations":0,
-    "join": "2014-10-06 19:38:44 UTC",
+    "join": "2014-10-06",
     "avatar": "https://avatars1.githubusercontent.com/u/9041455"
   },
-  { "name": "xesteriox",
+  { "name": "ftacurip",
     "position": 17,
     "contributions": 0,
     "public": 0,
@@ -201,8 +201,8 @@
     "followers": 0,
     "repositories":1,
     "organizations":0,
-    "join": "2015-03-12 23:18:01 UTC",
-    "avatar": "https://avatars3.githubusercontent.com/u/11449134"
+    "join": "2015-06-26",
+    "avatar": "https://avatars0.githubusercontent.com/u/13069456"
   },
   { "name": "jhonnathanp27",
     "position": 18,
@@ -213,10 +213,10 @@
     "followers": 0,
     "repositories":1,
     "organizations":0,
-    "join": "2015-05-11 12:09:40 UTC",
+    "join": "2015-05-11",
     "avatar": "https://avatars1.githubusercontent.com/u/12394226"
   },
-  { "name": "ftacurip",
+  { "name": "xesteriox",
     "position": 19,
     "contributions": 0,
     "public": 0,
@@ -225,8 +225,8 @@
     "followers": 0,
     "repositories":1,
     "organizations":0,
-    "join": "2015-06-26 19:34:54 UTC",
-    "avatar": "https://avatars0.githubusercontent.com/u/13069456"
+    "join": "2015-03-12",
+    "avatar": "https://avatars3.githubusercontent.com/u/11449134"
   },
   { "name": "NELKI",
     "position": 20,
@@ -237,23 +237,11 @@
     "followers": 0,
     "repositories":0,
     "organizations":0,
-    "join": "2015-06-29 17:02:06 UTC",
+    "join": "2015-06-29",
     "avatar": "https://avatars0.githubusercontent.com/u/13105920"
   },
-  { "name": "Arquitecto1663",
-    "position": 21,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 0,
-    "repositories":1,
-    "organizations":0,
-    "join": "2015-07-22 18:46:07 UTC",
-    "avatar": "https://avatars0.githubusercontent.com/u/13456548"
-  },
   { "name": "jotaOy",
-    "position": 22,
+    "position": 21,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -261,8 +249,20 @@
     "followers": 0,
     "repositories":2,
     "organizations":0,
-    "join": "2015-07-10 16:35:54 UTC",
+    "join": "2015-07-10",
     "avatar": "https://avatars1.githubusercontent.com/u/13277260"
+  },
+  { "name": "Arquitecto1663",
+    "position": 22,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 0,
+    "repositories":1,
+    "organizations":0,
+    "join": "2015-07-22",
+    "avatar": "https://avatars0.githubusercontent.com/u/13456548"
   }
   ]
 }
