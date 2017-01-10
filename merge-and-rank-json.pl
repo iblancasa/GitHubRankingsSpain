@@ -16,7 +16,7 @@ for my $f ( @ARGV ) {
   push @output, @{$data->{'users'}};
 }
 
-my @ranked_output = sort { $b->{'contributions'} - $b->{'private'} <=> $a->{'contributions'}-$b->{private} } @output;
+my @ranked_output = sort { $b->{'contributions'} - $b->{'private'} <=> $a->{'contributions'}-$a->{private} } @output;
 
 @ranked_output = grep { $_->{'contributions'} > 0 } @ranked_output;
 for (my $i = 0; $i <= $#ranked_output; $i++) {
