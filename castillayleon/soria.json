@@ -1,4 +1,4 @@
-{ "date": "11:06AM-January-13-2017",
+{ "date": "04:49PM-January-23-2017",
   "users": [
   { "name": "SoftwareRVG",
     "position": 1,
@@ -74,8 +74,8 @@
   },
   { "name": "silvilidar",
     "position": 7,
-    "contributions": 8,
-    "public": 8,
+    "contributions": 9,
+    "public": 9,
     "private": 0,
     "bio": "",
     "followers": 0,
@@ -120,20 +120,8 @@
     "join": "2016-02-21",
     "avatar": "https://avatars0.githubusercontent.com/u/17393274"
   },
-  { "name": "n4",
-    "position": 11,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 0,
-    "repositories":1,
-    "organizations":0,
-    "join": "2012-10-06",
-    "avatar": "https://avatars1.githubusercontent.com/u/2500651"
-  },
   { "name": "beaordepe",
-    "position": 12,
+    "position": 11,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -143,6 +131,18 @@
     "organizations":0,
     "join": "2013-10-30",
     "avatar": "https://avatars3.githubusercontent.com/u/5817146"
+  },
+  { "name": "n4",
+    "position": 12,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 0,
+    "repositories":1,
+    "organizations":0,
+    "join": "2012-10-06",
+    "avatar": "https://avatars1.githubusercontent.com/u/2500651"
   }
   ]
 }

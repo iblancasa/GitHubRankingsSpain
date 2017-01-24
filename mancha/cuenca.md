@@ -1,8 +1,14 @@
 # Ranking Cuenca
 
-Generado 02:31PM-January-13-2017.
+Generado 09:21AM-January-24-2017.
 
 El orden viene dado por las contribuciones públicas.
+
+Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+
+Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
+
+Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
@@ -17,14 +23,14 @@ El orden viene dado por las contribuciones públicas.
 |9|[angelespinozav](https://github.com/angelespinozav)|0|0|1|1|2012-10-30|![angelespinozav](https://avatars3.githubusercontent.com/u/2684248)|
 |10|[Tebo555](https://github.com/Tebo555)|0|0|0|0|2013-02-21|![Tebo555](https://avatars3.githubusercontent.com/u/3661837)|
 |11|[edtegomez](https://github.com/edtegomez)|0|0|1|0|2013-06-13|![edtegomez](https://avatars2.githubusercontent.com/u/4690577)|
-|12|[Patopilon](https://github.com/Patopilon)|0|0|17|0|2014-03-01|![Patopilon](https://avatars1.githubusercontent.com/u/6825628)|
-|13|[pablascu](https://github.com/pablascu)|0|0|0|0|2014-02-19|![pablascu](https://avatars3.githubusercontent.com/u/6728378)|
+|12|[pablascu](https://github.com/pablascu)|0|0|0|0|2014-02-19|![pablascu](https://avatars3.githubusercontent.com/u/6728378)|
+|13|[Patopilon](https://github.com/Patopilon)|0|0|17|0|2014-03-01|![Patopilon](https://avatars1.githubusercontent.com/u/6825628)|
 |14|[DesarrollandoAndroid](https://github.com/DesarrollandoAndroid)|0|0|20|10|2014-06-22|![DesarrollandoAndroid](https://avatars3.githubusercontent.com/u/7956170)|
 |15|[jonndrakecuco](https://github.com/jonndrakecuco)|0|0|0|0|2014-07-23|![jonndrakecuco](https://avatars0.githubusercontent.com/u/8249057)|
 |16|[EnmanuelVelasco](https://github.com/EnmanuelVelasco)|0|0|1|0|2014-10-06|![EnmanuelVelasco](https://avatars1.githubusercontent.com/u/9041455)|
-|17|[xesteriox](https://github.com/xesteriox)|0|0|1|0|2015-03-12|![xesteriox](https://avatars3.githubusercontent.com/u/11449134)|
-|18|[jhonnathanp27](https://github.com/jhonnathanp27)|0|0|1|0|2015-05-11|![jhonnathanp27](https://avatars1.githubusercontent.com/u/12394226)|
+|17|[jhonnathanp27](https://github.com/jhonnathanp27)|0|0|1|0|2015-05-11|![jhonnathanp27](https://avatars1.githubusercontent.com/u/12394226)|
+|18|[xesteriox](https://github.com/xesteriox)|0|0|1|0|2015-03-12|![xesteriox](https://avatars3.githubusercontent.com/u/11449134)|
 |19|[ftacurip](https://github.com/ftacurip)|0|0|1|0|2015-06-26|![ftacurip](https://avatars0.githubusercontent.com/u/13069456)|
 |20|[NELKI](https://github.com/NELKI)|0|0|0|0|2015-06-29|![NELKI](https://avatars0.githubusercontent.com/u/13105920)|
-|21|[jotaOy](https://github.com/jotaOy)|0|0|2|0|2015-07-10|![jotaOy](https://avatars1.githubusercontent.com/u/13277260)|
-|22|[Arquitecto1663](https://github.com/Arquitecto1663)|0|0|1|0|2015-07-22|![Arquitecto1663](https://avatars0.githubusercontent.com/u/13456548)|
+|21|[Arquitecto1663](https://github.com/Arquitecto1663)|0|0|1|0|2015-07-22|![Arquitecto1663](https://avatars0.githubusercontent.com/u/13456548)|
+|22|[jotaOy](https://github.com/jotaOy)|0|0|2|0|2015-07-10|![jotaOy](https://avatars1.githubusercontent.com/u/13277260)|
