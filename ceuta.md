@@ -1,8 +1,8 @@
 # Ranking Ceuta
 
-Generado 04:48PM-March-04-2017.
+Generado 08:54PM-August-20-2017.
 
-El orden viene dado por las contribuciones públicas.
+El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
 Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
 
@@ -12,7 +12,4 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[carcam](https://github.com/carcam)|43|0|23|12|2012-05-01|![carcam](https://avatars0.githubusercontent.com/u/1695138)|
-|2|[EmilioMN92](https://github.com/EmilioMN92)|30|0|6|2|2014-09-25|![EmilioMN92](https://avatars3.githubusercontent.com/u/8913229)|
-|3|[gabrielalcaraz](https://github.com/gabrielalcaraz)|0|0|1|0|2015-08-20|![gabrielalcaraz](https://avatars0.githubusercontent.com/u/13885734)|
-|4|[smarteletec-devs](https://github.com/smarteletec-devs)|0|0|0|1|2015-08-30|![smarteletec-devs](https://avatars3.githubusercontent.com/u/14042008)|
+|1|[carcam](https://github.com/carcam)|43|0|29|13|2012-05-01|![carcam](https://avatars2.githubusercontent.com/u/1695138)|

@@ -1,8 +1,8 @@
 # Ranking Cuenca
 
-Generado 04:17PM-March-04-2017.
+Generado 08:45PM-August-20-2017.
 
-El orden viene dado por las contribuciones públicas.
+El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
 Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
 
@@ -12,26 +12,18 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[FelipeTorr](https://github.com/FelipeTorr)|29|0|1|1|2013-10-17|![FelipeTorr](https://avatars2.githubusercontent.com/u/5705251)|
-|2|[GGGFred](https://github.com/GGGFred)|17|0|5|1|2013-01-15|![GGGFred](https://avatars2.githubusercontent.com/u/3277081)|
-|3|[localizacionencuevas](https://github.com/localizacionencuevas)|14|0|4|0|2016-11-21|![localizacionencuevas](https://avatars3.githubusercontent.com/u/23629118)|
-|4|[sylviamolina](https://github.com/sylviamolina)|11|0|9|0|2016-12-16|![sylviamolina](https://avatars3.githubusercontent.com/u/24606165)|
-|5|[XaviMontero](https://github.com/XaviMontero)|10|0|2|0|2016-12-03|![XaviMontero](https://avatars2.githubusercontent.com/u/24358710)|
-|6|[Menjaplom](https://github.com/Menjaplom)|3|0|1|0|2016-04-10|![Menjaplom](https://avatars1.githubusercontent.com/u/18379240)|
-|7|[vsaquicela](https://github.com/vsaquicela)|2|0|2|1|2011-09-19|![vsaquicela](https://avatars0.githubusercontent.com/u/1062684)|
-|8|[fredadri](https://github.com/fredadri)|2|0|9|0|2013-05-01|![fredadri](https://avatars3.githubusercontent.com/u/4308791)|
-|9|[DesarrollandoAndroid](https://github.com/DesarrollandoAndroid)|2|0|21|10|2014-06-22|![DesarrollandoAndroid](https://avatars3.githubusercontent.com/u/7956170)|
-|10|[sixblades](https://github.com/sixblades)|2|0|0|0|2017-03-01|![sixblades](https://avatars0.githubusercontent.com/u/26110380)|
-|11|[angelespinozav](https://github.com/angelespinozav)|0|0|1|1|2012-10-30|![angelespinozav](https://avatars3.githubusercontent.com/u/2684248)|
-|12|[Tebo555](https://github.com/Tebo555)|0|0|0|0|2013-02-21|![Tebo555](https://avatars3.githubusercontent.com/u/3661837)|
-|13|[edtegomez](https://github.com/edtegomez)|0|0|1|0|2013-06-13|![edtegomez](https://avatars2.githubusercontent.com/u/4690577)|
-|14|[Patopilon](https://github.com/Patopilon)|0|0|17|0|2014-03-01|![Patopilon](https://avatars1.githubusercontent.com/u/6825628)|
-|15|[pablascu](https://github.com/pablascu)|0|0|0|0|2014-02-19|![pablascu](https://avatars3.githubusercontent.com/u/6728378)|
-|16|[jonndrakecuco](https://github.com/jonndrakecuco)|0|0|0|0|2014-07-23|![jonndrakecuco](https://avatars0.githubusercontent.com/u/8249057)|
-|17|[EnmanuelVelasco](https://github.com/EnmanuelVelasco)|0|0|1|0|2014-10-06|![EnmanuelVelasco](https://avatars1.githubusercontent.com/u/9041455)|
-|18|[xesteriox](https://github.com/xesteriox)|0|0|1|0|2015-03-12|![xesteriox](https://avatars3.githubusercontent.com/u/11449134)|
-|19|[jhonnathanp27](https://github.com/jhonnathanp27)|0|0|1|0|2015-05-11|![jhonnathanp27](https://avatars1.githubusercontent.com/u/12394226)|
-|20|[ftacurip](https://github.com/ftacurip)|0|0|1|0|2015-06-26|![ftacurip](https://avatars0.githubusercontent.com/u/13069456)|
-|21|[NELKI](https://github.com/NELKI)|0|0|0|0|2015-06-29|![NELKI](https://avatars0.githubusercontent.com/u/13105920)|
-|22|[Arquitecto1663](https://github.com/Arquitecto1663)|0|0|1|0|2015-07-22|![Arquitecto1663](https://avatars0.githubusercontent.com/u/13456548)|
-|23|[jotaOy](https://github.com/jotaOy)|0|0|2|0|2015-07-10|![jotaOy](https://avatars1.githubusercontent.com/u/13277260)|
+|1|[alx741](https://github.com/alx741)|1381|639|144|8|2012-10-12|![alx741](https://avatars3.githubusercontent.com/u/2545720)|
+|2|[cuent](https://github.com/cuent)|325|0|36|4|2013-08-17|![cuent](https://avatars0.githubusercontent.com/u/5248968)|
+|3|[jameswilson](https://github.com/jameswilson)|299|0|32|10|2010-04-14|![jameswilson](https://avatars3.githubusercontent.com/u/243532)|
+|4|[edzzn](https://github.com/edzzn)|272|2|26|2|2015-10-02|![edzzn](https://avatars2.githubusercontent.com/u/14936466)|
+|5|[santteegt](https://github.com/santteegt)|194|224|36|5|2011-07-19|![santteegt](https://avatars2.githubusercontent.com/u/926341)|
+|6|[ziluvatar](https://github.com/ziluvatar)|109|905|38|7|2012-02-09|![ziluvatar](https://avatars1.githubusercontent.com/u/1424663)|
+|7|[etenesaca](https://github.com/etenesaca)|48|0|17|5|2013-02-14|![etenesaca](https://avatars1.githubusercontent.com/u/3594639)|
+|8|[dabada83](https://github.com/dabada83)|18|0|9|10|2010-02-26|![dabada83](https://avatars0.githubusercontent.com/u/211490)|
+|9|[rpalaciosg](https://github.com/rpalaciosg)|14|0|8|2|2015-03-25|![rpalaciosg](https://avatars3.githubusercontent.com/u/11642622)|
+|10|[MOTEorg](https://github.com/MOTEorg)|12|0|2|2|2013-10-17|![MOTEorg](https://avatars2.githubusercontent.com/u/5705296)|
+|11|[JoseU](https://github.com/JoseU)|6|0|9|2|2014-05-08|![JoseU](https://avatars2.githubusercontent.com/u/7528517)|
+|12|[travispence](https://github.com/travispence)|4|501|19|4|2011-12-02|![travispence](https://avatars1.githubusercontent.com/u/1236534)|
+|13|[earthday47](https://github.com/earthday47)|2|1264|13|7|2011-03-02|![earthday47](https://avatars1.githubusercontent.com/u/647271)|
+|14|[DesarrollandoAndroid](https://github.com/DesarrollandoAndroid)|2|0|21|10|2014-06-22|![DesarrollandoAndroid](https://avatars1.githubusercontent.com/u/7956170)|
+|15|[palichis](https://github.com/palichis)|0|0|13|2|2011-03-29|![palichis](https://avatars2.githubusercontent.com/u/697345)|
