@@ -1,6 +1,6 @@
 # Ranking Segovia
 
-Generado 08:02PM-August-20-2017.
+Generado 10:28PM-August-21-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,11 +12,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[iMartinezMateu](https://github.com/iMartinezMateu)|100|262|13|9|2014-10-19|![iMartinezMateu](https://avatars1.githubusercontent.com/u/9308066)|
-|2|[tinproject](https://github.com/tinproject)|77|0|14|5|2013-03-01|![tinproject](https://avatars0.githubusercontent.com/u/3742174)|
-|3|[sergioortegagomez](https://github.com/sergioortegagomez)|64|0|7|5|2014-09-14|![sergioortegagomez](https://avatars1.githubusercontent.com/u/8767128)|
-|4|[josejuanllopistemes](https://github.com/josejuanllopistemes)|53|0|7|4|2015-05-28|![josejuanllopistemes](https://avatars3.githubusercontent.com/u/12647640)|
-|5|[kikettas](https://github.com/kikettas)|22|0|22|5|2014-10-08|![kikettas](https://avatars0.githubusercontent.com/u/9082270)|
+|1|[kikettas](https://github.com/kikettas)|213|0|22|5|2014-10-08|![kikettas](https://avatars0.githubusercontent.com/u/9082270)|
+|2|[iMartinezMateu](https://github.com/iMartinezMateu)|100|261|13|9|2014-10-19|![iMartinezMateu](https://avatars1.githubusercontent.com/u/9308066)|
+|3|[tinproject](https://github.com/tinproject)|77|0|14|5|2013-03-01|![tinproject](https://avatars0.githubusercontent.com/u/3742174)|
+|4|[sergioortegagomez](https://github.com/sergioortegagomez)|64|0|7|5|2014-09-14|![sergioortegagomez](https://avatars1.githubusercontent.com/u/8767128)|
+|5|[josejuanllopistemes](https://github.com/josejuanllopistemes)|50|0|7|4|2015-05-28|![josejuanllopistemes](https://avatars3.githubusercontent.com/u/12647640)|
 |6|[albertocc](https://github.com/albertocc)|21|0|7|2|2015-08-18|![albertocc](https://avatars1.githubusercontent.com/u/13858689)|
 |7|[robertobermejo](https://github.com/robertobermejo)|10|0|30|8|2010-03-13|![robertobermejo](https://avatars2.githubusercontent.com/u/221931)|
 |8|[migueltg](https://github.com/migueltg)|4|0|6|6|2014-09-02|![migueltg](https://avatars2.githubusercontent.com/u/8627136)|

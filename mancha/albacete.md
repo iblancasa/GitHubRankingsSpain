@@ -1,6 +1,6 @@
 # Ranking Albacete
 
-Generado 08:44PM-August-20-2017.
+Generado 11:13PM-August-21-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,11 +12,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[jacintoArias](https://github.com/jacintoArias)|160|0|7|9|2014-05-07|![jacintoArias](https://avatars1.githubusercontent.com/u/7511199)|
-|2|[becarioprecario](https://github.com/becarioprecario)|151|0|13|12|2014-04-20|![becarioprecario](https://avatars0.githubusercontent.com/u/7356250)|
+|1|[becarioprecario](https://github.com/becarioprecario)|151|0|13|12|2014-04-20|![becarioprecario](https://avatars0.githubusercontent.com/u/7356250)|
+|2|[jacintoArias](https://github.com/jacintoArias)|147|0|7|9|2014-05-07|![jacintoArias](https://avatars1.githubusercontent.com/u/7511199)|
 |3|[r0i](https://github.com/r0i)|120|0|5|11|2013-09-14|![r0i](https://avatars2.githubusercontent.com/u/5457573)|
 |4|[ecdani](https://github.com/ecdani)|105|0|6|6|2013-04-20|![ecdani](https://avatars2.githubusercontent.com/u/4211293)|
-|5|[amon-ra](https://github.com/amon-ra)|97|0|112|3|2011-09-14|![amon-ra](https://avatars2.githubusercontent.com/u/1049676)|
+|5|[amon-ra](https://github.com/amon-ra)|95|0|112|2|2011-09-14|![amon-ra](https://avatars2.githubusercontent.com/u/1049676)|
 |6|[jialonso](https://github.com/jialonso)|56|12|2|5|2014-10-12|![jialonso](https://avatars3.githubusercontent.com/u/9167780)|
 |7|[javato](https://github.com/javato)|35|0|8|4|2014-09-21|![javato](https://avatars2.githubusercontent.com/u/8853295)|
 |8|[jgallud](https://github.com/jgallud)|21|0|22|13|2013-09-02|![jgallud](https://avatars0.githubusercontent.com/u/5364288)|
@@ -25,6 +25,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |11|[jantoniomartin](https://github.com/jantoniomartin)|14|0|23|7|2010-10-14|![jantoniomartin](https://avatars1.githubusercontent.com/u/439759)|
 |12|[dbuedo](https://github.com/dbuedo)|2|0|14|4|2013-08-17|![dbuedo](https://avatars1.githubusercontent.com/u/5249948)|
 |13|[AmadorNavarro](https://github.com/AmadorNavarro)|1|0|13|2|2012-11-12|![AmadorNavarro](https://avatars3.githubusercontent.com/u/2777799)|
-|14|[DiegoGCarcelen](https://github.com/DiegoGCarcelen)|0|4|4|2|2014-09-23|![DiegoGCarcelen](https://avatars1.githubusercontent.com/u/8877650)|
-|15|[ociu](https://github.com/ociu)|0|0|8|3|2013-04-17|![ociu](https://avatars3.githubusercontent.com/u/4182785)|
+|14|[ociu](https://github.com/ociu)|0|0|8|3|2013-04-17|![ociu](https://avatars3.githubusercontent.com/u/4182785)|
+|15|[DiegoGCarcelen](https://github.com/DiegoGCarcelen)|0|4|4|2|2014-09-23|![DiegoGCarcelen](https://avatars1.githubusercontent.com/u/8877650)|
 |16|[Craswer](https://github.com/Craswer)|0|0|2|2|2011-05-21|![Craswer](https://avatars2.githubusercontent.com/u/802508)|
