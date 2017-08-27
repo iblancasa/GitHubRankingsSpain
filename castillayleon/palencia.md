@@ -1,6 +1,6 @@
 # Ranking Palencia
 
-Generado 10:27PM-August-21-2017.
+Generado 01:38PM-August-27-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,8 +12,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[garciparedes](https://github.com/garciparedes)|2565|0|99|30|2013-10-08|![garciparedes](https://avatars1.githubusercontent.com/u/5640366)|
-|2|[zdavidlnx](https://github.com/zdavidlnx)|42|0|9|5|2011-07-28|![zdavidlnx](https://avatars1.githubusercontent.com/u/944150)|
+|1|[garciparedes](https://github.com/garciparedes)|2567|0|100|30|2013-10-08|![garciparedes](https://avatars1.githubusercontent.com/u/5640366)|
+|2|[zdavidlnx](https://github.com/zdavidlnx)|48|0|10|5|2011-07-28|![zdavidlnx](https://avatars1.githubusercontent.com/u/944150)|
 |3|[adrianetete](https://github.com/adrianetete)|10|0|8|12|2014-03-13|![adrianetete](https://avatars1.githubusercontent.com/u/6943237)|
 |4|[josetristan](https://github.com/josetristan)|2|0|18|3|2011-07-15|![josetristan](https://avatars2.githubusercontent.com/u/916947)|
 |5|[villeparamio](https://github.com/villeparamio)|2|0|10|3|2015-12-01|![villeparamio](https://avatars1.githubusercontent.com/u/16100827)|

@@ -1,6 +1,6 @@
 # Ranking Albacete
 
-Generado 11:13PM-August-21-2017.
+Generado 02:19PM-August-27-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 

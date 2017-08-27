@@ -1,6 +1,6 @@
 # Ranking Segovia
 
-Generado 10:28PM-August-21-2017.
+Generado 01:39PM-August-27-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[kikettas](https://github.com/kikettas)|213|0|22|5|2014-10-08|![kikettas](https://avatars0.githubusercontent.com/u/9082270)|
+|1|[kikettas](https://github.com/kikettas)|217|0|21|5|2014-10-08|![kikettas](https://avatars0.githubusercontent.com/u/9082270)|
 |2|[iMartinezMateu](https://github.com/iMartinezMateu)|100|261|13|9|2014-10-19|![iMartinezMateu](https://avatars1.githubusercontent.com/u/9308066)|
 |3|[tinproject](https://github.com/tinproject)|77|0|14|5|2013-03-01|![tinproject](https://avatars0.githubusercontent.com/u/3742174)|
 |4|[sergioortegagomez](https://github.com/sergioortegagomez)|64|0|7|5|2014-09-14|![sergioortegagomez](https://avatars1.githubusercontent.com/u/8767128)|
@@ -21,6 +21,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |7|[robertobermejo](https://github.com/robertobermejo)|10|0|30|8|2010-03-13|![robertobermejo](https://avatars2.githubusercontent.com/u/221931)|
 |8|[migueltg](https://github.com/migueltg)|4|0|6|6|2014-09-02|![migueltg](https://avatars2.githubusercontent.com/u/8627136)|
 |9|[rasacris](https://github.com/rasacris)|1|0|3|3|2016-03-23|![rasacris](https://avatars2.githubusercontent.com/u/18039000)|
-|10|[migumar2](https://github.com/migumar2)|0|294|2|10|2011-05-31|![migumar2](https://avatars1.githubusercontent.com/u/819947)|
+|10|[migumar2](https://github.com/migumar2)|0|288|2|10|2011-05-31|![migumar2](https://avatars1.githubusercontent.com/u/819947)|
 |11|[alvardsoler](https://github.com/alvardsoler)|0|0|14|9|2013-04-09|![alvardsoler](https://avatars2.githubusercontent.com/u/4102837)|
 |12|[carlosdelucas92](https://github.com/carlosdelucas92)|0|0|5|3|2015-01-27|![carlosdelucas92](https://avatars2.githubusercontent.com/u/10717935)|
