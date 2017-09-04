@@ -1,6 +1,6 @@
 # Ranking Huesca
 
-Generado 01:35PM-August-27-2017.
+Generado 08:34PM-September-04-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,9 +12,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[jmendiara](https://github.com/jmendiara)|256|0|45|27|2011-06-15|![jmendiara](https://avatars3.githubusercontent.com/u/851359)|
-|2|[SrPerso](https://github.com/SrPerso)|243|0|10|10|2016-02-09|![SrPerso](https://avatars3.githubusercontent.com/u/17146733)|
-|3|[fernand0](https://github.com/fernand0)|123|0|37|33|2008-03-06|![fernand0](https://avatars3.githubusercontent.com/u/2467)|
+|1|[SrPerso](https://github.com/SrPerso)|243|0|10|10|2016-02-09|![SrPerso](https://avatars3.githubusercontent.com/u/17146733)|
+|2|[jmendiara](https://github.com/jmendiara)|239|0|45|28|2011-06-15|![jmendiara](https://avatars3.githubusercontent.com/u/851359)|
+|3|[fernand0](https://github.com/fernand0)|120|0|37|33|2008-03-06|![fernand0](https://avatars3.githubusercontent.com/u/2467)|
 |4|[hbiarge](https://github.com/hbiarge)|42|0|27|20|2010-11-08|![hbiarge](https://avatars3.githubusercontent.com/u/473010)|
 |5|[lopezmuzas](https://github.com/lopezmuzas)|18|0|9|7|2012-02-01|![lopezmuzas](https://avatars3.githubusercontent.com/u/1397384)|
 |6|[sergioibs](https://github.com/sergioibs)|8|0|8|3|2013-09-26|![sergioibs](https://avatars1.githubusercontent.com/u/5547593)|
