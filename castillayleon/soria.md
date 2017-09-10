@@ -1,6 +1,6 @@
 # Ranking Soria
 
-Generado 08:41PM-September-04-2017.
+Generado 08:46PM-September-10-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
