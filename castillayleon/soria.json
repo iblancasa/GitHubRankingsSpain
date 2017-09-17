@@ -1,4 +1,4 @@
-{ "date": "08:46PM-September-10-2017",
+{ "date": "08:27PM-September-17-2017",
   "users": [
   { "name": "titodevera",
     "position": 1,
@@ -12,22 +12,10 @@
     "join": "2015-03-19",
     "avatar": "https://avatars1.githubusercontent.com/u/11556124"
   },
-  { "name": "statickidz",
+  { "name": "pablomario",
     "position": 2,
     "contributions": 34,
     "public": 34,
-    "private": 0,
-    "bio": "",
-    "followers": 10,
-    "repositories":13,
-    "organizations":0,
-    "join": "2014-06-14",
-    "avatar": "https://avatars1.githubusercontent.com/u/7888227"
-  },
-  { "name": "pablomario",
-    "position": 3,
-    "contributions": 30,
-    "public": 30,
     "private": 0,
     "bio": "",
     "followers": 5,
@@ -35,6 +23,18 @@
     "organizations":0,
     "join": "2013-05-18",
     "avatar": "https://avatars1.githubusercontent.com/u/4464094"
+  },
+  { "name": "statickidz",
+    "position": 3,
+    "contributions": 31,
+    "public": 31,
+    "private": 0,
+    "bio": "",
+    "followers": 10,
+    "repositories":13,
+    "organizations":0,
+    "join": "2014-06-14",
+    "avatar": "https://avatars1.githubusercontent.com/u/7888227"
   }
   ]
 }

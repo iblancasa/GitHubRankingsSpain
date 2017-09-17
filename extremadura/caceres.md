@@ -1,6 +1,6 @@
 # Ranking Cáceres
 
-Generado 09:23PM-September-10-2017.
+Generado 08:44PM-September-17-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,13 +12,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[jamiebull1](https://github.com/jamiebull1)|428|346|38|10|2013-03-09|![jamiebull1](https://avatars1.githubusercontent.com/u/3817160)|
+|1|[jamiebull1](https://github.com/jamiebull1)|374|366|38|10|2013-03-09|![jamiebull1](https://avatars1.githubusercontent.com/u/3817160)|
 |2|[Crul](https://github.com/Crul)|178|0|9|6|2013-09-29|![Crul](https://avatars0.githubusercontent.com/u/5569741)|
 |3|[ishmilan](https://github.com/ishmilan)|144|0|13|6|2014-10-07|![ishmilan](https://avatars2.githubusercontent.com/u/9059414)|
-|4|[alvar0hurtad0](https://github.com/alvar0hurtad0)|131|979|33|15|2011-10-15|![alvar0hurtad0](https://avatars0.githubusercontent.com/u/1130114)|
+|4|[alvar0hurtad0](https://github.com/alvar0hurtad0)|132|977|33|15|2011-10-15|![alvar0hurtad0](https://avatars0.githubusercontent.com/u/1130114)|
 |5|[oscarcpozas](https://github.com/oscarcpozas)|114|0|6|48|2013-01-27|![oscarcpozas](https://avatars0.githubusercontent.com/u/3399621)|
-|6|[pbustos](https://github.com/pbustos)|102|0|20|12|2013-12-06|![pbustos](https://avatars2.githubusercontent.com/u/6126487)|
-|7|[brickbit](https://github.com/brickbit)|61|23|8|3|2016-06-02|![brickbit](https://avatars1.githubusercontent.com/u/19708065)|
+|6|[pbustos](https://github.com/pbustos)|80|0|20|12|2013-12-06|![pbustos](https://avatars2.githubusercontent.com/u/6126487)|
+|7|[brickbit](https://github.com/brickbit)|70|23|8|3|2016-06-02|![brickbit](https://avatars1.githubusercontent.com/u/19708065)|
 |8|[JPery](https://github.com/JPery)|41|0|11|8|2015-02-18|![JPery](https://avatars3.githubusercontent.com/u/11062553)|
 |9|[ivangd97](https://github.com/ivangd97)|29|0|5|5|2014-05-06|![ivangd97](https://avatars2.githubusercontent.com/u/7497049)|
 |10|[srkapi](https://github.com/srkapi)|26|0|12|7|2015-02-08|![srkapi](https://avatars2.githubusercontent.com/u/10909126)|
