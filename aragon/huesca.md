@@ -1,6 +1,6 @@
 # Ranking Huesca
 
-Generado 08:25PM-September-17-2017.
+Generado 08:24PM-September-24-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,13 +12,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[SrPerso](https://github.com/SrPerso)|248|0|11|10|2016-02-09|![SrPerso](https://avatars3.githubusercontent.com/u/17146733)|
-|2|[jmendiara](https://github.com/jmendiara)|239|0|45|28|2011-06-15|![jmendiara](https://avatars3.githubusercontent.com/u/851359)|
-|3|[fernand0](https://github.com/fernand0)|123|0|38|33|2008-03-06|![fernand0](https://avatars3.githubusercontent.com/u/2467)|
-|4|[hbiarge](https://github.com/hbiarge)|43|0|27|20|2010-11-08|![hbiarge](https://avatars3.githubusercontent.com/u/473010)|
+|1|[SrPerso](https://github.com/SrPerso)|254|0|11|10|2016-02-09|![SrPerso](https://avatars3.githubusercontent.com/u/17146733)|
+|2|[jmendiara](https://github.com/jmendiara)|238|0|45|28|2011-06-15|![jmendiara](https://avatars3.githubusercontent.com/u/851359)|
+|3|[fernand0](https://github.com/fernand0)|129|0|39|33|2008-03-06|![fernand0](https://avatars3.githubusercontent.com/u/2467)|
+|4|[hbiarge](https://github.com/hbiarge)|45|0|28|20|2010-11-08|![hbiarge](https://avatars3.githubusercontent.com/u/473010)|
 |5|[lopezmuzas](https://github.com/lopezmuzas)|18|0|9|7|2012-02-01|![lopezmuzas](https://avatars3.githubusercontent.com/u/1397384)|
 |6|[sergioibs](https://github.com/sergioibs)|8|0|8|3|2013-09-26|![sergioibs](https://avatars1.githubusercontent.com/u/5547593)|
 |7|[Albertowska](https://github.com/Albertowska)|3|0|9|4|2013-05-21|![Albertowska](https://avatars3.githubusercontent.com/u/4486925)|
 |8|[jchine](https://github.com/jchine)|2|0|17|7|2012-05-03|![jchine](https://avatars3.githubusercontent.com/u/1701751)|
-|9|[JuanS](https://github.com/JuanS)|2|0|134|5|2012-08-16|![JuanS](https://avatars2.githubusercontent.com/u/2165396)|
+|9|[JuanS](https://github.com/JuanS)|2|0|134|6|2012-08-16|![JuanS](https://avatars2.githubusercontent.com/u/2165396)|
 |10|[fgarcialainez](https://github.com/fgarcialainez)|0|0|13|13|2012-05-19|![fgarcialainez](https://avatars0.githubusercontent.com/u/1755561)|
