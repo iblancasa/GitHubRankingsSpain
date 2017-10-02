@@ -1,6 +1,6 @@
 # Ranking Ávila
 
-Generado 08:25PM-September-24-2017.
+Generado 07:03AM-October-02-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[sergio11](https://github.com/sergio11)|903|108|61|16|2014-03-19|![sergio11](https://avatars0.githubusercontent.com/u/6996211)|
+|1|[sergio11](https://github.com/sergio11)|916|132|61|17|2014-03-19|![sergio11](https://avatars0.githubusercontent.com/u/6996211)|
 |2|[eltrueno](https://github.com/eltrueno)|35|0|4|5|2015-04-06|![eltrueno](https://avatars3.githubusercontent.com/u/11823645)|
 |3|[jmperezra](https://github.com/jmperezra)|16|0|15|6|2012-09-04|![jmperezra](https://avatars2.githubusercontent.com/u/2276963)|
 |4|[EugenioFidel](https://github.com/EugenioFidel)|2|0|13|2|2015-06-01|![EugenioFidel](https://avatars2.githubusercontent.com/u/12699680)|
