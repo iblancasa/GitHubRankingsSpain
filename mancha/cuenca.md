@@ -1,6 +1,6 @@
 # Ranking Cuenca
 
-Generado 07:24AM-October-02-2017.
+Generado 10:00AM-October-03-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,14 +12,14 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[alx741](https://github.com/alx741)|1508|578|151|9|2012-10-12|![alx741](https://avatars3.githubusercontent.com/u/2545720)|
-|2|[cuent](https://github.com/cuent)|357|0|36|5|2013-08-17|![cuent](https://avatars0.githubusercontent.com/u/5248968)|
-|3|[edzzn](https://github.com/edzzn)|278|18|29|2|2015-10-02|![edzzn](https://avatars2.githubusercontent.com/u/14936466)|
-|4|[santteegt](https://github.com/santteegt)|142|258|39|5|2011-07-19|![santteegt](https://avatars2.githubusercontent.com/u/926341)|
-|5|[ziluvatar](https://github.com/ziluvatar)|87|991|39|8|2012-02-09|![ziluvatar](https://avatars1.githubusercontent.com/u/1424663)|
+|1|[alx741](https://github.com/alx741)|1487|616|151|10|2012-10-12|![alx741](https://avatars3.githubusercontent.com/u/2545720)|
+|2|[cuent](https://github.com/cuent)|360|0|36|5|2013-08-17|![cuent](https://avatars0.githubusercontent.com/u/5248968)|
+|3|[edzzn](https://github.com/edzzn)|283|16|30|2|2015-10-02|![edzzn](https://avatars2.githubusercontent.com/u/14936466)|
+|4|[santteegt](https://github.com/santteegt)|133|269|39|5|2011-07-19|![santteegt](https://avatars2.githubusercontent.com/u/926341)|
+|5|[ziluvatar](https://github.com/ziluvatar)|116|962|39|8|2012-02-09|![ziluvatar](https://avatars1.githubusercontent.com/u/1424663)|
 |6|[jameswilson](https://github.com/jameswilson)|74|0|32|11|2010-04-14|![jameswilson](https://avatars3.githubusercontent.com/u/243532)|
-|7|[travispence](https://github.com/travispence)|41|387|10|4|2011-12-02|![travispence](https://avatars1.githubusercontent.com/u/1236534)|
-|8|[etenesaca](https://github.com/etenesaca)|25|0|17|5|2013-02-14|![etenesaca](https://avatars1.githubusercontent.com/u/3594639)|
+|7|[etenesaca](https://github.com/etenesaca)|25|0|17|5|2013-02-14|![etenesaca](https://avatars1.githubusercontent.com/u/3594639)|
+|8|[travispence](https://github.com/travispence)|16|412|10|4|2011-12-02|![travispence](https://avatars1.githubusercontent.com/u/1236534)|
 |9|[rpalaciosg](https://github.com/rpalaciosg)|14|0|8|3|2015-03-25|![rpalaciosg](https://avatars3.githubusercontent.com/u/11642622)|
 |10|[dabada83](https://github.com/dabada83)|9|0|10|10|2010-02-26|![dabada83](https://avatars0.githubusercontent.com/u/211490)|
 |11|[MOTEorg](https://github.com/MOTEorg)|9|0|2|2|2013-10-17|![MOTEorg](https://avatars2.githubusercontent.com/u/5705296)|

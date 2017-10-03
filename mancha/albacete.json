@@ -1,4 +1,4 @@
-{ "date": "07:24AM-October-02-2017",
+{ "date": "09:59AM-October-03-2017",
   "users": [
   { "name": "becarioprecario",
     "position": 1,
@@ -38,8 +38,8 @@
   },
   { "name": "ecdani",
     "position": 4,
-    "contributions": 104,
-    "public": 104,
+    "contributions": 106,
+    "public": 106,
     "private": 0,
     "bio": "",
     "followers": 6,
@@ -156,20 +156,8 @@
     "join": "2012-11-12",
     "avatar": "https://avatars3.githubusercontent.com/u/2777799"
   },
-  { "name": "Craswer",
-    "position": 14,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 2,
-    "repositories":2,
-    "organizations":0,
-    "join": "2011-05-21",
-    "avatar": "https://avatars2.githubusercontent.com/u/802508"
-  },
   { "name": "DiegoGCarcelen",
-    "position": 15,
+    "position": 14,
     "contributions": 4,
     "public": 0,
     "private": 4,
@@ -181,7 +169,7 @@
     "avatar": "https://avatars1.githubusercontent.com/u/8877650"
   },
   { "name": "ociu",
-    "position": 16,
+    "position": 15,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -191,6 +179,18 @@
     "organizations":0,
     "join": "2013-04-17",
     "avatar": "https://avatars3.githubusercontent.com/u/4182785"
+  },
+  { "name": "Craswer",
+    "position": 16,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 2,
+    "repositories":2,
+    "organizations":0,
+    "join": "2011-05-21",
+    "avatar": "https://avatars2.githubusercontent.com/u/802508"
   }
   ]
 }

@@ -1,6 +1,6 @@
 # Ranking Zamora
 
-Generado 07:05AM-October-02-2017.
+Generado 09:42AM-October-03-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[pcarranza](https://github.com/pcarranza)|8303|0|23|15|2013-05-22|![pcarranza](https://avatars1.githubusercontent.com/u/4496338)|
+|1|[pcarranza](https://github.com/pcarranza)|8344|0|23|15|2013-05-22|![pcarranza](https://avatars1.githubusercontent.com/u/4496338)|
 |2|[vgayolrs](https://github.com/vgayolrs)|657|0|4|7|2016-03-05|![vgayolrs](https://avatars2.githubusercontent.com/u/17665201)|
 |3|[jairomelo](https://github.com/jairomelo)|89|0|8|2|2014-05-19|![jairomelo](https://avatars1.githubusercontent.com/u/7632991)|
 |4|[leopaglia](https://github.com/leopaglia)|48|0|17|2|2013-04-10|![leopaglia](https://avatars3.githubusercontent.com/u/4120036)|
