@@ -1,6 +1,6 @@
 # Ranking Valladolid
 
-Generado 10:47AM-October-08-2017.
+Generado 08:28PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -18,15 +18,15 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |4|[SergioBertolinSG](https://github.com/SergioBertolinSG)|537|145|11|2|2014-10-07|![SergioBertolinSG](https://avatars1.githubusercontent.com/u/9048796)|
 |5|[davivel](https://github.com/davivel)|475|0|8|37|2012-08-27|![davivel](https://avatars3.githubusercontent.com/u/2225614)|
 |6|[jesmrec](https://github.com/jesmrec)|442|0|6|3|2015-09-29|![jesmrec](https://avatars1.githubusercontent.com/u/14894746)|
-|7|[palmerabollo](https://github.com/palmerabollo)|415|2267|66|34|2011-03-16|![palmerabollo](https://avatars2.githubusercontent.com/u/673420)|
+|7|[palmerabollo](https://github.com/palmerabollo)|414|2270|66|34|2011-03-16|![palmerabollo](https://avatars2.githubusercontent.com/u/673420)|
 |8|[RLRG](https://github.com/RLRG)|370|0|21|3|2016-06-15|![RLRG](https://avatars0.githubusercontent.com/u/19955480)|
 |9|[albfernandez](https://github.com/albfernandez)|342|0|41|6|2012-11-01|![albfernandez](https://avatars1.githubusercontent.com/u/2701620)|
 |10|[nasli](https://github.com/nasli)|332|0|9|9|2014-02-02|![nasli](https://avatars2.githubusercontent.com/u/6570505)|
 |11|[mariodebian](https://github.com/mariodebian)|301|0|16|11|2010-12-14|![mariodebian](https://avatars0.githubusercontent.com/u/522472)|
 |12|[eduherminio](https://github.com/eduherminio)|300|27|42|3|2015-02-22|![eduherminio](https://avatars3.githubusercontent.com/u/11148519)|
 |13|[jvillafanez](https://github.com/jvillafanez)|281|0|4|3|2012-02-27|![jvillafanez](https://avatars2.githubusercontent.com/u/1477829)|
-|14|[alexandernst](https://github.com/alexandernst)|272|1|29|59|2009-05-28|![alexandernst](https://avatars2.githubusercontent.com/u/89727)|
-|15|[jorge-sanz](https://github.com/jorge-sanz)|269|288|35|51|2013-07-19|![jorge-sanz](https://avatars1.githubusercontent.com/u/5048292)|
+|14|[jorge-sanz](https://github.com/jorge-sanz)|273|288|36|51|2013-07-19|![jorge-sanz](https://avatars1.githubusercontent.com/u/5048292)|
+|15|[alexandernst](https://github.com/alexandernst)|272|1|29|59|2009-05-28|![alexandernst](https://avatars2.githubusercontent.com/u/89727)|
 |16|[davitol](https://github.com/davitol)|229|0|3|2|2015-01-19|![davitol](https://avatars1.githubusercontent.com/u/10596560)|
 |17|[lrmaldo](https://github.com/lrmaldo)|224|0|33|3|2016-03-30|![lrmaldo](https://avatars2.githubusercontent.com/u/18175462)|
 |18|[josedl4](https://github.com/josedl4)|217|0|23|2|2015-10-27|![josedl4](https://avatars3.githubusercontent.com/u/15349957)|

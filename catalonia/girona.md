@@ -1,6 +1,6 @@
 # Ranking Girona
 
-Generado 11:00AM-October-08-2017.
+Generado 08:39PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -47,14 +47,14 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |33|[jbagot](https://github.com/jbagot)|26|0|4|3|2015-03-28|![jbagot](https://avatars0.githubusercontent.com/u/11691527)|
 |34|[eparreno](https://github.com/eparreno)|22|0|31|58|2008-03-13|![eparreno](https://avatars2.githubusercontent.com/u/3028)|
 |35|[lujop](https://github.com/lujop)|19|0|16|3|2011-07-16|![lujop](https://avatars2.githubusercontent.com/u/920260)|
-|36|[pianoza](https://github.com/pianoza)|19|67|21|13|2013-02-28|![pianoza](https://avatars0.githubusercontent.com/u/3731130)|
+|36|[pianoza](https://github.com/pianoza)|19|68|21|13|2013-02-28|![pianoza](https://avatars0.githubusercontent.com/u/3731130)|
 |37|[gagle](https://github.com/gagle)|16|0|43|52|2012-02-17|![gagle](https://avatars3.githubusercontent.com/u/1446052)|
 |38|[acoronadoc](https://github.com/acoronadoc)|15|0|5|2|2011-06-01|![acoronadoc](https://avatars1.githubusercontent.com/u/822481)|
 |39|[YerayAlonso](https://github.com/YerayAlonso)|11|0|6|6|2012-05-29|![YerayAlonso](https://avatars1.githubusercontent.com/u/1788228)|
 |40|[MostafaSalem](https://github.com/MostafaSalem)|11|0|6|4|2016-05-03|![MostafaSalem](https://avatars2.githubusercontent.com/u/19169958)|
 |41|[dsoms](https://github.com/dsoms)|9|0|17|4|2011-07-13|![dsoms](https://avatars0.githubusercontent.com/u/912243)|
 |42|[eudago](https://github.com/eudago)|9|0|5|2|2011-05-25|![eudago](https://avatars1.githubusercontent.com/u/809916)|
-|43|[davidrv](https://github.com/davidrv)|8|1415|14|16|2009-03-09|![davidrv](https://avatars1.githubusercontent.com/u/61644)|
+|43|[davidrv](https://github.com/davidrv)|8|1416|14|16|2009-03-09|![davidrv](https://avatars1.githubusercontent.com/u/61644)|
 |44|[AbelToy](https://github.com/AbelToy)|7|0|6|23|2009-10-31|![AbelToy](https://avatars1.githubusercontent.com/u/147130)|
 |45|[joseabernal](https://github.com/joseabernal)|7|0|7|10|2011-11-23|![joseabernal](https://avatars1.githubusercontent.com/u/1215598)|
 |46|[efarres](https://github.com/efarres)|7|0|11|11|2014-03-04|![efarres](https://avatars3.githubusercontent.com/u/6848360)|
@@ -69,7 +69,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |55|[ilyassjaatit](https://github.com/ilyassjaatit)|1|0|4|8|2013-12-06|![ilyassjaatit](https://avatars3.githubusercontent.com/u/6122534)|
 |56|[Deathroller](https://github.com/Deathroller)|1|0|11|3|2014-06-18|![Deathroller](https://avatars0.githubusercontent.com/u/7921596)|
 |57|[gvallicrosa](https://github.com/gvallicrosa)|0|0|5|4|2012-09-13|![gvallicrosa](https://avatars3.githubusercontent.com/u/2340232)|
-|58|[ovide](https://github.com/ovide)|0|0|8|5|2013-02-01|![ovide](https://avatars0.githubusercontent.com/u/3451025)|
-|59|[marclr](https://github.com/marclr)|0|68|10|9|2013-02-04|![marclr](https://avatars3.githubusercontent.com/u/3474291)|
+|58|[marclr](https://github.com/marclr)|0|68|10|9|2013-02-04|![marclr](https://avatars3.githubusercontent.com/u/3474291)|
+|59|[ovide](https://github.com/ovide)|0|0|8|5|2013-02-01|![ovide](https://avatars0.githubusercontent.com/u/3451025)|
 |60|[gerardguiu](https://github.com/gerardguiu)|0|0|3|6|2013-10-14|![gerardguiu](https://avatars1.githubusercontent.com/u/5679102)|
 |61|[Gaucho-9](https://github.com/Gaucho-9)|0|0|5|2|2014-01-27|![Gaucho-9](https://avatars0.githubusercontent.com/u/6517150)|

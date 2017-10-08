@@ -1,6 +1,6 @@
 # Ranking Navarra
 
-Generado 11:24AM-October-08-2017.
+Generado 09:05PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[pxai](https://github.com/pxai)|1371|0|184|21|2011-12-02|![pxai](https://avatars3.githubusercontent.com/u/1235511)|
+|1|[pxai](https://github.com/pxai)|1373|0|184|21|2011-12-02|![pxai](https://avatars3.githubusercontent.com/u/1235511)|
 |2|[MiguelMarzo](https://github.com/MiguelMarzo)|366|0|45|4|2016-09-15|![MiguelMarzo](https://avatars2.githubusercontent.com/u/22213563)|
 |3|[karlosgliberal](https://github.com/karlosgliberal)|362|0|86|45|2010-02-10|![karlosgliberal](https://avatars3.githubusercontent.com/u/200922)|
 |4|[mikelros](https://github.com/mikelros)|252|0|24|2|2016-09-15|![mikelros](https://avatars2.githubusercontent.com/u/22213811)|
@@ -34,7 +34,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |20|[ChristopherCastro](https://github.com/ChristopherCastro)|29|0|11|3|2011-04-25|![ChristopherCastro](https://avatars3.githubusercontent.com/u/749463)|
 |21|[pablo-benito](https://github.com/pablo-benito)|26|0|11|2|2015-05-07|![pablo-benito](https://avatars3.githubusercontent.com/u/12297597)|
 |22|[davidgil](https://github.com/davidgil)|23|0|17|6|2012-03-04|![davidgil](https://avatars1.githubusercontent.com/u/1498740)|
-|23|[zapabest](https://github.com/zapabest)|23|0|105|16|2012-01-08|![zapabest](https://avatars3.githubusercontent.com/u/1312256)|
+|23|[zapabest](https://github.com/zapabest)|23|0|105|17|2012-01-08|![zapabest](https://avatars3.githubusercontent.com/u/1312256)|
 |24|[ahuarte47](https://github.com/ahuarte47)|22|0|15|11|2013-09-30|![ahuarte47](https://avatars0.githubusercontent.com/u/5576272)|
 |25|[iolalla](https://github.com/iolalla)|19|1|9|5|2010-06-17|![iolalla](https://avatars1.githubusercontent.com/u/308066)|
 |26|[xmaeztu](https://github.com/xmaeztu)|17|0|7|6|2011-04-01|![xmaeztu](https://avatars3.githubusercontent.com/u/703490)|
@@ -45,5 +45,5 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |31|[spanishkangaroo](https://github.com/spanishkangaroo)|6|0|18|4|2009-10-29|![spanishkangaroo](https://avatars1.githubusercontent.com/u/146285)|
 |32|[rubenbp](https://github.com/rubenbp)|5|0|7|7|2011-01-18|![rubenbp](https://avatars3.githubusercontent.com/u/570775)|
 |33|[mael](https://github.com/mael)|0|0|16|3|2010-02-10|![mael](https://avatars2.githubusercontent.com/u/200936)|
-|34|[olagato](https://github.com/olagato)|0|0|16|9|2009-11-05|![olagato](https://avatars3.githubusercontent.com/u/149179)|
+|34|[olagato](https://github.com/olagato)|0|0|16|10|2009-11-05|![olagato](https://avatars3.githubusercontent.com/u/149179)|
 |35|[MikiAir78](https://github.com/MikiAir78)|0|0|4|3|2013-11-07|![MikiAir78](https://avatars2.githubusercontent.com/u/5882570)|

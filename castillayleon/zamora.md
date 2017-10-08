@@ -1,6 +1,6 @@
 # Ranking Zamora
 
-Generado 10:47AM-October-08-2017.
+Generado 08:28PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -13,7 +13,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[pcarranza](https://github.com/pcarranza)|8549|0|23|15|2013-05-22|![pcarranza](https://avatars1.githubusercontent.com/u/4496338)|
-|2|[vgayolrs](https://github.com/vgayolrs)|669|0|4|7|2016-03-05|![vgayolrs](https://avatars2.githubusercontent.com/u/17665201)|
+|2|[vgayolrs](https://github.com/vgayolrs)|670|0|4|7|2016-03-05|![vgayolrs](https://avatars2.githubusercontent.com/u/17665201)|
 |3|[jairomelo](https://github.com/jairomelo)|89|0|8|2|2014-05-19|![jairomelo](https://avatars1.githubusercontent.com/u/7632991)|
 |4|[arcxyz](https://github.com/arcxyz)|82|566|35|13|2010-01-18|![arcxyz](https://avatars0.githubusercontent.com/u/185002)|
 |5|[amaliahern](https://github.com/amaliahern)|6|0|28|8|2010-06-14|![amaliahern](https://avatars3.githubusercontent.com/u/304761)|

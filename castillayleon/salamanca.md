@@ -1,6 +1,6 @@
 # Ranking Salamanca
 
-Generado 10:46AM-October-08-2017.
+Generado 08:27PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -22,7 +22,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |8|[espipj](https://github.com/espipj)|167|175|10|5|2015-06-12|![espipj](https://avatars3.githubusercontent.com/u/12865914)|
 |9|[minuscorp](https://github.com/minuscorp)|149|957|20|7|2013-03-09|![minuscorp](https://avatars2.githubusercontent.com/u/3819883)|
 |10|[victorvicpal](https://github.com/victorvicpal)|133|0|11|5|2014-12-02|![victorvicpal](https://avatars3.githubusercontent.com/u/10044742)|
-|11|[juan-cb](https://github.com/juan-cb)|117|153|15|11|2012-12-01|![juan-cb](https://avatars0.githubusercontent.com/u/2938045)|
+|11|[juan-cb](https://github.com/juan-cb)|118|163|15|11|2012-12-01|![juan-cb](https://avatars0.githubusercontent.com/u/2938045)|
 |12|[ganchito55](https://github.com/ganchito55)|113|382|20|13|2013-06-17|![ganchito55](https://avatars1.githubusercontent.com/u/4716972)|
 |13|[guille969](https://github.com/guille969)|84|0|6|3|2015-11-14|![guille969](https://avatars1.githubusercontent.com/u/15845488)|
 |14|[salesmendesandre](https://github.com/salesmendesandre)|83|25|5|2|2016-04-03|![salesmendesandre](https://avatars2.githubusercontent.com/u/18242653)|
@@ -50,13 +50,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |36|[moral3jo](https://github.com/moral3jo)|3|0|13|2|2010-12-15|![moral3jo](https://avatars2.githubusercontent.com/u/524380)|
 |37|[rodrigoSantamaria](https://github.com/rodrigoSantamaria)|3|0|3|3|2012-04-02|![rodrigoSantamaria](https://avatars0.githubusercontent.com/u/1600691)|
 |38|[cjimenezpacho](https://github.com/cjimenezpacho)|3|0|6|4|2012-09-26|![cjimenezpacho](https://avatars0.githubusercontent.com/u/2428271)|
-|39|[Evilnat](https://github.com/Evilnat)|0|0|3|5|2011-01-12|![Evilnat](https://avatars2.githubusercontent.com/u/560108)|
-|40|[miguelsanchz](https://github.com/miguelsanchz)|0|0|6|4|2012-07-10|![miguelsanchz](https://avatars1.githubusercontent.com/u/1951141)|
-|41|[rodrigoolmo](https://github.com/rodrigoolmo)|0|0|4|4|2011-04-09|![rodrigoolmo](https://avatars1.githubusercontent.com/u/719905)|
-|42|[futurblade](https://github.com/futurblade)|0|0|18|4|2012-10-03|![futurblade](https://avatars0.githubusercontent.com/u/2479273)|
-|43|[Garroten](https://github.com/Garroten)|0|0|6|4|2008-05-04|![Garroten](https://avatars2.githubusercontent.com/u/9264)|
-|44|[ricardoper](https://github.com/ricardoper)|0|0|3|6|2013-08-04|![ricardoper](https://avatars1.githubusercontent.com/u/5161172)|
-|45|[bsusal](https://github.com/bsusal)|0|0|7|4|2014-02-26|![bsusal](https://avatars2.githubusercontent.com/u/6797598)|
+|39|[futurblade](https://github.com/futurblade)|0|0|18|4|2012-10-03|![futurblade](https://avatars0.githubusercontent.com/u/2479273)|
+|40|[Garroten](https://github.com/Garroten)|0|0|6|4|2008-05-04|![Garroten](https://avatars2.githubusercontent.com/u/9264)|
+|41|[Evilnat](https://github.com/Evilnat)|0|0|3|5|2011-01-12|![Evilnat](https://avatars2.githubusercontent.com/u/560108)|
+|42|[rodrigoolmo](https://github.com/rodrigoolmo)|0|0|4|4|2011-04-09|![rodrigoolmo](https://avatars1.githubusercontent.com/u/719905)|
+|43|[miguelsanchz](https://github.com/miguelsanchz)|0|0|6|4|2012-07-10|![miguelsanchz](https://avatars1.githubusercontent.com/u/1951141)|
+|44|[bsusal](https://github.com/bsusal)|0|0|7|4|2014-02-26|![bsusal](https://avatars2.githubusercontent.com/u/6797598)|
+|45|[ricardoper](https://github.com/ricardoper)|0|0|3|6|2013-08-04|![ricardoper](https://avatars1.githubusercontent.com/u/5161172)|
 |46|[rocqetQueen](https://github.com/rocqetQueen)|0|0|18|3|2013-10-17|![rocqetQueen](https://avatars2.githubusercontent.com/u/5708398)|
 |47|[jvcerver](https://github.com/jvcerver)|0|0|7|6|2013-10-22|![jvcerver](https://avatars0.githubusercontent.com/u/5751143)|
 |48|[asanchezyu](https://github.com/asanchezyu)|0|0|4|4|2014-05-13|![asanchezyu](https://avatars1.githubusercontent.com/u/7567924)|

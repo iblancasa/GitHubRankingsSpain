@@ -1,6 +1,6 @@
 # Ranking Galicia
 
-Generado 11:07AM-October-08-2017.
+Generado 08:45PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -50,12 +50,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |36|[fpuga](https://github.com/fpuga)|242|0|15|12|2011-07-22|![fpuga](https://avatars0.githubusercontent.com/u/932124)|
 |37|[ivannieto](https://github.com/ivannieto)|237|64|30|16|2015-11-03|![ivannieto](https://avatars1.githubusercontent.com/u/15637745)|
 |38|[ndrs92](https://github.com/ndrs92)|226|0|10|26|2013-12-10|![ndrs92](https://avatars2.githubusercontent.com/u/6155245)|
-|39|[merlyescalona](https://github.com/merlyescalona)|211|0|10|3|2013-01-08|![merlyescalona](https://avatars1.githubusercontent.com/u/3216007)|
-|40|[albertopeam](https://github.com/albertopeam)|206|0|23|2|2011-07-13|![albertopeam](https://avatars1.githubusercontent.com/u/912381)|
+|39|[merlyescalona](https://github.com/merlyescalona)|213|0|10|3|2013-01-08|![merlyescalona](https://avatars1.githubusercontent.com/u/3216007)|
+|40|[albertopeam](https://github.com/albertopeam)|208|0|23|2|2011-07-13|![albertopeam](https://avatars1.githubusercontent.com/u/912381)|
 |41|[mrjato](https://github.com/mrjato)|179|0|24|24|2013-01-31|![mrjato](https://avatars3.githubusercontent.com/u/3437005)|
 |42|[reimashi](https://github.com/reimashi)|179|23|48|4|2013-11-16|![reimashi](https://avatars0.githubusercontent.com/u/5956659)|
-|43|[cpathb](https://github.com/cpathb)|173|0|15|6|2014-04-11|![cpathb](https://avatars1.githubusercontent.com/u/7258696)|
-|44|[4m1g0](https://github.com/4m1g0)|172|11|59|18|2010-02-16|![4m1g0](https://avatars1.githubusercontent.com/u/204293)|
+|43|[4m1g0](https://github.com/4m1g0)|173|11|59|18|2010-02-16|![4m1g0](https://avatars1.githubusercontent.com/u/204293)|
+|44|[cpathb](https://github.com/cpathb)|173|0|15|6|2014-04-11|![cpathb](https://avatars1.githubusercontent.com/u/7258696)|
 |45|[droidpl](https://github.com/droidpl)|170|0|11|20|2012-08-13|![droidpl](https://avatars1.githubusercontent.com/u/2143931)|
 |46|[tomasalmeida](https://github.com/tomasalmeida)|160|0|9|6|2011-08-31|![tomasalmeida](https://avatars1.githubusercontent.com/u/1017600)|
 |47|[braissg13](https://github.com/braissg13)|156|0|5|2|2016-11-03|![braissg13](https://avatars0.githubusercontent.com/u/23237528)|
@@ -88,8 +88,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |74|[constantino-garcia](https://github.com/constantino-garcia)|99|0|3|9|2013-11-14|![constantino-garcia](https://avatars0.githubusercontent.com/u/5941473)|
 |75|[jsanroman](https://github.com/jsanroman)|99|1450|21|12|2009-02-01|![jsanroman](https://avatars3.githubusercontent.com/u/50914)|
 |76|[BraisDiaz](https://github.com/BraisDiaz)|98|0|51|21|2016-09-23|![BraisDiaz](https://avatars1.githubusercontent.com/u/22397792)|
-|77|[lauramcastro](https://github.com/lauramcastro)|96|0|28|18|2010-10-07|![lauramcastro](https://avatars1.githubusercontent.com/u/430933)|
-|78|[Pablo-Rodriguez](https://github.com/Pablo-Rodriguez)|96|0|13|4|2013-11-14|![Pablo-Rodriguez](https://avatars1.githubusercontent.com/u/5941733)|
+|77|[Pablo-Rodriguez](https://github.com/Pablo-Rodriguez)|97|0|13|4|2013-11-14|![Pablo-Rodriguez](https://avatars1.githubusercontent.com/u/5941733)|
+|78|[lauramcastro](https://github.com/lauramcastro)|96|0|28|18|2010-10-07|![lauramcastro](https://avatars1.githubusercontent.com/u/430933)|
 |79|[jmabuin](https://github.com/jmabuin)|93|0|11|11|2013-01-25|![jmabuin](https://avatars0.githubusercontent.com/u/3384483)|
 |80|[ylagef](https://github.com/ylagef)|93|92|11|4|2015-11-24|![ylagef](https://avatars3.githubusercontent.com/u/16003702)|
 |81|[miguesan](https://github.com/miguesan)|92|0|57|18|2016-09-23|![miguesan](https://avatars2.githubusercontent.com/u/22397967)|

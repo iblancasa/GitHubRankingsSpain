@@ -1,6 +1,6 @@
 # Ranking Aragón
 
-Generado 10:46AM-October-08-2017.
+Generado 08:27PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -15,9 +15,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |1|[jorgeatgu](https://github.com/jorgeatgu)|1465|60|44|83|2012-10-25|![jorgeatgu](https://avatars3.githubusercontent.com/u/2649175)|
 |2|[juanda99](https://github.com/juanda99)|1207|0|81|40|2012-08-20|![juanda99](https://avatars1.githubusercontent.com/u/2182923)|
 |3|[jact](https://github.com/jact)|1007|0|4|12|2010-04-25|![jact](https://avatars1.githubusercontent.com/u/251908)|
-|4|[lmorillas](https://github.com/lmorillas)|960|0|74|17|2011-05-10|![lmorillas](https://avatars0.githubusercontent.com/u/778855)|
+|4|[lmorillas](https://github.com/lmorillas)|961|0|74|17|2011-05-10|![lmorillas](https://avatars0.githubusercontent.com/u/778855)|
 |5|[koke](https://github.com/koke)|894|0|83|62|2008-04-28|![koke](https://avatars0.githubusercontent.com/u/8739)|
-|6|[acelaya](https://github.com/acelaya)|660|0|38|86|2012-11-04|![acelaya](https://avatars2.githubusercontent.com/u/2719332)|
+|6|[acelaya](https://github.com/acelaya)|715|0|38|87|2012-11-04|![acelaya](https://avatars2.githubusercontent.com/u/2719332)|
 |7|[mjgalindo](https://github.com/mjgalindo)|626|113|4|7|2014-11-19|![mjgalindo](https://avatars2.githubusercontent.com/u/9851591)|
 |8|[scambra](https://github.com/scambra)|594|0|74|59|2008-08-13|![scambra](https://avatars2.githubusercontent.com/u/20515)|
 |9|[earizon](https://github.com/earizon)|582|0|23|3|2013-02-23|![earizon](https://avatars2.githubusercontent.com/u/3679391)|
@@ -31,7 +31,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |17|[daniegarcia254](https://github.com/daniegarcia254)|303|0|15|3|2014-05-01|![daniegarcia254](https://avatars3.githubusercontent.com/u/7459315)|
 |18|[fjlopez](https://github.com/fjlopez)|288|0|30|40|2013-01-17|![fjlopez](https://avatars0.githubusercontent.com/u/3294927)|
 |19|[jsoriano](https://github.com/jsoriano)|284|218|49|42|2008-07-02|![jsoriano](https://avatars1.githubusercontent.com/u/15763)|
-|20|[SrPerso](https://github.com/SrPerso)|277|0|11|10|2016-02-09|![SrPerso](https://avatars3.githubusercontent.com/u/17146733)|
+|20|[SrPerso](https://github.com/SrPerso)|280|0|11|10|2016-02-09|![SrPerso](https://avatars3.githubusercontent.com/u/17146733)|
 |21|[jacalvo](https://github.com/jacalvo)|269|327|8|16|2010-11-22|![jacalvo](https://avatars2.githubusercontent.com/u/491695)|
 |22|[rbejar](https://github.com/rbejar)|227|0|12|9|2012-04-12|![rbejar](https://avatars0.githubusercontent.com/u/1636293)|
 |23|[dari1495](https://github.com/dari1495)|221|291|7|3|2012-09-23|![dari1495](https://avatars0.githubusercontent.com/u/2405640)|

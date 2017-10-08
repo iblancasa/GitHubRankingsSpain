@@ -1,6 +1,6 @@
 # Ranking Cantabria
 
-Generado 11:12AM-October-08-2017.
+Generado 08:50PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -17,7 +17,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |3|[jbedia](https://github.com/jbedia)|399|0|5|3|2013-10-28|![jbedia](https://avatars0.githubusercontent.com/u/5796721)|
 |4|[sebaferreras](https://github.com/sebaferreras)|186|61|12|12|2016-02-12|![sebaferreras](https://avatars0.githubusercontent.com/u/17194770)|
 |5|[oleon12](https://github.com/oleon12)|167|0|7|6|2015-04-17|![oleon12](https://avatars3.githubusercontent.com/u/11987639)|
-|6|[othercodes](https://github.com/othercodes)|161|0|37|8|2013-06-25|![othercodes](https://avatars0.githubusercontent.com/u/4815856)|
+|6|[othercodes](https://github.com/othercodes)|161|0|37|9|2013-06-25|![othercodes](https://avatars0.githubusercontent.com/u/4815856)|
 |7|[rocimunoz](https://github.com/rocimunoz)|110|0|10|6|2013-03-02|![rocimunoz](https://avatars0.githubusercontent.com/u/3746906)|
 |8|[daniloacc1991](https://github.com/daniloacc1991)|67|0|4|2|2016-10-22|![daniloacc1991](https://avatars0.githubusercontent.com/u/22999279)|
 |9|[jomali](https://github.com/jomali)|66|0|12|3|2012-02-01|![jomali](https://avatars0.githubusercontent.com/u/1397370)|
@@ -26,7 +26,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |12|[abalozz](https://github.com/abalozz)|54|0|39|42|2012-01-08|![abalozz](https://avatars2.githubusercontent.com/u/1312336)|
 |13|[juanmadlg](https://github.com/juanmadlg)|50|0|12|2|2011-11-04|![juanmadlg](https://avatars3.githubusercontent.com/u/1173469)|
 |14|[dpabon](https://github.com/dpabon)|33|2|11|11|2015-06-24|![dpabon](https://avatars3.githubusercontent.com/u/13040959)|
-|15|[nothnk](https://github.com/nothnk)|32|1635|37|13|2009-09-05|![nothnk](https://avatars3.githubusercontent.com/u/123532)|
+|15|[nothnk](https://github.com/nothnk)|32|1642|37|13|2009-09-05|![nothnk](https://avatars3.githubusercontent.com/u/123532)|
 |16|[dsmatilla](https://github.com/dsmatilla)|31|0|8|3|2011-02-14|![dsmatilla](https://avatars3.githubusercontent.com/u/618172)|
 |17|[chuchiperriman](https://github.com/chuchiperriman)|31|0|27|9|2008-11-25|![chuchiperriman](https://avatars1.githubusercontent.com/u/36635)|
 |18|[fernandezcuesta](https://github.com/fernandezcuesta)|29|1|29|3|2014-04-16|![fernandezcuesta](https://avatars3.githubusercontent.com/u/7312236)|
@@ -56,5 +56,5 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |42|[xerox91](https://github.com/xerox91)|0|0|6|5|2011-04-19|![xerox91](https://avatars3.githubusercontent.com/u/740021)|
 |43|[zhensydow](https://github.com/zhensydow)|0|0|21|6|2011-05-09|![zhensydow](https://avatars2.githubusercontent.com/u/777247)|
 |44|[injectilo](https://github.com/injectilo)|0|0|9|7|2014-09-01|![injectilo](https://avatars2.githubusercontent.com/u/8612274)|
-|45|[ssg70](https://github.com/ssg70)|0|0|4|2|2015-11-04|![ssg70](https://avatars3.githubusercontent.com/u/15652669)|
-|46|[fonsotf](https://github.com/fonsotf)|0|0|4|2|2015-11-03|![fonsotf](https://avatars2.githubusercontent.com/u/15630996)|
+|45|[fonsotf](https://github.com/fonsotf)|0|0|4|2|2015-11-03|![fonsotf](https://avatars2.githubusercontent.com/u/15630996)|
+|46|[ssg70](https://github.com/ssg70)|0|0|4|2|2015-11-04|![ssg70](https://avatars3.githubusercontent.com/u/15652669)|

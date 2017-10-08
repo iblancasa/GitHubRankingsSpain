@@ -1,6 +1,6 @@
 # Ranking Almería
 
-Generado 10:34AM-October-08-2017.
+Generado 08:18PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -13,12 +13,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[jlblancoc](https://github.com/jlblancoc)|1832|691|23|148|2013-09-19|![jlblancoc](https://avatars0.githubusercontent.com/u/5497818)|
-|2|[zuiko21](https://github.com/zuiko21)|764|0|2|2|2012-12-28|![zuiko21](https://avatars3.githubusercontent.com/u/3143243)|
+|2|[zuiko21](https://github.com/zuiko21)|765|0|2|2|2012-12-28|![zuiko21](https://avatars3.githubusercontent.com/u/3143243)|
 |3|[josejuansanchez](https://github.com/josejuansanchez)|577|187|127|47|2011-07-01|![josejuansanchez](https://avatars0.githubusercontent.com/u/888481)|
 |4|[vicente-gonzalez-ruiz](https://github.com/vicente-gonzalez-ruiz)|513|0|27|20|2015-01-22|![vicente-gonzalez-ruiz](https://avatars0.githubusercontent.com/u/10660795)|
 |5|[klashxx](https://github.com/klashxx)|499|8|26|17|2010-07-28|![klashxx](https://avatars0.githubusercontent.com/u/346759)|
 |6|[germaaan](https://github.com/germaaan)|417|13|58|116|2013-09-23|![germaaan](https://avatars1.githubusercontent.com/u/5518719)|
-|7|[cristobalmedinalopez](https://github.com/cristobalmedinalopez)|332|297|12|18|2015-03-05|![cristobalmedinalopez](https://avatars2.githubusercontent.com/u/11335170)|
+|7|[cristobalmedinalopez](https://github.com/cristobalmedinalopez)|334|297|12|18|2015-03-05|![cristobalmedinalopez](https://avatars2.githubusercontent.com/u/11335170)|
 |8|[merlox](https://github.com/merlox)|324|0|26|6|2015-07-18|![merlox](https://avatars3.githubusercontent.com/u/13392096)|
 |9|[RafaelAybar](https://github.com/RafaelAybar)|306|0|18|15|2016-08-24|![RafaelAybar](https://avatars3.githubusercontent.com/u/21227176)|
 |10|[crisconru](https://github.com/crisconru)|213|0|18|20|2013-10-09|![crisconru](https://avatars0.githubusercontent.com/u/5649085)|
@@ -31,10 +31,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |17|[dvormagic](https://github.com/dvormagic)|128|111|7|3|2016-03-15|![dvormagic](https://avatars3.githubusercontent.com/u/17849198)|
 |18|[ualjjcanada](https://github.com/ualjjcanada)|126|0|14|9|2015-04-16|![ualjjcanada](https://avatars1.githubusercontent.com/u/11983068)|
 |19|[RadW2020](https://github.com/RadW2020)|118|84|39|17|2014-08-24|![RadW2020](https://avatars1.githubusercontent.com/u/8538542)|
-|20|[JuanjoSalvador](https://github.com/JuanjoSalvador)|115|0|50|51|2013-07-21|![JuanjoSalvador](https://avatars1.githubusercontent.com/u/5058655)|
+|20|[JuanjoSalvador](https://github.com/JuanjoSalvador)|116|0|50|51|2013-07-21|![JuanjoSalvador](https://avatars1.githubusercontent.com/u/5058655)|
 |21|[amb690](https://github.com/amb690)|96|0|7|2|2016-03-15|![amb690](https://avatars3.githubusercontent.com/u/17849212)|
 |22|[raprav](https://github.com/raprav)|95|696|15|16|2009-03-12|![raprav](https://avatars1.githubusercontent.com/u/62855)|
-|23|[pwaqo](https://github.com/pwaqo)|91|52|30|11|2012-06-30|![pwaqo](https://avatars3.githubusercontent.com/u/1909548)|
+|23|[pwaqo](https://github.com/pwaqo)|91|53|30|12|2012-06-30|![pwaqo](https://avatars3.githubusercontent.com/u/1909548)|
 |24|[Lydzje](https://github.com/Lydzje)|82|0|8|2|2016-02-20|![Lydzje](https://avatars1.githubusercontent.com/u/17357136)|
 |25|[vicmargar](https://github.com/vicmargar)|66|2907|25|24|2008-11-18|![vicmargar](https://avatars1.githubusercontent.com/u/35163)|
 |26|[Arasthel](https://github.com/Arasthel)|64|0|37|78|2010-11-14|![Arasthel](https://avatars0.githubusercontent.com/u/480955)|

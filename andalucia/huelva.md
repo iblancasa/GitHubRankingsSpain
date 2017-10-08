@@ -1,6 +1,6 @@
 # Ranking Huelva
 
-Generado 10:40AM-October-08-2017.
+Generado 08:22PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -13,7 +13,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[Neniah](https://github.com/Neniah)|1529|0|95|47|2011-10-22|![Neniah](https://avatars0.githubusercontent.com/u/1144759)|
-|2|[manuelcalerosolis](https://github.com/manuelcalerosolis)|574|0|13|6|2012-12-20|![manuelcalerosolis](https://avatars1.githubusercontent.com/u/3088246)|
+|2|[manuelcalerosolis](https://github.com/manuelcalerosolis)|575|0|13|6|2012-12-20|![manuelcalerosolis](https://avatars1.githubusercontent.com/u/3088246)|
 |3|[jaimesares](https://github.com/jaimesares)|318|26|7|18|2012-09-28|![jaimesares](https://avatars2.githubusercontent.com/u/2446051)|
 |4|[Virako](https://github.com/Virako)|287|3|49|45|2011-05-28|![Virako](https://avatars0.githubusercontent.com/u/815686)|
 |5|[dacmail](https://github.com/dacmail)|284|554|19|27|2008-05-28|![dacmail](https://avatars1.githubusercontent.com/u/11754)|
@@ -23,7 +23,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |9|[jmcerrejon](https://github.com/jmcerrejon)|70|0|13|12|2012-07-09|![jmcerrejon](https://avatars2.githubusercontent.com/u/1942431)|
 |10|[pablopi](https://github.com/pablopi)|61|1558|7|12|2014-02-19|![pablopi](https://avatars3.githubusercontent.com/u/6725714)|
 |11|[jvlobo](https://github.com/jvlobo)|55|0|7|13|2013-10-12|![jvlobo](https://avatars2.githubusercontent.com/u/5671420)|
-|12|[jarcos](https://github.com/jarcos)|53|34|10|19|2011-07-23|![jarcos](https://avatars1.githubusercontent.com/u/933995)|
+|12|[jarcos](https://github.com/jarcos)|53|34|10|20|2011-07-23|![jarcos](https://avatars1.githubusercontent.com/u/933995)|
 |13|[ppcano](https://github.com/ppcano)|49|0|56|25|2011-06-02|![ppcano](https://avatars3.githubusercontent.com/u/825430)|
 |14|[flparedes](https://github.com/flparedes)|42|0|9|2|2015-06-28|![flparedes](https://avatars1.githubusercontent.com/u/13085943)|
 |15|[Juanancon](https://github.com/Juanancon)|38|0|7|2|2016-04-29|![Juanancon](https://avatars2.githubusercontent.com/u/18741909)|

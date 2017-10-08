@@ -1,4 +1,4 @@
-{ "date": "11:07AM-October-08-2017",
+{ "date": "08:45PM-October-08-2017",
   "users": [
   { "name": "eusonlito",
     "position": 1,
@@ -252,20 +252,8 @@
     "join": "2011-08-17",
     "avatar": "https://avatars3.githubusercontent.com/u/987077"
   },
-  { "name": "mdgomez",
-    "position": 22,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 8,
-    "repositories":2,
-    "organizations":0,
-    "join": "2014-11-26",
-    "avatar": "https://avatars2.githubusercontent.com/u/9967701"
-  },
   { "name": "oscar2695",
-    "position": 23,
+    "position": 22,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -275,6 +263,18 @@
     "organizations":0,
     "join": "2013-10-24",
     "avatar": "https://avatars3.githubusercontent.com/u/5764349"
+  },
+  { "name": "mdgomez",
+    "position": 23,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 8,
+    "repositories":2,
+    "organizations":0,
+    "join": "2014-11-26",
+    "avatar": "https://avatars2.githubusercontent.com/u/9967701"
   }
   ]
 }

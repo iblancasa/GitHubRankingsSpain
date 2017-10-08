@@ -1,6 +1,6 @@
 # Ranking Palencia
 
-Generado 10:46AM-October-08-2017.
+Generado 08:27PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[garciparedes](https://github.com/garciparedes)|2773|4|111|35|2013-10-08|![garciparedes](https://avatars1.githubusercontent.com/u/5640366)|
+|1|[garciparedes](https://github.com/garciparedes)|2780|0|112|35|2013-10-08|![garciparedes](https://avatars1.githubusercontent.com/u/5640366)|
 |2|[CodeBackpackofEndika](https://github.com/CodeBackpackofEndika)|99|0|19|2|2017-09-25|![CodeBackpackofEndika](https://avatars1.githubusercontent.com/u/32270483)|
 |3|[zdavidlnx](https://github.com/zdavidlnx)|83|0|10|6|2011-07-28|![zdavidlnx](https://avatars1.githubusercontent.com/u/944150)|
 |4|[adrianetete](https://github.com/adrianetete)|10|0|8|12|2014-03-13|![adrianetete](https://avatars1.githubusercontent.com/u/6943237)|

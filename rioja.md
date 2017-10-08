@@ -1,6 +1,6 @@
 # Ranking Rioja
 
-Generado 11:24AM-October-08-2017.
+Generado 09:05PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -15,9 +15,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |1|[jynus](https://github.com/jynus)|707|0|7|11|2014-08-28|![jynus](https://avatars2.githubusercontent.com/u/8576860)|
 |2|[stronk7](https://github.com/stronk7)|651|0|57|48|2009-12-14|![stronk7](https://avatars0.githubusercontent.com/u/167147)|
 |3|[iderioja](https://github.com/iderioja)|614|0|10|16|2013-07-25|![iderioja](https://avatars0.githubusercontent.com/u/5090808)|
-|4|[jecrespo](https://github.com/jecrespo)|236|0|49|43|2012-03-15|![jecrespo](https://avatars1.githubusercontent.com/u/1539718)|
-|5|[asiermarques](https://github.com/asiermarques)|217|0|6|88|2009-11-05|![asiermarques](https://avatars3.githubusercontent.com/u/149459)|
-|6|[jorgegorka](https://github.com/jorgegorka)|199|1788|30|24|2008-05-07|![jorgegorka](https://avatars0.githubusercontent.com/u/9585)|
+|4|[jorgegorka](https://github.com/jorgegorka)|257|3184|30|24|2008-05-07|![jorgegorka](https://avatars0.githubusercontent.com/u/9585)|
+|5|[jecrespo](https://github.com/jecrespo)|237|0|49|43|2012-03-15|![jecrespo](https://avatars1.githubusercontent.com/u/1539718)|
+|6|[asiermarques](https://github.com/asiermarques)|217|0|6|88|2009-11-05|![asiermarques](https://avatars3.githubusercontent.com/u/149459)|
 |7|[pablo-moreno](https://github.com/pablo-moreno)|168|0|10|2|2014-07-18|![pablo-moreno](https://avatars2.githubusercontent.com/u/8203696)|
 |8|[juanmirod](https://github.com/juanmirod)|139|0|15|22|2013-02-27|![juanmirod](https://avatars1.githubusercontent.com/u/3714422)|
 |9|[lmarqueta](https://github.com/lmarqueta)|92|0|15|2|2015-09-17|![lmarqueta](https://avatars2.githubusercontent.com/u/14338278)|

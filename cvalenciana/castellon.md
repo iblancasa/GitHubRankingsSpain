@@ -1,6 +1,6 @@
 # Ranking Castellón
 
-Generado 11:02AM-October-08-2017.
+Generado 08:40PM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
