@@ -1,6 +1,6 @@
 # Ranking Cuenca
 
-Generado 10:00AM-October-03-2017.
+Generado 11:07AM-October-08-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,16 +12,16 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[alx741](https://github.com/alx741)|1487|616|151|10|2012-10-12|![alx741](https://avatars3.githubusercontent.com/u/2545720)|
-|2|[cuent](https://github.com/cuent)|360|0|36|5|2013-08-17|![cuent](https://avatars0.githubusercontent.com/u/5248968)|
+|1|[alx741](https://github.com/alx741)|1501|616|151|10|2012-10-12|![alx741](https://avatars3.githubusercontent.com/u/2545720)|
+|2|[cuent](https://github.com/cuent)|369|0|36|5|2013-08-17|![cuent](https://avatars0.githubusercontent.com/u/5248968)|
 |3|[edzzn](https://github.com/edzzn)|283|16|30|2|2015-10-02|![edzzn](https://avatars2.githubusercontent.com/u/14936466)|
-|4|[santteegt](https://github.com/santteegt)|133|269|39|5|2011-07-19|![santteegt](https://avatars2.githubusercontent.com/u/926341)|
-|5|[ziluvatar](https://github.com/ziluvatar)|116|962|39|8|2012-02-09|![ziluvatar](https://avatars1.githubusercontent.com/u/1424663)|
+|4|[ziluvatar](https://github.com/ziluvatar)|138|953|39|8|2012-02-09|![ziluvatar](https://avatars1.githubusercontent.com/u/1424663)|
+|5|[santteegt](https://github.com/santteegt)|133|271|39|5|2011-07-19|![santteegt](https://avatars2.githubusercontent.com/u/926341)|
 |6|[jameswilson](https://github.com/jameswilson)|74|0|32|11|2010-04-14|![jameswilson](https://avatars3.githubusercontent.com/u/243532)|
 |7|[etenesaca](https://github.com/etenesaca)|25|0|17|5|2013-02-14|![etenesaca](https://avatars1.githubusercontent.com/u/3594639)|
 |8|[travispence](https://github.com/travispence)|16|412|10|4|2011-12-02|![travispence](https://avatars1.githubusercontent.com/u/1236534)|
 |9|[rpalaciosg](https://github.com/rpalaciosg)|14|0|8|3|2015-03-25|![rpalaciosg](https://avatars3.githubusercontent.com/u/11642622)|
-|10|[dabada83](https://github.com/dabada83)|9|0|10|10|2010-02-26|![dabada83](https://avatars0.githubusercontent.com/u/211490)|
+|10|[dabada83](https://github.com/dabada83)|9|0|10|11|2010-02-26|![dabada83](https://avatars0.githubusercontent.com/u/211490)|
 |11|[MOTEorg](https://github.com/MOTEorg)|9|0|2|2|2013-10-17|![MOTEorg](https://avatars2.githubusercontent.com/u/5705296)|
 |12|[JoseU](https://github.com/JoseU)|6|0|9|2|2014-05-08|![JoseU](https://avatars2.githubusercontent.com/u/7528517)|
 |13|[GGGFred](https://github.com/GGGFred)|5|0|6|2|2013-01-15|![GGGFred](https://avatars0.githubusercontent.com/u/3277081)|
