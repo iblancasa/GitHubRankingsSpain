@@ -1,6 +1,6 @@
 # Ranking Ávila
 
-Generado 08:27PM-October-08-2017.
+Generado 04:47PM-October-14-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,8 +12,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[sergio11](https://github.com/sergio11)|926|140|61|19|2014-03-19|![sergio11](https://avatars0.githubusercontent.com/u/6996211)|
-|2|[EugenioFidel](https://github.com/EugenioFidel)|50|0|14|2|2015-06-01|![EugenioFidel](https://avatars2.githubusercontent.com/u/12699680)|
-|3|[eltrueno](https://github.com/eltrueno)|35|0|4|5|2015-04-06|![eltrueno](https://avatars3.githubusercontent.com/u/11823645)|
-|4|[jmperezra](https://github.com/jmperezra)|18|0|16|6|2012-09-04|![jmperezra](https://avatars2.githubusercontent.com/u/2276963)|
-|5|[roizpi](https://github.com/roizpi)|5|0|9|3|2014-06-28|![roizpi](https://avatars0.githubusercontent.com/u/8014558)|
+|1|[sergio11](https://github.com/sergio11)|918|140|61|20|2014-03-19|![sergio11](https://avatars3.githubusercontent.com/u/6996211)|
+|2|[EugenioFidel](https://github.com/EugenioFidel)|50|0|14|2|2015-06-01|![EugenioFidel](https://avatars1.githubusercontent.com/u/12699680)|
+|3|[eltrueno](https://github.com/eltrueno)|35|0|4|5|2015-04-06|![eltrueno](https://avatars0.githubusercontent.com/u/11823645)|
+|4|[jmperezra](https://github.com/jmperezra)|19|0|16|6|2012-09-04|![jmperezra](https://avatars1.githubusercontent.com/u/2276963)|
+|5|[roizpi](https://github.com/roizpi)|5|0|9|4|2014-06-28|![roizpi](https://avatars3.githubusercontent.com/u/8014558)|

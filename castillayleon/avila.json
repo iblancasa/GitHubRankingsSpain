@@ -1,16 +1,16 @@
-{ "date": "08:27PM-October-08-2017",
+{ "date": "04:47PM-October-14-2017",
   "users": [
   { "name": "sergio11",
     "position": 1,
-    "contributions": 1066,
-    "public": 926,
+    "contributions": 1058,
+    "public": 918,
     "private": 140,
     "bio": "Android and Web Developer",
-    "followers": 19,
+    "followers": 20,
     "repositories":61,
     "organizations":0,
     "join": "2014-03-19",
-    "avatar": "https://avatars0.githubusercontent.com/u/6996211"
+    "avatar": "https://avatars3.githubusercontent.com/u/6996211"
   },
   { "name": "EugenioFidel",
     "position": 2,
@@ -22,7 +22,7 @@
     "repositories":14,
     "organizations":0,
     "join": "2015-06-01",
-    "avatar": "https://avatars2.githubusercontent.com/u/12699680"
+    "avatar": "https://avatars1.githubusercontent.com/u/12699680"
   },
   { "name": "eltrueno",
     "position": 3,
@@ -34,19 +34,19 @@
     "repositories":4,
     "organizations":0,
     "join": "2015-04-06",
-    "avatar": "https://avatars3.githubusercontent.com/u/11823645"
+    "avatar": "https://avatars0.githubusercontent.com/u/11823645"
   },
   { "name": "jmperezra",
     "position": 4,
-    "contributions": 18,
-    "public": 18,
+    "contributions": 19,
+    "public": 19,
     "private": 0,
     "bio": "",
     "followers": 6,
     "repositories":16,
     "organizations":0,
     "join": "2012-09-04",
-    "avatar": "https://avatars2.githubusercontent.com/u/2276963"
+    "avatar": "https://avatars1.githubusercontent.com/u/2276963"
   },
   { "name": "roizpi",
     "position": 5,
@@ -54,11 +54,11 @@
     "public": 5,
     "private": 0,
     "bio": "Full Stack Web Dev &amp; Cybersecurity",
-    "followers": 3,
+    "followers": 4,
     "repositories":9,
     "organizations":0,
     "join": "2014-06-28",
-    "avatar": "https://avatars0.githubusercontent.com/u/8014558"
+    "avatar": "https://avatars3.githubusercontent.com/u/8014558"
   }
   ]
 }

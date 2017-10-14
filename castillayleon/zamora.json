@@ -1,55 +1,67 @@
-{ "date": "08:28PM-October-08-2017",
+{ "date": "04:49PM-October-14-2017",
   "users": [
   { "name": "pcarranza",
     "position": 1,
-    "contributions": 8549,
-    "public": 8549,
+    "contributions": 8528,
+    "public": 8528,
     "private": 0,
     "bio": "",
     "followers": 15,
     "repositories":23,
     "organizations":2,
     "join": "2013-05-22",
-    "avatar": "https://avatars1.githubusercontent.com/u/4496338"
+    "avatar": "https://avatars2.githubusercontent.com/u/4496338"
   },
   { "name": "vgayolrs",
     "position": 2,
-    "contributions": 670,
-    "public": 670,
+    "contributions": 680,
+    "public": 680,
     "private": 0,
     "bio": "",
     "followers": 7,
     "repositories":4,
     "organizations":0,
     "join": "2016-03-05",
-    "avatar": "https://avatars2.githubusercontent.com/u/17665201"
+    "avatar": "https://avatars1.githubusercontent.com/u/17665201"
   },
   { "name": "jairomelo",
     "position": 3,
-    "contributions": 89,
-    "public": 89,
+    "contributions": 91,
+    "public": 91,
     "private": 0,
     "bio": "Member of @Cibercliografia - Collaborator of @neogranadina and @programminghistorian",
     "followers": 2,
     "repositories":8,
     "organizations":0,
     "join": "2014-05-19",
-    "avatar": "https://avatars1.githubusercontent.com/u/7632991"
+    "avatar": "https://avatars2.githubusercontent.com/u/7632991"
   },
   { "name": "arcxyz",
     "position": 4,
-    "contributions": 648,
-    "public": 82,
-    "private": 566,
+    "contributions": 579,
+    "public": 72,
+    "private": 507,
     "bio": "",
     "followers": 13,
-    "repositories":35,
+    "repositories":36,
     "organizations":0,
     "join": "2010-01-18",
-    "avatar": "https://avatars0.githubusercontent.com/u/185002"
+    "avatar": "https://avatars3.githubusercontent.com/u/185002"
+  },
+  { "name": "Roberth1203",
+    "position": 5,
+    "contributions": 7,
+    "public": 7,
+    "private": 0,
+    "bio": "",
+    "followers": 3,
+    "repositories":9,
+    "organizations":0,
+    "join": "2014-12-31",
+    "avatar": "https://avatars3.githubusercontent.com/u/10360581"
   },
   { "name": "amaliahern",
-    "position": 5,
+    "position": 6,
     "contributions": 6,
     "public": 6,
     "private": 0,
@@ -58,19 +70,7 @@
     "repositories":28,
     "organizations":0,
     "join": "2010-06-14",
-    "avatar": "https://avatars3.githubusercontent.com/u/304761"
-  },
-  { "name": "Roberth1203",
-    "position": 6,
-    "contributions": 5,
-    "public": 5,
-    "private": 0,
-    "bio": "",
-    "followers": 3,
-    "repositories":8,
-    "organizations":0,
-    "join": "2014-12-31",
-    "avatar": "https://avatars0.githubusercontent.com/u/10360581"
+    "avatar": "https://avatars0.githubusercontent.com/u/304761"
   },
   { "name": "Curicaveri",
     "position": 7,
@@ -82,7 +82,7 @@
     "repositories":9,
     "organizations":0,
     "join": "2014-01-06",
-    "avatar": "https://avatars3.githubusercontent.com/u/6333993"
+    "avatar": "https://avatars0.githubusercontent.com/u/6333993"
   },
   { "name": "ganipa93",
     "position": 8,
@@ -94,7 +94,7 @@
     "repositories":13,
     "organizations":0,
     "join": "2015-09-03",
-    "avatar": "https://avatars3.githubusercontent.com/u/14114469"
+    "avatar": "https://avatars0.githubusercontent.com/u/14114469"
   },
   { "name": "AMoraga",
     "position": 9,
@@ -106,7 +106,7 @@
     "repositories":7,
     "organizations":0,
     "join": "2010-02-26",
-    "avatar": "https://avatars0.githubusercontent.com/u/211362"
+    "avatar": "https://avatars3.githubusercontent.com/u/211362"
   }
   ]
 }

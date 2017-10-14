@@ -1,28 +1,28 @@
-{ "date": "08:26PM-October-08-2017",
+{ "date": "04:46PM-October-14-2017",
   "users": [
   { "name": "SrPerso",
     "position": 1,
-    "contributions": 280,
-    "public": 280,
+    "contributions": 295,
+    "public": 295,
     "private": 0,
     "bio": "Superior technic in T&amp;I Systems // Organizer of the FLP // studing bechelors degree in Game design &amp; development",
     "followers": 10,
     "repositories":11,
     "organizations":0,
     "join": "2016-02-09",
-    "avatar": "https://avatars3.githubusercontent.com/u/17146733"
+    "avatar": "https://avatars0.githubusercontent.com/u/17146733"
   },
   { "name": "jmendiara",
     "position": 2,
-    "contributions": 201,
-    "public": 201,
+    "contributions": 185,
+    "public": 185,
     "private": 0,
     "bio": "",
     "followers": 28,
     "repositories":45,
     "organizations":4,
     "join": "2011-06-15",
-    "avatar": "https://avatars3.githubusercontent.com/u/851359"
+    "avatar": "https://avatars0.githubusercontent.com/u/851359"
   },
   { "name": "fernand0",
     "position": 3,
@@ -30,11 +30,11 @@
     "public": 128,
     "private": 0,
     "bio": "",
-    "followers": 35,
+    "followers": 36,
     "repositories":39,
     "organizations":1,
     "join": "2008-03-06",
-    "avatar": "https://avatars3.githubusercontent.com/u/2467"
+    "avatar": "https://avatars0.githubusercontent.com/u/2467"
   },
   { "name": "hbiarge",
     "position": 4,
@@ -46,7 +46,7 @@
     "repositories":28,
     "organizations":1,
     "join": "2010-11-08",
-    "avatar": "https://avatars3.githubusercontent.com/u/473010"
+    "avatar": "https://avatars0.githubusercontent.com/u/473010"
   },
   { "name": "lopezmuzas",
     "position": 5,
@@ -58,19 +58,19 @@
     "repositories":9,
     "organizations":0,
     "join": "2012-02-01",
-    "avatar": "https://avatars3.githubusercontent.com/u/1397384"
+    "avatar": "https://avatars0.githubusercontent.com/u/1397384"
   },
   { "name": "sergioibs",
     "position": 6,
-    "contributions": 8,
-    "public": 8,
+    "contributions": 5,
+    "public": 5,
     "private": 0,
     "bio": "",
     "followers": 3,
     "repositories":8,
     "organizations":1,
     "join": "2013-09-26",
-    "avatar": "https://avatars1.githubusercontent.com/u/5547593"
+    "avatar": "https://avatars2.githubusercontent.com/u/5547593"
   },
   { "name": "Albertowska",
     "position": 7,
@@ -82,7 +82,7 @@
     "repositories":9,
     "organizations":0,
     "join": "2013-05-21",
-    "avatar": "https://avatars3.githubusercontent.com/u/4486925"
+    "avatar": "https://avatars0.githubusercontent.com/u/4486925"
   },
   { "name": "jchine",
     "position": 8,
@@ -94,7 +94,7 @@
     "repositories":17,
     "organizations":0,
     "join": "2012-05-03",
-    "avatar": "https://avatars3.githubusercontent.com/u/1701751"
+    "avatar": "https://avatars0.githubusercontent.com/u/1701751"
   },
   { "name": "JuanS",
     "position": 9,
@@ -106,7 +106,7 @@
     "repositories":134,
     "organizations":0,
     "join": "2012-08-16",
-    "avatar": "https://avatars2.githubusercontent.com/u/2165396"
+    "avatar": "https://avatars1.githubusercontent.com/u/2165396"
   },
   { "name": "fgarcialainez",
     "position": 10,
@@ -118,7 +118,7 @@
     "repositories":13,
     "organizations":0,
     "join": "2012-05-19",
-    "avatar": "https://avatars0.githubusercontent.com/u/1755561"
+    "avatar": "https://avatars3.githubusercontent.com/u/1755561"
   }
   ]
 }
