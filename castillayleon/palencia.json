@@ -1,40 +1,40 @@
-{ "date": "08:27PM-October-08-2017",
+{ "date": "04:48PM-October-14-2017",
   "users": [
   { "name": "garciparedes",
     "position": 1,
-    "contributions": 2780,
-    "public": 2780,
-    "private": 0,
+    "contributions": 2754,
+    "public": 2752,
+    "private": 2,
     "bio": "",
     "followers": 35,
     "repositories":112,
     "organizations":6,
     "join": "2013-10-08",
-    "avatar": "https://avatars1.githubusercontent.com/u/5640366"
+    "avatar": "https://avatars2.githubusercontent.com/u/5640366"
   },
   { "name": "CodeBackpackofEndika",
     "position": 2,
-    "contributions": 99,
-    "public": 99,
+    "contributions": 103,
+    "public": 103,
     "private": 0,
     "bio": "ASIR Student | Some Code Projects | Enthusiast of Networks",
     "followers": 2,
-    "repositories":19,
+    "repositories":20,
     "organizations":0,
     "join": "2017-09-25",
-    "avatar": "https://avatars1.githubusercontent.com/u/32270483"
+    "avatar": "https://avatars2.githubusercontent.com/u/32270483"
   },
   { "name": "zdavidlnx",
     "position": 3,
-    "contributions": 83,
-    "public": 83,
+    "contributions": 91,
+    "public": 91,
     "private": 0,
     "bio": "",
     "followers": 6,
-    "repositories":10,
+    "repositories":11,
     "organizations":0,
     "join": "2011-07-28",
-    "avatar": "https://avatars1.githubusercontent.com/u/944150"
+    "avatar": "https://avatars2.githubusercontent.com/u/944150"
   },
   { "name": "adrianetete",
     "position": 4,
@@ -46,7 +46,7 @@
     "repositories":8,
     "organizations":0,
     "join": "2014-03-13",
-    "avatar": "https://avatars1.githubusercontent.com/u/6943237"
+    "avatar": "https://avatars2.githubusercontent.com/u/6943237"
   },
   { "name": "villeparamio",
     "position": 5,
@@ -58,7 +58,7 @@
     "repositories":10,
     "organizations":0,
     "join": "2015-12-01",
-    "avatar": "https://avatars1.githubusercontent.com/u/16100827"
+    "avatar": "https://avatars2.githubusercontent.com/u/16100827"
   },
   { "name": "josetristan",
     "position": 6,
@@ -70,7 +70,7 @@
     "repositories":18,
     "organizations":0,
     "join": "2011-07-15",
-    "avatar": "https://avatars2.githubusercontent.com/u/916947"
+    "avatar": "https://avatars1.githubusercontent.com/u/916947"
   },
   { "name": "mines",
     "position": 7,
@@ -82,7 +82,7 @@
     "repositories":10,
     "organizations":0,
     "join": "2011-03-07",
-    "avatar": "https://avatars1.githubusercontent.com/u/655278"
+    "avatar": "https://avatars2.githubusercontent.com/u/655278"
   }
   ]
 }

@@ -1,4 +1,4 @@
-{ "date": "08:28PM-October-08-2017",
+{ "date": "04:48PM-October-14-2017",
   "users": [
   { "name": "titodevera",
     "position": 1,
@@ -6,11 +6,11 @@
     "public": 37,
     "private": 0,
     "bio": "Rock and roll and web development",
-    "followers": 6,
+    "followers": 7,
     "repositories":5,
     "organizations":0,
     "join": "2015-03-19",
-    "avatar": "https://avatars1.githubusercontent.com/u/11556124"
+    "avatar": "https://avatars2.githubusercontent.com/u/11556124"
   },
   { "name": "pablomario",
     "position": 2,
@@ -22,7 +22,7 @@
     "repositories":18,
     "organizations":0,
     "join": "2013-05-18",
-    "avatar": "https://avatars1.githubusercontent.com/u/4464094"
+    "avatar": "https://avatars2.githubusercontent.com/u/4464094"
   },
   { "name": "statickidz",
     "position": 3,
@@ -30,11 +30,11 @@
     "public": 22,
     "private": 0,
     "bio": "",
-    "followers": 12,
+    "followers": 13,
     "repositories":12,
     "organizations":0,
     "join": "2014-06-14",
-    "avatar": "https://avatars1.githubusercontent.com/u/7888227"
+    "avatar": "https://avatars2.githubusercontent.com/u/7888227"
   },
   { "name": "silvilidar",
     "position": 4,
@@ -46,7 +46,7 @@
     "repositories":2,
     "organizations":0,
     "join": "2016-03-18",
-    "avatar": "https://avatars3.githubusercontent.com/u/17927667"
+    "avatar": "https://avatars0.githubusercontent.com/u/17927667"
   }
   ]
 }

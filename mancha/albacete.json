@@ -1,4 +1,4 @@
-{ "date": "08:45PM-October-08-2017",
+{ "date": "05:10PM-October-14-2017",
   "users": [
   { "name": "becarioprecario",
     "position": 1,
@@ -10,7 +10,7 @@
     "repositories":13,
     "organizations":0,
     "join": "2014-04-20",
-    "avatar": "https://avatars0.githubusercontent.com/u/7356250"
+    "avatar": "https://avatars3.githubusercontent.com/u/7356250"
   },
   { "name": "r0i",
     "position": 2,
@@ -22,7 +22,7 @@
     "repositories":5,
     "organizations":1,
     "join": "2013-09-14",
-    "avatar": "https://avatars2.githubusercontent.com/u/5457573"
+    "avatar": "https://avatars1.githubusercontent.com/u/5457573"
   },
   { "name": "jacintoArias",
     "position": 3,
@@ -34,31 +34,31 @@
     "repositories":8,
     "organizations":3,
     "join": "2014-05-07",
-    "avatar": "https://avatars1.githubusercontent.com/u/7511199"
+    "avatar": "https://avatars2.githubusercontent.com/u/7511199"
   },
   { "name": "ecdani",
     "position": 4,
-    "contributions": 113,
-    "public": 113,
+    "contributions": 105,
+    "public": 105,
     "private": 0,
     "bio": "",
     "followers": 6,
     "repositories":8,
     "organizations":0,
     "join": "2013-04-20",
-    "avatar": "https://avatars2.githubusercontent.com/u/4211293"
+    "avatar": "https://avatars1.githubusercontent.com/u/4211293"
   },
   { "name": "amon-ra",
     "position": 5,
-    "contributions": 81,
-    "public": 81,
+    "contributions": 84,
+    "public": 84,
     "private": 0,
     "bio": "",
     "followers": 2,
     "repositories":115,
     "organizations":0,
     "join": "2011-09-14",
-    "avatar": "https://avatars2.githubusercontent.com/u/1049676"
+    "avatar": "https://avatars1.githubusercontent.com/u/1049676"
   },
   { "name": "jialonso",
     "position": 6,
@@ -70,7 +70,7 @@
     "repositories":2,
     "organizations":0,
     "join": "2014-10-12",
-    "avatar": "https://avatars3.githubusercontent.com/u/9167780"
+    "avatar": "https://avatars0.githubusercontent.com/u/9167780"
   },
   { "name": "javato",
     "position": 7,
@@ -82,19 +82,19 @@
     "repositories":8,
     "organizations":0,
     "join": "2014-09-21",
-    "avatar": "https://avatars2.githubusercontent.com/u/8853295"
+    "avatar": "https://avatars1.githubusercontent.com/u/8853295"
   },
   { "name": "jgallud",
     "position": 8,
-    "contributions": 24,
-    "public": 24,
+    "contributions": 22,
+    "public": 22,
     "private": 0,
     "bio": "",
     "followers": 19,
     "repositories":26,
     "organizations":1,
     "join": "2013-09-02",
-    "avatar": "https://avatars0.githubusercontent.com/u/5364288"
+    "avatar": "https://avatars3.githubusercontent.com/u/5364288"
   },
   { "name": "jariazavalverde",
     "position": 9,
@@ -106,7 +106,7 @@
     "repositories":3,
     "organizations":0,
     "join": "2013-07-20",
-    "avatar": "https://avatars1.githubusercontent.com/u/5055295"
+    "avatar": "https://avatars2.githubusercontent.com/u/5055295"
   },
   { "name": "pasitopasi",
     "position": 10,
@@ -118,7 +118,7 @@
     "repositories":7,
     "organizations":0,
     "join": "2017-02-27",
-    "avatar": "https://avatars1.githubusercontent.com/u/26058363"
+    "avatar": "https://avatars2.githubusercontent.com/u/26058363"
   },
   { "name": "jantoniomartin",
     "position": 11,
@@ -130,7 +130,7 @@
     "repositories":23,
     "organizations":0,
     "join": "2010-10-14",
-    "avatar": "https://avatars1.githubusercontent.com/u/439759"
+    "avatar": "https://avatars2.githubusercontent.com/u/439759"
   },
   { "name": "dbuedo",
     "position": 12,
@@ -138,11 +138,11 @@
     "public": 2,
     "private": 0,
     "bio": "",
-    "followers": 4,
+    "followers": 3,
     "repositories":14,
     "organizations":0,
     "join": "2013-08-17",
-    "avatar": "https://avatars1.githubusercontent.com/u/5249948"
+    "avatar": "https://avatars2.githubusercontent.com/u/5249948"
   },
   { "name": "AmadorNavarro",
     "position": 13,
@@ -154,22 +154,10 @@
     "repositories":13,
     "organizations":0,
     "join": "2012-11-12",
-    "avatar": "https://avatars3.githubusercontent.com/u/2777799"
-  },
-  { "name": "DiegoGCarcelen",
-    "position": 14,
-    "contributions": 4,
-    "public": 0,
-    "private": 4,
-    "bio": "Software Engineer.",
-    "followers": 2,
-    "repositories":4,
-    "organizations":0,
-    "join": "2014-09-23",
-    "avatar": "https://avatars1.githubusercontent.com/u/8877650"
+    "avatar": "https://avatars0.githubusercontent.com/u/2777799"
   },
   { "name": "ociu",
-    "position": 15,
+    "position": 14,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -178,7 +166,19 @@
     "repositories":8,
     "organizations":0,
     "join": "2013-04-17",
-    "avatar": "https://avatars3.githubusercontent.com/u/4182785"
+    "avatar": "https://avatars0.githubusercontent.com/u/4182785"
+  },
+  { "name": "DiegoGCarcelen",
+    "position": 15,
+    "contributions": 4,
+    "public": 0,
+    "private": 4,
+    "bio": "Software Engineer.",
+    "followers": 2,
+    "repositories":4,
+    "organizations":0,
+    "join": "2014-09-23",
+    "avatar": "https://avatars2.githubusercontent.com/u/8877650"
   },
   { "name": "Craswer",
     "position": 16,
@@ -190,7 +190,7 @@
     "repositories":2,
     "organizations":0,
     "join": "2011-05-21",
-    "avatar": "https://avatars2.githubusercontent.com/u/802508"
+    "avatar": "https://avatars1.githubusercontent.com/u/802508"
   }
   ]
 }

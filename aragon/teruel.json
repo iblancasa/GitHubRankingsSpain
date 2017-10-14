@@ -1,16 +1,16 @@
-{ "date": "08:26PM-October-08-2017",
+{ "date": "04:46PM-October-14-2017",
   "users": [
   { "name": "jsoriano",
     "position": 1,
-    "contributions": 502,
-    "public": 284,
+    "contributions": 501,
+    "public": 283,
     "private": 218,
     "bio": "SRE at @tuenti",
     "followers": 42,
     "repositories":49,
     "organizations":3,
     "join": "2008-07-02",
-    "avatar": "https://avatars1.githubusercontent.com/u/15763"
+    "avatar": "https://avatars2.githubusercontent.com/u/15763"
   },
   { "name": "aaorsi",
     "position": 2,
@@ -22,7 +22,7 @@
     "repositories":9,
     "organizations":0,
     "join": "2014-10-18",
-    "avatar": "https://avatars0.githubusercontent.com/u/9295921"
+    "avatar": "https://avatars3.githubusercontent.com/u/9295921"
   },
   { "name": "alazuga",
     "position": 3,
@@ -34,7 +34,7 @@
     "repositories":9,
     "organizations":0,
     "join": "2014-03-04",
-    "avatar": "https://avatars3.githubusercontent.com/u/6850099"
+    "avatar": "https://avatars0.githubusercontent.com/u/6850099"
   }
   ]
 }
