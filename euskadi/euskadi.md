@@ -1,6 +1,6 @@
 # Ranking Euskadi
 
-Generado 08:44PM-October-15-2017.
+Generado 11:01PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -17,7 +17,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |3|[ibc](https://github.com/ibc)|1126|0|28|136|2008-07-06|![ibc](https://avatars0.githubusercontent.com/u/16191)|
 |4|[gorkalaucirica](https://github.com/gorkalaucirica)|696|0|10|22|2012-05-17|![gorkalaucirica](https://avatars1.githubusercontent.com/u/1749891)|
 |5|[jlanga](https://github.com/jlanga)|651|60|38|4|2014-01-30|![jlanga](https://avatars3.githubusercontent.com/u/6546145)|
-|6|[porduna](https://github.com/porduna)|611|0|25|46|2012-06-27|![porduna](https://avatars2.githubusercontent.com/u/1900501)|
+|6|[porduna](https://github.com/porduna)|613|0|25|46|2012-06-27|![porduna](https://avatars2.githubusercontent.com/u/1900501)|
 |7|[Seavenois](https://github.com/Seavenois)|586|0|4|4|2013-09-30|![Seavenois](https://avatars0.githubusercontent.com/u/5575437)|
 |8|[mikel-egana-aranguren](https://github.com/mikel-egana-aranguren)|585|0|58|29|2013-03-16|![mikel-egana-aranguren](https://avatars1.githubusercontent.com/u/3883671)|
 |9|[RDCH106](https://github.com/RDCH106)|576|0|84|22|2012-02-28|![RDCH106](https://avatars3.githubusercontent.com/u/1483414)|
@@ -29,7 +29,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |15|[ojoven](https://github.com/ojoven)|419|0|42|31|2011-05-06|![ojoven](https://avatars1.githubusercontent.com/u/772734)|
 |16|[soyjavi](https://github.com/soyjavi)|415|1764|66|1000|2011-01-12|![soyjavi](https://avatars3.githubusercontent.com/u/559654)|
 |17|[aldatsa](https://github.com/aldatsa)|412|0|55|17|2013-06-19|![aldatsa](https://avatars2.githubusercontent.com/u/4741986)|
-|18|[ebarquin](https://github.com/ebarquin)|393|0|40|2|2016-04-21|![ebarquin](https://avatars0.githubusercontent.com/u/18597884)|
+|18|[ebarquin](https://github.com/ebarquin)|396|0|40|2|2016-04-21|![ebarquin](https://avatars0.githubusercontent.com/u/18597884)|
 |19|[Rubentxu](https://github.com/Rubentxu)|392|0|23|15|2011-02-07|![Rubentxu](https://avatars3.githubusercontent.com/u/604924)|
 |20|[Sirikon](https://github.com/Sirikon)|373|0|82|29|2011-10-28|![Sirikon](https://avatars0.githubusercontent.com/u/1157382)|
 |21|[JPG-Consulting](https://github.com/JPG-Consulting)|362|0|140|2|2013-04-28|![JPG-Consulting](https://avatars0.githubusercontent.com/u/4283191)|
@@ -48,7 +48,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |34|[Ondiz](https://github.com/Ondiz)|224|0|14|9|2014-09-01|![Ondiz](https://avatars3.githubusercontent.com/u/8613882)|
 |35|[memaldi](https://github.com/memaldi)|222|0|74|22|2012-06-20|![memaldi](https://avatars2.githubusercontent.com/u/1871269)|
 |36|[CesarCapillas](https://github.com/CesarCapillas)|217|0|14|8|2015-02-25|![CesarCapillas](https://avatars2.githubusercontent.com/u/11197991)|
-|37|[javierdemartin](https://github.com/javierdemartin)|209|202|6|7|2015-09-10|![javierdemartin](https://avatars2.githubusercontent.com/u/14219144)|
+|37|[javierdemartin](https://github.com/javierdemartin)|208|203|6|7|2015-09-10|![javierdemartin](https://avatars2.githubusercontent.com/u/14219144)|
 |38|[jcarral](https://github.com/jcarral)|204|28|23|3|2015-07-18|![jcarral](https://avatars0.githubusercontent.com/u/13391685)|
 |39|[artberri](https://github.com/artberri)|192|0|40|105|2010-10-26|![artberri](https://avatars3.githubusercontent.com/u/454523)|
 |40|[ijaureguialzo](https://github.com/ijaureguialzo)|190|0|18|15|2014-02-21|![ijaureguialzo](https://avatars3.githubusercontent.com/u/6746736)|
@@ -97,8 +97,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |83|[algm](https://github.com/algm)|90|0|6|8|2009-10-29|![algm](https://avatars3.githubusercontent.com/u/146385)|
 |84|[pepesan](https://github.com/pepesan)|88|0|85|9|2011-07-15|![pepesan](https://avatars1.githubusercontent.com/u/917451)|
 |85|[dmarchena](https://github.com/dmarchena)|86|0|25|7|2013-02-18|![dmarchena](https://avatars3.githubusercontent.com/u/3629385)|
-|86|[lingo](https://github.com/lingo)|85|0|65|19|2010-03-10|![lingo](https://avatars1.githubusercontent.com/u/219531)|
-|87|[yuki](https://github.com/yuki)|85|0|14|10|2008-08-04|![yuki](https://avatars3.githubusercontent.com/u/19482)|
+|86|[yuki](https://github.com/yuki)|85|0|14|10|2008-08-04|![yuki](https://avatars3.githubusercontent.com/u/19482)|
+|87|[lingo](https://github.com/lingo)|85|0|65|19|2010-03-10|![lingo](https://avatars1.githubusercontent.com/u/219531)|
 |88|[basoko](https://github.com/basoko)|83|0|23|16|2011-08-31|![basoko](https://avatars3.githubusercontent.com/u/1017305)|
 |89|[AimUp](https://github.com/AimUp)|83|0|8|4|2015-11-13|![AimUp](https://avatars3.githubusercontent.com/u/15838827)|
 |90|[rubenmulero](https://github.com/rubenmulero)|82|0|13|17|2013-02-27|![rubenmulero](https://avatars3.githubusercontent.com/u/3714739)|

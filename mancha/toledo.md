@@ -1,6 +1,6 @@
 # Ranking Toledo
 
-Generado 08:48PM-October-15-2017.
+Generado 11:06PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -71,11 +71,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |57|[ajohnson6494](https://github.com/ajohnson6494)|9|329|2|2|2013-08-08|![ajohnson6494](https://avatars1.githubusercontent.com/u/5192820)|
 |58|[zbierajewski](https://github.com/zbierajewski)|8|0|13|10|2012-08-01|![zbierajewski](https://avatars1.githubusercontent.com/u/2079114)|
 |59|[atrus6](https://github.com/atrus6)|7|0|19|10|2010-08-08|![atrus6](https://avatars3.githubusercontent.com/u/357881)|
-|60|[danstever](https://github.com/danstever)|6|353|11|10|2010-07-20|![danstever](https://avatars3.githubusercontent.com/u/338629)|
-|61|[NetApex](https://github.com/NetApex)|6|0|8|3|2010-05-11|![NetApex](https://avatars1.githubusercontent.com/u/273559)|
-|62|[alex-pope](https://github.com/alex-pope)|6|0|7|3|2011-05-19|![alex-pope](https://avatars1.githubusercontent.com/u/798589)|
-|63|[lucaslorensetti](https://github.com/lucaslorensetti)|6|0|2|2|2012-12-19|![lucaslorensetti](https://avatars3.githubusercontent.com/u/3079944)|
-|64|[jwoyame](https://github.com/jwoyame)|6|0|6|5|2013-02-17|![jwoyame](https://avatars2.githubusercontent.com/u/3616026)|
+|60|[NetApex](https://github.com/NetApex)|6|0|8|3|2010-05-11|![NetApex](https://avatars1.githubusercontent.com/u/273559)|
+|61|[alex-pope](https://github.com/alex-pope)|6|0|7|3|2011-05-19|![alex-pope](https://avatars1.githubusercontent.com/u/798589)|
+|62|[lucaslorensetti](https://github.com/lucaslorensetti)|6|0|2|2|2012-12-19|![lucaslorensetti](https://avatars3.githubusercontent.com/u/3079944)|
+|63|[jwoyame](https://github.com/jwoyame)|6|0|6|5|2013-02-17|![jwoyame](https://avatars2.githubusercontent.com/u/3616026)|
+|64|[danstever](https://github.com/danstever)|6|353|11|10|2010-07-20|![danstever](https://avatars3.githubusercontent.com/u/338629)|
 |65|[JoseGCheca](https://github.com/JoseGCheca)|5|0|10|7|2014-02-05|![JoseGCheca](https://avatars1.githubusercontent.com/u/6599858)|
 |66|[iceflow19](https://github.com/iceflow19)|4|0|11|3|2012-01-22|![iceflow19](https://avatars2.githubusercontent.com/u/1366308)|
 |67|[djMesias](https://github.com/djMesias)|3|0|13|5|2011-09-17|![djMesias](https://avatars1.githubusercontent.com/u/1057831)|
@@ -92,7 +92,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |78|[wesleyklewerton](https://github.com/wesleyklewerton)|0|0|6|7|2010-08-29|![wesleyklewerton](https://avatars3.githubusercontent.com/u/379735)|
 |79|[ckoch786](https://github.com/ckoch786)|0|0|25|12|2011-08-09|![ckoch786](https://avatars2.githubusercontent.com/u/969036)|
 |80|[Verron](https://github.com/Verron)|0|24|10|3|2012-06-24|![Verron](https://avatars3.githubusercontent.com/u/1887313)|
-|81|[chris-nelson](https://github.com/chris-nelson)|0|0|3|5|2011-11-07|![chris-nelson](https://avatars1.githubusercontent.com/u/1176720)|
-|82|[RickKohler](https://github.com/RickKohler)|0|0|2|2|2012-07-06|![RickKohler](https://avatars3.githubusercontent.com/u/1933916)|
-|83|[angelazarquiel](https://github.com/angelazarquiel)|0|0|9|11|2013-10-07|![angelazarquiel](https://avatars0.githubusercontent.com/u/5631864)|
+|81|[RickKohler](https://github.com/RickKohler)|0|0|2|2|2012-07-06|![RickKohler](https://avatars3.githubusercontent.com/u/1933916)|
+|82|[angelazarquiel](https://github.com/angelazarquiel)|0|0|9|11|2013-10-07|![angelazarquiel](https://avatars0.githubusercontent.com/u/5631864)|
+|83|[chris-nelson](https://github.com/chris-nelson)|0|0|3|5|2011-11-07|![chris-nelson](https://avatars1.githubusercontent.com/u/1176720)|
 |84|[yesimiao](https://github.com/yesimiao)|0|0|3|2|2015-02-23|![yesimiao](https://avatars0.githubusercontent.com/u/11166454)|

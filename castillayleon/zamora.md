@@ -1,6 +1,6 @@
 # Ranking Zamora
 
-Generado 08:29PM-October-15-2017.
+Generado 10:40PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -19,5 +19,5 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |5|[Roberth1203](https://github.com/Roberth1203)|7|0|9|3|2014-12-31|![Roberth1203](https://avatars3.githubusercontent.com/u/10360581)|
 |6|[amaliahern](https://github.com/amaliahern)|6|0|28|8|2010-06-14|![amaliahern](https://avatars0.githubusercontent.com/u/304761)|
 |7|[Curicaveri](https://github.com/Curicaveri)|2|0|9|4|2014-01-06|![Curicaveri](https://avatars0.githubusercontent.com/u/6333993)|
-|8|[AMoraga](https://github.com/AMoraga)|0|0|7|4|2010-02-26|![AMoraga](https://avatars3.githubusercontent.com/u/211362)|
-|9|[ganipa93](https://github.com/ganipa93)|0|0|13|14|2015-09-03|![ganipa93](https://avatars0.githubusercontent.com/u/14114469)|
+|8|[ganipa93](https://github.com/ganipa93)|0|0|13|14|2015-09-03|![ganipa93](https://avatars0.githubusercontent.com/u/14114469)|
+|9|[AMoraga](https://github.com/AMoraga)|0|0|7|4|2010-02-26|![AMoraga](https://avatars3.githubusercontent.com/u/211362)|

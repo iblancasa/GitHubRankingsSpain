@@ -1,6 +1,6 @@
 # Ranking Valladolid
 
-Generado 08:28PM-October-15-2017.
+Generado 10:40PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -18,9 +18,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |4|[SergioBertolinSG](https://github.com/SergioBertolinSG)|540|147|12|2|2014-10-07|![SergioBertolinSG](https://avatars2.githubusercontent.com/u/9048796)|
 |5|[davivel](https://github.com/davivel)|458|0|8|37|2012-08-27|![davivel](https://avatars0.githubusercontent.com/u/2225614)|
 |6|[jesmrec](https://github.com/jesmrec)|431|0|6|3|2015-09-29|![jesmrec](https://avatars2.githubusercontent.com/u/14894746)|
-|7|[palmerabollo](https://github.com/palmerabollo)|409|2306|66|34|2011-03-16|![palmerabollo](https://avatars1.githubusercontent.com/u/673420)|
+|7|[palmerabollo](https://github.com/palmerabollo)|409|2307|66|34|2011-03-16|![palmerabollo](https://avatars1.githubusercontent.com/u/673420)|
 |8|[RLRG](https://github.com/RLRG)|370|0|21|4|2016-06-15|![RLRG](https://avatars3.githubusercontent.com/u/19955480)|
-|9|[albfernandez](https://github.com/albfernandez)|355|0|41|6|2012-11-01|![albfernandez](https://avatars2.githubusercontent.com/u/2701620)|
+|9|[albfernandez](https://github.com/albfernandez)|357|0|41|6|2012-11-01|![albfernandez](https://avatars2.githubusercontent.com/u/2701620)|
 |10|[nasli](https://github.com/nasli)|324|0|9|9|2014-02-02|![nasli](https://avatars1.githubusercontent.com/u/6570505)|
 |11|[eduherminio](https://github.com/eduherminio)|314|27|44|3|2015-02-22|![eduherminio](https://avatars0.githubusercontent.com/u/11148519)|
 |12|[jorge-sanz](https://github.com/jorge-sanz)|303|284|39|51|2013-07-19|![jorge-sanz](https://avatars2.githubusercontent.com/u/5048292)|
@@ -36,8 +36,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |22|[Zalez95](https://github.com/Zalez95)|138|1|19|8|2015-06-20|![Zalez95](https://avatars0.githubusercontent.com/u/12982523)|
 |23|[luiscbr92](https://github.com/luiscbr92)|125|0|7|8|2013-12-13|![luiscbr92](https://avatars2.githubusercontent.com/u/6177045)|
 |24|[plopesc](https://github.com/plopesc)|122|0|38|15|2009-12-03|![plopesc](https://avatars0.githubusercontent.com/u/161282)|
-|25|[aarroyoc](https://github.com/aarroyoc)|121|0|114|33|2013-02-23|![aarroyoc](https://avatars2.githubusercontent.com/u/3681517)|
-|26|[ismtabo](https://github.com/ismtabo)|121|0|23|14|2014-11-05|![ismtabo](https://avatars1.githubusercontent.com/u/9568287)|
+|25|[ismtabo](https://github.com/ismtabo)|121|0|23|14|2014-11-05|![ismtabo](https://avatars1.githubusercontent.com/u/9568287)|
+|26|[aarroyoc](https://github.com/aarroyoc)|121|0|114|33|2013-02-23|![aarroyoc](https://avatars2.githubusercontent.com/u/3681517)|
 |27|[oscar90y5](https://github.com/oscar90y5)|119|0|19|13|2014-10-15|![oscar90y5](https://avatars0.githubusercontent.com/u/9253416)|
 |28|[marcosDLCS](https://github.com/marcosDLCS)|111|0|11|15|2013-06-15|![marcosDLCS](https://avatars3.githubusercontent.com/u/4703637)|
 |29|[javiergonzper](https://github.com/javiergonzper)|105|0|14|17|2012-06-04|![javiergonzper](https://avatars1.githubusercontent.com/u/1815050)|
@@ -53,7 +53,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |39|[albamig](https://github.com/albamig)|68|0|8|16|2013-11-21|![albamig](https://avatars0.githubusercontent.com/u/6004070)|
 |40|[davidherasp](https://github.com/davidherasp)|67|0|15|6|2013-04-10|![davidherasp](https://avatars1.githubusercontent.com/u/4120377)|
 |41|[eduriol](https://github.com/eduriol)|62|2|22|6|2013-09-13|![eduriol](https://avatars0.githubusercontent.com/u/5454201)|
-|42|[salvarezf](https://github.com/salvarezf)|60|0|9|2|2017-06-18|![salvarezf](https://avatars2.githubusercontent.com/u/29518363)|
+|42|[salvarezf](https://github.com/salvarezf)|61|0|10|2|2017-06-18|![salvarezf](https://avatars2.githubusercontent.com/u/29518363)|
 |43|[7PartidasDigital](https://github.com/7PartidasDigital)|51|0|3|3|2017-01-13|![7PartidasDigital](https://avatars0.githubusercontent.com/u/25098150)|
 |44|[arkadoel](https://github.com/arkadoel)|49|0|34|4|2013-06-16|![arkadoel](https://avatars0.githubusercontent.com/u/4712655)|
 |45|[mig42](https://github.com/mig42)|45|0|18|3|2013-05-26|![mig42](https://avatars0.githubusercontent.com/u/4534635)|
@@ -69,14 +69,14 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |55|[Jkof](https://github.com/Jkof)|27|0|4|5|2014-10-23|![Jkof](https://avatars3.githubusercontent.com/u/9365302)|
 |56|[robergd](https://github.com/robergd)|24|0|17|2|2011-01-23|![robergd](https://avatars1.githubusercontent.com/u/579726)|
 |57|[jmaciasportela](https://github.com/jmaciasportela)|23|0|45|10|2012-02-20|![jmaciasportela](https://avatars2.githubusercontent.com/u/1454351)|
-|58|[psantosl](https://github.com/psantosl)|21|0|16|3|2010-08-30|![psantosl](https://avatars3.githubusercontent.com/u/380766)|
-|59|[kungfunk](https://github.com/kungfunk)|21|0|13|6|2011-06-13|![kungfunk](https://avatars1.githubusercontent.com/u/846996)|
-|60|[jperedadnr](https://github.com/jperedadnr)|19|0|24|93|2012-07-25|![jperedadnr](https://avatars0.githubusercontent.com/u/2043230)|
-|61|[berikin](https://github.com/berikin)|19|0|31|7|2012-03-22|![berikin](https://avatars0.githubusercontent.com/u/1564947)|
+|58|[kungfunk](https://github.com/kungfunk)|21|0|13|6|2011-06-13|![kungfunk](https://avatars1.githubusercontent.com/u/846996)|
+|59|[psantosl](https://github.com/psantosl)|21|0|16|3|2010-08-30|![psantosl](https://avatars3.githubusercontent.com/u/380766)|
+|60|[berikin](https://github.com/berikin)|19|0|31|7|2012-03-22|![berikin](https://avatars0.githubusercontent.com/u/1564947)|
+|61|[jperedadnr](https://github.com/jperedadnr)|19|0|24|93|2012-07-25|![jperedadnr](https://avatars0.githubusercontent.com/u/2043230)|
 |62|[purigarcia](https://github.com/purigarcia)|19|0|5|2|2013-05-27|![purigarcia](https://avatars1.githubusercontent.com/u/4538201)|
 |63|[pablocarmu](https://github.com/pablocarmu)|17|0|5|3|2014-09-26|![pablocarmu](https://avatars0.githubusercontent.com/u/8929738)|
-|64|[semurat](https://github.com/semurat)|15|0|36|27|2010-02-11|![semurat](https://avatars1.githubusercontent.com/u/201831)|
-|65|[jesusangel](https://github.com/jesusangel)|15|0|20|4|2010-02-21|![jesusangel](https://avatars2.githubusercontent.com/u/207777)|
+|64|[jesusangel](https://github.com/jesusangel)|15|0|20|4|2010-02-21|![jesusangel](https://avatars2.githubusercontent.com/u/207777)|
+|65|[semurat](https://github.com/semurat)|15|0|36|27|2010-02-11|![semurat](https://avatars1.githubusercontent.com/u/201831)|
 |66|[alsanars](https://github.com/alsanars)|15|315|16|18|2012-03-28|![alsanars](https://avatars0.githubusercontent.com/u/1583974)|
 |67|[programaciongalileo](https://github.com/programaciongalileo)|12|0|9|2|2014-04-26|![programaciongalileo](https://avatars2.githubusercontent.com/u/7414974)|
 |68|[mariodelvalle](https://github.com/mariodelvalle)|10|0|3|18|2012-12-17|![mariodelvalle](https://avatars2.githubusercontent.com/u/3064293)|
@@ -91,10 +91,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |77|[archenemy](https://github.com/archenemy)|1|0|16|13|2010-02-03|![archenemy](https://avatars1.githubusercontent.com/u/195672)|
 |78|[darkne0](https://github.com/darkne0)|1|0|6|3|2011-09-07|![darkne0](https://avatars1.githubusercontent.com/u/1032275)|
 |79|[andresfgm84](https://github.com/andresfgm84)|1|0|6|2|2014-11-29|![andresfgm84](https://avatars3.githubusercontent.com/u/9998420)|
-|80|[IgNoRaO](https://github.com/IgNoRaO)|0|0|6|2|2008-08-20|![IgNoRaO](https://avatars0.githubusercontent.com/u/21272)|
-|81|[eduardoferrandezr](https://github.com/eduardoferrandezr)|0|0|11|4|2010-11-20|![eduardoferrandezr](https://avatars1.githubusercontent.com/u/489589)|
-|82|[LuceIt](https://github.com/LuceIt)|0|0|10|4|2011-07-11|![LuceIt](https://avatars0.githubusercontent.com/u/907374)|
-|83|[linuxesdios](https://github.com/linuxesdios)|0|0|9|6|2012-11-04|![linuxesdios](https://avatars0.githubusercontent.com/u/2717922)|
-|84|[juliobm](https://github.com/juliobm)|0|0|13|5|2013-08-11|![juliobm](https://avatars1.githubusercontent.com/u/5206946)|
-|85|[marioshki](https://github.com/marioshki)|0|0|3|2|2014-03-12|![marioshki](https://avatars2.githubusercontent.com/u/6928516)|
-|86|[elektropajo](https://github.com/elektropajo)|0|0|8|2|2015-03-04|![elektropajo](https://avatars1.githubusercontent.com/u/11317202)|
+|80|[eduardoferrandezr](https://github.com/eduardoferrandezr)|0|0|11|4|2010-11-20|![eduardoferrandezr](https://avatars1.githubusercontent.com/u/489589)|
+|81|[IgNoRaO](https://github.com/IgNoRaO)|0|0|6|2|2008-08-20|![IgNoRaO](https://avatars0.githubusercontent.com/u/21272)|
+|82|[linuxesdios](https://github.com/linuxesdios)|0|0|9|6|2012-11-04|![linuxesdios](https://avatars0.githubusercontent.com/u/2717922)|
+|83|[juliobm](https://github.com/juliobm)|0|0|13|5|2013-08-11|![juliobm](https://avatars1.githubusercontent.com/u/5206946)|
+|84|[LuceIt](https://github.com/LuceIt)|0|0|10|4|2011-07-11|![LuceIt](https://avatars0.githubusercontent.com/u/907374)|
+|85|[elektropajo](https://github.com/elektropajo)|0|0|8|2|2015-03-04|![elektropajo](https://avatars1.githubusercontent.com/u/11317202)|
+|86|[marioshki](https://github.com/marioshki)|0|0|3|2|2014-03-12|![marioshki](https://avatars2.githubusercontent.com/u/6928516)|

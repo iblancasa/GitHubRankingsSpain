@@ -1,6 +1,6 @@
 # Ranking Girona
 
-Generado 08:39PM-October-15-2017.
+Generado 10:55PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -52,8 +52,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |38|[acoronadoc](https://github.com/acoronadoc)|15|0|5|2|2011-06-01|![acoronadoc](https://avatars2.githubusercontent.com/u/822481)|
 |39|[pianoza](https://github.com/pianoza)|15|81|21|13|2013-02-28|![pianoza](https://avatars3.githubusercontent.com/u/3731130)|
 |40|[MostafaSalem](https://github.com/MostafaSalem)|12|0|6|4|2016-05-03|![MostafaSalem](https://avatars1.githubusercontent.com/u/19169958)|
-|41|[joseabernal](https://github.com/joseabernal)|11|0|6|10|2011-11-23|![joseabernal](https://avatars2.githubusercontent.com/u/1215598)|
-|42|[YerayAlonso](https://github.com/YerayAlonso)|11|0|6|6|2012-05-29|![YerayAlonso](https://avatars2.githubusercontent.com/u/1788228)|
+|41|[YerayAlonso](https://github.com/YerayAlonso)|11|0|6|6|2012-05-29|![YerayAlonso](https://avatars2.githubusercontent.com/u/1788228)|
+|42|[joseabernal](https://github.com/joseabernal)|11|0|6|10|2011-11-23|![joseabernal](https://avatars2.githubusercontent.com/u/1215598)|
 |43|[dsoms](https://github.com/dsoms)|9|0|17|4|2011-07-13|![dsoms](https://avatars3.githubusercontent.com/u/912243)|
 |44|[antonio-manuel](https://github.com/antonio-manuel)|8|0|14|6|2015-04-09|![antonio-manuel](https://avatars0.githubusercontent.com/u/11867984)|
 |45|[AbelToy](https://github.com/AbelToy)|7|0|6|23|2009-10-31|![AbelToy](https://avatars2.githubusercontent.com/u/147130)|
@@ -64,12 +64,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |50|[Carlesla](https://github.com/Carlesla)|2|0|12|5|2012-06-18|![Carlesla](https://avatars0.githubusercontent.com/u/1863714)|
 |51|[johnny32](https://github.com/johnny32)|2|0|4|4|2013-03-20|![johnny32](https://avatars2.githubusercontent.com/u/3924718)|
 |52|[BrunoAltadill](https://github.com/BrunoAltadill)|2|0|2|3|2015-12-29|![BrunoAltadill](https://avatars3.githubusercontent.com/u/16470099)|
-|53|[murtra](https://github.com/murtra)|1|0|23|9|2012-06-05|![murtra](https://avatars3.githubusercontent.com/u/1818725)|
-|54|[xagema](https://github.com/xagema)|1|0|2|2|2012-05-23|![xagema](https://avatars2.githubusercontent.com/u/1770166)|
-|55|[ilyassjaatit](https://github.com/ilyassjaatit)|1|0|4|9|2013-12-06|![ilyassjaatit](https://avatars0.githubusercontent.com/u/6122534)|
-|56|[Deathroller](https://github.com/Deathroller)|1|0|11|3|2014-06-18|![Deathroller](https://avatars3.githubusercontent.com/u/7921596)|
+|53|[xagema](https://github.com/xagema)|1|0|2|2|2012-05-23|![xagema](https://avatars2.githubusercontent.com/u/1770166)|
+|54|[murtra](https://github.com/murtra)|1|0|23|9|2012-06-05|![murtra](https://avatars3.githubusercontent.com/u/1818725)|
+|55|[Deathroller](https://github.com/Deathroller)|1|0|11|3|2014-06-18|![Deathroller](https://avatars3.githubusercontent.com/u/7921596)|
+|56|[ilyassjaatit](https://github.com/ilyassjaatit)|1|0|4|9|2013-12-06|![ilyassjaatit](https://avatars0.githubusercontent.com/u/6122534)|
 |57|[gvallicrosa](https://github.com/gvallicrosa)|0|0|5|4|2012-09-13|![gvallicrosa](https://avatars0.githubusercontent.com/u/2340232)|
-|58|[marclr](https://github.com/marclr)|0|68|10|9|2013-02-04|![marclr](https://avatars0.githubusercontent.com/u/3474291)|
-|59|[ovide](https://github.com/ovide)|0|0|8|5|2013-02-01|![ovide](https://avatars3.githubusercontent.com/u/3451025)|
+|58|[ovide](https://github.com/ovide)|0|0|8|5|2013-02-01|![ovide](https://avatars3.githubusercontent.com/u/3451025)|
+|59|[marclr](https://github.com/marclr)|0|68|10|9|2013-02-04|![marclr](https://avatars0.githubusercontent.com/u/3474291)|
 |60|[gerardguiu](https://github.com/gerardguiu)|0|0|3|6|2013-10-14|![gerardguiu](https://avatars2.githubusercontent.com/u/5679102)|
 |61|[Gaucho-9](https://github.com/Gaucho-9)|0|0|5|2|2014-01-27|![Gaucho-9](https://avatars3.githubusercontent.com/u/6517150)|

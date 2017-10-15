@@ -1,4 +1,4 @@
-{ "date": "08:45PM-October-15-2017",
+{ "date": "11:03PM-October-15-2017",
   "users": [
   { "name": "eusonlito",
     "position": 1,
@@ -204,20 +204,8 @@
     "join": "2014-09-22",
     "avatar": "https://avatars2.githubusercontent.com/u/8866635"
   },
-  { "name": "hrosalgado",
-    "position": 18,
-    "contributions": 3,
-    "public": 3,
-    "private": 0,
-    "bio": "Software Engineer",
-    "followers": 4,
-    "repositories":18,
-    "organizations":0,
-    "join": "2014-11-24",
-    "avatar": "https://avatars2.githubusercontent.com/u/9938772"
-  },
   { "name": "Mascalerino",
-    "position": 19,
+    "position": 18,
     "contributions": 3,
     "public": 3,
     "private": 0,
@@ -227,6 +215,18 @@
     "organizations":0,
     "join": "2014-12-05",
     "avatar": "https://avatars0.githubusercontent.com/u/10086067"
+  },
+  { "name": "hrosalgado",
+    "position": 19,
+    "contributions": 3,
+    "public": 3,
+    "private": 0,
+    "bio": "Software Engineer",
+    "followers": 4,
+    "repositories":18,
+    "organizations":0,
+    "join": "2014-11-24",
+    "avatar": "https://avatars2.githubusercontent.com/u/9938772"
   },
   { "name": "braiscarrion",
     "position": 20,
@@ -240,8 +240,20 @@
     "join": "2013-12-29",
     "avatar": "https://avatars0.githubusercontent.com/u/6281857"
   },
-  { "name": "oscar2695",
+  { "name": "antoniovazquezaraujo",
     "position": 21,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 2,
+    "repositories":19,
+    "organizations":0,
+    "join": "2011-08-17",
+    "avatar": "https://avatars0.githubusercontent.com/u/987077"
+  },
+  { "name": "oscar2695",
+    "position": 22,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -253,7 +265,7 @@
     "avatar": "https://avatars0.githubusercontent.com/u/5764349"
   },
   { "name": "mdgomez",
-    "position": 22,
+    "position": 23,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -263,18 +275,6 @@
     "organizations":0,
     "join": "2014-11-26",
     "avatar": "https://avatars1.githubusercontent.com/u/9967701"
-  },
-  { "name": "antoniovazquezaraujo",
-    "position": 23,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 2,
-    "repositories":19,
-    "organizations":0,
-    "join": "2011-08-17",
-    "avatar": "https://avatars0.githubusercontent.com/u/987077"
   }
   ]
 }

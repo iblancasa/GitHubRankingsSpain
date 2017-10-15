@@ -1,6 +1,6 @@
 # Ranking Álava
 
-Generado 08:42PM-October-15-2017.
+Generado 10:59PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -43,19 +43,19 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |29|[vixlima](https://github.com/vixlima)|3|0|15|22|2009-08-08|![vixlima](https://avatars3.githubusercontent.com/u/113282)|
 |30|[priscilaneves](https://github.com/priscilaneves)|3|0|4|3|2014-04-03|![priscilaneves](https://avatars0.githubusercontent.com/u/7153399)|
 |31|[FotoIkatz](https://github.com/FotoIkatz)|3|11|2|3|2015-11-19|![FotoIkatz](https://avatars3.githubusercontent.com/u/15926085)|
-|32|[ioritzHO](https://github.com/ioritzHO)|2|0|4|2|2012-08-19|![ioritzHO](https://avatars2.githubusercontent.com/u/2179398)|
-|33|[bbay](https://github.com/bbay)|2|0|7|7|2013-06-20|![bbay](https://avatars0.githubusercontent.com/u/4747724)|
+|32|[bbay](https://github.com/bbay)|2|0|7|7|2013-06-20|![bbay](https://avatars0.githubusercontent.com/u/4747724)|
+|33|[ioritzHO](https://github.com/ioritzHO)|2|0|4|2|2012-08-19|![ioritzHO](https://avatars2.githubusercontent.com/u/2179398)|
 |34|[gorkar12](https://github.com/gorkar12)|1|0|6|6|2013-09-25|![gorkar12](https://avatars3.githubusercontent.com/u/5543281)|
 |35|[dhighwayman](https://github.com/dhighwayman)|0|184|4|12|2009-04-10|![dhighwayman](https://avatars1.githubusercontent.com/u/72442)|
-|36|[agoya](https://github.com/agoya)|0|0|4|2|2012-02-03|![agoya](https://avatars0.githubusercontent.com/u/1406621)|
-|37|[anteojo](https://github.com/anteojo)|0|0|2|2|2009-04-06|![anteojo](https://avatars2.githubusercontent.com/u/70954)|
-|38|[sciruela](https://github.com/sciruela)|0|0|41|5|2011-03-23|![sciruela](https://avatars3.githubusercontent.com/u/685716)|
-|39|[lucaslellis](https://github.com/lucaslellis)|0|0|2|2|2009-07-12|![lucaslellis](https://avatars1.githubusercontent.com/u/104232)|
-|40|[leohackin](https://github.com/leohackin)|0|0|14|54|2009-08-17|![leohackin](https://avatars3.githubusercontent.com/u/116130)|
-|41|[trepi](https://github.com/trepi)|0|0|4|3|2011-04-27|![trepi](https://avatars3.githubusercontent.com/u/755738)|
-|42|[fzmaster](https://github.com/fzmaster)|0|0|17|18|2010-04-01|![fzmaster](https://avatars2.githubusercontent.com/u/235282)|
-|43|[mserranog](https://github.com/mserranog)|0|0|6|2|2012-04-17|![mserranog](https://avatars2.githubusercontent.com/u/1651085)|
-|44|[rg1024](https://github.com/rg1024)|0|0|3|3|2010-05-02|![rg1024](https://avatars3.githubusercontent.com/u/262476)|
-|45|[javipaur](https://github.com/javipaur)|0|0|16|6|2013-02-06|![javipaur](https://avatars2.githubusercontent.com/u/3490928)|
+|36|[lucaslellis](https://github.com/lucaslellis)|0|0|2|2|2009-07-12|![lucaslellis](https://avatars1.githubusercontent.com/u/104232)|
+|37|[agoya](https://github.com/agoya)|0|0|4|2|2012-02-03|![agoya](https://avatars0.githubusercontent.com/u/1406621)|
+|38|[leohackin](https://github.com/leohackin)|0|0|14|54|2009-08-17|![leohackin](https://avatars3.githubusercontent.com/u/116130)|
+|39|[anteojo](https://github.com/anteojo)|0|0|2|2|2009-04-06|![anteojo](https://avatars2.githubusercontent.com/u/70954)|
+|40|[trepi](https://github.com/trepi)|0|0|4|3|2011-04-27|![trepi](https://avatars3.githubusercontent.com/u/755738)|
+|41|[fzmaster](https://github.com/fzmaster)|0|0|17|18|2010-04-01|![fzmaster](https://avatars2.githubusercontent.com/u/235282)|
+|42|[mserranog](https://github.com/mserranog)|0|0|6|2|2012-04-17|![mserranog](https://avatars2.githubusercontent.com/u/1651085)|
+|43|[rg1024](https://github.com/rg1024)|0|0|3|3|2010-05-02|![rg1024](https://avatars3.githubusercontent.com/u/262476)|
+|44|[sciruela](https://github.com/sciruela)|0|0|41|5|2011-03-23|![sciruela](https://avatars3.githubusercontent.com/u/685716)|
+|45|[Asuanzes](https://github.com/Asuanzes)|0|0|9|3|2013-05-12|![Asuanzes](https://avatars3.githubusercontent.com/u/4410315)|
 |46|[falbarp](https://github.com/falbarp)|0|0|4|2|2013-05-27|![falbarp](https://avatars2.githubusercontent.com/u/4542512)|
-|47|[Asuanzes](https://github.com/Asuanzes)|0|0|9|3|2013-05-12|![Asuanzes](https://avatars3.githubusercontent.com/u/4410315)|
+|47|[javipaur](https://github.com/javipaur)|0|0|16|6|2013-02-06|![javipaur](https://avatars2.githubusercontent.com/u/3490928)|

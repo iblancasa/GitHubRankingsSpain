@@ -1,4 +1,4 @@
-{ "date": "08:46PM-October-15-2017",
+{ "date": "11:04PM-October-15-2017",
   "users": [
   { "name": "SuperJMN",
     "position": 1,
@@ -348,8 +348,20 @@
     "join": "2011-03-18",
     "avatar": "https://avatars3.githubusercontent.com/u/677220"
   },
-  { "name": "vpoblete",
+  { "name": "jotajotavm",
     "position": 30,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 50,
+    "repositories":5,
+    "organizations":0,
+    "join": "2013-12-10",
+    "avatar": "https://avatars3.githubusercontent.com/u/6154935"
+  },
+  { "name": "vpoblete",
+    "position": 31,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -361,7 +373,7 @@
     "avatar": "https://avatars1.githubusercontent.com/u/2203544"
   },
   { "name": "vroman",
-    "position": 31,
+    "position": 32,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -371,18 +383,6 @@
     "organizations":2,
     "join": "2009-01-09",
     "avatar": "https://avatars3.githubusercontent.com/u/45230"
-  },
-  { "name": "jotajotavm",
-    "position": 32,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 50,
-    "repositories":5,
-    "organizations":0,
-    "join": "2013-12-10",
-    "avatar": "https://avatars3.githubusercontent.com/u/6154935"
   }
   ]
 }

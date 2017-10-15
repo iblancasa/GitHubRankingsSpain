@@ -1,6 +1,6 @@
 # Ranking Salamanca
 
-Generado 08:28PM-October-15-2017.
+Generado 10:39PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -40,7 +40,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |26|[DataLabUsal](https://github.com/DataLabUsal)|21|0|6|3|2016-05-18|![DataLabUsal](https://avatars0.githubusercontent.com/u/19425138)|
 |27|[flopezluis](https://github.com/flopezluis)|20|0|25|15|2010-11-01|![flopezluis](https://avatars0.githubusercontent.com/u/463135)|
 |28|[lopeLH](https://github.com/lopeLH)|19|52|14|30|2014-04-29|![lopeLH](https://avatars1.githubusercontent.com/u/7440734)|
-|29|[jagarciavi](https://github.com/jagarciavi)|17|5|14|10|2012-05-07|![jagarciavi](https://avatars0.githubusercontent.com/u/1713002)|
+|29|[jagarciavi](https://github.com/jagarciavi)|18|5|15|10|2012-05-07|![jagarciavi](https://avatars0.githubusercontent.com/u/1713002)|
 |30|[emervel](https://github.com/emervel)|11|0|23|3|2014-05-11|![emervel](https://avatars2.githubusercontent.com/u/7548274)|
 |31|[svegaca](https://github.com/svegaca)|7|0|17|16|2010-02-03|![svegaca](https://avatars0.githubusercontent.com/u/196002)|
 |32|[javiglesias](https://github.com/javiglesias)|7|0|53|9|2014-10-06|![javiglesias](https://avatars3.githubusercontent.com/u/9042602)|
@@ -51,14 +51,14 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |37|[cjimenezpacho](https://github.com/cjimenezpacho)|3|0|6|4|2012-09-26|![cjimenezpacho](https://avatars3.githubusercontent.com/u/2428271)|
 |38|[TechKrowd](https://github.com/TechKrowd)|3|0|16|14|2015-10-10|![TechKrowd](https://avatars2.githubusercontent.com/u/15065592)|
 |39|[rodrigoSantamaria](https://github.com/rodrigoSantamaria)|2|0|3|3|2012-04-02|![rodrigoSantamaria](https://avatars3.githubusercontent.com/u/1600691)|
-|40|[miguelsanchz](https://github.com/miguelsanchz)|0|0|6|4|2012-07-10|![miguelsanchz](https://avatars2.githubusercontent.com/u/1951141)|
-|41|[Evilnat](https://github.com/Evilnat)|0|0|3|5|2011-01-12|![Evilnat](https://avatars1.githubusercontent.com/u/560108)|
-|42|[Garroten](https://github.com/Garroten)|0|0|6|4|2008-05-04|![Garroten](https://avatars1.githubusercontent.com/u/9264)|
-|43|[futurblade](https://github.com/futurblade)|0|0|18|4|2012-10-03|![futurblade](https://avatars3.githubusercontent.com/u/2479273)|
-|44|[rodrigoolmo](https://github.com/rodrigoolmo)|0|0|4|4|2011-04-09|![rodrigoolmo](https://avatars2.githubusercontent.com/u/719905)|
-|45|[rocqetQueen](https://github.com/rocqetQueen)|0|0|18|3|2013-10-17|![rocqetQueen](https://avatars1.githubusercontent.com/u/5708398)|
+|40|[rodrigoolmo](https://github.com/rodrigoolmo)|0|0|4|4|2011-04-09|![rodrigoolmo](https://avatars2.githubusercontent.com/u/719905)|
+|41|[miguelsanchz](https://github.com/miguelsanchz)|0|0|6|4|2012-07-10|![miguelsanchz](https://avatars2.githubusercontent.com/u/1951141)|
+|42|[Evilnat](https://github.com/Evilnat)|0|0|3|5|2011-01-12|![Evilnat](https://avatars1.githubusercontent.com/u/560108)|
+|43|[Garroten](https://github.com/Garroten)|0|0|6|4|2008-05-04|![Garroten](https://avatars1.githubusercontent.com/u/9264)|
+|44|[futurblade](https://github.com/futurblade)|0|0|18|4|2012-10-03|![futurblade](https://avatars3.githubusercontent.com/u/2479273)|
+|45|[jvcerver](https://github.com/jvcerver)|0|0|7|6|2013-10-22|![jvcerver](https://avatars3.githubusercontent.com/u/5751143)|
 |46|[ricardoper](https://github.com/ricardoper)|0|0|3|6|2013-08-04|![ricardoper](https://avatars2.githubusercontent.com/u/5161172)|
-|47|[asanchezyu](https://github.com/asanchezyu)|0|0|4|4|2014-05-13|![asanchezyu](https://avatars2.githubusercontent.com/u/7567924)|
-|48|[bsusal](https://github.com/bsusal)|0|0|7|4|2014-02-26|![bsusal](https://avatars1.githubusercontent.com/u/6797598)|
-|49|[jvcerver](https://github.com/jvcerver)|0|0|7|6|2013-10-22|![jvcerver](https://avatars3.githubusercontent.com/u/5751143)|
+|47|[bsusal](https://github.com/bsusal)|0|0|7|4|2014-02-26|![bsusal](https://avatars1.githubusercontent.com/u/6797598)|
+|48|[asanchezyu](https://github.com/asanchezyu)|0|0|4|4|2014-05-13|![asanchezyu](https://avatars2.githubusercontent.com/u/7567924)|
+|49|[rocqetQueen](https://github.com/rocqetQueen)|0|0|18|3|2013-10-17|![rocqetQueen](https://avatars1.githubusercontent.com/u/5708398)|
 |50|[UrielHaile](https://github.com/UrielHaile)|0|0|13|3|2014-10-09|![UrielHaile](https://avatars2.githubusercontent.com/u/9108886)|

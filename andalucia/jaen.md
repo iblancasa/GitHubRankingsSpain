@@ -1,6 +1,6 @@
 # Ranking Jaén
 
-Generado 08:23PM-October-15-2017.
+Generado 10:34PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -63,8 +63,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |49|[Evef](https://github.com/Evef)|1|0|4|5|2012-12-15|![Evef](https://avatars1.githubusercontent.com/u/3052550)|
 |50|[sanchezjr](https://github.com/sanchezjr)|1|0|3|3|2013-12-17|![sanchezjr](https://avatars0.githubusercontent.com/u/6205905)|
 |51|[dazaro](https://github.com/dazaro)|1|0|2|3|2014-10-08|![dazaro](https://avatars1.githubusercontent.com/u/9086676)|
-|52|[pedroag](https://github.com/pedroag)|0|0|7|3|2013-09-23|![pedroag](https://avatars1.githubusercontent.com/u/5517655)|
-|53|[Ciorraga](https://github.com/Ciorraga)|0|0|9|5|2013-11-08|![Ciorraga](https://avatars1.githubusercontent.com/u/5888071)|
+|52|[Ciorraga](https://github.com/Ciorraga)|0|0|9|5|2013-11-08|![Ciorraga](https://avatars1.githubusercontent.com/u/5888071)|
+|53|[pedroag](https://github.com/pedroag)|0|0|7|3|2013-09-23|![pedroag](https://avatars1.githubusercontent.com/u/5517655)|
 |54|[JCristobal](https://github.com/JCristobal)|0|0|35|11|2014-09-23|![JCristobal](https://avatars3.githubusercontent.com/u/8878426)|
 |55|[Zaldric](https://github.com/Zaldric)|0|14|6|4|2016-03-29|![Zaldric](https://avatars0.githubusercontent.com/u/18138275)|
 |56|[MarcialSanchez](https://github.com/MarcialSanchez)|0|0|5|8|2015-10-03|![MarcialSanchez](https://avatars0.githubusercontent.com/u/14955899)|
