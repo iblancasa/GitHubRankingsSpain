@@ -1,4 +1,4 @@
-{ "date": "05:03PM-October-14-2017",
+{ "date": "08:41PM-October-15-2017",
   "users": [
   { "name": "agonper",
     "position": 1,
@@ -312,20 +312,8 @@
     "join": "2010-11-13",
     "avatar": "https://avatars0.githubusercontent.com/u/480371"
   },
-  { "name": "kadosch",
-    "position": 27,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 3,
-    "repositories":4,
-    "organizations":0,
-    "join": "2011-12-31",
-    "avatar": "https://avatars1.githubusercontent.com/u/1296520"
-  },
   { "name": "siserte",
-    "position": 28,
+    "position": 27,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -335,6 +323,18 @@
     "organizations":0,
     "join": "2014-02-05",
     "avatar": "https://avatars2.githubusercontent.com/u/6595035"
+  },
+  { "name": "kadosch",
+    "position": 28,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 3,
+    "repositories":4,
+    "organizations":0,
+    "join": "2011-12-31",
+    "avatar": "https://avatars1.githubusercontent.com/u/1296520"
   }
   ]
 }

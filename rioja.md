@@ -1,6 +1,6 @@
 # Ranking Rioja
 
-Generado 05:30PM-October-14-2017.
+Generado 08:54PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -14,9 +14,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[jynus](https://github.com/jynus)|707|0|7|13|2014-08-28|![jynus](https://avatars1.githubusercontent.com/u/8576860)|
 |2|[stronk7](https://github.com/stronk7)|639|0|57|48|2009-12-14|![stronk7](https://avatars3.githubusercontent.com/u/167147)|
-|3|[iderioja](https://github.com/iderioja)|613|0|10|16|2013-07-25|![iderioja](https://avatars3.githubusercontent.com/u/5090808)|
-|4|[jorgegorka](https://github.com/jorgegorka)|309|2971|30|24|2008-05-07|![jorgegorka](https://avatars3.githubusercontent.com/u/9585)|
-|5|[jecrespo](https://github.com/jecrespo)|242|0|49|43|2012-03-15|![jecrespo](https://avatars2.githubusercontent.com/u/1539718)|
+|3|[iderioja](https://github.com/iderioja)|614|0|10|16|2013-07-25|![iderioja](https://avatars3.githubusercontent.com/u/5090808)|
+|4|[jorgegorka](https://github.com/jorgegorka)|347|2933|30|24|2008-05-07|![jorgegorka](https://avatars3.githubusercontent.com/u/9585)|
+|5|[jecrespo](https://github.com/jecrespo)|245|0|49|43|2012-03-15|![jecrespo](https://avatars2.githubusercontent.com/u/1539718)|
 |6|[asiermarques](https://github.com/asiermarques)|217|0|6|88|2009-11-05|![asiermarques](https://avatars0.githubusercontent.com/u/149459)|
 |7|[pablo-moreno](https://github.com/pablo-moreno)|168|0|10|2|2014-07-18|![pablo-moreno](https://avatars1.githubusercontent.com/u/8203696)|
 |8|[juanmirod](https://github.com/juanmirod)|148|0|15|21|2013-02-27|![juanmirod](https://avatars2.githubusercontent.com/u/3714422)|
@@ -33,8 +33,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |19|[Txumari](https://github.com/Txumari)|13|0|18|7|2010-09-16|![Txumari](https://avatars1.githubusercontent.com/u/401963)|
 |20|[rgo](https://github.com/rgo)|11|0|54|59|2009-01-16|![rgo](https://avatars1.githubusercontent.com/u/47124)|
 |21|[jcarlosmontoya](https://github.com/jcarlosmontoya)|8|0|10|3|2014-05-23|![jcarlosmontoya](https://avatars1.githubusercontent.com/u/7680456)|
-|22|[rcarnerorojo](https://github.com/rcarnerorojo)|5|520|7|7|2014-04-17|![rcarnerorojo](https://avatars0.githubusercontent.com/u/7326722)|
+|22|[rcarnerorojo](https://github.com/rcarnerorojo)|6|519|7|7|2014-04-17|![rcarnerorojo](https://avatars0.githubusercontent.com/u/7326722)|
 |23|[chiva](https://github.com/chiva)|4|0|17|19|2010-06-15|![chiva](https://avatars1.githubusercontent.com/u/305333)|
-|24|[borjareinares](https://github.com/borjareinares)|0|0|4|17|2011-01-26|![borjareinares](https://avatars3.githubusercontent.com/u/584645)|
-|25|[csadan](https://github.com/csadan)|0|0|4|2|2014-01-21|![csadan](https://avatars0.githubusercontent.com/u/6459730)|
-|26|[Jimbo2K](https://github.com/Jimbo2K)|0|0|6|3|2016-03-15|![Jimbo2K](https://avatars1.githubusercontent.com/u/17853527)|
+|24|[csadan](https://github.com/csadan)|0|0|4|2|2014-01-21|![csadan](https://avatars0.githubusercontent.com/u/6459730)|
+|25|[Jimbo2K](https://github.com/Jimbo2K)|0|0|6|3|2016-03-15|![Jimbo2K](https://avatars1.githubusercontent.com/u/17853527)|
+|26|[borjareinares](https://github.com/borjareinares)|0|0|4|17|2011-01-26|![borjareinares](https://avatars3.githubusercontent.com/u/584645)|

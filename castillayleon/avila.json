@@ -1,10 +1,10 @@
-{ "date": "04:47PM-October-14-2017",
+{ "date": "08:26PM-October-15-2017",
   "users": [
   { "name": "sergio11",
     "position": 1,
-    "contributions": 1058,
-    "public": 918,
-    "private": 140,
+    "contributions": 1089,
+    "public": 919,
+    "private": 170,
     "bio": "Android and Web Developer",
     "followers": 20,
     "repositories":61,
@@ -47,18 +47,6 @@
     "organizations":0,
     "join": "2012-09-04",
     "avatar": "https://avatars1.githubusercontent.com/u/2276963"
-  },
-  { "name": "roizpi",
-    "position": 5,
-    "contributions": 5,
-    "public": 5,
-    "private": 0,
-    "bio": "Full Stack Web Dev &amp; Cybersecurity",
-    "followers": 4,
-    "repositories":9,
-    "organizations":0,
-    "join": "2014-06-28",
-    "avatar": "https://avatars3.githubusercontent.com/u/8014558"
   }
   ]
 }

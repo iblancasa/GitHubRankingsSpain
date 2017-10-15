@@ -1,6 +1,6 @@
 # Ranking Burgos
 
-Generado 04:47PM-October-14-2017.
+Generado 08:26PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -20,12 +20,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |6|[ElionTDA](https://github.com/ElionTDA)|41|0|11|3|2013-09-21|![ElionTDA](https://avatars1.githubusercontent.com/u/5507129)|
 |7|[ipvalverde](https://github.com/ipvalverde)|38|0|19|10|2014-03-08|![ipvalverde](https://avatars0.githubusercontent.com/u/6889318)|
 |8|[JoseluCross](https://github.com/JoseluCross)|35|59|10|5|2015-08-27|![JoseluCross](https://avatars0.githubusercontent.com/u/14005926)|
-|9|[pacocardenal](https://github.com/pacocardenal)|27|0|34|6|2013-09-12|![pacocardenal](https://avatars3.githubusercontent.com/u/5442055)|
-|10|[Kiszaner](https://github.com/Kiszaner)|27|137|9|2|2014-10-08|![Kiszaner](https://avatars2.githubusercontent.com/u/9079893)|
+|9|[Kiszaner](https://github.com/Kiszaner)|29|135|9|2|2014-10-08|![Kiszaner](https://avatars2.githubusercontent.com/u/9079893)|
+|10|[pacocardenal](https://github.com/pacocardenal)|27|0|34|6|2013-09-12|![pacocardenal](https://avatars3.githubusercontent.com/u/5442055)|
 |11|[zerberros](https://github.com/zerberros)|17|0|14|2|2013-11-13|![zerberros](https://avatars3.githubusercontent.com/u/5930950)|
 |12|[alvaropeso97](https://github.com/alvaropeso97)|13|87|2|2|2016-10-23|![alvaropeso97](https://avatars0.githubusercontent.com/u/23009799)|
 |13|[Al-Waseem](https://github.com/Al-Waseem)|11|0|30|2|2013-12-26|![Al-Waseem](https://avatars1.githubusercontent.com/u/6266689)|
 |14|[rmartico](https://github.com/rmartico)|5|0|2|5|2012-10-11|![rmartico](https://avatars2.githubusercontent.com/u/2535865)|
 |15|[turtulino](https://github.com/turtulino)|3|0|3|2|2011-08-25|![turtulino](https://avatars3.githubusercontent.com/u/1004178)|
-|16|[sabadow](https://github.com/sabadow)|0|0|8|8|2012-02-08|![sabadow](https://avatars2.githubusercontent.com/u/1420021)|
-|17|[smarquina](https://github.com/smarquina)|0|0|4|2|2015-04-29|![smarquina](https://avatars3.githubusercontent.com/u/12174981)|
+|16|[smarquina](https://github.com/smarquina)|0|0|4|2|2015-04-29|![smarquina](https://avatars3.githubusercontent.com/u/12174981)|
+|17|[sabadow](https://github.com/sabadow)|0|0|8|8|2012-02-08|![sabadow](https://avatars2.githubusercontent.com/u/1420021)|

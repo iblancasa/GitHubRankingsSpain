@@ -1,6 +1,6 @@
 # Ranking Segovia
 
-Generado 04:48PM-October-14-2017.
+Generado 08:28PM-October-15-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -18,7 +18,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |4|[sergioortegagomez](https://github.com/sergioortegagomez)|64|0|7|5|2014-09-14|![sergioortegagomez](https://avatars2.githubusercontent.com/u/8767128)|
 |5|[josejuanllopistemes](https://github.com/josejuanllopistemes)|26|0|7|4|2015-05-28|![josejuanllopistemes](https://avatars0.githubusercontent.com/u/12647640)|
 |6|[albertocc](https://github.com/albertocc)|18|0|6|2|2015-08-18|![albertocc](https://avatars2.githubusercontent.com/u/13858689)|
-|7|[robertobermejo](https://github.com/robertobermejo)|15|0|32|8|2010-03-13|![robertobermejo](https://avatars1.githubusercontent.com/u/221931)|
+|7|[robertobermejo](https://github.com/robertobermejo)|15|0|32|9|2010-03-13|![robertobermejo](https://avatars1.githubusercontent.com/u/221931)|
 |8|[migumar2](https://github.com/migumar2)|8|209|2|11|2011-05-31|![migumar2](https://avatars2.githubusercontent.com/u/819947)|
 |9|[rasacris](https://github.com/rasacris)|4|0|5|3|2016-03-23|![rasacris](https://avatars1.githubusercontent.com/u/18039000)|
 |10|[alvardsoler](https://github.com/alvardsoler)|1|0|15|9|2013-04-09|![alvardsoler](https://avatars1.githubusercontent.com/u/4102837)|
