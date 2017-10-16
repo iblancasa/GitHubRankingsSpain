@@ -1,6 +1,6 @@
 # Ranking Guipúzcoa
 
-Generado 10:19AM-October-16-2017.
+Generado 01:04PM-October-16-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -50,8 +50,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |36|[inigoiparragirre](https://github.com/inigoiparragirre)|14|0|21|3|2013-06-18|![inigoiparragirre](https://avatars0.githubusercontent.com/u/4726310)|
 |37|[blizarazu](https://github.com/blizarazu)|12|0|27|2|2010-06-13|![blizarazu](https://avatars1.githubusercontent.com/u/304059)|
 |38|[LorenaGdL](https://github.com/LorenaGdL)|12|24|3|3|2014-11-21|![LorenaGdL](https://avatars3.githubusercontent.com/u/9889214)|
-|39|[Sulley38](https://github.com/Sulley38)|11|0|6|7|2012-03-21|![Sulley38](https://avatars3.githubusercontent.com/u/1562410)|
-|40|[libargutxi](https://github.com/libargutxi)|11|0|13|3|2012-03-21|![libargutxi](https://avatars2.githubusercontent.com/u/1560714)|
+|39|[libargutxi](https://github.com/libargutxi)|11|0|13|3|2012-03-21|![libargutxi](https://avatars2.githubusercontent.com/u/1560714)|
+|40|[Sulley38](https://github.com/Sulley38)|11|0|6|7|2012-03-21|![Sulley38](https://avatars3.githubusercontent.com/u/1562410)|
 |41|[Skillath](https://github.com/Skillath)|11|0|46|5|2013-10-18|![Skillath](https://avatars0.githubusercontent.com/u/5716415)|
 |42|[ander2](https://github.com/ander2)|9|0|12|2|2013-04-12|![ander2](https://avatars3.githubusercontent.com/u/4135033)|
 |43|[isg-ehu](https://github.com/isg-ehu)|8|0|10|2|2016-05-05|![isg-ehu](https://avatars3.githubusercontent.com/u/19205461)|
@@ -64,22 +64,22 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |50|[donostitron](https://github.com/donostitron)|4|0|3|2|2016-11-02|![donostitron](https://avatars2.githubusercontent.com/u/23212814)|
 |51|[jmakazaga](https://github.com/jmakazaga)|3|0|5|3|2013-11-16|![jmakazaga](https://avatars3.githubusercontent.com/u/5956999)|
 |52|[MagnaSIS](https://github.com/MagnaSIS)|3|0|5|3|2015-06-29|![MagnaSIS](https://avatars0.githubusercontent.com/u/13098664)|
-|53|[jatniel](https://github.com/jatniel)|2|0|4|11|2011-09-22|![jatniel](https://avatars0.githubusercontent.com/u/1070744)|
-|54|[xabiamu](https://github.com/xabiamu)|2|0|4|2|2011-06-23|![xabiamu](https://avatars1.githubusercontent.com/u/869975)|
+|53|[xabiamu](https://github.com/xabiamu)|2|0|4|2|2011-06-23|![xabiamu](https://avatars1.githubusercontent.com/u/869975)|
+|54|[jatniel](https://github.com/jatniel)|2|0|4|11|2011-09-22|![jatniel](https://avatars0.githubusercontent.com/u/1070744)|
 |55|[Legrandk](https://github.com/Legrandk)|2|0|7|3|2013-02-20|![Legrandk](https://avatars3.githubusercontent.com/u/3646729)|
 |56|[santaclaragames](https://github.com/santaclaragames)|2|0|4|2|2013-10-16|![santaclaragames](https://avatars3.githubusercontent.com/u/5699144)|
 |57|[naiaramartin](https://github.com/naiaramartin)|1|0|2|3|2012-08-01|![naiaramartin](https://avatars0.githubusercontent.com/u/2079601)|
 |58|[mediascape](https://github.com/mediascape)|1|0|24|17|2013-10-14|![mediascape](https://avatars1.githubusercontent.com/u/5680867)|
 |59|[ikLatorre](https://github.com/ikLatorre)|1|0|3|2|2015-08-11|![ikLatorre](https://avatars3.githubusercontent.com/u/13751581)|
-|60|[xabikip](https://github.com/xabikip)|0|0|12|18|2011-10-07|![xabikip](https://avatars2.githubusercontent.com/u/1109793)|
-|61|[rmhdev](https://github.com/rmhdev)|0|0|30|2|2011-01-31|![rmhdev](https://avatars0.githubusercontent.com/u/593433)|
-|62|[angelortega](https://github.com/angelortega)|0|0|20|8|2011-07-12|![angelortega](https://avatars2.githubusercontent.com/u/910340)|
-|63|[audiolab](https://github.com/audiolab)|0|0|12|2|2011-07-30|![audiolab](https://avatars0.githubusercontent.com/u/948316)|
+|60|[angelortega](https://github.com/angelortega)|0|0|20|8|2011-07-12|![angelortega](https://avatars2.githubusercontent.com/u/910340)|
+|61|[xabikip](https://github.com/xabikip)|0|0|12|18|2011-10-07|![xabikip](https://avatars2.githubusercontent.com/u/1109793)|
+|62|[audiolab](https://github.com/audiolab)|0|0|12|2|2011-07-30|![audiolab](https://avatars0.githubusercontent.com/u/948316)|
+|63|[rmhdev](https://github.com/rmhdev)|0|0|30|2|2011-01-31|![rmhdev](https://avatars0.githubusercontent.com/u/593433)|
 |64|[danisalgueiro](https://github.com/danisalgueiro)|0|0|4|2|2010-03-04|![danisalgueiro](https://avatars0.githubusercontent.com/u/215491)|
 |65|[Aitorzubizarret](https://github.com/Aitorzubizarret)|0|0|12|6|2012-02-14|![Aitorzubizarret](https://avatars3.githubusercontent.com/u/1437157)|
-|66|[cluster28](https://github.com/cluster28)|0|0|3|2|2013-07-18|![cluster28](https://avatars3.githubusercontent.com/u/5039840)|
-|67|[koldoartola](https://github.com/koldoartola)|0|0|2|2|2014-04-13|![koldoartola](https://avatars3.githubusercontent.com/u/7279421)|
-|68|[jonathanSS](https://github.com/jonathanSS)|0|0|4|3|2013-10-25|![jonathanSS](https://avatars3.githubusercontent.com/u/5776656)|
+|66|[jonathanSS](https://github.com/jonathanSS)|0|0|4|3|2013-10-25|![jonathanSS](https://avatars3.githubusercontent.com/u/5776656)|
+|67|[cluster28](https://github.com/cluster28)|0|0|3|2|2013-07-18|![cluster28](https://avatars3.githubusercontent.com/u/5039840)|
+|68|[koldoartola](https://github.com/koldoartola)|0|0|2|2|2014-04-13|![koldoartola](https://avatars3.githubusercontent.com/u/7279421)|
 |69|[sheilapbi](https://github.com/sheilapbi)|0|0|8|17|2014-09-09|![sheilapbi](https://avatars2.githubusercontent.com/u/8705852)|
 |70|[bgamecho](https://github.com/bgamecho)|0|0|2|6|2014-04-16|![bgamecho](https://avatars1.githubusercontent.com/u/7313057)|
 |71|[josuhercearsuaga](https://github.com/josuhercearsuaga)|0|0|5|5|2015-06-09|![josuhercearsuaga](https://avatars1.githubusercontent.com/u/12810089)|

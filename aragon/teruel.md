@@ -1,6 +1,6 @@
 # Ranking Teruel
 
-Generado 09:59AM-October-16-2017.
+Generado 12:43PM-October-16-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 

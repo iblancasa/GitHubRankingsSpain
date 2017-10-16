@@ -1,6 +1,6 @@
 # Ranking Rioja
 
-Generado 10:42AM-October-16-2017.
+Generado 01:28PM-October-16-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -35,6 +35,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |21|[jcarlosmontoya](https://github.com/jcarlosmontoya)|8|0|10|3|2014-05-23|![jcarlosmontoya](https://avatars1.githubusercontent.com/u/7680456)|
 |22|[chiva](https://github.com/chiva)|4|0|17|19|2010-06-15|![chiva](https://avatars1.githubusercontent.com/u/305333)|
 |23|[rcarnerorojo](https://github.com/rcarnerorojo)|0|509|7|7|2014-04-17|![rcarnerorojo](https://avatars0.githubusercontent.com/u/7326722)|
-|24|[borjareinares](https://github.com/borjareinares)|0|0|4|17|2011-01-26|![borjareinares](https://avatars3.githubusercontent.com/u/584645)|
-|25|[csadan](https://github.com/csadan)|0|0|4|2|2014-01-21|![csadan](https://avatars0.githubusercontent.com/u/6459730)|
+|24|[csadan](https://github.com/csadan)|0|0|4|2|2014-01-21|![csadan](https://avatars0.githubusercontent.com/u/6459730)|
+|25|[borjareinares](https://github.com/borjareinares)|0|0|4|17|2011-01-26|![borjareinares](https://avatars3.githubusercontent.com/u/584645)|
 |26|[Jimbo2K](https://github.com/Jimbo2K)|0|0|6|3|2016-03-15|![Jimbo2K](https://avatars1.githubusercontent.com/u/17853527)|

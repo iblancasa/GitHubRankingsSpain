@@ -1,6 +1,6 @@
 # Ranking Girona
 
-Generado 10:15AM-October-16-2017.
+Generado 01:00PM-October-16-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -30,23 +30,23 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |16|[marcmascort](https://github.com/marcmascort)|93|153|5|13|2013-02-14|![marcmascort](https://avatars2.githubusercontent.com/u/3595718)|
 |17|[JOGUI22](https://github.com/JOGUI22)|72|0|5|6|2013-09-30|![JOGUI22](https://avatars0.githubusercontent.com/u/5580229)|
 |18|[albertvila](https://github.com/albertvila)|71|0|3|5|2011-03-24|![albertvila](https://avatars0.githubusercontent.com/u/688206)|
-|19|[mgarcia96](https://github.com/mgarcia96)|71|0|11|5|2014-02-01|![mgarcia96](https://avatars1.githubusercontent.com/u/6561770)|
-|20|[marccamacho](https://github.com/marccamacho)|71|0|6|2|2014-04-24|![marccamacho](https://avatars1.githubusercontent.com/u/7396184)|
+|19|[marccamacho](https://github.com/marccamacho)|71|0|6|2|2014-04-24|![marccamacho](https://avatars1.githubusercontent.com/u/7396184)|
+|20|[mgarcia96](https://github.com/mgarcia96)|71|0|11|5|2014-02-01|![mgarcia96](https://avatars1.githubusercontent.com/u/6561770)|
 |21|[viric](https://github.com/viric)|70|0|15|21|2009-03-24|![viric](https://avatars1.githubusercontent.com/u/66664)|
 |22|[victormartingarcia](https://github.com/victormartingarcia)|65|0|18|7|2011-03-09|![victormartingarcia](https://avatars2.githubusercontent.com/u/659832)|
 |23|[MarcelTbr](https://github.com/MarcelTbr)|59|0|5|3|2016-11-18|![MarcelTbr](https://avatars3.githubusercontent.com/u/23552041)|
 |24|[tramuntanal](https://github.com/tramuntanal)|56|0|15|6|2010-02-08|![tramuntanal](https://avatars0.githubusercontent.com/u/199462)|
 |25|[Dokman](https://github.com/Dokman)|44|0|46|17|2012-09-06|![Dokman](https://avatars1.githubusercontent.com/u/2290904)|
 |26|[richa10](https://github.com/richa10)|43|12|29|12|2014-12-06|![richa10](https://avatars3.githubusercontent.com/u/10096428)|
-|27|[francescjimenez](https://github.com/francescjimenez)|41|398|8|8|2012-05-30|![francescjimenez](https://avatars0.githubusercontent.com/u/1791741)|
+|27|[francescjimenez](https://github.com/francescjimenez)|41|403|8|8|2012-05-30|![francescjimenez](https://avatars0.githubusercontent.com/u/1791741)|
 |28|[holalluis](https://github.com/holalluis)|33|0|29|5|2011-09-27|![holalluis](https://avatars1.githubusercontent.com/u/1082644)|
 |29|[PepJorge](https://github.com/PepJorge)|33|0|2|6|2013-03-08|![PepJorge](https://avatars1.githubusercontent.com/u/3807514)|
 |30|[sangar82](https://github.com/sangar82)|26|0|19|12|2010-12-15|![sangar82](https://avatars1.githubusercontent.com/u/524030)|
 |31|[jbagot](https://github.com/jbagot)|26|0|4|3|2015-03-28|![jbagot](https://avatars3.githubusercontent.com/u/11691527)|
 |32|[eparreno](https://github.com/eparreno)|22|0|31|59|2008-03-13|![eparreno](https://avatars1.githubusercontent.com/u/3028)|
 |33|[lujop](https://github.com/lujop)|19|0|16|3|2011-07-16|![lujop](https://avatars1.githubusercontent.com/u/920260)|
-|34|[ribugent](https://github.com/ribugent)|16|3192|10|7|2011-11-08|![ribugent](https://avatars1.githubusercontent.com/u/1180455)|
-|35|[gagle](https://github.com/gagle)|16|0|43|52|2012-02-17|![gagle](https://avatars0.githubusercontent.com/u/1446052)|
+|34|[gagle](https://github.com/gagle)|16|0|43|52|2012-02-17|![gagle](https://avatars0.githubusercontent.com/u/1446052)|
+|35|[ribugent](https://github.com/ribugent)|16|3199|10|7|2011-11-08|![ribugent](https://avatars1.githubusercontent.com/u/1180455)|
 |36|[acoronadoc](https://github.com/acoronadoc)|15|0|5|2|2011-06-01|![acoronadoc](https://avatars2.githubusercontent.com/u/822481)|
 |37|[pianoza](https://github.com/pianoza)|15|83|21|13|2013-02-28|![pianoza](https://avatars3.githubusercontent.com/u/3731130)|
 |38|[tkanzakic](https://github.com/tkanzakic)|14|0|13|6|2011-06-29|![tkanzakic](https://avatars0.githubusercontent.com/u/884028)|
@@ -55,7 +55,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |41|[YerayAlonso](https://github.com/YerayAlonso)|11|0|6|6|2012-05-29|![YerayAlonso](https://avatars2.githubusercontent.com/u/1788228)|
 |42|[ivanbordas](https://github.com/ivanbordas)|9|0|3|2|2011-01-18|![ivanbordas](https://avatars2.githubusercontent.com/u/570374)|
 |43|[dsoms](https://github.com/dsoms)|8|0|17|4|2011-07-13|![dsoms](https://avatars3.githubusercontent.com/u/912243)|
-|44|[davidrv](https://github.com/davidrv)|8|1437|14|16|2009-03-09|![davidrv](https://avatars2.githubusercontent.com/u/61644)|
+|44|[davidrv](https://github.com/davidrv)|8|1442|14|16|2009-03-09|![davidrv](https://avatars2.githubusercontent.com/u/61644)|
 |45|[antonio-manuel](https://github.com/antonio-manuel)|8|0|14|6|2015-04-09|![antonio-manuel](https://avatars0.githubusercontent.com/u/11867984)|
 |46|[AbelToy](https://github.com/AbelToy)|7|0|6|23|2009-10-31|![AbelToy](https://avatars2.githubusercontent.com/u/147130)|
 |47|[eudago](https://github.com/eudago)|7|0|5|3|2011-05-25|![eudago](https://avatars2.githubusercontent.com/u/809916)|
@@ -69,8 +69,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |55|[ilyassjaatit](https://github.com/ilyassjaatit)|1|0|4|9|2013-12-06|![ilyassjaatit](https://avatars0.githubusercontent.com/u/6122534)|
 |56|[Deathroller](https://github.com/Deathroller)|1|0|11|3|2014-06-18|![Deathroller](https://avatars3.githubusercontent.com/u/7921596)|
 |57|[murtra](https://github.com/murtra)|0|0|23|9|2012-06-05|![murtra](https://avatars3.githubusercontent.com/u/1818725)|
-|58|[gvallicrosa](https://github.com/gvallicrosa)|0|0|5|4|2012-09-13|![gvallicrosa](https://avatars0.githubusercontent.com/u/2340232)|
-|59|[marclr](https://github.com/marclr)|0|68|10|9|2013-02-04|![marclr](https://avatars0.githubusercontent.com/u/3474291)|
+|58|[marclr](https://github.com/marclr)|0|68|10|9|2013-02-04|![marclr](https://avatars0.githubusercontent.com/u/3474291)|
+|59|[gvallicrosa](https://github.com/gvallicrosa)|0|0|5|4|2012-09-13|![gvallicrosa](https://avatars0.githubusercontent.com/u/2340232)|
 |60|[ovide](https://github.com/ovide)|0|0|8|5|2013-02-01|![ovide](https://avatars3.githubusercontent.com/u/3451025)|
 |61|[gerardguiu](https://github.com/gerardguiu)|0|0|3|6|2013-10-14|![gerardguiu](https://avatars2.githubusercontent.com/u/5679102)|
 |62|[Gaucho-9](https://github.com/Gaucho-9)|0|0|5|2|2014-01-27|![Gaucho-9](https://avatars3.githubusercontent.com/u/6517150)|

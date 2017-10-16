@@ -1,6 +1,6 @@
 # Ranking Lugo
 
-Generado 10:21AM-October-16-2017.
+Generado 01:07PM-October-16-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -13,13 +13,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[jesusVMayor](https://github.com/jesusVMayor)|514|14|6|9|2013-09-05|![jesusVMayor](https://avatars2.githubusercontent.com/u/5393537)|
-|2|[nosolosw](https://github.com/nosolosw)|366|139|16|31|2011-01-25|![nosolosw](https://avatars0.githubusercontent.com/u/583546)|
+|2|[nosolosw](https://github.com/nosolosw)|367|139|17|31|2011-01-25|![nosolosw](https://avatars0.githubusercontent.com/u/583546)|
 |3|[omar7r](https://github.com/omar7r)|269|0|11|20|2011-02-25|![omar7r](https://avatars2.githubusercontent.com/u/637695)|
 |4|[oscarmlage](https://github.com/oscarmlage)|130|0|14|20|2009-06-24|![oscarmlage](https://avatars2.githubusercontent.com/u/98542)|
 |5|[LucasMontero](https://github.com/LucasMontero)|90|0|3|4|2014-05-29|![LucasMontero](https://avatars0.githubusercontent.com/u/7733283)|
 |6|[JCarlosVillar](https://github.com/JCarlosVillar)|74|0|5|4|2016-04-26|![JCarlosVillar](https://avatars1.githubusercontent.com/u/18684495)|
-|7|[dieg0v](https://github.com/dieg0v)|46|0|16|8|2011-06-23|![dieg0v](https://avatars3.githubusercontent.com/u/870654)|
-|8|[antoniovazquezblanco](https://github.com/antoniovazquezblanco)|46|0|23|24|2010-06-13|![antoniovazquezblanco](https://avatars1.githubusercontent.com/u/304193)|
+|7|[antoniovazquezblanco](https://github.com/antoniovazquezblanco)|46|0|23|24|2010-06-13|![antoniovazquezblanco](https://avatars1.githubusercontent.com/u/304193)|
+|8|[dieg0v](https://github.com/dieg0v)|46|0|16|8|2011-06-23|![dieg0v](https://avatars3.githubusercontent.com/u/870654)|
 |9|[joserprieto](https://github.com/joserprieto)|42|0|22|10|2011-10-21|![joserprieto](https://avatars2.githubusercontent.com/u/1142233)|
 |10|[rubenhortas](https://github.com/rubenhortas)|34|0|30|37|2013-09-02|![rubenhortas](https://avatars2.githubusercontent.com/u/5363817)|
 |11|[MarcosBL](https://github.com/MarcosBL)|30|0|46|38|2010-09-06|![MarcosBL](https://avatars1.githubusercontent.com/u/389801)|

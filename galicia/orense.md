@@ -1,6 +1,6 @@
 # Ranking Orense
 
-Generado 10:21AM-October-16-2017.
+Generado 01:07PM-October-16-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -32,6 +32,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |18|[Mascalerino](https://github.com/Mascalerino)|3|0|2|7|2014-12-05|![Mascalerino](https://avatars0.githubusercontent.com/u/10086067)|
 |19|[hrosalgado](https://github.com/hrosalgado)|2|0|18|4|2014-11-24|![hrosalgado](https://avatars2.githubusercontent.com/u/9938772)|
 |20|[braiscarrion](https://github.com/braiscarrion)|1|0|11|4|2013-12-29|![braiscarrion](https://avatars0.githubusercontent.com/u/6281857)|
-|21|[mdgomez](https://github.com/mdgomez)|0|0|2|8|2014-11-26|![mdgomez](https://avatars1.githubusercontent.com/u/9967701)|
+|21|[oscar2695](https://github.com/oscar2695)|0|0|6|3|2013-10-24|![oscar2695](https://avatars0.githubusercontent.com/u/5764349)|
 |22|[antoniovazquezaraujo](https://github.com/antoniovazquezaraujo)|0|0|19|2|2011-08-17|![antoniovazquezaraujo](https://avatars0.githubusercontent.com/u/987077)|
-|23|[oscar2695](https://github.com/oscar2695)|0|0|6|3|2013-10-24|![oscar2695](https://avatars0.githubusercontent.com/u/5764349)|
+|23|[mdgomez](https://github.com/mdgomez)|0|0|2|8|2014-11-26|![mdgomez](https://avatars1.githubusercontent.com/u/9967701)|

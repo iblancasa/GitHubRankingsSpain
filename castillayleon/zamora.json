@@ -1,4 +1,4 @@
-{ "date": "10:02AM-October-16-2017",
+{ "date": "12:46PM-October-16-2017",
   "users": [
   { "name": "pcarranza",
     "position": 1,
@@ -84,20 +84,8 @@
     "join": "2014-01-06",
     "avatar": "https://avatars0.githubusercontent.com/u/6333993"
   },
-  { "name": "ganipa93",
-    "position": 8,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 14,
-    "repositories":13,
-    "organizations":0,
-    "join": "2015-09-03",
-    "avatar": "https://avatars0.githubusercontent.com/u/14114469"
-  },
   { "name": "AMoraga",
-    "position": 9,
+    "position": 8,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -107,6 +95,18 @@
     "organizations":0,
     "join": "2010-02-26",
     "avatar": "https://avatars3.githubusercontent.com/u/211362"
+  },
+  { "name": "ganipa93",
+    "position": 9,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 14,
+    "repositories":13,
+    "organizations":0,
+    "join": "2015-09-03",
+    "avatar": "https://avatars0.githubusercontent.com/u/14114469"
   }
   ]
 }
