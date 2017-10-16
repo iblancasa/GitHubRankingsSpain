@@ -1,6 +1,6 @@
 # Ranking Cuenca
 
-Generado 11:04PM-October-15-2017.
+Generado 10:22AM-October-16-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,11 +12,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[alx741](https://github.com/alx741)|1521|616|151|10|2012-10-12|![alx741](https://avatars0.githubusercontent.com/u/2545720)|
-|2|[cuent](https://github.com/cuent)|359|0|36|6|2013-08-17|![cuent](https://avatars3.githubusercontent.com/u/5248968)|
+|1|[alx741](https://github.com/alx741)|1500|616|151|10|2012-10-12|![alx741](https://avatars0.githubusercontent.com/u/2545720)|
+|2|[cuent](https://github.com/cuent)|348|0|36|6|2013-08-17|![cuent](https://avatars3.githubusercontent.com/u/5248968)|
 |3|[edzzn](https://github.com/edzzn)|283|16|30|2|2015-10-02|![edzzn](https://avatars1.githubusercontent.com/u/14936466)|
-|4|[santteegt](https://github.com/santteegt)|133|273|39|5|2011-07-19|![santteegt](https://avatars1.githubusercontent.com/u/926341)|
-|5|[ziluvatar](https://github.com/ziluvatar)|133|965|39|8|2012-02-09|![ziluvatar](https://avatars2.githubusercontent.com/u/1424663)|
+|4|[santteegt](https://github.com/santteegt)|132|273|39|5|2011-07-19|![santteegt](https://avatars1.githubusercontent.com/u/926341)|
+|5|[ziluvatar](https://github.com/ziluvatar)|125|960|39|8|2012-02-09|![ziluvatar](https://avatars2.githubusercontent.com/u/1424663)|
 |6|[jameswilson](https://github.com/jameswilson)|76|0|32|11|2010-04-14|![jameswilson](https://avatars0.githubusercontent.com/u/243532)|
 |7|[etenesaca](https://github.com/etenesaca)|25|0|17|5|2013-02-14|![etenesaca](https://avatars2.githubusercontent.com/u/3594639)|
 |8|[travispence](https://github.com/travispence)|16|412|10|4|2011-12-02|![travispence](https://avatars2.githubusercontent.com/u/1236534)|

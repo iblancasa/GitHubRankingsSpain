@@ -1,6 +1,6 @@
 # Ranking Albacete
 
-Generado 11:04PM-October-15-2017.
+Generado 10:22AM-October-16-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,19 +12,19 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[becarioprecario](https://github.com/becarioprecario)|164|0|13|13|2014-04-20|![becarioprecario](https://avatars3.githubusercontent.com/u/7356250)|
+|1|[becarioprecario](https://github.com/becarioprecario)|156|0|13|13|2014-04-20|![becarioprecario](https://avatars3.githubusercontent.com/u/7356250)|
 |2|[r0i](https://github.com/r0i)|120|0|5|11|2013-09-14|![r0i](https://avatars1.githubusercontent.com/u/5457573)|
-|3|[jacintoArias](https://github.com/jacintoArias)|113|0|8|11|2014-05-07|![jacintoArias](https://avatars2.githubusercontent.com/u/7511199)|
-|4|[ecdani](https://github.com/ecdani)|106|0|8|6|2013-04-20|![ecdani](https://avatars1.githubusercontent.com/u/4211293)|
-|5|[amon-ra](https://github.com/amon-ra)|84|0|115|2|2011-09-14|![amon-ra](https://avatars1.githubusercontent.com/u/1049676)|
+|3|[ecdani](https://github.com/ecdani)|97|0|8|6|2013-04-20|![ecdani](https://avatars1.githubusercontent.com/u/4211293)|
+|4|[amon-ra](https://github.com/amon-ra)|73|0|115|2|2011-09-14|![amon-ra](https://avatars1.githubusercontent.com/u/1049676)|
+|5|[jacintoArias](https://github.com/jacintoArias)|67|0|8|11|2014-05-07|![jacintoArias](https://avatars2.githubusercontent.com/u/7511199)|
 |6|[jialonso](https://github.com/jialonso)|52|12|2|5|2014-10-12|![jialonso](https://avatars0.githubusercontent.com/u/9167780)|
-|7|[javato](https://github.com/javato)|35|0|8|4|2014-09-21|![javato](https://avatars1.githubusercontent.com/u/8853295)|
-|8|[jgallud](https://github.com/jgallud)|22|0|26|19|2013-09-02|![jgallud](https://avatars3.githubusercontent.com/u/5364288)|
+|7|[javato](https://github.com/javato)|29|0|8|4|2014-09-21|![javato](https://avatars1.githubusercontent.com/u/8853295)|
+|8|[jgallud](https://github.com/jgallud)|21|0|26|19|2013-09-02|![jgallud](https://avatars3.githubusercontent.com/u/5364288)|
 |9|[jariazavalverde](https://github.com/jariazavalverde)|20|0|3|5|2013-07-20|![jariazavalverde](https://avatars2.githubusercontent.com/u/5055295)|
 |10|[pasitopasi](https://github.com/pasitopasi)|19|0|7|2|2017-02-27|![pasitopasi](https://avatars2.githubusercontent.com/u/26058363)|
 |11|[jantoniomartin](https://github.com/jantoniomartin)|13|0|23|7|2010-10-14|![jantoniomartin](https://avatars2.githubusercontent.com/u/439759)|
 |12|[dbuedo](https://github.com/dbuedo)|2|0|14|3|2013-08-17|![dbuedo](https://avatars2.githubusercontent.com/u/5249948)|
-|13|[AmadorNavarro](https://github.com/AmadorNavarro)|1|0|13|2|2012-11-12|![AmadorNavarro](https://avatars0.githubusercontent.com/u/2777799)|
+|13|[DiegoGCarcelen](https://github.com/DiegoGCarcelen)|0|4|4|2|2014-09-23|![DiegoGCarcelen](https://avatars2.githubusercontent.com/u/8877650)|
 |14|[ociu](https://github.com/ociu)|0|0|8|3|2013-04-17|![ociu](https://avatars0.githubusercontent.com/u/4182785)|
-|15|[DiegoGCarcelen](https://github.com/DiegoGCarcelen)|0|4|4|2|2014-09-23|![DiegoGCarcelen](https://avatars2.githubusercontent.com/u/8877650)|
-|16|[Craswer](https://github.com/Craswer)|0|0|2|2|2011-05-21|![Craswer](https://avatars1.githubusercontent.com/u/802508)|
+|15|[Craswer](https://github.com/Craswer)|0|0|2|2|2011-05-21|![Craswer](https://avatars1.githubusercontent.com/u/802508)|
+|16|[AmadorNavarro](https://github.com/AmadorNavarro)|0|0|13|2|2012-11-12|![AmadorNavarro](https://avatars0.githubusercontent.com/u/2777799)|
