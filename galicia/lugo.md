@@ -1,6 +1,6 @@
 # Ranking Lugo
 
-Generado 08:57PM-November-12-2017.
+Generado 11:23PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -31,10 +31,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |17|[rodrigorega](https://github.com/rodrigorega)|8|0|15|4|2013-01-31|![rodrigorega](https://avatars2.githubusercontent.com/u/3441785)|
 |18|[man08](https://github.com/man08)|6|0|2|2|2015-07-07|![man08](https://avatars0.githubusercontent.com/u/13219860)|
 |19|[WuShell](https://github.com/WuShell)|5|0|9|4|2011-06-25|![WuShell](https://avatars3.githubusercontent.com/u/875005)|
-|20|[michon](https://github.com/michon)|2|0|7|3|2009-04-06|![michon](https://avatars3.githubusercontent.com/u/70982)|
-|21|[eccoilmoro](https://github.com/eccoilmoro)|2|0|16|2|2013-01-28|![eccoilmoro](https://avatars1.githubusercontent.com/u/3404161)|
-|22|[albertoluengo](https://github.com/albertoluengo)|1|0|3|3|2012-08-30|![albertoluengo](https://avatars2.githubusercontent.com/u/2248231)|
-|23|[jorgeSV](https://github.com/jorgeSV)|1|0|25|5|2013-04-18|![jorgeSV](https://avatars1.githubusercontent.com/u/4189901)|
+|20|[eccoilmoro](https://github.com/eccoilmoro)|2|0|16|2|2013-01-28|![eccoilmoro](https://avatars1.githubusercontent.com/u/3404161)|
+|21|[michon](https://github.com/michon)|2|0|7|3|2009-04-06|![michon](https://avatars3.githubusercontent.com/u/70982)|
+|22|[jorgeSV](https://github.com/jorgeSV)|1|0|25|5|2013-04-18|![jorgeSV](https://avatars1.githubusercontent.com/u/4189901)|
+|23|[albertoluengo](https://github.com/albertoluengo)|1|0|3|3|2012-08-30|![albertoluengo](https://avatars2.githubusercontent.com/u/2248231)|
 |24|[Reptiliancore](https://github.com/Reptiliancore)|1|0|3|2|2016-02-08|![Reptiliancore](https://avatars1.githubusercontent.com/u/17118706)|
 |25|[Ebrithil](https://github.com/Ebrithil)|0|0|6|5|2008-12-20|![Ebrithil](https://avatars2.githubusercontent.com/u/41769)|
 |26|[chucu](https://github.com/chucu)|0|0|9|4|2012-11-15|![chucu](https://avatars0.githubusercontent.com/u/2808398)|

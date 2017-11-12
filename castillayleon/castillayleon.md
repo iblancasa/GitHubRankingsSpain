@@ -1,6 +1,6 @@
 # Ranking Castilla y León
 
-Generado 08:34PM-November-12-2017.
+Generado 11:03PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -43,7 +43,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |29|[eherng03](https://github.com/eherng03)|286|156|19|9|2016-03-03|![eherng03](https://avatars1.githubusercontent.com/u/17623621)|
 |30|[ppGodel](https://github.com/ppGodel)|282|0|6|8|2013-11-20|![ppGodel](https://avatars2.githubusercontent.com/u/5993481)|
 |31|[alexandernst](https://github.com/alexandernst)|267|1|28|62|2009-05-28|![alexandernst](https://avatars1.githubusercontent.com/u/89727)|
-|32|[Dih5](https://github.com/Dih5)|258|76|19|4|2015-04-22|![Dih5](https://avatars2.githubusercontent.com/u/12070738)|
+|32|[Dih5](https://github.com/Dih5)|259|76|19|4|2015-04-22|![Dih5](https://avatars2.githubusercontent.com/u/12070738)|
 |33|[mariodebian](https://github.com/mariodebian)|241|0|16|11|2010-12-14|![mariodebian](https://avatars3.githubusercontent.com/u/522472)|
 |34|[lrmaldo](https://github.com/lrmaldo)|238|0|42|3|2016-03-30|![lrmaldo](https://avatars1.githubusercontent.com/u/18175462)|
 |35|[orlandocharles](https://github.com/orlandocharles)|226|375|8|4|2016-09-29|![orlandocharles](https://avatars0.githubusercontent.com/u/22510311)|
@@ -60,10 +60,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |46|[juangon](https://github.com/juangon)|172|0|144|16|2012-01-05|![juangon](https://avatars2.githubusercontent.com/u/1306127)|
 |47|[minuscorp](https://github.com/minuscorp)|171|1160|22|7|2013-03-09|![minuscorp](https://avatars1.githubusercontent.com/u/3819883)|
 |48|[elloza](https://github.com/elloza)|170|0|22|9|2015-02-24|![elloza](https://avatars2.githubusercontent.com/u/11179372)|
-|49|[sl1pkn07](https://github.com/sl1pkn07)|168|0|11|4|2010-11-01|![sl1pkn07](https://avatars0.githubusercontent.com/u/462213)|
+|49|[sl1pkn07](https://github.com/sl1pkn07)|169|0|11|4|2010-11-01|![sl1pkn07](https://avatars0.githubusercontent.com/u/462213)|
 |50|[edgewl2](https://github.com/edgewl2)|167|0|18|3|2016-07-26|![edgewl2](https://avatars0.githubusercontent.com/u/20669949)|
 |51|[ZabdiAG](https://github.com/ZabdiAG)|166|763|36|2|2013-12-09|![ZabdiAG](https://avatars0.githubusercontent.com/u/6142812)|
-|52|[manuel-fidalgo](https://github.com/manuel-fidalgo)|163|12|34|7|2016-02-05|![manuel-fidalgo](https://avatars1.githubusercontent.com/u/17085524)|
+|52|[manuel-fidalgo](https://github.com/manuel-fidalgo)|166|12|35|7|2016-02-05|![manuel-fidalgo](https://avatars1.githubusercontent.com/u/17085524)|
 |53|[josedl4](https://github.com/josedl4)|163|0|23|2|2015-10-27|![josedl4](https://avatars0.githubusercontent.com/u/15349957)|
 |54|[Vhollow](https://github.com/Vhollow)|162|84|20|6|2016-01-16|![Vhollow](https://avatars2.githubusercontent.com/u/16735015)|
 |55|[SideMasterGM](https://github.com/SideMasterGM)|156|1102|34|3|2014-04-14|![SideMasterGM](https://avatars0.githubusercontent.com/u/7296281)|

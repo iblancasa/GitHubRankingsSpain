@@ -1,6 +1,6 @@
 # Ranking Valladolid
 
-Generado 08:33PM-November-12-2017.
+Generado 11:02PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 

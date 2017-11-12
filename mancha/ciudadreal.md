@@ -1,6 +1,6 @@
 # Ranking Ciudad Real
 
-Generado 08:58PM-November-12-2017.
+Generado 11:24PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -40,7 +40,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |26|[vpoblete](https://github.com/vpoblete)|1|0|2|2|2012-08-23|![vpoblete](https://avatars1.githubusercontent.com/u/2203544)|
 |27|[benjasHu](https://github.com/benjasHu)|1|0|8|3|2014-09-28|![benjasHu](https://avatars2.githubusercontent.com/u/8950146)|
 |28|[fpromero](https://github.com/fpromero)|1|0|7|2|2014-11-06|![fpromero](https://avatars3.githubusercontent.com/u/9592895)|
-|29|[vroman](https://github.com/vroman)|0|0|3|9|2009-01-09|![vroman](https://avatars3.githubusercontent.com/u/45230)|
-|30|[jotajotavm](https://github.com/jotajotavm)|0|0|5|50|2013-12-10|![jotajotavm](https://avatars3.githubusercontent.com/u/6154935)|
+|29|[jotajotavm](https://github.com/jotajotavm)|0|0|5|50|2013-12-10|![jotajotavm](https://avatars3.githubusercontent.com/u/6154935)|
+|30|[j2sg](https://github.com/j2sg)|0|0|8|2|2011-03-18|![j2sg](https://avatars3.githubusercontent.com/u/677220)|
 |31|[roberkixote](https://github.com/roberkixote)|0|0|20|4|2011-02-10|![roberkixote](https://avatars3.githubusercontent.com/u/610447)|
-|32|[j2sg](https://github.com/j2sg)|0|0|8|2|2011-03-18|![j2sg](https://avatars3.githubusercontent.com/u/677220)|
+|32|[vroman](https://github.com/vroman)|0|0|3|9|2009-01-09|![vroman](https://avatars3.githubusercontent.com/u/45230)|

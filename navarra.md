@@ -1,6 +1,6 @@
 # Ranking Navarra
 
-Generado 09:23PM-November-12-2017.
+Generado 11:47PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[pxai](https://github.com/pxai)|1492|0|189|22|2011-12-02|![pxai](https://avatars0.githubusercontent.com/u/1235511)|
+|1|[pxai](https://github.com/pxai)|1495|0|189|22|2011-12-02|![pxai](https://avatars0.githubusercontent.com/u/1235511)|
 |2|[MiguelMarzo](https://github.com/MiguelMarzo)|339|0|45|5|2016-09-15|![MiguelMarzo](https://avatars1.githubusercontent.com/u/22213563)|
 |3|[karlosgliberal](https://github.com/karlosgliberal)|330|0|86|46|2010-02-10|![karlosgliberal](https://avatars0.githubusercontent.com/u/200922)|
 |4|[AlvaroOrduna](https://github.com/AlvaroOrduna)|227|322|13|14|2013-04-26|![AlvaroOrduna](https://avatars0.githubusercontent.com/u/4264243)|
@@ -46,6 +46,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |32|[spanishkangaroo](https://github.com/spanishkangaroo)|5|0|18|4|2009-10-29|![spanishkangaroo](https://avatars2.githubusercontent.com/u/146285)|
 |33|[javerd](https://github.com/javerd)|3|0|6|2|2010-03-08|![javerd](https://avatars2.githubusercontent.com/u/218214)|
 |34|[jotegui](https://github.com/jotegui)|2|0|29|10|2011-02-28|![jotegui](https://avatars3.githubusercontent.com/u/642210)|
-|35|[mael](https://github.com/mael)|0|0|16|3|2010-02-10|![mael](https://avatars1.githubusercontent.com/u/200936)|
-|36|[olagato](https://github.com/olagato)|0|0|16|10|2009-11-05|![olagato](https://avatars0.githubusercontent.com/u/149179)|
+|35|[olagato](https://github.com/olagato)|0|0|16|10|2009-11-05|![olagato](https://avatars0.githubusercontent.com/u/149179)|
+|36|[mael](https://github.com/mael)|0|0|16|3|2010-02-10|![mael](https://avatars1.githubusercontent.com/u/200936)|
 |37|[MikiAir78](https://github.com/MikiAir78)|0|0|4|3|2013-11-07|![MikiAir78](https://avatars1.githubusercontent.com/u/5882570)|

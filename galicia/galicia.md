@@ -1,6 +1,6 @@
 # Ranking Galicia
 
-Generado 08:58PM-November-12-2017.
+Generado 11:24PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -16,7 +16,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |2|[ontherunvaro](https://github.com/ontherunvaro)|1186|217|17|48|2014-09-06|![ontherunvaro](https://avatars2.githubusercontent.com/u/8677743)|
 |3|[Peque](https://github.com/Peque)|990|0|64|39|2010-12-17|![Peque](https://avatars3.githubusercontent.com/u/526577)|
 |4|[abdonrd](https://github.com/abdonrd)|988|6|123|137|2011-08-26|![abdonrd](https://avatars3.githubusercontent.com/u/1007051)|
-|5|[carlosgoce](https://github.com/carlosgoce)|962|0|37|8|2012-09-20|![carlosgoce](https://avatars2.githubusercontent.com/u/2385242)|
+|5|[carlosgoce](https://github.com/carlosgoce)|967|0|37|8|2012-09-20|![carlosgoce](https://avatars2.githubusercontent.com/u/2385242)|
 |6|[eusonlito](https://github.com/eusonlito)|827|1589|47|36|2011-03-01|![eusonlito](https://avatars2.githubusercontent.com/u/644551)|
 |7|[franiglesias](https://github.com/franiglesias)|804|0|16|3|2015-11-30|![franiglesias](https://avatars2.githubusercontent.com/u/16079996)|
 |8|[daavoo](https://github.com/daavoo)|761|0|8|24|2015-05-30|![daavoo](https://avatars2.githubusercontent.com/u/12677733)|
@@ -44,7 +44,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |30|[rcoedo](https://github.com/rcoedo)|291|0|60|9|2014-01-15|![rcoedo](https://avatars3.githubusercontent.com/u/6409659)|
 |31|[omar7r](https://github.com/omar7r)|278|0|11|19|2011-02-25|![omar7r](https://avatars2.githubusercontent.com/u/637695)|
 |32|[michogar](https://github.com/michogar)|272|0|49|26|2011-03-28|![michogar](https://avatars0.githubusercontent.com/u/694752)|
-|33|[alopezsanchez](https://github.com/alopezsanchez)|266|8|21|14|2015-10-20|![alopezsanchez](https://avatars3.githubusercontent.com/u/15221596)|
+|33|[alopezsanchez](https://github.com/alopezsanchez)|267|8|21|14|2015-10-20|![alopezsanchez](https://avatars3.githubusercontent.com/u/15221596)|
 |34|[castrinho8](https://github.com/castrinho8)|262|0|34|28|2013-04-25|![castrinho8](https://avatars1.githubusercontent.com/u/4258001)|
 |35|[ltilve](https://github.com/ltilve)|253|0|20|6|2012-11-26|![ltilve](https://avatars0.githubusercontent.com/u/2891281)|
 |36|[merlyescalona](https://github.com/merlyescalona)|240|0|10|3|2013-01-08|![merlyescalona](https://avatars2.githubusercontent.com/u/3216007)|

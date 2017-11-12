@@ -1,6 +1,6 @@
 # Ranking Huelva
 
-Generado 08:26PM-November-12-2017.
+Generado 10:56PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,11 +12,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[Neniah](https://github.com/Neniah)|1429|0|101|46|2011-10-22|![Neniah](https://avatars3.githubusercontent.com/u/1144759)|
-|2|[manuelcalerosolis](https://github.com/manuelcalerosolis)|615|0|13|6|2012-12-20|![manuelcalerosolis](https://avatars2.githubusercontent.com/u/3088246)|
+|1|[Neniah](https://github.com/Neniah)|1431|0|102|46|2011-10-22|![Neniah](https://avatars3.githubusercontent.com/u/1144759)|
+|2|[manuelcalerosolis](https://github.com/manuelcalerosolis)|616|0|13|6|2012-12-20|![manuelcalerosolis](https://avatars2.githubusercontent.com/u/3088246)|
 |3|[jaimesares](https://github.com/jaimesares)|321|26|7|18|2012-09-28|![jaimesares](https://avatars1.githubusercontent.com/u/2446051)|
 |4|[dacmail](https://github.com/dacmail)|279|569|20|28|2008-05-28|![dacmail](https://avatars2.githubusercontent.com/u/11754)|
-|5|[AlmuHS](https://github.com/AlmuHS)|250|0|21|28|2015-10-11|![AlmuHS](https://avatars1.githubusercontent.com/u/15078104)|
+|5|[AlmuHS](https://github.com/AlmuHS)|251|0|21|28|2015-10-11|![AlmuHS](https://avatars1.githubusercontent.com/u/15078104)|
 |6|[Virako](https://github.com/Virako)|223|0|49|45|2011-05-28|![Virako](https://avatars3.githubusercontent.com/u/815686)|
 |7|[antonio](https://github.com/antonio)|167|3750|70|339|2008-07-19|![antonio](https://avatars1.githubusercontent.com/u/17516)|
 |8|[orta-sanz](https://github.com/orta-sanz)|97|1108|17|7|2013-01-22|![orta-sanz](https://avatars2.githubusercontent.com/u/3337555)|
@@ -38,7 +38,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |24|[Joseja8](https://github.com/Joseja8)|6|5|5|13|2014-07-12|![Joseja8](https://avatars0.githubusercontent.com/u/8145991)|
 |25|[MdelaVilla](https://github.com/MdelaVilla)|4|0|5|3|2012-07-18|![MdelaVilla](https://avatars0.githubusercontent.com/u/2000720)|
 |26|[alexpowerup](https://github.com/alexpowerup)|3|0|9|4|2015-04-20|![alexpowerup](https://avatars0.githubusercontent.com/u/12040064)|
-|27|[agrogeek](https://github.com/agrogeek)|0|0|7|2|2009-04-01|![agrogeek](https://avatars0.githubusercontent.com/u/69480)|
-|28|[akizuky](https://github.com/akizuky)|0|0|2|5|2011-09-08|![akizuky](https://avatars2.githubusercontent.com/u/1035039)|
-|29|[Alvaro11](https://github.com/Alvaro11)|0|0|5|2|2014-09-26|![Alvaro11](https://avatars3.githubusercontent.com/u/8927377)|
-|30|[joseml87](https://github.com/joseml87)|0|0|8|3|2016-01-13|![joseml87](https://avatars3.githubusercontent.com/u/16690607)|
+|27|[akizuky](https://github.com/akizuky)|0|0|2|5|2011-09-08|![akizuky](https://avatars2.githubusercontent.com/u/1035039)|
+|28|[agrogeek](https://github.com/agrogeek)|0|0|7|2|2009-04-01|![agrogeek](https://avatars0.githubusercontent.com/u/69480)|
+|29|[joseml87](https://github.com/joseml87)|0|0|8|3|2016-01-13|![joseml87](https://avatars3.githubusercontent.com/u/16690607)|
+|30|[Alvaro11](https://github.com/Alvaro11)|0|0|5|2|2014-09-26|![Alvaro11](https://avatars3.githubusercontent.com/u/8927377)|

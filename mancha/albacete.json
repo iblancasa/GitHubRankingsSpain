@@ -1,4 +1,4 @@
-{ "date": "08:58PM-November-12-2017",
+{ "date": "11:24PM-November-12-2017",
   "users": [
   { "name": "enriquegrodrigo",
     "position": 1,
@@ -180,20 +180,8 @@
     "join": "2014-09-23",
     "avatar": "https://avatars2.githubusercontent.com/u/8877650"
   },
-  { "name": "Craswer",
-    "position": 16,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 2,
-    "repositories":2,
-    "organizations":0,
-    "join": "2011-05-21",
-    "avatar": "https://avatars1.githubusercontent.com/u/802508"
-  },
   { "name": "ociu",
-    "position": 17,
+    "position": 16,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -203,6 +191,18 @@
     "organizations":0,
     "join": "2013-04-17",
     "avatar": "https://avatars0.githubusercontent.com/u/4182785"
+  },
+  { "name": "Craswer",
+    "position": 17,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 2,
+    "repositories":2,
+    "organizations":0,
+    "join": "2011-05-21",
+    "avatar": "https://avatars1.githubusercontent.com/u/802508"
   }
   ]
 }

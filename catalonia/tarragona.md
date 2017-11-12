@@ -1,6 +1,6 @@
 # Ranking Tarragona
 
-Generado 08:50PM-November-12-2017.
+Generado 11:17PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -41,8 +41,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |27|[edgarzamora](https://github.com/edgarzamora)|3|0|2|7|2013-05-02|![edgarzamora](https://avatars3.githubusercontent.com/u/4320475)|
 |28|[jalucenyo](https://github.com/jalucenyo)|3|0|17|17|2012-04-06|![jalucenyo](https://avatars1.githubusercontent.com/u/1618926)|
 |29|[Shanti-SR](https://github.com/Shanti-SR)|3|0|9|4|2014-11-12|![Shanti-SR](https://avatars0.githubusercontent.com/u/9694646)|
-|30|[dayalav](https://github.com/dayalav)|2|0|8|2|2013-06-10|![dayalav](https://avatars2.githubusercontent.com/u/4660940)|
-|31|[alexgrauroca](https://github.com/alexgrauroca)|2|0|2|11|2013-07-31|![alexgrauroca](https://avatars3.githubusercontent.com/u/5131860)|
+|30|[alexgrauroca](https://github.com/alexgrauroca)|2|0|2|11|2013-07-31|![alexgrauroca](https://avatars3.githubusercontent.com/u/5131860)|
+|31|[dayalav](https://github.com/dayalav)|2|0|8|2|2013-06-10|![dayalav](https://avatars2.githubusercontent.com/u/4660940)|
 |32|[LuisMuniz](https://github.com/LuisMuniz)|2|0|6|2|2014-07-18|![LuisMuniz](https://avatars0.githubusercontent.com/u/8201284)|
 |33|[dlizarra](https://github.com/dlizarra)|2|0|10|18|2015-04-12|![dlizarra](https://avatars2.githubusercontent.com/u/11906353)|
 |34|[xmontana](https://github.com/xmontana)|1|0|11|3|2011-03-04|![xmontana](https://avatars2.githubusercontent.com/u/650776)|

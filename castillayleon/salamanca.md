@@ -1,6 +1,6 @@
 # Ranking Salamanca
 
-Generado 08:33PM-November-12-2017.
+Generado 11:02PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -16,7 +16,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |2|[sergiohs84](https://github.com/sergiohs84)|1452|5|9|5|2015-03-28|![sergiohs84](https://avatars2.githubusercontent.com/u/11694066)|
 |3|[ntrrgc](https://github.com/ntrrgc)|583|18|71|14|2011-08-24|![ntrrgc](https://avatars3.githubusercontent.com/u/1002436)|
 |4|[rubencm](https://github.com/rubencm)|357|1|9|16|2011-06-29|![rubencm](https://avatars2.githubusercontent.com/u/885208)|
-|5|[Dih5](https://github.com/Dih5)|258|76|19|4|2015-04-22|![Dih5](https://avatars2.githubusercontent.com/u/12070738)|
+|5|[Dih5](https://github.com/Dih5)|259|76|19|4|2015-04-22|![Dih5](https://avatars2.githubusercontent.com/u/12070738)|
 |6|[luisddm](https://github.com/luisddm)|222|0|13|16|2012-12-06|![luisddm](https://avatars1.githubusercontent.com/u/2978951)|
 |7|[victorvicpal](https://github.com/victorvicpal)|182|0|12|8|2014-12-02|![victorvicpal](https://avatars0.githubusercontent.com/u/10044742)|
 |8|[espipj](https://github.com/espipj)|173|246|10|5|2015-06-12|![espipj](https://avatars0.githubusercontent.com/u/12865914)|
@@ -55,14 +55,14 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |41|[moral3jo](https://github.com/moral3jo)|2|0|13|2|2010-12-15|![moral3jo](https://avatars1.githubusercontent.com/u/524380)|
 |42|[rodrigoSantamaria](https://github.com/rodrigoSantamaria)|2|0|3|3|2012-04-02|![rodrigoSantamaria](https://avatars3.githubusercontent.com/u/1600691)|
 |43|[asanchezyu](https://github.com/asanchezyu)|1|0|4|5|2014-05-13|![asanchezyu](https://avatars2.githubusercontent.com/u/7567924)|
-|44|[futurblade](https://github.com/futurblade)|0|0|18|4|2012-10-03|![futurblade](https://avatars3.githubusercontent.com/u/2479273)|
-|45|[Evilnat](https://github.com/Evilnat)|0|0|3|4|2011-01-12|![Evilnat](https://avatars1.githubusercontent.com/u/560108)|
-|46|[rodrigoolmo](https://github.com/rodrigoolmo)|0|0|4|4|2011-04-09|![rodrigoolmo](https://avatars2.githubusercontent.com/u/719905)|
-|47|[miguelsanchz](https://github.com/miguelsanchz)|0|0|6|4|2012-07-10|![miguelsanchz](https://avatars2.githubusercontent.com/u/1951141)|
-|48|[Garroten](https://github.com/Garroten)|0|0|6|4|2008-05-04|![Garroten](https://avatars1.githubusercontent.com/u/9264)|
-|49|[mirblu](https://github.com/mirblu)|0|0|2|2|2010-02-17|![mirblu](https://avatars0.githubusercontent.com/u/205173)|
-|50|[jvcerver](https://github.com/jvcerver)|0|0|7|6|2013-10-22|![jvcerver](https://avatars3.githubusercontent.com/u/5751143)|
-|51|[ricardoper](https://github.com/ricardoper)|0|0|3|6|2013-08-04|![ricardoper](https://avatars2.githubusercontent.com/u/5161172)|
-|52|[rocqetQueen](https://github.com/rocqetQueen)|0|0|18|3|2013-10-17|![rocqetQueen](https://avatars1.githubusercontent.com/u/5708398)|
-|53|[bsusal](https://github.com/bsusal)|0|0|7|4|2014-02-26|![bsusal](https://avatars1.githubusercontent.com/u/6797598)|
+|44|[miguelsanchz](https://github.com/miguelsanchz)|0|0|6|4|2012-07-10|![miguelsanchz](https://avatars2.githubusercontent.com/u/1951141)|
+|45|[Garroten](https://github.com/Garroten)|0|0|6|4|2008-05-04|![Garroten](https://avatars1.githubusercontent.com/u/9264)|
+|46|[mirblu](https://github.com/mirblu)|0|0|2|2|2010-02-17|![mirblu](https://avatars0.githubusercontent.com/u/205173)|
+|47|[Evilnat](https://github.com/Evilnat)|0|0|3|4|2011-01-12|![Evilnat](https://avatars1.githubusercontent.com/u/560108)|
+|48|[rodrigoolmo](https://github.com/rodrigoolmo)|0|0|4|4|2011-04-09|![rodrigoolmo](https://avatars2.githubusercontent.com/u/719905)|
+|49|[futurblade](https://github.com/futurblade)|0|0|18|4|2012-10-03|![futurblade](https://avatars3.githubusercontent.com/u/2479273)|
+|50|[ricardoper](https://github.com/ricardoper)|0|0|3|6|2013-08-04|![ricardoper](https://avatars2.githubusercontent.com/u/5161172)|
+|51|[jvcerver](https://github.com/jvcerver)|0|0|7|6|2013-10-22|![jvcerver](https://avatars3.githubusercontent.com/u/5751143)|
+|52|[bsusal](https://github.com/bsusal)|0|0|7|4|2014-02-26|![bsusal](https://avatars1.githubusercontent.com/u/6797598)|
+|53|[rocqetQueen](https://github.com/rocqetQueen)|0|0|18|3|2013-10-17|![rocqetQueen](https://avatars1.githubusercontent.com/u/5708398)|
 |54|[UrielHaile](https://github.com/UrielHaile)|0|0|13|3|2014-10-09|![UrielHaile](https://avatars2.githubusercontent.com/u/9108886)|

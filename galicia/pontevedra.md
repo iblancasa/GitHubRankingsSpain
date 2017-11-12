@@ -1,6 +1,6 @@
 # Ranking Pontevedra
 
-Generado 08:57PM-November-12-2017.
+Generado 11:24PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -14,7 +14,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[Peque](https://github.com/Peque)|990|0|64|39|2010-12-17|![Peque](https://avatars3.githubusercontent.com/u/526577)|
 |2|[abdonrd](https://github.com/abdonrd)|988|6|123|137|2011-08-26|![abdonrd](https://avatars3.githubusercontent.com/u/1007051)|
-|3|[carlosgoce](https://github.com/carlosgoce)|962|0|37|8|2012-09-20|![carlosgoce](https://avatars2.githubusercontent.com/u/2385242)|
+|3|[carlosgoce](https://github.com/carlosgoce)|967|0|37|8|2012-09-20|![carlosgoce](https://avatars2.githubusercontent.com/u/2385242)|
 |4|[franiglesias](https://github.com/franiglesias)|804|0|16|3|2015-11-30|![franiglesias](https://avatars2.githubusercontent.com/u/16079996)|
 |5|[daavoo](https://github.com/daavoo)|761|0|8|24|2015-05-30|![daavoo](https://avatars2.githubusercontent.com/u/12677733)|
 |6|[migonzalvar](https://github.com/migonzalvar)|650|0|62|36|2011-07-20|![migonzalvar](https://avatars0.githubusercontent.com/u/928566)|
@@ -64,8 +64,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |50|[dSanchezDios](https://github.com/dSanchezDios)|39|0|4|2|2017-03-29|![dSanchezDios](https://avatars0.githubusercontent.com/u/26762385)|
 |51|[pabloarias](https://github.com/pabloarias)|38|0|8|12|2012-09-15|![pabloarias](https://avatars0.githubusercontent.com/u/2350393)|
 |52|[nunhes](https://github.com/nunhes)|35|0|20|2|2009-03-05|![nunhes](https://avatars2.githubusercontent.com/u/60558)|
-|53|[OrdinaryMagician](https://github.com/OrdinaryMagician)|32|0|34|148|2012-09-05|![OrdinaryMagician](https://avatars1.githubusercontent.com/u/2286785)|
-|54|[migrax](https://github.com/migrax)|32|0|8|2|2012-05-23|![migrax](https://avatars0.githubusercontent.com/u/1770030)|
+|53|[migrax](https://github.com/migrax)|32|0|8|2|2012-05-23|![migrax](https://avatars0.githubusercontent.com/u/1770030)|
+|54|[OrdinaryMagician](https://github.com/OrdinaryMagician)|32|0|34|148|2012-09-05|![OrdinaryMagician](https://avatars1.githubusercontent.com/u/2286785)|
 |55|[Hugoer](https://github.com/Hugoer)|31|0|9|6|2014-02-28|![Hugoer](https://avatars1.githubusercontent.com/u/6820634)|
 |56|[victorgs](https://github.com/victorgs)|28|436|7|3|2014-10-20|![victorgs](https://avatars2.githubusercontent.com/u/9326384)|
 |57|[JaviGS2](https://github.com/JaviGS2)|27|0|7|5|2017-01-11|![JaviGS2](https://avatars0.githubusercontent.com/u/25051297)|
@@ -120,6 +120,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |106|[dseijasiglesias](https://github.com/dseijasiglesias)|0|0|21|35|2014-09-22|![dseijasiglesias](https://avatars1.githubusercontent.com/u/8861760)|
 |107|[davidpazo](https://github.com/davidpazo)|0|0|143|25|2014-09-25|![davidpazo](https://avatars1.githubusercontent.com/u/8911119)|
 |108|[JabirM](https://github.com/JabirM)|0|0|2|3|2014-10-30|![JabirM](https://avatars3.githubusercontent.com/u/9459722)|
-|109|[alg-a](https://github.com/alg-a)|0|0|5|3|2014-11-24|![alg-a](https://avatars1.githubusercontent.com/u/9934404)|
-|110|[srutschmann](https://github.com/srutschmann)|0|0|4|2|2014-12-30|![srutschmann](https://avatars3.githubusercontent.com/u/10353284)|
+|109|[srutschmann](https://github.com/srutschmann)|0|0|4|2|2014-12-30|![srutschmann](https://avatars3.githubusercontent.com/u/10353284)|
+|110|[alg-a](https://github.com/alg-a)|0|0|5|3|2014-11-24|![alg-a](https://avatars1.githubusercontent.com/u/9934404)|
 |111|[adrianmantilla](https://github.com/adrianmantilla)|0|0|5|3|2015-09-22|![adrianmantilla](https://avatars3.githubusercontent.com/u/14758140)|

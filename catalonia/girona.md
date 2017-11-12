@@ -1,6 +1,6 @@
 # Ranking Girona
 
-Generado 08:50PM-November-12-2017.
+Generado 11:16PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -22,7 +22,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |8|[jaimeiniesta](https://github.com/jaimeiniesta)|213|0|153|172|2008-03-09|![jaimeiniesta](https://avatars2.githubusercontent.com/u/2629)|
 |9|[davidberneda](https://github.com/davidberneda)|191|0|21|21|2012-04-12|![davidberneda](https://avatars0.githubusercontent.com/u/1636163)|
 |10|[francescarpi](https://github.com/francescarpi)|173|0|36|16|2010-05-26|![francescarpi](https://avatars2.githubusercontent.com/u/287872)|
-|11|[utrescu](https://github.com/utrescu)|163|0|54|15|2012-07-20|![utrescu](https://avatars0.githubusercontent.com/u/2011002)|
+|11|[utrescu](https://github.com/utrescu)|164|0|54|15|2012-07-20|![utrescu](https://avatars0.githubusercontent.com/u/2011002)|
 |12|[jaor](https://github.com/jaor)|162|0|28|54|2009-05-04|![jaor](https://avatars3.githubusercontent.com/u/80719)|
 |13|[mcomas](https://github.com/mcomas)|162|0|34|2|2013-05-15|![mcomas](https://avatars3.githubusercontent.com/u/4439719)|
 |14|[danifornells](https://github.com/danifornells)|143|0|10|17|2012-12-03|![danifornells](https://avatars3.githubusercontent.com/u/2950939)|

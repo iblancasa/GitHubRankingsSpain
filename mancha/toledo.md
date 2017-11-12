@@ -1,6 +1,6 @@
 # Ranking Toledo
 
-Generado 09:00PM-November-12-2017.
+Generado 11:27PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -62,8 +62,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |48|[felixortegam](https://github.com/felixortegam)|19|0|12|10|2013-06-14|![felixortegam](https://avatars1.githubusercontent.com/u/4701534)|
 |49|[christian-es](https://github.com/christian-es)|19|3|10|2|2014-07-12|![christian-es](https://avatars2.githubusercontent.com/u/8144580)|
 |50|[willcodeforfoo](https://github.com/willcodeforfoo)|18|1256|44|36|2008-01-29|![willcodeforfoo](https://avatars0.githubusercontent.com/u/100)|
-|51|[lapenz](https://github.com/lapenz)|18|0|8|5|2014-07-02|![lapenz](https://avatars0.githubusercontent.com/u/8047068)|
-|52|[federicopeinado](https://github.com/federicopeinado)|18|0|2|9|2013-11-13|![federicopeinado](https://avatars0.githubusercontent.com/u/5931002)|
+|51|[federicopeinado](https://github.com/federicopeinado)|18|0|2|9|2013-11-13|![federicopeinado](https://avatars0.githubusercontent.com/u/5931002)|
+|52|[lapenz](https://github.com/lapenz)|18|0|8|5|2014-07-02|![lapenz](https://avatars0.githubusercontent.com/u/8047068)|
 |53|[dlazov](https://github.com/dlazov)|16|0|24|3|2012-01-04|![dlazov](https://avatars3.githubusercontent.com/u/1304893)|
 |54|[danstever](https://github.com/danstever)|15|343|11|11|2010-07-20|![danstever](https://avatars3.githubusercontent.com/u/338629)|
 |55|[cwammes](https://github.com/cwammes)|14|0|3|2|2014-03-18|![cwammes](https://avatars0.githubusercontent.com/u/6991783)|
@@ -85,13 +85,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |71|[bekahgmeyers](https://github.com/bekahgmeyers)|3|0|3|2|2016-01-29|![bekahgmeyers](https://avatars3.githubusercontent.com/u/16948167)|
 |72|[brunohmelo](https://github.com/brunohmelo)|2|0|2|6|2014-11-20|![brunohmelo](https://avatars2.githubusercontent.com/u/9863523)|
 |73|[chermidap](https://github.com/chermidap)|2|0|5|2|2015-11-26|![chermidap](https://avatars0.githubusercontent.com/u/16034887)|
-|74|[nathanpsouza](https://github.com/nathanpsouza)|1|0|13|6|2010-04-15|![nathanpsouza](https://avatars0.githubusercontent.com/u/244316)|
-|75|[toledosteve](https://github.com/toledosteve)|1|0|3|7|2009-09-27|![toledosteve](https://avatars2.githubusercontent.com/u/131753)|
-|76|[hiperion](https://github.com/hiperion)|1|0|5|5|2010-08-10|![hiperion](https://avatars1.githubusercontent.com/u/360124)|
+|74|[hiperion](https://github.com/hiperion)|1|0|5|5|2010-08-10|![hiperion](https://avatars1.githubusercontent.com/u/360124)|
+|75|[nathanpsouza](https://github.com/nathanpsouza)|1|0|13|6|2010-04-15|![nathanpsouza](https://avatars0.githubusercontent.com/u/244316)|
+|76|[toledosteve](https://github.com/toledosteve)|1|0|3|7|2009-09-27|![toledosteve](https://avatars2.githubusercontent.com/u/131753)|
 |77|[cppd245](https://github.com/cppd245)|1|0|8|3|2012-09-14|![cppd245](https://avatars3.githubusercontent.com/u/2348711)|
 |78|[djonathanb](https://github.com/djonathanb)|1|0|4|3|2014-08-23|![djonathanb](https://avatars0.githubusercontent.com/u/8530801)|
-|79|[bundy845](https://github.com/bundy845)|0|0|3|2|2011-07-06|![bundy845](https://avatars1.githubusercontent.com/u/898590)|
-|80|[wesleyklewerton](https://github.com/wesleyklewerton)|0|0|6|7|2010-08-29|![wesleyklewerton](https://avatars3.githubusercontent.com/u/379735)|
+|79|[wesleyklewerton](https://github.com/wesleyklewerton)|0|0|6|7|2010-08-29|![wesleyklewerton](https://avatars3.githubusercontent.com/u/379735)|
+|80|[bundy845](https://github.com/bundy845)|0|0|3|2|2011-07-06|![bundy845](https://avatars1.githubusercontent.com/u/898590)|
 |81|[Verron](https://github.com/Verron)|0|39|10|3|2012-06-24|![Verron](https://avatars3.githubusercontent.com/u/1887313)|
 |82|[ckoch786](https://github.com/ckoch786)|0|0|25|13|2011-08-09|![ckoch786](https://avatars2.githubusercontent.com/u/969036)|
 |83|[chris-nelson](https://github.com/chris-nelson)|0|0|3|5|2011-11-07|![chris-nelson](https://avatars1.githubusercontent.com/u/1176720)|

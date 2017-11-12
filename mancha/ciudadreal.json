@@ -1,4 +1,4 @@
-{ "date": "08:58PM-November-12-2017",
+{ "date": "11:24PM-November-12-2017",
   "users": [
   { "name": "soker90",
     "position": 1,
@@ -336,20 +336,8 @@
     "join": "2014-11-06",
     "avatar": "https://avatars3.githubusercontent.com/u/9592895"
   },
-  { "name": "vroman",
-    "position": 29,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 9,
-    "repositories":3,
-    "organizations":2,
-    "join": "2009-01-09",
-    "avatar": "https://avatars3.githubusercontent.com/u/45230"
-  },
   { "name": "jotajotavm",
-    "position": 30,
+    "position": 29,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -359,6 +347,18 @@
     "organizations":0,
     "join": "2013-12-10",
     "avatar": "https://avatars3.githubusercontent.com/u/6154935"
+  },
+  { "name": "j2sg",
+    "position": 30,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 2,
+    "repositories":8,
+    "organizations":0,
+    "join": "2011-03-18",
+    "avatar": "https://avatars3.githubusercontent.com/u/677220"
   },
   { "name": "roberkixote",
     "position": 31,
@@ -372,17 +372,17 @@
     "join": "2011-02-10",
     "avatar": "https://avatars3.githubusercontent.com/u/610447"
   },
-  { "name": "j2sg",
+  { "name": "vroman",
     "position": 32,
     "contributions": 0,
     "public": 0,
     "private": 0,
     "bio": "",
-    "followers": 2,
-    "repositories":8,
-    "organizations":0,
-    "join": "2011-03-18",
-    "avatar": "https://avatars3.githubusercontent.com/u/677220"
+    "followers": 9,
+    "repositories":3,
+    "organizations":2,
+    "join": "2009-01-09",
+    "avatar": "https://avatars3.githubusercontent.com/u/45230"
   }
   ]
 }

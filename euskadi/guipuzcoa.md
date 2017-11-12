@@ -1,6 +1,6 @@
 # Ranking Guipúzcoa
 
-Generado 08:54PM-November-12-2017.
+Generado 11:21PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -73,14 +73,14 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |59|[Sulley38](https://github.com/Sulley38)|1|0|6|7|2012-03-21|![Sulley38](https://avatars3.githubusercontent.com/u/1562410)|
 |60|[naiaramartin](https://github.com/naiaramartin)|1|0|2|3|2012-08-01|![naiaramartin](https://avatars0.githubusercontent.com/u/2079601)|
 |61|[mediascape](https://github.com/mediascape)|1|0|24|17|2013-10-14|![mediascape](https://avatars1.githubusercontent.com/u/5680867)|
-|62|[rmhdev](https://github.com/rmhdev)|0|0|30|2|2011-01-31|![rmhdev](https://avatars0.githubusercontent.com/u/593433)|
+|62|[danisalgueiro](https://github.com/danisalgueiro)|0|0|4|3|2010-03-04|![danisalgueiro](https://avatars0.githubusercontent.com/u/215491)|
 |63|[audiolab](https://github.com/audiolab)|0|0|12|2|2011-07-30|![audiolab](https://avatars0.githubusercontent.com/u/948316)|
-|64|[danisalgueiro](https://github.com/danisalgueiro)|0|0|4|3|2010-03-04|![danisalgueiro](https://avatars0.githubusercontent.com/u/215491)|
+|64|[rmhdev](https://github.com/rmhdev)|0|0|30|2|2011-01-31|![rmhdev](https://avatars0.githubusercontent.com/u/593433)|
 |65|[xabikip](https://github.com/xabikip)|0|0|12|18|2011-10-07|![xabikip](https://avatars2.githubusercontent.com/u/1109793)|
 |66|[Aitorzubizarret](https://github.com/Aitorzubizarret)|0|0|12|6|2012-02-14|![Aitorzubizarret](https://avatars3.githubusercontent.com/u/1437157)|
 |67|[cluster28](https://github.com/cluster28)|0|0|3|2|2013-07-18|![cluster28](https://avatars3.githubusercontent.com/u/5039840)|
-|68|[jonathanSS](https://github.com/jonathanSS)|0|0|4|3|2013-10-25|![jonathanSS](https://avatars3.githubusercontent.com/u/5776656)|
-|69|[koldoartola](https://github.com/koldoartola)|0|0|2|2|2014-04-13|![koldoartola](https://avatars3.githubusercontent.com/u/7279421)|
+|68|[koldoartola](https://github.com/koldoartola)|0|0|2|2|2014-04-13|![koldoartola](https://avatars3.githubusercontent.com/u/7279421)|
+|69|[jonathanSS](https://github.com/jonathanSS)|0|0|4|3|2013-10-25|![jonathanSS](https://avatars3.githubusercontent.com/u/5776656)|
 |70|[bgamecho](https://github.com/bgamecho)|0|0|2|6|2014-04-16|![bgamecho](https://avatars1.githubusercontent.com/u/7313057)|
 |71|[sheilapbi](https://github.com/sheilapbi)|0|0|8|17|2014-09-09|![sheilapbi](https://avatars2.githubusercontent.com/u/8705852)|
 |72|[josuhercearsuaga](https://github.com/josuhercearsuaga)|0|0|5|5|2015-06-09|![josuhercearsuaga](https://avatars1.githubusercontent.com/u/12810089)|

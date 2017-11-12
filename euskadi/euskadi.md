@@ -1,6 +1,6 @@
 # Ranking Euskadi
 
-Generado 08:55PM-November-12-2017.
+Generado 11:22PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[javiereguiluz](https://github.com/javiereguiluz)|3490|2176|67|946|2009-04-13|![javiereguiluz](https://avatars3.githubusercontent.com/u/73419)|
+|1|[javiereguiluz](https://github.com/javiereguiluz)|3495|2176|67|946|2009-04-13|![javiereguiluz](https://avatars3.githubusercontent.com/u/73419)|
 |2|[benatespina](https://github.com/benatespina)|1789|0|12|40|2013-03-23|![benatespina](https://avatars1.githubusercontent.com/u/3951376)|
 |3|[ibc](https://github.com/ibc)|1405|0|28|138|2008-07-06|![ibc](https://avatars0.githubusercontent.com/u/16191)|
 |4|[mikel-egana-aranguren](https://github.com/mikel-egana-aranguren)|629|0|59|30|2013-03-16|![mikel-egana-aranguren](https://avatars1.githubusercontent.com/u/3883671)|
@@ -64,10 +64,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |50|[unaipme](https://github.com/unaipme)|138|0|20|4|2014-11-24|![unaipme](https://avatars0.githubusercontent.com/u/9933703)|
 |51|[Inigo96](https://github.com/Inigo96)|129|0|9|2|2015-10-05|![Inigo96](https://avatars0.githubusercontent.com/u/14974590)|
 |52|[odeibarredo](https://github.com/odeibarredo)|126|0|9|2|2017-04-27|![odeibarredo](https://avatars1.githubusercontent.com/u/28097567)|
-|53|[txomon](https://github.com/txomon)|125|243|100|32|2010-03-22|![txomon](https://avatars2.githubusercontent.com/u/228250)|
+|53|[txomon](https://github.com/txomon)|126|243|100|32|2010-03-22|![txomon](https://avatars2.githubusercontent.com/u/228250)|
 |54|[fernandochafim](https://github.com/fernandochafim)|125|0|14|3|2016-11-15|![fernandochafim](https://avatars2.githubusercontent.com/u/23482995)|
 |55|[jonan](https://github.com/jonan)|124|0|13|106|2011-10-07|![jonan](https://avatars3.githubusercontent.com/u/1110193)|
-|56|[ismaelestalayo](https://github.com/ismaelestalayo)|123|14|7|2|2016-02-06|![ismaelestalayo](https://avatars3.githubusercontent.com/u/17100634)|
+|56|[ismaelestalayo](https://github.com/ismaelestalayo)|124|14|7|2|2016-02-06|![ismaelestalayo](https://avatars3.githubusercontent.com/u/17100634)|
 |57|[jmarti-theinit](https://github.com/jmarti-theinit)|121|0|16|4|2011-08-19|![jmarti-theinit](https://avatars3.githubusercontent.com/u/991738)|
 |58|[DSantamaria18](https://github.com/DSantamaria18)|121|0|15|6|2015-07-11|![DSantamaria18](https://avatars2.githubusercontent.com/u/13288239)|
 |59|[baiofer](https://github.com/baiofer)|120|0|14|3|2014-03-01|![baiofer](https://avatars2.githubusercontent.com/u/6826590)|
@@ -88,7 +88,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |74|[idaejin](https://github.com/idaejin)|104|0|7|5|2014-12-01|![idaejin](https://avatars3.githubusercontent.com/u/10028694)|
 |75|[pepesan](https://github.com/pepesan)|101|0|86|9|2011-07-15|![pepesan](https://avatars1.githubusercontent.com/u/917451)|
 |76|[miguelramosfdz](https://github.com/miguelramosfdz)|101|0|1700|24|2009-03-31|![miguelramosfdz](https://avatars3.githubusercontent.com/u/68827)|
-|77|[yuki](https://github.com/yuki)|100|0|14|10|2008-08-04|![yuki](https://avatars3.githubusercontent.com/u/19482)|
+|77|[yuki](https://github.com/yuki)|101|0|14|10|2008-08-04|![yuki](https://avatars3.githubusercontent.com/u/19482)|
 |78|[urko-vi](https://github.com/urko-vi)|99|0|21|10|2014-09-28|![urko-vi](https://avatars1.githubusercontent.com/u/8948145)|
 |79|[aitoralmeida](https://github.com/aitoralmeida)|98|12|34|23|2012-08-06|![aitoralmeida](https://avatars0.githubusercontent.com/u/2103213)|
 |80|[miguelprada](https://github.com/miguelprada)|95|0|20|5|2011-03-19|![miguelprada](https://avatars0.githubusercontent.com/u/678580)|

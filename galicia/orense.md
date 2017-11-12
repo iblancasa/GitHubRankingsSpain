@@ -1,6 +1,6 @@
 # Ranking Orense
 
-Generado 08:57PM-November-12-2017.
+Generado 11:24PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -22,7 +22,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |8|[oknalv](https://github.com/oknalv)|104|0|8|4|2014-12-05|![oknalv](https://avatars0.githubusercontent.com/u/10089519)|
 |9|[tomymolina](https://github.com/tomymolina)|102|0|31|4|2012-01-06|![tomymolina](https://avatars2.githubusercontent.com/u/1309445)|
 |10|[joseconstela](https://github.com/joseconstela)|96|1852|20|6|2014-01-13|![joseconstela](https://avatars0.githubusercontent.com/u/6388629)|
-|11|[nmaraujo](https://github.com/nmaraujo)|47|0|2|2|2013-04-08|![nmaraujo](https://avatars0.githubusercontent.com/u/4091034)|
+|11|[nmaraujo](https://github.com/nmaraujo)|51|0|2|2|2013-04-08|![nmaraujo](https://avatars0.githubusercontent.com/u/4091034)|
 |12|[agonbar](https://github.com/agonbar)|45|0|19|2|2012-03-19|![agonbar](https://avatars1.githubusercontent.com/u/1553211)|
 |13|[jcastro](https://github.com/jcastro)|37|0|5|14|2010-01-26|![jcastro](https://avatars0.githubusercontent.com/u/190036)|
 |14|[rcalcaraz](https://github.com/rcalcaraz)|36|0|10|6|2013-10-24|![rcalcaraz](https://avatars3.githubusercontent.com/u/5764920)|
@@ -32,7 +32,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |18|[Mascalerino](https://github.com/Mascalerino)|3|0|2|7|2014-12-05|![Mascalerino](https://avatars0.githubusercontent.com/u/10086067)|
 |19|[hrosalgado](https://github.com/hrosalgado)|2|0|18|4|2014-11-24|![hrosalgado](https://avatars2.githubusercontent.com/u/9938772)|
 |20|[braiscarrion](https://github.com/braiscarrion)|1|0|11|4|2013-12-29|![braiscarrion](https://avatars0.githubusercontent.com/u/6281857)|
-|21|[jjimenezg93](https://github.com/jjimenezg93)|0|0|27|5|2014-02-05|![jjimenezg93](https://avatars2.githubusercontent.com/u/6595611)|
-|22|[antoniovazquezaraujo](https://github.com/antoniovazquezaraujo)|0|0|19|2|2011-08-17|![antoniovazquezaraujo](https://avatars0.githubusercontent.com/u/987077)|
-|23|[oscar2695](https://github.com/oscar2695)|0|0|6|3|2013-10-24|![oscar2695](https://avatars0.githubusercontent.com/u/5764349)|
-|24|[mdgomez](https://github.com/mdgomez)|0|0|2|8|2014-11-26|![mdgomez](https://avatars1.githubusercontent.com/u/9967701)|
+|21|[antoniovazquezaraujo](https://github.com/antoniovazquezaraujo)|0|0|19|2|2011-08-17|![antoniovazquezaraujo](https://avatars0.githubusercontent.com/u/987077)|
+|22|[mdgomez](https://github.com/mdgomez)|0|0|2|8|2014-11-26|![mdgomez](https://avatars1.githubusercontent.com/u/9967701)|
+|23|[jjimenezg93](https://github.com/jjimenezg93)|0|0|27|5|2014-02-05|![jjimenezg93](https://avatars2.githubusercontent.com/u/6595611)|
+|24|[oscar2695](https://github.com/oscar2695)|0|0|6|3|2013-10-24|![oscar2695](https://avatars0.githubusercontent.com/u/5764349)|

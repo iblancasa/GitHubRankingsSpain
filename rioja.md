@@ -1,6 +1,6 @@
 # Ranking Rioja
 
-Generado 09:23PM-November-12-2017.
+Generado 11:47PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -34,9 +34,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |20|[Txumari](https://github.com/Txumari)|5|0|18|8|2010-09-16|![Txumari](https://avatars1.githubusercontent.com/u/401963)|
 |21|[chiva](https://github.com/chiva)|4|0|17|20|2010-06-15|![chiva](https://avatars1.githubusercontent.com/u/305333)|
 |22|[rcarnerorojo](https://github.com/rcarnerorojo)|2|475|7|7|2014-04-17|![rcarnerorojo](https://avatars0.githubusercontent.com/u/7326722)|
-|23|[catirado](https://github.com/catirado)|1|0|10|2|2010-08-04|![catirado](https://avatars2.githubusercontent.com/u/354151)|
-|24|[eduardobenito10](https://github.com/eduardobenito10)|1|0|14|2|2011-09-06|![eduardobenito10](https://avatars1.githubusercontent.com/u/1029956)|
-|25|[csadan](https://github.com/csadan)|0|0|4|2|2014-01-21|![csadan](https://avatars0.githubusercontent.com/u/6459730)|
-|26|[borjareinares](https://github.com/borjareinares)|0|0|4|17|2011-01-26|![borjareinares](https://avatars3.githubusercontent.com/u/584645)|
+|23|[eduardobenito10](https://github.com/eduardobenito10)|1|0|14|2|2011-09-06|![eduardobenito10](https://avatars1.githubusercontent.com/u/1029956)|
+|24|[catirado](https://github.com/catirado)|1|0|10|2|2010-08-04|![catirado](https://avatars2.githubusercontent.com/u/354151)|
+|25|[borjareinares](https://github.com/borjareinares)|0|0|4|17|2011-01-26|![borjareinares](https://avatars3.githubusercontent.com/u/584645)|
+|26|[csadan](https://github.com/csadan)|0|0|4|2|2014-01-21|![csadan](https://avatars0.githubusercontent.com/u/6459730)|
 |27|[jorgegorka](https://github.com/jorgegorka)|0|2651|30|24|2008-05-07|![jorgegorka](https://avatars3.githubusercontent.com/u/9585)|
 |28|[Jimbo2K](https://github.com/Jimbo2K)|0|0|6|3|2016-03-15|![Jimbo2K](https://avatars1.githubusercontent.com/u/17853527)|
