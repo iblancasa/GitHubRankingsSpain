@@ -1,6 +1,6 @@
 # Ranking Segovia
 
-Generado 08:31PM-November-05-2017.
+Generado 08:33PM-November-12-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,14 +12,14 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[kikettas](https://github.com/kikettas)|712|0|17|6|2014-10-08|![kikettas](https://avatars3.githubusercontent.com/u/9082270)|
-|2|[iMartinezMateu](https://github.com/iMartinezMateu)|102|202|14|10|2014-10-19|![iMartinezMateu](https://avatars2.githubusercontent.com/u/9308066)|
-|3|[tinproject](https://github.com/tinproject)|69|0|14|5|2013-03-01|![tinproject](https://avatars3.githubusercontent.com/u/3742174)|
+|1|[kikettas](https://github.com/kikettas)|763|0|17|6|2014-10-08|![kikettas](https://avatars3.githubusercontent.com/u/9082270)|
+|2|[iMartinezMateu](https://github.com/iMartinezMateu)|97|202|14|10|2014-10-19|![iMartinezMateu](https://avatars2.githubusercontent.com/u/9308066)|
+|3|[tinproject](https://github.com/tinproject)|69|0|14|6|2013-03-01|![tinproject](https://avatars3.githubusercontent.com/u/3742174)|
 |4|[sergioortegagomez](https://github.com/sergioortegagomez)|64|0|7|5|2014-09-14|![sergioortegagomez](https://avatars2.githubusercontent.com/u/8767128)|
-|5|[josejuanllopistemes](https://github.com/josejuanllopistemes)|19|0|7|4|2015-05-28|![josejuanllopistemes](https://avatars0.githubusercontent.com/u/12647640)|
-|6|[albertocc](https://github.com/albertocc)|18|0|6|2|2015-08-18|![albertocc](https://avatars2.githubusercontent.com/u/13858689)|
+|5|[albertocc](https://github.com/albertocc)|19|0|6|2|2015-08-18|![albertocc](https://avatars2.githubusercontent.com/u/13858689)|
+|6|[josejuanllopistemes](https://github.com/josejuanllopistemes)|16|0|7|4|2015-05-28|![josejuanllopistemes](https://avatars0.githubusercontent.com/u/12647640)|
 |7|[robertobermejo](https://github.com/robertobermejo)|15|0|32|9|2010-03-13|![robertobermejo](https://avatars1.githubusercontent.com/u/221931)|
 |8|[rasacris](https://github.com/rasacris)|5|0|6|3|2016-03-23|![rasacris](https://avatars1.githubusercontent.com/u/18039000)|
-|9|[migumar2](https://github.com/migumar2)|2|207|2|11|2011-05-31|![migumar2](https://avatars2.githubusercontent.com/u/819947)|
+|9|[migumar2](https://github.com/migumar2)|1|207|2|11|2011-05-31|![migumar2](https://avatars2.githubusercontent.com/u/819947)|
 |10|[alvardsoler](https://github.com/alvardsoler)|1|0|15|9|2013-04-09|![alvardsoler](https://avatars1.githubusercontent.com/u/4102837)|
 |11|[carlosdelucas92](https://github.com/carlosdelucas92)|0|0|5|3|2015-01-27|![carlosdelucas92](https://avatars1.githubusercontent.com/u/10717935)|
