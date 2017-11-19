@@ -1,6 +1,6 @@
 # Ranking Cuenca
 
-Generado 11:25PM-November-12-2017.
+Generado 09:02PM-November-19-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,16 +12,16 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[michaeljymsgutierrez](https://github.com/michaeljymsgutierrez)|1600|0|129|11|2016-05-30|![michaeljymsgutierrez](https://avatars0.githubusercontent.com/u/19644179)|
-|2|[alx741](https://github.com/alx741)|1531|636|152|10|2012-10-12|![alx741](https://avatars0.githubusercontent.com/u/2545720)|
-|3|[cuent](https://github.com/cuent)|350|0|37|6|2013-08-17|![cuent](https://avatars3.githubusercontent.com/u/5248968)|
-|4|[edzzn](https://github.com/edzzn)|285|16|30|2|2015-10-02|![edzzn](https://avatars1.githubusercontent.com/u/14936466)|
-|5|[ziluvatar](https://github.com/ziluvatar)|142|963|41|8|2012-02-09|![ziluvatar](https://avatars2.githubusercontent.com/u/1424663)|
-|6|[santteegt](https://github.com/santteegt)|135|328|41|5|2011-07-19|![santteegt](https://avatars1.githubusercontent.com/u/926341)|
-|7|[jameswilson](https://github.com/jameswilson)|94|0|32|11|2010-04-14|![jameswilson](https://avatars0.githubusercontent.com/u/243532)|
+|1|[michaeljymsgutierrez](https://github.com/michaeljymsgutierrez)|1558|0|133|11|2016-05-30|![michaeljymsgutierrez](https://avatars0.githubusercontent.com/u/19644179)|
+|2|[alx741](https://github.com/alx741)|1502|647|152|10|2012-10-12|![alx741](https://avatars0.githubusercontent.com/u/2545720)|
+|3|[cuent](https://github.com/cuent)|344|0|37|6|2013-08-17|![cuent](https://avatars3.githubusercontent.com/u/5248968)|
+|4|[edzzn](https://github.com/edzzn)|286|16|30|2|2015-10-02|![edzzn](https://avatars1.githubusercontent.com/u/14936466)|
+|5|[ziluvatar](https://github.com/ziluvatar)|141|962|41|7|2012-02-09|![ziluvatar](https://avatars2.githubusercontent.com/u/1424663)|
+|6|[santteegt](https://github.com/santteegt)|135|330|41|5|2011-07-19|![santteegt](https://avatars1.githubusercontent.com/u/926341)|
+|7|[jameswilson](https://github.com/jameswilson)|95|0|32|11|2010-04-14|![jameswilson](https://avatars0.githubusercontent.com/u/243532)|
 |8|[etenesaca](https://github.com/etenesaca)|25|0|17|5|2013-02-14|![etenesaca](https://avatars2.githubusercontent.com/u/3594639)|
-|9|[travispence](https://github.com/travispence)|16|413|10|4|2011-12-02|![travispence](https://avatars2.githubusercontent.com/u/1236534)|
-|10|[rpalaciosg](https://github.com/rpalaciosg)|14|0|8|6|2015-03-25|![rpalaciosg](https://avatars0.githubusercontent.com/u/11642622)|
+|9|[travispence](https://github.com/travispence)|18|412|11|4|2011-12-02|![travispence](https://avatars2.githubusercontent.com/u/1236534)|
+|10|[rpalaciosg](https://github.com/rpalaciosg)|14|0|8|5|2015-03-25|![rpalaciosg](https://avatars0.githubusercontent.com/u/11642622)|
 |11|[GGGFred](https://github.com/GGGFred)|12|0|2|2|2013-01-15|![GGGFred](https://avatars3.githubusercontent.com/u/3277081)|
 |12|[MOTEorg](https://github.com/MOTEorg)|9|0|2|2|2013-10-17|![MOTEorg](https://avatars1.githubusercontent.com/u/5705296)|
 |13|[dabada83](https://github.com/dabada83)|8|0|10|12|2010-02-26|![dabada83](https://avatars3.githubusercontent.com/u/211490)|

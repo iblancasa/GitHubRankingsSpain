@@ -1,6 +1,6 @@
 # Ranking Palencia
 
-Generado 11:02PM-November-12-2017.
+Generado 08:35PM-November-19-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,9 +12,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[garciparedes](https://github.com/garciparedes)|2738|40|117|38|2013-10-08|![garciparedes](https://avatars2.githubusercontent.com/u/5640366)|
-|2|[zdavidlnx](https://github.com/zdavidlnx)|109|0|12|6|2011-07-28|![zdavidlnx](https://avatars2.githubusercontent.com/u/944150)|
-|3|[CodeBackpackofEndika](https://github.com/CodeBackpackofEndika)|103|0|20|2|2017-09-25|![CodeBackpackofEndika](https://avatars2.githubusercontent.com/u/32270483)|
+|1|[garciparedes](https://github.com/garciparedes)|2787|12|119|39|2013-10-08|![garciparedes](https://avatars2.githubusercontent.com/u/5640366)|
+|2|[CodeBackpackofEndika](https://github.com/CodeBackpackofEndika)|103|0|20|2|2017-09-25|![CodeBackpackofEndika](https://avatars2.githubusercontent.com/u/32270483)|
+|3|[zdavidlnx](https://github.com/zdavidlnx)|103|0|12|6|2011-07-28|![zdavidlnx](https://avatars2.githubusercontent.com/u/944150)|
 |4|[adrianetete](https://github.com/adrianetete)|10|0|8|12|2014-03-13|![adrianetete](https://avatars2.githubusercontent.com/u/6943237)|
 |5|[villeparamio](https://github.com/villeparamio)|3|0|11|3|2015-12-01|![villeparamio](https://avatars2.githubusercontent.com/u/16100827)|
 |6|[josetristan](https://github.com/josetristan)|1|0|18|3|2011-07-15|![josetristan](https://avatars1.githubusercontent.com/u/916947)|
