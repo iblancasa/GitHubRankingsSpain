@@ -4,16 +4,20 @@
 
 ## What is this?
 This repository contains a set of rankings:
-* One ranking is generated for each Spanish's province.
+* One of them is generated for every Spanish province.
 * With all the rankings of a region (
 autonomous community or the complete country), the ranking of this region is generated.
 
-**What kind of rankings?**: rankings with the GitHub's users. This rankings are based on the location of the different user of GitHub. Then, the results are sorted by number of **public contributions**.
+**What kind of rankings?**: It sorts GitHub users by the number of
+**public contributions** and groups them by the location in their profile. 
 
-## How this dataset is generated?
+## How is this dataset generated?
+
 This repository contains the results of [GitHubSpanishRankingGenerator](https://github.com/iblancasa/GitHubSpanishRankingGenerator).
 
-To generate the rankings, it is necessary to use [GitHubCity](https://github.com/iblancasa/GitHubCity). It is also available at [Pypi](https://pypi.python.org/pypi/githubcity/).
+To generate the rankings, it is necessary to
+use [GitHubCity](https://github.com/iblancasa/GitHubCity), which is
+also available at [Pypi](https://pypi.python.org/pypi/githubcity/). 
 
 
 ### Original idea
