@@ -1,6 +1,6 @@
 # Ranking Melilla
 
-Generado 09:58PM-December-06-2017.
+Generado 12:08AM-December-11-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,4 +12,4 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[seravb](https://github.com/seravb)|0|50|11|16|2012-01-09|![seravb](https://avatars0.githubusercontent.com/u/1315992)|
+|1|[seravb](https://github.com/seravb)|0|49|11|16|2012-01-09|![seravb](https://avatars0.githubusercontent.com/u/1315992)|

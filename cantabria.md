@@ -1,6 +1,6 @@
 # Ranking Cantabria
 
-Generado 09:27PM-December-06-2017.
+Generado 11:40PM-December-10-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -13,7 +13,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[VictorVelarde](https://github.com/VictorVelarde)|515|133|21|12|2010-10-28|![VictorVelarde](https://avatars0.githubusercontent.com/u/458196)|
-|2|[piedraj](https://github.com/piedraj)|513|0|7|10|2012-12-05|![piedraj](https://avatars3.githubusercontent.com/u/2972752)|
+|2|[piedraj](https://github.com/piedraj)|514|0|7|10|2012-12-05|![piedraj](https://avatars3.githubusercontent.com/u/2972752)|
 |3|[jbedia](https://github.com/jbedia)|346|0|5|3|2013-10-28|![jbedia](https://avatars3.githubusercontent.com/u/5796721)|
 |4|[lmfresneda](https://github.com/lmfresneda)|264|0|19|2|2015-06-20|![lmfresneda](https://avatars2.githubusercontent.com/u/12979415)|
 |5|[othercodes](https://github.com/othercodes)|176|0|38|7|2013-06-25|![othercodes](https://avatars3.githubusercontent.com/u/4815856)|
@@ -36,17 +36,18 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |22|[ginoamaury](https://github.com/ginoamaury)|16|0|3|7|2016-09-06|![ginoamaury](https://avatars0.githubusercontent.com/u/22031838)|
 |23|[GabiBarajas](https://github.com/GabiBarajas)|14|0|10|2|2017-01-18|![GabiBarajas](https://avatars1.githubusercontent.com/u/25196739)|
 |24|[magranero](https://github.com/magranero)|9|0|5|2|2016-03-30|![magranero](https://avatars3.githubusercontent.com/u/18167085)|
-|25|[chemunoz](https://github.com/chemunoz)|8|0|7|14|2016-01-13|![chemunoz](https://avatars0.githubusercontent.com/u/16680009)|
-|26|[StrongeLeeroy](https://github.com/StrongeLeeroy)|5|0|26|29|2011-06-03|![StrongeLeeroy](https://avatars0.githubusercontent.com/u/828457)|
+|25|[moracabanas](https://github.com/moracabanas)|8|0|8|2|2013-05-09|![moracabanas](https://avatars0.githubusercontent.com/u/4382333)|
+|26|[chemunoz](https://github.com/chemunoz)|8|0|7|14|2016-01-13|![chemunoz](https://avatars0.githubusercontent.com/u/16680009)|
 |27|[tclauss](https://github.com/tclauss)|5|0|5|2|2013-02-11|![tclauss](https://avatars3.githubusercontent.com/u/3531048)|
-|28|[cukinhou](https://github.com/cukinhou)|5|0|8|3|2015-12-14|![cukinhou](https://avatars2.githubusercontent.com/u/16288214)|
-|29|[JaimeObregon](https://github.com/JaimeObregon)|4|0|10|6|2010-09-27|![JaimeObregon](https://avatars1.githubusercontent.com/u/417226)|
-|30|[david-gomez-fernandez](https://github.com/david-gomez-fernandez)|4|0|3|4|2012-03-23|![david-gomez-fernandez](https://avatars0.githubusercontent.com/u/1568677)|
-|31|[Pedrazl](https://github.com/Pedrazl)|2|0|4|9|2014-12-04|![Pedrazl](https://avatars1.githubusercontent.com/u/10074431)|
-|32|[daveruiz](https://github.com/daveruiz)|1|0|4|3|2012-08-16|![daveruiz](https://avatars2.githubusercontent.com/u/2165375)|
-|33|[Barbrady](https://github.com/Barbrady)|1|0|5|2|2014-01-18|![Barbrady](https://avatars1.githubusercontent.com/u/6436548)|
-|34|[xerox91](https://github.com/xerox91)|0|0|6|7|2011-04-19|![xerox91](https://avatars0.githubusercontent.com/u/740021)|
-|35|[zhensydow](https://github.com/zhensydow)|0|0|21|6|2011-05-09|![zhensydow](https://avatars1.githubusercontent.com/u/777247)|
-|36|[injectilo](https://github.com/injectilo)|0|0|9|6|2014-09-01|![injectilo](https://avatars1.githubusercontent.com/u/8612274)|
-|37|[fonsotf](https://github.com/fonsotf)|0|0|4|2|2015-11-03|![fonsotf](https://avatars1.githubusercontent.com/u/15630996)|
-|38|[ssg70](https://github.com/ssg70)|0|0|4|2|2015-11-04|![ssg70](https://avatars0.githubusercontent.com/u/15652669)|
+|28|[StrongeLeeroy](https://github.com/StrongeLeeroy)|5|0|26|29|2011-06-03|![StrongeLeeroy](https://avatars0.githubusercontent.com/u/828457)|
+|29|[cukinhou](https://github.com/cukinhou)|5|0|8|3|2015-12-14|![cukinhou](https://avatars2.githubusercontent.com/u/16288214)|
+|30|[JaimeObregon](https://github.com/JaimeObregon)|4|0|10|6|2010-09-27|![JaimeObregon](https://avatars1.githubusercontent.com/u/417226)|
+|31|[david-gomez-fernandez](https://github.com/david-gomez-fernandez)|4|0|3|4|2012-03-23|![david-gomez-fernandez](https://avatars0.githubusercontent.com/u/1568677)|
+|32|[Pedrazl](https://github.com/Pedrazl)|2|0|4|9|2014-12-04|![Pedrazl](https://avatars1.githubusercontent.com/u/10074431)|
+|33|[daveruiz](https://github.com/daveruiz)|1|0|4|3|2012-08-16|![daveruiz](https://avatars2.githubusercontent.com/u/2165375)|
+|34|[Barbrady](https://github.com/Barbrady)|1|0|5|2|2014-01-18|![Barbrady](https://avatars1.githubusercontent.com/u/6436548)|
+|35|[xerox91](https://github.com/xerox91)|0|0|6|7|2011-04-19|![xerox91](https://avatars0.githubusercontent.com/u/740021)|
+|36|[zhensydow](https://github.com/zhensydow)|0|0|21|6|2011-05-09|![zhensydow](https://avatars1.githubusercontent.com/u/777247)|
+|37|[injectilo](https://github.com/injectilo)|0|0|9|6|2014-09-01|![injectilo](https://avatars1.githubusercontent.com/u/8612274)|
+|38|[fonsotf](https://github.com/fonsotf)|0|0|4|2|2015-11-03|![fonsotf](https://avatars1.githubusercontent.com/u/15630996)|
+|39|[ssg70](https://github.com/ssg70)|0|0|4|2|2015-11-04|![ssg70](https://avatars0.githubusercontent.com/u/15652669)|

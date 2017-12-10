@@ -1,6 +1,6 @@
 # Ranking Badajoz
 
-Generado 09:11PM-December-06-2017.
+Generado 11:25PM-December-10-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,12 +12,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[gesaodin](https://github.com/gesaodin)|779|0|12|3|2015-03-13|![gesaodin](https://avatars2.githubusercontent.com/u/11463651)|
+|1|[gesaodin](https://github.com/gesaodin)|786|0|12|3|2015-03-13|![gesaodin](https://avatars2.githubusercontent.com/u/11463651)|
 |2|[javitoom](https://github.com/javitoom)|242|0|14|2|2015-09-16|![javitoom](https://avatars2.githubusercontent.com/u/14310769)|
 |3|[LueW](https://github.com/LueW)|153|0|6|4|2016-07-06|![LueW](https://avatars0.githubusercontent.com/u/20323507)|
-|4|[manolodd](https://github.com/manolodd)|147|0|6|3|2013-08-08|![manolodd](https://avatars1.githubusercontent.com/u/5189679)|
+|4|[manolodd](https://github.com/manolodd)|151|0|6|3|2013-08-08|![manolodd](https://avatars1.githubusercontent.com/u/5189679)|
 |5|[adobo](https://github.com/adobo)|144|0|18|28|2011-05-09|![adobo](https://avatars1.githubusercontent.com/u/776565)|
-|6|[oscaruhp](https://github.com/oscaruhp)|120|0|45|16|2011-06-18|![oscaruhp](https://avatars0.githubusercontent.com/u/859116)|
+|6|[oscaruhp](https://github.com/oscaruhp)|132|0|46|17|2011-06-18|![oscaruhp](https://avatars0.githubusercontent.com/u/859116)|
 |7|[afrasilv](https://github.com/afrasilv)|117|7|23|11|2014-10-15|![afrasilv](https://avatars2.githubusercontent.com/u/9256924)|
 |8|[jesusAlbarregas](https://github.com/jesusAlbarregas)|81|0|4|4|2015-11-05|![jesusAlbarregas](https://avatars3.githubusercontent.com/u/15678914)|
 |9|[raultm](https://github.com/raultm)|67|0|29|30|2011-03-09|![raultm](https://avatars3.githubusercontent.com/u/659494)|
@@ -36,19 +36,19 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |22|[Shaofuhw](https://github.com/Shaofuhw)|4|0|10|6|2015-12-11|![Shaofuhw](https://avatars3.githubusercontent.com/u/16259768)|
 |23|[saucelibertarix](https://github.com/saucelibertarix)|3|0|13|16|2016-10-07|![saucelibertarix](https://avatars1.githubusercontent.com/u/22678042)|
 |24|[mendel81](https://github.com/mendel81)|2|0|14|8|2012-07-18|![mendel81](https://avatars3.githubusercontent.com/u/1996771)|
-|25|[jormaral](https://github.com/jormaral)|1|0|56|61|2011-06-03|![jormaral](https://avatars1.githubusercontent.com/u/827073)|
+|25|[jormaral](https://github.com/jormaral)|1|0|56|62|2011-06-03|![jormaral](https://avatars1.githubusercontent.com/u/827073)|
 |26|[jtuz](https://github.com/jtuz)|1|0|17|5|2011-12-01|![jtuz](https://avatars2.githubusercontent.com/u/1232719)|
 |27|[jcasero](https://github.com/jcasero)|1|0|9|3|2012-05-06|![jcasero](https://avatars3.githubusercontent.com/u/1710851)|
-|28|[sebastian041965](https://github.com/sebastian041965)|1|0|40|2|2013-10-07|![sebastian041965](https://avatars1.githubusercontent.com/u/5628346)|
+|28|[sebastian041965](https://github.com/sebastian041965)|1|0|40|3|2013-10-07|![sebastian041965](https://avatars1.githubusercontent.com/u/5628346)|
 |29|[goldenboy](https://github.com/goldenboy)|0|0|221|15|2009-05-27|![goldenboy](https://avatars0.githubusercontent.com/u/89311)|
 |30|[Annitap4](https://github.com/Annitap4)|0|0|8|8|2010-08-30|![Annitap4](https://avatars1.githubusercontent.com/u/381260)|
 |31|[luismiguelmartin](https://github.com/luismiguelmartin)|0|0|14|3|2012-07-07|![luismiguelmartin](https://avatars1.githubusercontent.com/u/1935342)|
 |32|[ruscruzel](https://github.com/ruscruzel)|0|0|17|14|2013-07-09|![ruscruzel](https://avatars3.githubusercontent.com/u/4977448)|
-|33|[atomicum](https://github.com/atomicum)|0|0|3|2|2014-01-13|![atomicum](https://avatars1.githubusercontent.com/u/6386399)|
-|34|[alberto-cabeza](https://github.com/alberto-cabeza)|0|0|3|2|2013-12-19|![alberto-cabeza](https://avatars2.githubusercontent.com/u/6225528)|
+|33|[alberto-cabeza](https://github.com/alberto-cabeza)|0|0|3|2|2013-12-19|![alberto-cabeza](https://avatars2.githubusercontent.com/u/6225528)|
+|34|[atomicum](https://github.com/atomicum)|0|0|3|2|2014-01-13|![atomicum](https://avatars1.githubusercontent.com/u/6386399)|
 |35|[javivimv](https://github.com/javivimv)|0|0|2|2|2014-02-17|![javivimv](https://avatars2.githubusercontent.com/u/6708850)|
 |36|[cdiazmo](https://github.com/cdiazmo)|0|0|2|3|2014-09-23|![cdiazmo](https://avatars0.githubusercontent.com/u/8872502)|
-|37|[WalterFalla](https://github.com/WalterFalla)|0|0|3|5|2015-02-10|![WalterFalla](https://avatars3.githubusercontent.com/u/10943040)|
-|38|[MiguelHidalgo1991](https://github.com/MiguelHidalgo1991)|0|0|14|3|2015-02-03|![MiguelHidalgo1991](https://avatars2.githubusercontent.com/u/10829078)|
+|37|[MiguelHidalgo1991](https://github.com/MiguelHidalgo1991)|0|0|14|3|2015-02-03|![MiguelHidalgo1991](https://avatars2.githubusercontent.com/u/10829078)|
+|38|[WalterFalla](https://github.com/WalterFalla)|0|0|3|5|2015-02-10|![WalterFalla](https://avatars3.githubusercontent.com/u/10943040)|
 |39|[antoniohh](https://github.com/antoniohh)|0|0|16|4|2016-02-03|![antoniohh](https://avatars1.githubusercontent.com/u/17055656)|
 |40|[cmenor](https://github.com/cmenor)|0|0|3|12|2016-10-07|![cmenor](https://avatars3.githubusercontent.com/u/22678047)|

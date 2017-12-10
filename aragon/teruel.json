@@ -1,10 +1,10 @@
-{ "date": "08:25PM-December-06-2017",
+{ "date": "10:41PM-December-10-2017",
   "users": [
   { "name": "jsoriano",
     "position": 1,
-    "contributions": 448,
+    "contributions": 450,
     "public": 271,
-    "private": 177,
+    "private": 179,
     "bio": "SRE at @tuenti",
     "followers": 44,
     "repositories":50,
