@@ -1,6 +1,6 @@
 # Ranking León
 
-Generado 10:44PM-December-10-2017.
+Generado 03:45PM-December-17-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,18 +12,18 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[ipazc](https://github.com/ipazc)|391|0|21|3|2014-03-03|![ipazc](https://avatars0.githubusercontent.com/u/6841743)|
+|1|[ipazc](https://github.com/ipazc)|393|0|21|3|2014-03-03|![ipazc](https://avatars0.githubusercontent.com/u/6841743)|
 |2|[ermus19](https://github.com/ermus19)|368|0|10|7|2012-12-14|![ermus19](https://avatars3.githubusercontent.com/u/3046446)|
-|3|[eherng03](https://github.com/eherng03)|286|174|19|12|2016-03-03|![eherng03](https://avatars1.githubusercontent.com/u/17623621)|
-|4|[manuel-fidalgo](https://github.com/manuel-fidalgo)|155|12|35|7|2016-02-05|![manuel-fidalgo](https://avatars1.githubusercontent.com/u/17085524)|
-|5|[oschariv](https://github.com/oschariv)|148|0|32|4|2016-09-26|![oschariv](https://avatars1.githubusercontent.com/u/22443024)|
+|3|[eherng03](https://github.com/eherng03)|286|175|19|13|2016-03-03|![eherng03](https://avatars1.githubusercontent.com/u/17623621)|
+|4|[oschariv](https://github.com/oschariv)|148|0|33|4|2016-09-26|![oschariv](https://avatars1.githubusercontent.com/u/22443024)|
+|5|[manuel-fidalgo](https://github.com/manuel-fidalgo)|139|23|35|7|2016-02-05|![manuel-fidalgo](https://avatars1.githubusercontent.com/u/17085524)|
 |6|[jesus-cruz](https://github.com/jesus-cruz)|121|104|28|5|2016-03-04|![jesus-cruz](https://avatars2.githubusercontent.com/u/17657793)|
-|7|[Libertual](https://github.com/Libertual)|118|0|22|5|2014-11-17|![Libertual](https://avatars1.githubusercontent.com/u/9809302)|
+|7|[Libertual](https://github.com/Libertual)|119|0|22|5|2014-11-17|![Libertual](https://avatars1.githubusercontent.com/u/9809302)|
 |8|[L3cr0f](https://github.com/L3cr0f)|83|0|12|20|2016-02-25|![L3cr0f](https://avatars0.githubusercontent.com/u/17481756)|
 |9|[egara](https://github.com/egara)|42|0|4|3|2015-08-07|![egara](https://avatars0.githubusercontent.com/u/13696843)|
-|10|[NeoMorfeo](https://github.com/NeoMorfeo)|34|0|11|5|2013-03-04|![NeoMorfeo](https://avatars2.githubusercontent.com/u/3766333)|
-|11|[BorjaMerino](https://github.com/BorjaMerino)|27|0|30|108|2012-05-03|![BorjaMerino](https://avatars1.githubusercontent.com/u/1701534)|
-|12|[alansastre](https://github.com/alansastre)|10|0|63|5|2013-12-02|![alansastre](https://avatars0.githubusercontent.com/u/6086933)|
+|10|[NeoMorfeo](https://github.com/NeoMorfeo)|35|0|12|5|2013-03-04|![NeoMorfeo](https://avatars2.githubusercontent.com/u/3766333)|
+|11|[BorjaMerino](https://github.com/BorjaMerino)|27|0|30|109|2012-05-03|![BorjaMerino](https://avatars1.githubusercontent.com/u/1701534)|
+|12|[alansastre](https://github.com/alansastre)|10|0|63|6|2013-12-02|![alansastre](https://avatars0.githubusercontent.com/u/6086933)|
 |13|[afernv10](https://github.com/afernv10)|10|0|2|4|2017-02-23|![afernv10](https://avatars0.githubusercontent.com/u/25979114)|
 |14|[jesusiglesias](https://github.com/jesusiglesias)|5|0|3|3|2015-02-27|![jesusiglesias](https://avatars1.githubusercontent.com/u/11229430)|
 |15|[finitud](https://github.com/finitud)|2|0|41|32|2010-02-24|![finitud](https://avatars2.githubusercontent.com/u/209716)|
