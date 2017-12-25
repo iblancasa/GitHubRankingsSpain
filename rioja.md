@@ -1,6 +1,6 @@
 # Ranking Rioja
 
-Generado 05:29PM-December-17-2017.
+Generado 08:26PM-December-24-2017.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,20 +12,20 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[iderioja](https://github.com/iderioja)|630|0|10|16|2013-07-25|![iderioja](https://avatars3.githubusercontent.com/u/5090808)|
-|2|[jynus](https://github.com/jynus)|629|0|7|13|2014-08-28|![jynus](https://avatars1.githubusercontent.com/u/8576860)|
-|3|[stronk7](https://github.com/stronk7)|556|0|58|52|2009-12-14|![stronk7](https://avatars3.githubusercontent.com/u/167147)|
-|4|[jecrespo](https://github.com/jecrespo)|260|0|58|49|2012-03-15|![jecrespo](https://avatars2.githubusercontent.com/u/1539718)|
+|1|[iderioja](https://github.com/iderioja)|630|0|9|17|2013-07-25|![iderioja](https://avatars3.githubusercontent.com/u/5090808)|
+|2|[jynus](https://github.com/jynus)|624|0|7|13|2014-08-28|![jynus](https://avatars1.githubusercontent.com/u/8576860)|
+|3|[stronk7](https://github.com/stronk7)|568|0|58|52|2009-12-14|![stronk7](https://avatars3.githubusercontent.com/u/167147)|
+|4|[jecrespo](https://github.com/jecrespo)|260|0|58|50|2012-03-15|![jecrespo](https://avatars2.githubusercontent.com/u/1539718)|
 |5|[juanmirod](https://github.com/juanmirod)|157|0|15|22|2013-02-27|![juanmirod](https://avatars2.githubusercontent.com/u/3714422)|
 |6|[pablo-moreno](https://github.com/pablo-moreno)|151|0|11|2|2014-07-18|![pablo-moreno](https://avatars1.githubusercontent.com/u/8203696)|
-|7|[wbugbofh](https://github.com/wbugbofh)|132|0|19|5|2013-04-24|![wbugbofh](https://avatars2.githubusercontent.com/u/4250161)|
-|8|[asiermarques](https://github.com/asiermarques)|117|0|6|90|2009-11-05|![asiermarques](https://avatars0.githubusercontent.com/u/149459)|
-|9|[jorgegorka](https://github.com/jorgegorka)|73|1777|30|24|2008-05-07|![jorgegorka](https://avatars3.githubusercontent.com/u/9585)|
-|10|[lmarqueta](https://github.com/lmarqueta)|66|0|16|2|2015-09-17|![lmarqueta](https://avatars1.githubusercontent.com/u/14338278)|
-|11|[damarte](https://github.com/damarte)|36|0|41|3|2013-04-30|![damarte](https://avatars2.githubusercontent.com/u/4304282)|
-|12|[oscars8a](https://github.com/oscars8a)|36|0|4|3|2017-11-13|![oscars8a](https://avatars2.githubusercontent.com/u/33620978)|
-|13|[aprendiendo-arduino](https://github.com/aprendiendo-arduino)|33|0|5|2|2016-09-02|![aprendiendo-arduino](https://avatars3.githubusercontent.com/u/21957254)|
-|14|[davidru85](https://github.com/davidru85)|19|0|17|12|2010-11-08|![davidru85](https://avatars2.githubusercontent.com/u/472324)|
+|7|[wbugbofh](https://github.com/wbugbofh)|133|0|19|5|2013-04-24|![wbugbofh](https://avatars2.githubusercontent.com/u/4250161)|
+|8|[asiermarques](https://github.com/asiermarques)|109|0|6|91|2009-11-05|![asiermarques](https://avatars0.githubusercontent.com/u/149459)|
+|9|[jorgegorka](https://github.com/jorgegorka)|78|1690|30|24|2008-05-07|![jorgegorka](https://avatars3.githubusercontent.com/u/9585)|
+|10|[lmarqueta](https://github.com/lmarqueta)|63|0|16|2|2015-09-17|![lmarqueta](https://avatars1.githubusercontent.com/u/14338278)|
+|11|[oscars8a](https://github.com/oscars8a)|49|0|5|4|2017-11-13|![oscars8a](https://avatars2.githubusercontent.com/u/33620978)|
+|12|[damarte](https://github.com/damarte)|32|0|41|3|2013-04-30|![damarte](https://avatars2.githubusercontent.com/u/4304282)|
+|13|[aprendiendo-arduino](https://github.com/aprendiendo-arduino)|29|0|5|2|2016-09-02|![aprendiendo-arduino](https://avatars3.githubusercontent.com/u/21957254)|
+|14|[davidru85](https://github.com/davidru85)|21|0|18|12|2010-11-08|![davidru85](https://avatars2.githubusercontent.com/u/472324)|
 |15|[rgo](https://github.com/rgo)|17|0|56|60|2009-01-16|![rgo](https://avatars1.githubusercontent.com/u/47124)|
 |16|[jlmerdiez](https://github.com/jlmerdiez)|17|0|5|8|2014-01-24|![jlmerdiez](https://avatars2.githubusercontent.com/u/6492854)|
 |17|[joseRamonLeon](https://github.com/joseRamonLeon)|14|0|160|4|2012-04-26|![joseRamonLeon](https://avatars1.githubusercontent.com/u/1682282)|
@@ -35,9 +35,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |21|[miguelangelnieto](https://github.com/miguelangelnieto)|9|0|6|11|2011-05-25|![miguelangelnieto](https://avatars2.githubusercontent.com/u/810868)|
 |22|[didiez](https://github.com/didiez)|6|0|12|2|2011-02-22|![didiez](https://avatars0.githubusercontent.com/u/632860)|
 |23|[vicajilau](https://github.com/vicajilau)|6|0|2|2|2017-12-01|![vicajilau](https://avatars0.githubusercontent.com/u/34163765)|
-|24|[Puigcerber](https://github.com/Puigcerber)|5|0|20|38|2011-06-22|![Puigcerber](https://avatars2.githubusercontent.com/u/866808)|
-|25|[Txumari](https://github.com/Txumari)|5|0|18|7|2010-09-16|![Txumari](https://avatars1.githubusercontent.com/u/401963)|
-|26|[chiva](https://github.com/chiva)|4|0|17|20|2010-06-15|![chiva](https://avatars1.githubusercontent.com/u/305333)|
+|24|[chiva](https://github.com/chiva)|5|0|17|20|2010-06-15|![chiva](https://avatars1.githubusercontent.com/u/305333)|
+|25|[Puigcerber](https://github.com/Puigcerber)|5|0|20|38|2011-06-22|![Puigcerber](https://avatars2.githubusercontent.com/u/866808)|
+|26|[Txumari](https://github.com/Txumari)|5|0|18|7|2010-09-16|![Txumari](https://avatars1.githubusercontent.com/u/401963)|
 |27|[catirado](https://github.com/catirado)|2|0|11|2|2010-08-04|![catirado](https://avatars2.githubusercontent.com/u/354151)|
 |28|[eduardobenito10](https://github.com/eduardobenito10)|1|0|14|2|2011-09-06|![eduardobenito10](https://avatars1.githubusercontent.com/u/1029956)|
 |29|[csadan](https://github.com/csadan)|0|0|4|2|2014-01-21|![csadan](https://avatars0.githubusercontent.com/u/6459730)|
