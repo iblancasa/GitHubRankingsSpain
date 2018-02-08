@@ -1,6 +1,6 @@
 # Ranking Álava
 
-Generado 09:39PM-February-08-2018.
+Generado 10:39PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -49,12 +49,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |35|[mserranog](https://github.com/mserranog)|1|0|6|2|2012-04-17|![mserranog](https://avatars2.githubusercontent.com/u/1651085)|
 |36|[gorkar12](https://github.com/gorkar12)|1|0|6|5|2013-09-25|![gorkar12](https://avatars3.githubusercontent.com/u/5543281)|
 |37|[FotoIkatz](https://github.com/FotoIkatz)|1|16|2|3|2015-11-19|![FotoIkatz](https://avatars3.githubusercontent.com/u/15926085)|
-|38|[agoya](https://github.com/agoya)|0|0|4|2|2012-02-03|![agoya](https://avatars0.githubusercontent.com/u/1406621)|
+|38|[trepi](https://github.com/trepi)|0|0|4|3|2011-04-27|![trepi](https://avatars3.githubusercontent.com/u/755738)|
 |39|[anteojo](https://github.com/anteojo)|0|0|2|3|2009-04-06|![anteojo](https://avatars2.githubusercontent.com/u/70954)|
 |40|[rg1024](https://github.com/rg1024)|0|0|3|3|2010-05-02|![rg1024](https://avatars3.githubusercontent.com/u/262476)|
-|41|[trepi](https://github.com/trepi)|0|0|4|3|2011-04-27|![trepi](https://avatars3.githubusercontent.com/u/755738)|
+|41|[agoya](https://github.com/agoya)|0|0|4|2|2012-02-03|![agoya](https://avatars0.githubusercontent.com/u/1406621)|
 |42|[gaztesk](https://github.com/gaztesk)|0|0|3|5|2012-11-20|![gaztesk](https://avatars3.githubusercontent.com/u/2839170)|
-|43|[javipaur](https://github.com/javipaur)|0|0|16|7|2013-02-06|![javipaur](https://avatars2.githubusercontent.com/u/3490928)|
-|44|[Asuanzes](https://github.com/Asuanzes)|0|0|9|5|2013-05-12|![Asuanzes](https://avatars3.githubusercontent.com/u/4410315)|
+|43|[Asuanzes](https://github.com/Asuanzes)|0|0|9|5|2013-05-12|![Asuanzes](https://avatars3.githubusercontent.com/u/4410315)|
+|44|[javipaur](https://github.com/javipaur)|0|0|16|7|2013-02-06|![javipaur](https://avatars2.githubusercontent.com/u/3490928)|
 |45|[falbarp](https://github.com/falbarp)|0|0|4|2|2013-05-27|![falbarp](https://avatars2.githubusercontent.com/u/4542512)|
 |46|[ioritzHO](https://github.com/ioritzHO)|0|0|4|2|2012-08-19|![ioritzHO](https://avatars2.githubusercontent.com/u/2179398)|

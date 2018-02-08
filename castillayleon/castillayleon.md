@@ -1,6 +1,6 @@
 # Ranking Castilla y León
 
-Generado 09:21PM-February-08-2018.
+Generado 10:49PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -27,13 +27,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |13|[ntrrgc](https://github.com/ntrrgc)|507|18|74|15|2011-08-24|![ntrrgc](https://avatars3.githubusercontent.com/u/1002436)|
 |14|[jesmrec](https://github.com/jesmrec)|410|0|6|4|2015-09-29|![jesmrec](https://avatars2.githubusercontent.com/u/14894746)|
 |15|[ipazc](https://github.com/ipazc)|403|17|22|7|2014-03-03|![ipazc](https://avatars0.githubusercontent.com/u/6841743)|
-|16|[albfernandez](https://github.com/albfernandez)|399|0|48|7|2012-11-01|![albfernandez](https://avatars2.githubusercontent.com/u/2701620)|
+|16|[albfernandez](https://github.com/albfernandez)|400|0|48|7|2012-11-01|![albfernandez](https://avatars2.githubusercontent.com/u/2701620)|
 |17|[jorge-sanz](https://github.com/jorge-sanz)|390|190|48|59|2013-07-19|![jorge-sanz](https://avatars2.githubusercontent.com/u/5048292)|
 |18|[davivel](https://github.com/davivel)|381|0|9|39|2012-08-27|![davivel](https://avatars0.githubusercontent.com/u/2225614)|
 |19|[rubencm](https://github.com/rubencm)|369|0|9|16|2011-06-29|![rubencm](https://avatars2.githubusercontent.com/u/885208)|
 |20|[espipj](https://github.com/espipj)|369|236|13|7|2015-06-12|![espipj](https://avatars0.githubusercontent.com/u/12865914)|
 |21|[RLRG](https://github.com/RLRG)|354|0|21|6|2016-06-15|![RLRG](https://avatars3.githubusercontent.com/u/19955480)|
-|22|[sergio11](https://github.com/sergio11)|331|913|60|23|2014-03-19|![sergio11](https://avatars3.githubusercontent.com/u/6996211)|
+|22|[sergio11](https://github.com/sergio11)|332|913|61|23|2014-03-19|![sergio11](https://avatars3.githubusercontent.com/u/6996211)|
 |23|[miguelarman](https://github.com/miguelarman)|328|21|7|2|2016-10-13|![miguelarman](https://avatars1.githubusercontent.com/u/22821797)|
 |24|[jvillafanez](https://github.com/jvillafanez)|316|0|4|3|2012-02-27|![jvillafanez](https://avatars1.githubusercontent.com/u/1477829)|
 |25|[amtBurgos](https://github.com/amtBurgos)|312|0|14|2|2015-10-30|![amtBurgos](https://avatars3.githubusercontent.com/u/15483636)|
@@ -53,7 +53,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |39|[lrmaldo](https://github.com/lrmaldo)|169|0|46|2|2016-03-30|![lrmaldo](https://avatars1.githubusercontent.com/u/18175462)|
 |40|[raulalgo](https://github.com/raulalgo)|163|0|24|2|2014-07-03|![raulalgo](https://avatars2.githubusercontent.com/u/8058228)|
 |41|[juangon](https://github.com/juangon)|162|0|163|16|2012-01-05|![juangon](https://avatars2.githubusercontent.com/u/1306127)|
-|42|[palmerabollo](https://github.com/palmerabollo)|157|2026|69|36|2011-03-16|![palmerabollo](https://avatars1.githubusercontent.com/u/673420)|
+|42|[palmerabollo](https://github.com/palmerabollo)|158|2028|69|36|2011-03-16|![palmerabollo](https://avatars1.githubusercontent.com/u/673420)|
 |43|[diegocasillasdev](https://github.com/diegocasillasdev)|146|0|13|5|2016-06-30|![diegocasillasdev](https://avatars3.githubusercontent.com/u/20227008)|
 |44|[victorvicpal](https://github.com/victorvicpal)|140|0|12|10|2014-12-02|![victorvicpal](https://avatars0.githubusercontent.com/u/10044742)|
 |45|[mig42](https://github.com/mig42)|138|0|29|3|2013-05-26|![mig42](https://avatars0.githubusercontent.com/u/4534635)|
@@ -101,8 +101,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |87|[es2812](https://github.com/es2812)|59|0|9|3|2014-12-04|![es2812](https://avatars0.githubusercontent.com/u/10078728)|
 |88|[eduriol](https://github.com/eduriol)|57|2|23|7|2013-09-13|![eduriol](https://avatars0.githubusercontent.com/u/5454201)|
 |89|[titodevera](https://github.com/titodevera)|56|0|7|8|2015-03-19|![titodevera](https://avatars2.githubusercontent.com/u/11556124)|
-|90|[RicardoR](https://github.com/RicardoR)|55|0|9|5|2013-06-15|![RicardoR](https://avatars0.githubusercontent.com/u/4703564)|
-|91|[arkadoel](https://github.com/arkadoel)|55|0|35|4|2013-06-16|![arkadoel](https://avatars0.githubusercontent.com/u/4712655)|
+|90|[arkadoel](https://github.com/arkadoel)|56|0|35|4|2013-06-16|![arkadoel](https://avatars0.githubusercontent.com/u/4712655)|
+|91|[RicardoR](https://github.com/RicardoR)|55|0|9|5|2013-06-15|![RicardoR](https://avatars0.githubusercontent.com/u/4703564)|
 |92|[salesmendesandre](https://github.com/salesmendesandre)|54|58|7|3|2016-04-03|![salesmendesandre](https://avatars1.githubusercontent.com/u/18242653)|
 |93|[ggdiez](https://github.com/ggdiez)|54|0|7|17|2012-07-27|![ggdiez](https://avatars2.githubusercontent.com/u/2051473)|
 |94|[francaguilar](https://github.com/francaguilar)|53|0|96|6|2015-03-19|![francaguilar](https://avatars3.githubusercontent.com/u/11558278)|

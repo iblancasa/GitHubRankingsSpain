@@ -1,6 +1,6 @@
 # Ranking Pontevedra
 
-Generado 09:43PM-February-08-2018.
+Generado 10:42PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -125,9 +125,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |111|[davidpazo](https://github.com/davidpazo)|1|0|144|25|2014-09-25|![davidpazo](https://avatars1.githubusercontent.com/u/8911119)|
 |112|[filipealvesferreira](https://github.com/filipealvesferreira)|0|0|4|4|2009-08-06|![filipealvesferreira](https://avatars1.githubusercontent.com/u/112428)|
 |113|[mvm](https://github.com/mvm)|0|0|12|3|2009-12-08|![mvm](https://avatars2.githubusercontent.com/u/164623)|
-|114|[Pteridium](https://github.com/Pteridium)|0|0|8|16|2012-04-09|![Pteridium](https://avatars1.githubusercontent.com/u/1627358)|
-|115|[xmanoel](https://github.com/xmanoel)|0|0|2|2|2012-04-12|![xmanoel](https://avatars1.githubusercontent.com/u/1638222)|
-|116|[Ciges](https://github.com/Ciges)|0|0|18|7|2012-04-06|![Ciges](https://avatars0.githubusercontent.com/u/1619612)|
+|114|[Ciges](https://github.com/Ciges)|0|0|18|7|2012-04-06|![Ciges](https://avatars0.githubusercontent.com/u/1619612)|
+|115|[Pteridium](https://github.com/Pteridium)|0|0|8|16|2012-04-09|![Pteridium](https://avatars1.githubusercontent.com/u/1627358)|
+|116|[xmanoel](https://github.com/xmanoel)|0|0|2|2|2012-04-12|![xmanoel](https://avatars1.githubusercontent.com/u/1638222)|
 |117|[alejandrosantana](https://github.com/alejandrosantana)|0|0|15|12|2013-02-26|![alejandrosantana](https://avatars0.githubusercontent.com/u/3707483)|
 |118|[diegofdez](https://github.com/diegofdez)|0|0|13|3|2013-07-01|![diegofdez](https://avatars1.githubusercontent.com/u/4912002)|
 |119|[ifcunharro](https://github.com/ifcunharro)|0|0|10|7|2013-11-19|![ifcunharro](https://avatars1.githubusercontent.com/u/5978681)|
@@ -135,6 +135,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |121|[iagosayar](https://github.com/iagosayar)|0|0|5|10|2014-07-03|![iagosayar](https://avatars2.githubusercontent.com/u/8057293)|
 |122|[dseijasiglesias](https://github.com/dseijasiglesias)|0|0|21|35|2014-09-22|![dseijasiglesias](https://avatars1.githubusercontent.com/u/8861760)|
 |123|[JabirM](https://github.com/JabirM)|0|0|2|3|2014-10-30|![JabirM](https://avatars3.githubusercontent.com/u/9459722)|
-|124|[srutschmann](https://github.com/srutschmann)|0|0|4|2|2014-12-30|![srutschmann](https://avatars3.githubusercontent.com/u/10353284)|
-|125|[alg-a](https://github.com/alg-a)|0|0|5|3|2014-11-24|![alg-a](https://avatars1.githubusercontent.com/u/9934404)|
+|124|[alg-a](https://github.com/alg-a)|0|0|5|3|2014-11-24|![alg-a](https://avatars1.githubusercontent.com/u/9934404)|
+|125|[srutschmann](https://github.com/srutschmann)|0|0|4|2|2014-12-30|![srutschmann](https://avatars3.githubusercontent.com/u/10353284)|
 |126|[adrianmantilla](https://github.com/adrianmantilla)|0|0|5|3|2015-09-22|![adrianmantilla](https://avatars3.githubusercontent.com/u/14758140)|

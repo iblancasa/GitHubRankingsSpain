@@ -1,6 +1,6 @@
 # Ranking Toledo
 
-Generado 09:46PM-February-08-2018.
+Generado 10:44PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -33,8 +33,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |19|[vicentenavarro](https://github.com/vicentenavarro)|13|0|5|22|2017-02-13|![vicentenavarro](https://avatars2.githubusercontent.com/u/25737591)|
 |20|[garniev](https://github.com/garniev)|11|0|7|2|2014-12-09|![garniev](https://avatars1.githubusercontent.com/u/10130200)|
 |21|[cwammes](https://github.com/cwammes)|8|0|3|2|2014-03-18|![cwammes](https://avatars0.githubusercontent.com/u/6991783)|
-|22|[christian-es](https://github.com/christian-es)|6|2|10|2|2014-07-12|![christian-es](https://avatars2.githubusercontent.com/u/8144580)|
-|23|[jrruiz](https://github.com/jrruiz)|6|0|6|11|2013-12-02|![jrruiz](https://avatars3.githubusercontent.com/u/6089334)|
+|22|[jrruiz](https://github.com/jrruiz)|6|0|6|11|2013-12-02|![jrruiz](https://avatars3.githubusercontent.com/u/6089334)|
+|23|[christian-es](https://github.com/christian-es)|6|2|10|2|2014-07-12|![christian-es](https://avatars2.githubusercontent.com/u/8144580)|
 |24|[JoseGCheca](https://github.com/JoseGCheca)|4|0|10|12|2014-02-05|![JoseGCheca](https://avatars1.githubusercontent.com/u/6599858)|
 |25|[djMesias](https://github.com/djMesias)|3|0|13|5|2011-09-17|![djMesias](https://avatars1.githubusercontent.com/u/1057831)|
 |26|[chermidap](https://github.com/chermidap)|2|0|5|2|2015-11-26|![chermidap](https://avatars0.githubusercontent.com/u/16034887)|

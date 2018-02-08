@@ -1,6 +1,6 @@
 # Ranking Huesca
 
-Generado 09:19PM-February-08-2018.
+Generado 10:32PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -19,7 +19,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |5|[hbiarge](https://github.com/hbiarge)|71|0|30|32|2010-11-08|![hbiarge](https://avatars0.githubusercontent.com/u/473010)|
 |6|[lopezmuzas](https://github.com/lopezmuzas)|8|0|9|7|2012-02-01|![lopezmuzas](https://avatars0.githubusercontent.com/u/1397384)|
 |7|[Albertowska](https://github.com/Albertowska)|5|0|10|4|2013-05-21|![Albertowska](https://avatars0.githubusercontent.com/u/4486925)|
-|8|[sergioibs](https://github.com/sergioibs)|2|0|8|3|2013-09-26|![sergioibs](https://avatars2.githubusercontent.com/u/5547593)|
-|9|[jchine](https://github.com/jchine)|2|0|17|7|2012-05-03|![jchine](https://avatars0.githubusercontent.com/u/1701751)|
+|8|[jchine](https://github.com/jchine)|2|0|17|7|2012-05-03|![jchine](https://avatars0.githubusercontent.com/u/1701751)|
+|9|[sergioibs](https://github.com/sergioibs)|2|0|8|3|2013-09-26|![sergioibs](https://avatars2.githubusercontent.com/u/5547593)|
 |10|[fgarcialainez](https://github.com/fgarcialainez)|0|0|13|13|2012-05-19|![fgarcialainez](https://avatars3.githubusercontent.com/u/1755561)|
 |11|[JuanS](https://github.com/JuanS)|0|0|134|6|2012-08-16|![JuanS](https://avatars1.githubusercontent.com/u/2165396)|

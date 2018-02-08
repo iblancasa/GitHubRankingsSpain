@@ -1,6 +1,6 @@
 # Ranking Galicia
 
-Generado 09:43PM-February-08-2018.
+Generado 10:49PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -46,8 +46,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |32|[alopezsanchez](https://github.com/alopezsanchez)|264|16|23|21|2015-10-20|![alopezsanchez](https://avatars3.githubusercontent.com/u/15221596)|
 |33|[rcoedo](https://github.com/rcoedo)|262|0|61|9|2014-01-15|![rcoedo](https://avatars3.githubusercontent.com/u/6409659)|
 |34|[omar7r](https://github.com/omar7r)|259|0|12|21|2011-02-25|![omar7r](https://avatars2.githubusercontent.com/u/637695)|
-|35|[ltilve](https://github.com/ltilve)|254|0|20|6|2012-11-26|![ltilve](https://avatars0.githubusercontent.com/u/2891281)|
-|36|[mrjato](https://github.com/mrjato)|252|0|24|26|2013-01-31|![mrjato](https://avatars0.githubusercontent.com/u/3437005)|
+|35|[mrjato](https://github.com/mrjato)|255|0|24|26|2013-01-31|![mrjato](https://avatars0.githubusercontent.com/u/3437005)|
+|36|[ltilve](https://github.com/ltilve)|254|0|20|6|2012-11-26|![ltilve](https://avatars0.githubusercontent.com/u/2891281)|
 |37|[castrinho8](https://github.com/castrinho8)|250|0|36|30|2013-04-25|![castrinho8](https://avatars1.githubusercontent.com/u/4258001)|
 |38|[bertez](https://github.com/bertez)|243|210|61|49|2009-11-30|![bertez](https://avatars3.githubusercontent.com/u/159838)|
 |39|[alambike](https://github.com/alambike)|228|0|23|18|2011-09-04|![alambike](https://avatars2.githubusercontent.com/u/1025564)|

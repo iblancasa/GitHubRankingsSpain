@@ -1,6 +1,6 @@
 # Ranking Ciudad Real
 
-Generado 09:43PM-February-08-2018.
+Generado 10:43PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -42,10 +42,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |28|[agomezgar](https://github.com/agomezgar)|5|0|17|16|2015-02-18|![agomezgar](https://avatars0.githubusercontent.com/u/11057399)|
 |29|[fdzjuancarlos](https://github.com/fdzjuancarlos)|4|0|14|2|2013-09-27|![fdzjuancarlos](https://avatars3.githubusercontent.com/u/5560118)|
 |30|[vpoblete](https://github.com/vpoblete)|1|0|2|2|2012-08-23|![vpoblete](https://avatars1.githubusercontent.com/u/2203544)|
-|31|[roberkixote](https://github.com/roberkixote)|0|0|20|4|2011-02-10|![roberkixote](https://avatars3.githubusercontent.com/u/610447)|
-|32|[vroman](https://github.com/vroman)|0|1|3|10|2009-01-09|![vroman](https://avatars3.githubusercontent.com/u/45230)|
-|33|[j2sg](https://github.com/j2sg)|0|0|8|2|2011-03-18|![j2sg](https://avatars3.githubusercontent.com/u/677220)|
+|31|[jotajotavm](https://github.com/jotajotavm)|0|0|5|57|2013-12-10|![jotajotavm](https://avatars3.githubusercontent.com/u/6154935)|
+|32|[j2sg](https://github.com/j2sg)|0|0|8|2|2011-03-18|![j2sg](https://avatars3.githubusercontent.com/u/677220)|
+|33|[benjasHu](https://github.com/benjasHu)|0|0|8|3|2014-09-28|![benjasHu](https://avatars2.githubusercontent.com/u/8950146)|
 |34|[odeniz](https://github.com/odeniz)|0|0|4|2|2013-02-19|![odeniz](https://avatars2.githubusercontent.com/u/3634016)|
-|35|[jotajotavm](https://github.com/jotajotavm)|0|0|5|57|2013-12-10|![jotajotavm](https://avatars3.githubusercontent.com/u/6154935)|
-|36|[benjasHu](https://github.com/benjasHu)|0|0|8|3|2014-09-28|![benjasHu](https://avatars2.githubusercontent.com/u/8950146)|
+|35|[vroman](https://github.com/vroman)|0|1|3|10|2009-01-09|![vroman](https://avatars3.githubusercontent.com/u/45230)|
+|36|[roberkixote](https://github.com/roberkixote)|0|0|20|4|2011-02-10|![roberkixote](https://avatars3.githubusercontent.com/u/610447)|
 |37|[fpromero](https://github.com/fpromero)|0|0|7|2|2014-11-06|![fpromero](https://avatars3.githubusercontent.com/u/9592895)|

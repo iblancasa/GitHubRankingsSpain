@@ -1,6 +1,6 @@
 # Ranking Navarra
 
-Generado 10:03PM-February-08-2018.
+Generado 10:47PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[pxai](https://github.com/pxai)|1480|0|195|24|2011-12-02|![pxai](https://avatars0.githubusercontent.com/u/1235511)|
+|1|[pxai](https://github.com/pxai)|1481|0|195|24|2011-12-02|![pxai](https://avatars0.githubusercontent.com/u/1235511)|
 |2|[vgonisanz](https://github.com/vgonisanz)|215|0|29|18|2012-05-03|![vgonisanz](https://avatars3.githubusercontent.com/u/1701387)|
 |3|[MiguelMarzo](https://github.com/MiguelMarzo)|186|0|45|5|2016-09-15|![MiguelMarzo](https://avatars1.githubusercontent.com/u/22213563)|
 |4|[karlosgliberal](https://github.com/karlosgliberal)|148|0|88|47|2010-02-10|![karlosgliberal](https://avatars0.githubusercontent.com/u/200922)|
@@ -24,8 +24,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |10|[iaguas](https://github.com/iaguas)|89|55|9|9|2013-04-25|![iaguas](https://avatars0.githubusercontent.com/u/4259550)|
 |11|[AsierAndres](https://github.com/AsierAndres)|82|0|6|3|2016-09-23|![AsierAndres](https://avatars1.githubusercontent.com/u/22394419)|
 |12|[alabarga](https://github.com/alabarga)|78|0|237|29|2009-12-11|![alabarga](https://avatars3.githubusercontent.com/u/166339)|
-|13|[aitorrl](https://github.com/aitorrl)|61|0|8|6|2010-08-19|![aitorrl](https://avatars2.githubusercontent.com/u/369424)|
-|14|[quickapps](https://github.com/quickapps)|61|0|5|25|2011-10-15|![quickapps](https://avatars0.githubusercontent.com/u/1129842)|
+|13|[quickapps](https://github.com/quickapps)|61|0|5|25|2011-10-15|![quickapps](https://avatars0.githubusercontent.com/u/1129842)|
+|14|[aitorrl](https://github.com/aitorrl)|61|0|8|6|2010-08-19|![aitorrl](https://avatars2.githubusercontent.com/u/369424)|
 |15|[katanagari7c1](https://github.com/katanagari7c1)|44|1066|8|4|2011-05-03|![katanagari7c1](https://avatars1.githubusercontent.com/u/765232)|
 |16|[ChristopherCastro](https://github.com/ChristopherCastro)|43|0|9|3|2011-04-25|![ChristopherCastro](https://avatars0.githubusercontent.com/u/749463)|
 |17|[AlvaroLarumbe](https://github.com/AlvaroLarumbe)|37|1128|8|8|2013-04-25|![AlvaroLarumbe](https://avatars1.githubusercontent.com/u/4255881)|
@@ -37,8 +37,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |23|[iolalla](https://github.com/iolalla)|15|0|9|6|2010-06-17|![iolalla](https://avatars2.githubusercontent.com/u/308066)|
 |24|[pakozm](https://github.com/pakozm)|15|0|57|61|2012-10-26|![pakozm](https://avatars2.githubusercontent.com/u/2655921)|
 |25|[millenc](https://github.com/millenc)|12|0|13|2|2014-06-11|![millenc](https://avatars0.githubusercontent.com/u/7861428)|
-|26|[Alvaroctal](https://github.com/Alvaroctal)|11|11|10|10|2013-05-29|![Alvaroctal](https://avatars0.githubusercontent.com/u/4562922)|
-|27|[pabloalbizu](https://github.com/pabloalbizu)|11|0|9|4|2013-01-09|![pabloalbizu](https://avatars0.githubusercontent.com/u/3223601)|
+|26|[pabloalbizu](https://github.com/pabloalbizu)|11|0|9|4|2013-01-09|![pabloalbizu](https://avatars0.githubusercontent.com/u/3223601)|
+|27|[Alvaroctal](https://github.com/Alvaroctal)|11|11|10|10|2013-05-29|![Alvaroctal](https://avatars0.githubusercontent.com/u/4562922)|
 |28|[jabiertxof](https://github.com/jabiertxof)|11|0|5|2|2013-04-30|![jabiertxof](https://avatars3.githubusercontent.com/u/4304876)|
 |29|[zapabest](https://github.com/zapabest)|8|0|106|18|2012-01-08|![zapabest](https://avatars0.githubusercontent.com/u/1312256)|
 |30|[makobernal](https://github.com/makobernal)|7|0|12|2|2012-12-01|![makobernal](https://avatars0.githubusercontent.com/u/2937992)|

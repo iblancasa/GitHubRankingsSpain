@@ -1,6 +1,6 @@
 # Ranking Euskadi
 
-Generado 09:41PM-February-08-2018.
+Generado 10:49PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -66,7 +66,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |52|[jonabasque](https://github.com/jonabasque)|155|0|29|18|2012-05-05|![jonabasque](https://avatars0.githubusercontent.com/u/1707606)|
 |53|[che1404](https://github.com/che1404)|154|0|8|14|2010-05-29|![che1404](https://avatars2.githubusercontent.com/u/290546)|
 |54|[Ondiz](https://github.com/Ondiz)|146|0|14|11|2014-09-01|![Ondiz](https://avatars3.githubusercontent.com/u/8613882)|
-|55|[artberri](https://github.com/artberri)|140|0|30|106|2010-10-26|![artberri](https://avatars3.githubusercontent.com/u/454523)|
+|55|[artberri](https://github.com/artberri)|141|0|30|106|2010-10-26|![artberri](https://avatars3.githubusercontent.com/u/454523)|
 |56|[PurgePJ](https://github.com/PurgePJ)|137|0|19|3|2016-07-23|![PurgePJ](https://avatars1.githubusercontent.com/u/20613820)|
 |57|[aitoralmeida](https://github.com/aitoralmeida)|136|2|36|23|2012-08-06|![aitoralmeida](https://avatars0.githubusercontent.com/u/2103213)|
 |58|[andoni-eguiluz](https://github.com/andoni-eguiluz)|132|0|10|66|2013-11-24|![andoni-eguiluz](https://avatars0.githubusercontent.com/u/6024871)|

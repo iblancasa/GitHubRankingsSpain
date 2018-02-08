@@ -1,6 +1,6 @@
 # Ranking Guadalajara
 
-Generado 09:44PM-February-08-2018.
+Generado 10:44PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -13,13 +13,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[pedroamador](https://github.com/pedroamador)|704|0|49|14|2012-12-29|![pedroamador](https://avatars3.githubusercontent.com/u/3147915)|
-|2|[davidalejandroaguilar](https://github.com/davidalejandroaguilar)|541|358|4|4|2015-10-26|![davidalejandroaguilar](https://avatars1.githubusercontent.com/u/15317732)|
+|2|[davidalejandroaguilar](https://github.com/davidalejandroaguilar)|542|358|4|4|2015-10-26|![davidalejandroaguilar](https://avatars1.githubusercontent.com/u/15317732)|
 |3|[dtoledo23](https://github.com/dtoledo23)|418|0|19|5|2014-09-05|![dtoledo23](https://avatars0.githubusercontent.com/u/8670901)|
 |4|[josecordaz](https://github.com/josecordaz)|392|788|40|3|2013-03-17|![josecordaz](https://avatars0.githubusercontent.com/u/3892786)|
 |5|[charliechauri](https://github.com/charliechauri)|369|0|19|4|2015-02-25|![charliechauri](https://avatars1.githubusercontent.com/u/11186658)|
 |6|[kenwbauer](https://github.com/kenwbauer)|362|0|72|35|2013-04-19|![kenwbauer](https://avatars3.githubusercontent.com/u/4203312)|
 |7|[Algunenano](https://github.com/Algunenano)|331|83|31|8|2011-03-11|![Algunenano](https://avatars2.githubusercontent.com/u/664253)|
-|8|[alan-maldonado](https://github.com/alan-maldonado)|297|3995|60|3|2012-11-04|![alan-maldonado](https://avatars1.githubusercontent.com/u/2721809)|
+|8|[alan-maldonado](https://github.com/alan-maldonado)|297|3996|60|3|2012-11-04|![alan-maldonado](https://avatars1.githubusercontent.com/u/2721809)|
 |9|[escusado](https://github.com/escusado)|262|0|90|43|2009-06-09|![escusado](https://avatars2.githubusercontent.com/u/93747)|
 |10|[TheMightyPenguin](https://github.com/TheMightyPenguin)|257|0|49|15|2015-04-01|![TheMightyPenguin](https://avatars2.githubusercontent.com/u/11748696)|
 |11|[Resaj](https://github.com/Resaj)|219|0|23|41|2014-10-08|![Resaj](https://avatars1.githubusercontent.com/u/9095836)|
@@ -48,7 +48,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |34|[alexlic](https://github.com/alexlic)|45|0|4|4|2016-08-17|![alexlic](https://avatars1.githubusercontent.com/u/21091648)|
 |35|[Alevsk](https://github.com/Alevsk)|42|1|31|33|2012-05-30|![Alevsk](https://avatars2.githubusercontent.com/u/1795553)|
 |36|[edvidarez](https://github.com/edvidarez)|39|0|32|2|2014-11-23|![edvidarez](https://avatars3.githubusercontent.com/u/9907355)|
-|37|[MoisesFlores22](https://github.com/MoisesFlores22)|39|1544|2|3|2016-11-08|![MoisesFlores22](https://avatars2.githubusercontent.com/u/23325000)|
+|37|[MoisesFlores22](https://github.com/MoisesFlores22)|39|1545|2|3|2016-11-08|![MoisesFlores22](https://avatars2.githubusercontent.com/u/23325000)|
 |38|[IFFranciscoME](https://github.com/IFFranciscoME)|38|0|42|35|2014-02-27|![IFFranciscoME](https://avatars2.githubusercontent.com/u/6808438)|
 |39|[hernanrenteria](https://github.com/hernanrenteria)|37|135|3|10|2016-09-15|![hernanrenteria](https://avatars2.githubusercontent.com/u/22222476)|
 |40|[elinformatico](https://github.com/elinformatico)|34|0|34|24|2012-08-01|![elinformatico](https://avatars2.githubusercontent.com/u/2078703)|
@@ -59,7 +59,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |45|[adridev](https://github.com/adridev)|30|0|29|13|2011-07-05|![adridev](https://avatars0.githubusercontent.com/u/895348)|
 |46|[CayetanoHerreraLuisRicardo](https://github.com/CayetanoHerreraLuisRicardo)|29|0|24|8|2014-10-22|![CayetanoHerreraLuisRicardo](https://avatars3.githubusercontent.com/u/9346199)|
 |47|[ArCiGo](https://github.com/ArCiGo)|28|0|15|2|2012-12-02|![ArCiGo](https://avatars3.githubusercontent.com/u/2947307)|
-|48|[chl03ks](https://github.com/chl03ks)|28|1735|54|76|2014-10-11|![chl03ks](https://avatars0.githubusercontent.com/u/9144571)|
+|48|[chl03ks](https://github.com/chl03ks)|28|1738|54|76|2014-10-11|![chl03ks](https://avatars0.githubusercontent.com/u/9144571)|
 |49|[LuciaVG](https://github.com/LuciaVG)|28|0|4|4|2016-01-17|![LuciaVG](https://avatars1.githubusercontent.com/u/16746550)|
 |50|[Ziiweb](https://github.com/Ziiweb)|26|0|4|7|2010-01-09|![Ziiweb](https://avatars3.githubusercontent.com/u/179063)|
 |51|[leofigy](https://github.com/leofigy)|25|0|13|3|2012-05-11|![leofigy](https://avatars1.githubusercontent.com/u/1731478)|
