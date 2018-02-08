@@ -1,6 +1,6 @@
 # Ranking Euskadi
 
-Generado 08:28PM-February-08-2018.
+Generado 09:41PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -22,7 +22,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |8|[erral](https://github.com/erral)|582|0|93|20|2011-05-29|![erral](https://avatars2.githubusercontent.com/u/817365)|
 |9|[numeroteca](https://github.com/numeroteca)|573|0|22|38|2011-11-27|![numeroteca](https://avatars0.githubusercontent.com/u/1223722)|
 |10|[porduna](https://github.com/porduna)|573|0|26|46|2012-06-27|![porduna](https://avatars2.githubusercontent.com/u/1900501)|
-|11|[ggalmazor](https://github.com/ggalmazor)|457|0|108|36|2010-02-18|![ggalmazor](https://avatars1.githubusercontent.com/u/205913)|
+|11|[ggalmazor](https://github.com/ggalmazor)|458|0|108|36|2010-02-18|![ggalmazor](https://avatars1.githubusercontent.com/u/205913)|
 |12|[ijaureguialzo](https://github.com/ijaureguialzo)|443|0|24|18|2014-02-21|![ijaureguialzo](https://avatars3.githubusercontent.com/u/6746736)|
 |13|[jmarti-theinit](https://github.com/jmarti-theinit)|438|0|20|4|2011-08-19|![jmarti-theinit](https://avatars3.githubusercontent.com/u/991738)|
 |14|[gorkalaucirica](https://github.com/gorkalaucirica)|438|0|11|22|2012-05-17|![gorkalaucirica](https://avatars1.githubusercontent.com/u/1749891)|
@@ -46,7 +46,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |32|[Rubentxu](https://github.com/Rubentxu)|235|0|26|15|2011-02-07|![Rubentxu](https://avatars3.githubusercontent.com/u/604924)|
 |33|[ualegre](https://github.com/ualegre)|229|0|16|7|2016-04-04|![ualegre](https://avatars0.githubusercontent.com/u/18259977)|
 |34|[ragerri](https://github.com/ragerri)|229|1|13|17|2010-09-28|![ragerri](https://avatars0.githubusercontent.com/u/419327)|
-|35|[Lor-n82](https://github.com/Lor-n82)|223|0|62|6|2012-04-09|![Lor-n82](https://avatars3.githubusercontent.com/u/1624821)|
+|35|[Lor-n82](https://github.com/Lor-n82)|224|0|62|6|2012-04-09|![Lor-n82](https://avatars3.githubusercontent.com/u/1624821)|
 |36|[txusyk](https://github.com/txusyk)|221|18|11|3|2014-04-09|![txusyk](https://avatars1.githubusercontent.com/u/7243847)|
 |37|[douglasbolis](https://github.com/douglasbolis)|216|1617|45|10|2014-12-05|![douglasbolis](https://avatars3.githubusercontent.com/u/10091295)|
 |38|[vmayoral](https://github.com/vmayoral)|213|476|151|275|2012-01-24|![vmayoral](https://avatars1.githubusercontent.com/u/1375246)|
@@ -66,7 +66,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |52|[jonabasque](https://github.com/jonabasque)|155|0|29|18|2012-05-05|![jonabasque](https://avatars0.githubusercontent.com/u/1707606)|
 |53|[che1404](https://github.com/che1404)|154|0|8|14|2010-05-29|![che1404](https://avatars2.githubusercontent.com/u/290546)|
 |54|[Ondiz](https://github.com/Ondiz)|146|0|14|11|2014-09-01|![Ondiz](https://avatars3.githubusercontent.com/u/8613882)|
-|55|[artberri](https://github.com/artberri)|139|0|30|106|2010-10-26|![artberri](https://avatars3.githubusercontent.com/u/454523)|
+|55|[artberri](https://github.com/artberri)|140|0|30|106|2010-10-26|![artberri](https://avatars3.githubusercontent.com/u/454523)|
 |56|[PurgePJ](https://github.com/PurgePJ)|137|0|19|3|2016-07-23|![PurgePJ](https://avatars1.githubusercontent.com/u/20613820)|
 |57|[aitoralmeida](https://github.com/aitoralmeida)|136|2|36|23|2012-08-06|![aitoralmeida](https://avatars0.githubusercontent.com/u/2103213)|
 |58|[andoni-eguiluz](https://github.com/andoni-eguiluz)|132|0|10|66|2013-11-24|![andoni-eguiluz](https://avatars0.githubusercontent.com/u/6024871)|

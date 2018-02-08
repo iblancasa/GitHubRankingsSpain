@@ -1,6 +1,6 @@
 # Ranking Guadalajara
 
-Generado 08:32PM-February-08-2018.
+Generado 09:44PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -22,7 +22,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |8|[alan-maldonado](https://github.com/alan-maldonado)|297|3995|60|3|2012-11-04|![alan-maldonado](https://avatars1.githubusercontent.com/u/2721809)|
 |9|[escusado](https://github.com/escusado)|262|0|90|43|2009-06-09|![escusado](https://avatars2.githubusercontent.com/u/93747)|
 |10|[TheMightyPenguin](https://github.com/TheMightyPenguin)|257|0|49|15|2015-04-01|![TheMightyPenguin](https://avatars2.githubusercontent.com/u/11748696)|
-|11|[Resaj](https://github.com/Resaj)|218|0|23|41|2014-10-08|![Resaj](https://avatars1.githubusercontent.com/u/9095836)|
+|11|[Resaj](https://github.com/Resaj)|219|0|23|41|2014-10-08|![Resaj](https://avatars1.githubusercontent.com/u/9095836)|
 |12|[zacharysarah](https://github.com/zacharysarah)|205|835|22|4|2013-01-07|![zacharysarah](https://avatars1.githubusercontent.com/u/3210446)|
 |13|[ademar111190](https://github.com/ademar111190)|194|0|14|54|2011-11-28|![ademar111190](https://avatars3.githubusercontent.com/u/1225438)|
 |14|[jorgefrac](https://github.com/jorgefrac)|173|1|18|24|2015-05-24|![jorgefrac](https://avatars3.githubusercontent.com/u/12586457)|
@@ -93,7 +93,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |79|[rickjimenez](https://github.com/rickjimenez)|4|313|2|3|2013-01-15|![rickjimenez](https://avatars0.githubusercontent.com/u/3272084)|
 |80|[luisfusim](https://github.com/luisfusim)|4|0|9|3|2013-06-12|![luisfusim](https://avatars3.githubusercontent.com/u/4680475)|
 |81|[Javierfernandez93](https://github.com/Javierfernandez93)|4|1|4|2|2015-02-09|![Javierfernandez93](https://avatars0.githubusercontent.com/u/10915126)|
-|82|[omarloren](https://github.com/omarloren)|3|742|12|13|2010-03-18|![omarloren](https://avatars1.githubusercontent.com/u/225445)|
+|82|[omarloren](https://github.com/omarloren)|3|745|12|13|2010-03-18|![omarloren](https://avatars1.githubusercontent.com/u/225445)|
 |83|[JorgeCA91](https://github.com/JorgeCA91)|3|0|18|8|2012-05-28|![JorgeCA91](https://avatars1.githubusercontent.com/u/1783897)|
 |84|[jecht83](https://github.com/jecht83)|2|0|3|5|2011-11-22|![jecht83](https://avatars1.githubusercontent.com/u/1212098)|
 |85|[kadon](https://github.com/kadon)|2|0|11|5|2012-03-02|![kadon](https://avatars3.githubusercontent.com/u/1490824)|

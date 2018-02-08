@@ -1,6 +1,6 @@
 # Ranking Navarra
 
-Generado 08:54PM-February-08-2018.
+Generado 10:03PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -37,8 +37,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |23|[iolalla](https://github.com/iolalla)|15|0|9|6|2010-06-17|![iolalla](https://avatars2.githubusercontent.com/u/308066)|
 |24|[pakozm](https://github.com/pakozm)|15|0|57|61|2012-10-26|![pakozm](https://avatars2.githubusercontent.com/u/2655921)|
 |25|[millenc](https://github.com/millenc)|12|0|13|2|2014-06-11|![millenc](https://avatars0.githubusercontent.com/u/7861428)|
-|26|[pabloalbizu](https://github.com/pabloalbizu)|11|0|9|4|2013-01-09|![pabloalbizu](https://avatars0.githubusercontent.com/u/3223601)|
-|27|[Alvaroctal](https://github.com/Alvaroctal)|11|11|10|10|2013-05-29|![Alvaroctal](https://avatars0.githubusercontent.com/u/4562922)|
+|26|[Alvaroctal](https://github.com/Alvaroctal)|11|11|10|10|2013-05-29|![Alvaroctal](https://avatars0.githubusercontent.com/u/4562922)|
+|27|[pabloalbizu](https://github.com/pabloalbizu)|11|0|9|4|2013-01-09|![pabloalbizu](https://avatars0.githubusercontent.com/u/3223601)|
 |28|[jabiertxof](https://github.com/jabiertxof)|11|0|5|2|2013-04-30|![jabiertxof](https://avatars3.githubusercontent.com/u/4304876)|
 |29|[zapabest](https://github.com/zapabest)|8|0|106|18|2012-01-08|![zapabest](https://avatars0.githubusercontent.com/u/1312256)|
 |30|[makobernal](https://github.com/makobernal)|7|0|12|2|2012-12-01|![makobernal](https://avatars0.githubusercontent.com/u/2937992)|
@@ -47,7 +47,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |33|[javerd](https://github.com/javerd)|3|0|7|3|2010-03-08|![javerd](https://avatars2.githubusercontent.com/u/218214)|
 |34|[xmaeztu](https://github.com/xmaeztu)|1|0|7|6|2011-04-01|![xmaeztu](https://avatars0.githubusercontent.com/u/703490)|
 |35|[baile](https://github.com/baile)|1|0|13|5|2013-07-01|![baile](https://avatars3.githubusercontent.com/u/4908845)|
-|36|[mael](https://github.com/mael)|0|0|16|3|2010-02-10|![mael](https://avatars1.githubusercontent.com/u/200936)|
-|37|[jotegui](https://github.com/jotegui)|0|0|29|11|2011-02-28|![jotegui](https://avatars3.githubusercontent.com/u/642210)|
-|38|[olagato](https://github.com/olagato)|0|0|16|10|2009-11-05|![olagato](https://avatars0.githubusercontent.com/u/149179)|
+|36|[olagato](https://github.com/olagato)|0|0|16|10|2009-11-05|![olagato](https://avatars0.githubusercontent.com/u/149179)|
+|37|[mael](https://github.com/mael)|0|0|16|3|2010-02-10|![mael](https://avatars1.githubusercontent.com/u/200936)|
+|38|[jotegui](https://github.com/jotegui)|0|0|29|11|2011-02-28|![jotegui](https://avatars3.githubusercontent.com/u/642210)|
 |39|[MikiAir78](https://github.com/MikiAir78)|0|0|4|3|2013-11-07|![MikiAir78](https://avatars1.githubusercontent.com/u/5882570)|

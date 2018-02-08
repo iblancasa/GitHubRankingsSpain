@@ -1,6 +1,6 @@
 # Ranking Cataluña
 
-Generado 08:23PM-February-08-2018.
+Generado 09:36PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -18,7 +18,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |4|[frankiejol](https://github.com/frankiejol)|2105|0|26|18|2009-10-08|![frankiejol](https://avatars0.githubusercontent.com/u/136835)|
 |5|[facontidavide](https://github.com/facontidavide)|2033|0|43|24|2012-11-17|![facontidavide](https://avatars2.githubusercontent.com/u/2822888)|
 |6|[slluis](https://github.com/slluis)|1894|1107|28|73|2010-04-30|![slluis](https://avatars0.githubusercontent.com/u/260349)|
-|7|[ajsb85](https://github.com/ajsb85)|1883|2249|304|517|2011-03-11|![ajsb85](https://avatars2.githubusercontent.com/u/663460)|
+|7|[ajsb85](https://github.com/ajsb85)|1883|2253|304|517|2011-03-11|![ajsb85](https://avatars2.githubusercontent.com/u/663460)|
 |8|[pimterry](https://github.com/pimterry)|1879|811|159|147|2012-03-11|![pimterry](https://avatars0.githubusercontent.com/u/1526883)|
 |9|[alxndrsn](https://github.com/alxndrsn)|1874|98|134|39|2010-01-28|![alxndrsn](https://avatars1.githubusercontent.com/u/191496)|
 |10|[josepjaume](https://github.com/josepjaume)|1867|237|41|87|2009-08-04|![josepjaume](https://avatars2.githubusercontent.com/u/111746)|
@@ -47,7 +47,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |33|[Jergar92](https://github.com/Jergar92)|1142|0|7|15|2015-10-06|![Jergar92](https://avatars1.githubusercontent.com/u/14994965)|
 |34|[davidbarna](https://github.com/davidbarna)|1129|3|12|12|2011-09-27|![davidbarna](https://avatars1.githubusercontent.com/u/1083195)|
 |35|[alexhoma](https://github.com/alexhoma)|1106|279|23|27|2014-06-17|![alexhoma](https://avatars2.githubusercontent.com/u/7917771)|
-|36|[AbelNavarro](https://github.com/AbelNavarro)|1096|2|34|8|2012-01-16|![AbelNavarro](https://avatars3.githubusercontent.com/u/1333236)|
+|36|[AbelNavarro](https://github.com/AbelNavarro)|1097|2|34|8|2012-01-16|![AbelNavarro](https://avatars3.githubusercontent.com/u/1333236)|
 |37|[pplu](https://github.com/pplu)|1090|0|85|43|2009-02-09|![pplu](https://avatars0.githubusercontent.com/u/53034)|
 |38|[adeharo9](https://github.com/adeharo9)|1072|212|13|2|2014-02-16|![adeharo9](https://avatars2.githubusercontent.com/u/6698771)|
 |39|[mbiarnes](https://github.com/mbiarnes)|1071|0|67|10|2013-02-22|![mbiarnes](https://avatars3.githubusercontent.com/u/3669059)|
@@ -90,8 +90,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |76|[JoseOspina](https://github.com/JoseOspina)|778|0|7|2|2013-01-15|![JoseOspina](https://avatars1.githubusercontent.com/u/3278772)|
 |77|[carlescufi](https://github.com/carlescufi)|771|595|9|20|2015-05-14|![carlescufi](https://avatars1.githubusercontent.com/u/12450381)|
 |78|[juanmaguitar](https://github.com/juanmaguitar)|766|264|221|117|2010-09-30|![juanmaguitar](https://avatars1.githubusercontent.com/u/422576)|
-|79|[jcchavezs](https://github.com/jcchavezs)|747|0|103|31|2012-12-18|![jcchavezs](https://avatars2.githubusercontent.com/u/3075074)|
-|80|[JoelSanchez](https://github.com/JoelSanchez)|747|0|33|6|2014-06-29|![JoelSanchez](https://avatars3.githubusercontent.com/u/8020017)|
+|79|[JoelSanchez](https://github.com/JoelSanchez)|752|0|33|6|2014-06-29|![JoelSanchez](https://avatars3.githubusercontent.com/u/8020017)|
+|80|[jcchavezs](https://github.com/jcchavezs)|747|0|103|31|2012-12-18|![jcchavezs](https://avatars2.githubusercontent.com/u/3075074)|
 |81|[jmendezv](https://github.com/jmendezv)|743|0|11|27|2013-07-18|![jmendezv](https://avatars0.githubusercontent.com/u/5039685)|
 |82|[krainet](https://github.com/krainet)|738|0|60|3|2013-04-26|![krainet](https://avatars1.githubusercontent.com/u/4263144)|
 |83|[BadChoice](https://github.com/BadChoice)|736|0|31|19|2009-06-10|![BadChoice](https://avatars2.githubusercontent.com/u/93900)|
@@ -111,4 +111,4 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |97|[guigrpa](https://github.com/guigrpa)|653|0|43|36|2012-08-10|![guigrpa](https://avatars3.githubusercontent.com/u/2129481)|
 |98|[Sandruski](https://github.com/Sandruski)|651|0|9|6|2017-02-06|![Sandruski](https://avatars3.githubusercontent.com/u/25582011)|
 |99|[pataquets](https://github.com/pataquets)|649|0|379|9|2011-12-26|![pataquets](https://avatars0.githubusercontent.com/u/1286254)|
-|100|[Chilliano](https://github.com/Chilliano)|646|16|54|8|2017-04-29|![Chilliano](https://avatars0.githubusercontent.com/u/28197099)|
+|100|[Chilliano](https://github.com/Chilliano)|649|16|55|8|2017-04-29|![Chilliano](https://avatars0.githubusercontent.com/u/28197099)|

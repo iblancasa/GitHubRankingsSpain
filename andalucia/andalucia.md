@@ -1,6 +1,6 @@
 # Ranking Andalucía
 
-Generado 08:02PM-February-08-2018.
+Generado 09:19PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -16,9 +16,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |2|[fryntiz](https://github.com/fryntiz)|4771|565|35|15|2015-12-15|![fryntiz](https://avatars3.githubusercontent.com/u/16305552)|
 |3|[javacasm](https://github.com/javacasm)|2955|0|352|52|2013-03-12|![javacasm](https://avatars0.githubusercontent.com/u/3841695)|
 |4|[pablopareja](https://github.com/pablopareja)|2745|1|44|40|2011-01-03|![pablopareja](https://avatars1.githubusercontent.com/u/545342)|
-|5|[josedom24](https://github.com/josedom24)|2642|0|54|55|2012-05-02|![josedom24](https://avatars2.githubusercontent.com/u/1698221)|
+|5|[josedom24](https://github.com/josedom24)|2643|0|54|55|2012-05-02|![josedom24](https://avatars2.githubusercontent.com/u/1698221)|
 |6|[andresgnlez](https://github.com/andresgnlez)|2202|200|6|7|2011-08-23|![andresgnlez](https://avatars0.githubusercontent.com/u/999124)|
-|7|[raulraja](https://github.com/raulraja)|2039|206|40|220|2010-10-27|![raulraja](https://avatars1.githubusercontent.com/u/456796)|
+|7|[raulraja](https://github.com/raulraja)|2041|206|40|221|2010-10-27|![raulraja](https://avatars1.githubusercontent.com/u/456796)|
 |8|[mgmacias95](https://github.com/mgmacias95)|1623|174|41|110|2014-08-31|![mgmacias95](https://avatars2.githubusercontent.com/u/8604906)|
 |9|[M42](https://github.com/M42)|1583|0|70|105|2013-08-29|![M42](https://avatars2.githubusercontent.com/u/5337877)|
 |10|[elbaulp](https://github.com/elbaulp)|1582|0|55|133|2010-09-10|![elbaulp](https://avatars1.githubusercontent.com/u/394797)|
@@ -30,8 +30,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |16|[marialobillo](https://github.com/marialobillo)|1217|0|118|46|2011-10-22|![marialobillo](https://avatars3.githubusercontent.com/u/1144759)|
 |17|[br0th3r](https://github.com/br0th3r)|1168|0|10|14|2012-05-22|![br0th3r](https://avatars3.githubusercontent.com/u/1763207)|
 |18|[Antoniolm](https://github.com/Antoniolm)|1163|709|26|12|2015-03-04|![Antoniolm](https://avatars0.githubusercontent.com/u/11316534)|
-|19|[fblupi](https://github.com/fblupi)|1119|17|88|37|2014-03-17|![fblupi](https://avatars2.githubusercontent.com/u/6973564)|
-|20|[jesusgn90](https://github.com/jesusgn90)|1104|0|40|18|2014-09-22|![jesusgn90](https://avatars0.githubusercontent.com/u/8860227)|
+|19|[jesusgn90](https://github.com/jesusgn90)|1158|0|40|18|2014-09-22|![jesusgn90](https://avatars0.githubusercontent.com/u/8860227)|
+|20|[fblupi](https://github.com/fblupi)|1119|17|88|37|2014-03-17|![fblupi](https://avatars2.githubusercontent.com/u/6973564)|
 |21|[ricpelo](https://github.com/ricpelo)|1060|0|79|29|2011-02-13|![ricpelo](https://avatars3.githubusercontent.com/u/616169)|
 |22|[angrykoala](https://github.com/angrykoala)|1000|0|42|88|2013-11-17|![angrykoala](https://avatars0.githubusercontent.com/u/5960567)|
 |23|[davidgasquez](https://github.com/davidgasquez)|978|682|28|85|2012-04-26|![davidgasquez](https://avatars3.githubusercontent.com/u/1682202)|
@@ -51,7 +51,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |37|[alemarcha](https://github.com/alemarcha)|772|0|22|13|2015-06-20|![alemarcha](https://avatars3.githubusercontent.com/u/12976396)|
 |38|[eparejatobes](https://github.com/eparejatobes)|761|1046|2|32|2010-02-16|![eparejatobes](https://avatars0.githubusercontent.com/u/204693)|
 |39|[Antonio-Laguna](https://github.com/Antonio-Laguna)|761|2166|44|73|2011-07-29|![Antonio-Laguna](https://avatars2.githubusercontent.com/u/946645)|
-|40|[ncordon](https://github.com/ncordon)|759|20|42|72|2013-10-09|![ncordon](https://avatars0.githubusercontent.com/u/5649971)|
+|40|[ncordon](https://github.com/ncordon)|760|20|42|72|2013-10-09|![ncordon](https://avatars0.githubusercontent.com/u/5649971)|
 |41|[aplanas](https://github.com/aplanas)|759|0|43|14|2011-03-01|![aplanas](https://avatars3.githubusercontent.com/u/645701)|
 |42|[manuasir](https://github.com/manuasir)|756|267|33|12|2014-12-16|![manuasir](https://avatars1.githubusercontent.com/u/10210567)|
 |43|[Bigomby](https://github.com/Bigomby)|741|119|32|37|2013-06-16|![Bigomby](https://avatars2.githubusercontent.com/u/4709092)|
@@ -64,7 +64,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |50|[lrlopez](https://github.com/lrlopez)|675|214|23|35|2011-01-04|![lrlopez](https://avatars3.githubusercontent.com/u/547387)|
 |51|[Beelzenef](https://github.com/Beelzenef)|675|0|77|72|2014-01-13|![Beelzenef](https://avatars2.githubusercontent.com/u/6389665)|
 |52|[Angelmmiguel](https://github.com/Angelmmiguel)|675|303|65|67|2013-04-04|![Angelmmiguel](https://avatars3.githubusercontent.com/u/4056725)|
-|53|[Syknapse](https://github.com/Syknapse)|666|0|38|41|2017-06-05|![Syknapse](https://avatars2.githubusercontent.com/u/29199184)|
+|53|[Syknapse](https://github.com/Syknapse)|670|0|38|41|2017-06-05|![Syknapse](https://avatars2.githubusercontent.com/u/29199184)|
 |54|[dani8art](https://github.com/dani8art)|665|1041|23|5|2013-05-08|![dani8art](https://avatars1.githubusercontent.com/u/4376304)|
 |55|[sergiocazzolato](https://github.com/sergiocazzolato)|657|0|8|2|2013-09-04|![sergiocazzolato](https://avatars3.githubusercontent.com/u/5382983)|
 |56|[oxcar103](https://github.com/oxcar103)|647|0|33|61|2013-05-14|![oxcar103](https://avatars3.githubusercontent.com/u/4426047)|
@@ -82,7 +82,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |68|[Rebecasarai](https://github.com/Rebecasarai)|572|0|28|46|2017-01-09|![Rebecasarai](https://avatars3.githubusercontent.com/u/25002245)|
 |69|[bameda](https://github.com/bameda)|567|4|87|147|2011-06-26|![bameda](https://avatars1.githubusercontent.com/u/877218)|
 |70|[rjimenezda](https://github.com/rjimenezda)|562|551|17|10|2010-10-20|![rjimenezda](https://avatars0.githubusercontent.com/u/446970)|
-|71|[MiguelRJ](https://github.com/MiguelRJ)|520|0|16|14|2017-02-14|![MiguelRJ](https://avatars0.githubusercontent.com/u/25766534)|
+|71|[MiguelRJ](https://github.com/MiguelRJ)|521|0|16|14|2017-02-14|![MiguelRJ](https://avatars0.githubusercontent.com/u/25766534)|
 |72|[pitbulk](https://github.com/pitbulk)|512|0|49|72|2011-02-04|![pitbulk](https://avatars2.githubusercontent.com/u/600897)|
 |73|[aljesusg](https://github.com/aljesusg)|509|7|47|24|2012-12-11|![aljesusg](https://avatars1.githubusercontent.com/u/3019213)|
 |74|[AlbertFX91](https://github.com/AlbertFX91)|507|1|23|11|2013-06-06|![AlbertFX91](https://avatars0.githubusercontent.com/u/4631891)|

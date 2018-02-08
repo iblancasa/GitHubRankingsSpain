@@ -1,6 +1,6 @@
 # Ranking Cantabria
 
-Generado 08:36PM-February-08-2018.
+Generado 09:48PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -37,8 +37,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |23|[ginoamaury](https://github.com/ginoamaury)|16|0|3|7|2016-09-06|![ginoamaury](https://avatars0.githubusercontent.com/u/22031838)|
 |24|[GabiBarajas](https://github.com/GabiBarajas)|13|0|10|2|2017-01-18|![GabiBarajas](https://avatars1.githubusercontent.com/u/25196739)|
 |25|[moracabanas](https://github.com/moracabanas)|9|0|8|2|2013-05-09|![moracabanas](https://avatars0.githubusercontent.com/u/4382333)|
-|26|[tclauss](https://github.com/tclauss)|7|0|7|5|2013-02-11|![tclauss](https://avatars3.githubusercontent.com/u/3531048)|
-|27|[david-gomez-fernandez](https://github.com/david-gomez-fernandez)|7|0|3|4|2012-03-23|![david-gomez-fernandez](https://avatars0.githubusercontent.com/u/1568677)|
+|26|[david-gomez-fernandez](https://github.com/david-gomez-fernandez)|7|0|3|4|2012-03-23|![david-gomez-fernandez](https://avatars0.githubusercontent.com/u/1568677)|
+|27|[tclauss](https://github.com/tclauss)|7|0|7|5|2013-02-11|![tclauss](https://avatars3.githubusercontent.com/u/3531048)|
 |28|[GemmaLaraSavill](https://github.com/GemmaLaraSavill)|7|0|9|2|2015-05-08|![GemmaLaraSavill](https://avatars3.githubusercontent.com/u/12323749)|
 |29|[chemunoz](https://github.com/chemunoz)|7|0|7|14|2016-01-13|![chemunoz](https://avatars0.githubusercontent.com/u/16680009)|
 |30|[StrongeLeeroy](https://github.com/StrongeLeeroy)|5|0|26|29|2011-06-03|![StrongeLeeroy](https://avatars0.githubusercontent.com/u/828457)|
@@ -47,10 +47,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |33|[Pedrazl](https://github.com/Pedrazl)|4|0|4|9|2014-12-04|![Pedrazl](https://avatars1.githubusercontent.com/u/10074431)|
 |34|[magranero](https://github.com/magranero)|3|0|3|2|2016-03-30|![magranero](https://avatars3.githubusercontent.com/u/18167085)|
 |35|[Barbrady](https://github.com/Barbrady)|1|0|5|2|2014-01-18|![Barbrady](https://avatars1.githubusercontent.com/u/6436548)|
-|36|[saidrodriguez](https://github.com/saidrodriguez)|0|0|2|2|2009-09-28|![saidrodriguez](https://avatars3.githubusercontent.com/u/132459)|
-|37|[zhensydow](https://github.com/zhensydow)|0|0|21|6|2011-05-09|![zhensydow](https://avatars1.githubusercontent.com/u/777247)|
-|38|[xerox91](https://github.com/xerox91)|0|0|6|7|2011-04-19|![xerox91](https://avatars0.githubusercontent.com/u/740021)|
-|39|[chuchiperriman](https://github.com/chuchiperriman)|0|0|26|9|2008-11-25|![chuchiperriman](https://avatars2.githubusercontent.com/u/36635)|
+|36|[zhensydow](https://github.com/zhensydow)|0|0|21|6|2011-05-09|![zhensydow](https://avatars1.githubusercontent.com/u/777247)|
+|37|[xerox91](https://github.com/xerox91)|0|0|6|7|2011-04-19|![xerox91](https://avatars0.githubusercontent.com/u/740021)|
+|38|[chuchiperriman](https://github.com/chuchiperriman)|0|0|26|9|2008-11-25|![chuchiperriman](https://avatars2.githubusercontent.com/u/36635)|
+|39|[saidrodriguez](https://github.com/saidrodriguez)|0|0|2|2|2009-09-28|![saidrodriguez](https://avatars3.githubusercontent.com/u/132459)|
 |40|[daveruiz](https://github.com/daveruiz)|0|0|4|3|2012-08-16|![daveruiz](https://avatars2.githubusercontent.com/u/2165375)|
 |41|[injectilo](https://github.com/injectilo)|0|0|9|7|2014-09-01|![injectilo](https://avatars1.githubusercontent.com/u/8612274)|
 |42|[fonsotf](https://github.com/fonsotf)|0|0|4|2|2015-11-03|![fonsotf](https://avatars1.githubusercontent.com/u/15630996)|

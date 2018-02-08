@@ -1,6 +1,6 @@
 # Ranking Valladolid
 
-Generado 08:05PM-February-08-2018.
+Generado 09:21PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -81,8 +81,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |67|[programaciongalileo](https://github.com/programaciongalileo)|12|0|9|2|2014-04-26|![programaciongalileo](https://avatars2.githubusercontent.com/u/7414974)|
 |68|[DanielNT](https://github.com/DanielNT)|12|0|10|2|2015-04-22|![DanielNT](https://avatars2.githubusercontent.com/u/12068767)|
 |69|[jesusangel](https://github.com/jesusangel)|11|0|20|5|2010-02-21|![jesusangel](https://avatars2.githubusercontent.com/u/207777)|
-|70|[amaliahern](https://github.com/amaliahern)|10|0|31|9|2010-06-14|![amaliahern](https://avatars0.githubusercontent.com/u/304761)|
-|71|[adrm](https://github.com/adrm)|10|0|7|14|2010-06-17|![adrm](https://avatars2.githubusercontent.com/u/307945)|
+|70|[adrm](https://github.com/adrm)|10|0|7|14|2010-06-17|![adrm](https://avatars2.githubusercontent.com/u/307945)|
+|71|[amaliahern](https://github.com/amaliahern)|10|0|31|9|2010-06-14|![amaliahern](https://avatars0.githubusercontent.com/u/304761)|
 |72|[grantc](https://github.com/grantc)|9|1564|26|2|2010-05-28|![grantc](https://avatars2.githubusercontent.com/u/289560)|
 |73|[JaviHerAr](https://github.com/JaviHerAr)|9|0|4|2|2015-02-10|![JaviHerAr](https://avatars0.githubusercontent.com/u/10940071)|
 |74|[Smokt](https://github.com/Smokt)|9|0|4|2|2015-03-12|![Smokt](https://avatars2.githubusercontent.com/u/11448715)|

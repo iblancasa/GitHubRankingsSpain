@@ -1,6 +1,6 @@
 # Ranking Lleida
 
-Generado 08:22PM-February-08-2018.
+Generado 09:35PM-February-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -62,12 +62,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |48|[svilaa](https://github.com/svilaa)|1|0|11|4|2013-09-23|![svilaa](https://avatars0.githubusercontent.com/u/5521724)|
 |49|[ejgutierrez74](https://github.com/ejgutierrez74)|1|0|6|2|2015-03-14|![ejgutierrez74](https://avatars2.githubusercontent.com/u/11474846)|
 |50|[Jap9](https://github.com/Jap9)|1|0|5|3|2016-02-09|![Jap9](https://avatars1.githubusercontent.com/u/17140922)|
-|51|[jaumecornado](https://github.com/jaumecornado)|0|0|6|4|2011-02-14|![jaumecornado](https://avatars0.githubusercontent.com/u/617176)|
+|51|[isaacfeliu](https://github.com/isaacfeliu)|0|0|10|9|2008-04-10|![isaacfeliu](https://avatars0.githubusercontent.com/u/6287)|
 |52|[ivanrdgc](https://github.com/ivanrdgc)|0|0|2|7|2012-03-28|![ivanrdgc](https://avatars3.githubusercontent.com/u/1584955)|
-|53|[isaacfeliu](https://github.com/isaacfeliu)|0|0|10|9|2008-04-10|![isaacfeliu](https://avatars0.githubusercontent.com/u/6287)|
+|53|[jaumecornado](https://github.com/jaumecornado)|0|0|6|4|2011-02-14|![jaumecornado](https://avatars0.githubusercontent.com/u/617176)|
 |54|[korbert](https://github.com/korbert)|0|0|3|2|2013-03-08|![korbert](https://avatars2.githubusercontent.com/u/3808843)|
-|55|[cescdev](https://github.com/cescdev)|0|0|3|2|2013-09-20|![cescdev](https://avatars0.githubusercontent.com/u/5502251)|
-|56|[JordiVirgili](https://github.com/JordiVirgili)|0|0|4|6|2013-11-27|![JordiVirgili](https://avatars3.githubusercontent.com/u/6048532)|
-|57|[jlerida](https://github.com/jlerida)|0|0|4|2|2015-05-12|![jlerida](https://avatars1.githubusercontent.com/u/12414567)|
-|58|[victorgil95](https://github.com/victorgil95)|0|0|1|2|2016-02-09|![victorgil95](https://avatars0.githubusercontent.com/u/17140940)|
+|55|[JordiVirgili](https://github.com/JordiVirgili)|0|0|4|6|2013-11-27|![JordiVirgili](https://avatars3.githubusercontent.com/u/6048532)|
+|56|[cescdev](https://github.com/cescdev)|0|0|3|2|2013-09-20|![cescdev](https://avatars0.githubusercontent.com/u/5502251)|
+|57|[victorgil95](https://github.com/victorgil95)|0|0|1|2|2016-02-09|![victorgil95](https://avatars0.githubusercontent.com/u/17140940)|
+|58|[jlerida](https://github.com/jlerida)|0|0|4|2|2015-05-12|![jlerida](https://avatars1.githubusercontent.com/u/12414567)|
 |59|[Pablito-mtk](https://github.com/Pablito-mtk)|0|0|18|3|2016-09-29|![Pablito-mtk](https://avatars2.githubusercontent.com/u/22517501)|
