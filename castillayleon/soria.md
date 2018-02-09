@@ -1,10 +1,10 @@
 # Ranking Soria
 
-Generado 10:35PM-February-08-2018.
+Generado 07:06AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 

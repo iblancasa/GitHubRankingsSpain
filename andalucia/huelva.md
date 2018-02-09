@@ -1,10 +1,10 @@
 # Ranking Huelva
 
-Generado 10:31PM-February-08-2018.
+Generado 07:01AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -16,17 +16,17 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |2|[manuelcalerosolis](https://github.com/manuelcalerosolis)|626|0|14|6|2012-12-20|![manuelcalerosolis](https://avatars2.githubusercontent.com/u/3088246)|
 |3|[AlmuHS](https://github.com/AlmuHS)|488|0|29|36|2015-10-11|![AlmuHS](https://avatars1.githubusercontent.com/u/15078104)|
 |4|[dacmail](https://github.com/dacmail)|291|462|20|29|2008-05-28|![dacmail](https://avatars2.githubusercontent.com/u/11754)|
-|5|[antonio](https://github.com/antonio)|220|4474|72|374|2008-07-19|![antonio](https://avatars1.githubusercontent.com/u/17516)|
+|5|[antonio](https://github.com/antonio)|233|4472|72|374|2008-07-19|![antonio](https://avatars1.githubusercontent.com/u/17516)|
 |6|[Virako](https://github.com/Virako)|165|0|53|45|2011-05-28|![Virako](https://avatars3.githubusercontent.com/u/815686)|
 |7|[antoniogagos](https://github.com/antoniogagos)|144|0|24|2|2015-09-18|![antoniogagos](https://avatars1.githubusercontent.com/u/14351629)|
 |8|[ppcano](https://github.com/ppcano)|126|0|56|26|2011-06-02|![ppcano](https://avatars0.githubusercontent.com/u/825430)|
 |9|[jaimesares](https://github.com/jaimesares)|82|26|7|18|2012-09-28|![jaimesares](https://avatars1.githubusercontent.com/u/2446051)|
-|10|[jmcerrejon](https://github.com/jmcerrejon)|73|0|13|15|2012-07-09|![jmcerrejon](https://avatars1.githubusercontent.com/u/1942431)|
-|11|[pablopi](https://github.com/pablopi)|60|970|7|13|2014-02-19|![pablopi](https://avatars0.githubusercontent.com/u/6725714)|
+|10|[pablopi](https://github.com/pablopi)|79|951|7|13|2014-02-19|![pablopi](https://avatars0.githubusercontent.com/u/6725714)|
+|11|[jmcerrejon](https://github.com/jmcerrejon)|73|0|13|15|2012-07-09|![jmcerrejon](https://avatars1.githubusercontent.com/u/1942431)|
 |12|[jcarpio](https://github.com/jcarpio)|55|0|32|8|2010-11-23|![jcarpio](https://avatars1.githubusercontent.com/u/493260)|
 |13|[orta-sanz](https://github.com/orta-sanz)|51|34|18|8|2013-01-22|![orta-sanz](https://avatars2.githubusercontent.com/u/3337555)|
 |14|[jarcos](https://github.com/jarcos)|42|0|11|19|2011-07-23|![jarcos](https://avatars2.githubusercontent.com/u/933995)|
-|15|[juliojgarciaperez](https://github.com/juliojgarciaperez)|42|1127|4|26|2015-08-26|![juliojgarciaperez](https://avatars2.githubusercontent.com/u/13980296)|
+|15|[juliojgarciaperez](https://github.com/juliojgarciaperez)|40|1129|4|26|2015-08-26|![juliojgarciaperez](https://avatars2.githubusercontent.com/u/13980296)|
 |16|[flparedes](https://github.com/flparedes)|38|0|9|2|2015-06-28|![flparedes](https://avatars2.githubusercontent.com/u/13085943)|
 |17|[borjacampina](https://github.com/borjacampina)|32|0|6|6|2010-12-08|![borjacampina](https://avatars1.githubusercontent.com/u/514025)|
 |18|[cjps91](https://github.com/cjps91)|27|0|7|3|2017-11-08|![cjps91](https://avatars0.githubusercontent.com/u/33495645)|
@@ -42,7 +42,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |28|[alkimiko](https://github.com/alkimiko)|2|0|6|1|2013-04-21|![alkimiko](https://avatars2.githubusercontent.com/u/4218917)|
 |29|[alexpowerup](https://github.com/alexpowerup)|1|0|9|4|2015-04-20|![alexpowerup](https://avatars0.githubusercontent.com/u/12040064)|
 |30|[agrogeek](https://github.com/agrogeek)|0|0|7|3|2009-04-01|![agrogeek](https://avatars0.githubusercontent.com/u/69480)|
-|31|[akizuky](https://github.com/akizuky)|0|0|2|5|2011-09-08|![akizuky](https://avatars2.githubusercontent.com/u/1035039)|
-|32|[jvlobo](https://github.com/jvlobo)|0|0|7|13|2013-10-12|![jvlobo](https://avatars1.githubusercontent.com/u/5671420)|
+|31|[jvlobo](https://github.com/jvlobo)|0|0|7|13|2013-10-12|![jvlobo](https://avatars1.githubusercontent.com/u/5671420)|
+|32|[akizuky](https://github.com/akizuky)|0|0|2|5|2011-09-08|![akizuky](https://avatars2.githubusercontent.com/u/1035039)|
 |33|[Alvaro11](https://github.com/Alvaro11)|0|0|5|2|2014-09-26|![Alvaro11](https://avatars3.githubusercontent.com/u/8927377)|
 |34|[joseml87](https://github.com/joseml87)|0|0|8|3|2016-01-13|![joseml87](https://avatars3.githubusercontent.com/u/16690607)|

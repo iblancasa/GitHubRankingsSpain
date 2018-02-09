@@ -1,10 +1,10 @@
 # Ranking Badajoz
 
-Generado 10:41PM-February-08-2018.
+Generado 07:12AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -14,7 +14,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[gesaodin](https://github.com/gesaodin)|874|0|12|3|2015-03-13|![gesaodin](https://avatars2.githubusercontent.com/u/11463651)|
 |2|[javitoom](https://github.com/javitoom)|232|0|10|4|2015-09-16|![javitoom](https://avatars2.githubusercontent.com/u/14310769)|
-|3|[afrasilv](https://github.com/afrasilv)|159|0|23|11|2014-10-15|![afrasilv](https://avatars2.githubusercontent.com/u/9256924)|
+|3|[afrasilv](https://github.com/afrasilv)|163|0|23|11|2014-10-15|![afrasilv](https://avatars2.githubusercontent.com/u/9256924)|
 |4|[manolodd](https://github.com/manolodd)|155|0|6|4|2013-08-08|![manolodd](https://avatars1.githubusercontent.com/u/5189679)|
 |5|[oscaruhp](https://github.com/oscaruhp)|149|0|51|21|2011-06-18|![oscaruhp](https://avatars0.githubusercontent.com/u/859116)|
 |6|[LueW](https://github.com/LueW)|149|0|6|4|2016-07-06|![LueW](https://avatars0.githubusercontent.com/u/20323507)|
@@ -22,8 +22,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |8|[adobo](https://github.com/adobo)|98|0|18|28|2011-05-09|![adobo](https://avatars1.githubusercontent.com/u/776565)|
 |9|[jesusAlbarregas](https://github.com/jesusAlbarregas)|75|0|4|4|2015-11-05|![jesusAlbarregas](https://avatars3.githubusercontent.com/u/15678914)|
 |10|[raultm](https://github.com/raultm)|50|0|31|29|2011-03-09|![raultm](https://avatars3.githubusercontent.com/u/659494)|
-|11|[sergiocasero](https://github.com/sergiocasero)|47|0|32|31|2015-02-03|![sergiocasero](https://avatars1.githubusercontent.com/u/10833202)|
-|12|[neriomo](https://github.com/neriomo)|44|0|9|5|2015-01-17|![neriomo](https://avatars1.githubusercontent.com/u/10569358)|
+|11|[neriomo](https://github.com/neriomo)|48|0|9|5|2015-01-17|![neriomo](https://avatars1.githubusercontent.com/u/10569358)|
+|12|[sergiocasero](https://github.com/sergiocasero)|47|0|32|31|2015-02-03|![sergiocasero](https://avatars1.githubusercontent.com/u/10833202)|
 |13|[jredrejo](https://github.com/jredrejo)|39|0|24|7|2011-08-27|![jredrejo](https://avatars2.githubusercontent.com/u/1008178)|
 |14|[alonsoir](https://github.com/alonsoir)|39|0|133|27|2012-09-23|![alonsoir](https://avatars1.githubusercontent.com/u/2405946)|
 |15|[alexdzul](https://github.com/alexdzul)|37|0|10|105|2012-06-29|![alexdzul](https://avatars2.githubusercontent.com/u/1907359)|
@@ -43,8 +43,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |29|[atomicum](https://github.com/atomicum)|1|0|4|2|2014-01-13|![atomicum](https://avatars1.githubusercontent.com/u/6386399)|
 |30|[goldenboy](https://github.com/goldenboy)|0|0|221|17|2009-05-27|![goldenboy](https://avatars0.githubusercontent.com/u/89311)|
 |31|[Annitap4](https://github.com/Annitap4)|0|0|8|8|2010-08-30|![Annitap4](https://avatars1.githubusercontent.com/u/381260)|
-|32|[jcasero](https://github.com/jcasero)|0|0|9|3|2012-05-06|![jcasero](https://avatars3.githubusercontent.com/u/1710851)|
-|33|[luismiguelmartin](https://github.com/luismiguelmartin)|0|0|14|3|2012-07-07|![luismiguelmartin](https://avatars1.githubusercontent.com/u/1935342)|
+|32|[luismiguelmartin](https://github.com/luismiguelmartin)|0|0|14|3|2012-07-07|![luismiguelmartin](https://avatars1.githubusercontent.com/u/1935342)|
+|33|[jcasero](https://github.com/jcasero)|0|0|9|3|2012-05-06|![jcasero](https://avatars3.githubusercontent.com/u/1710851)|
 |34|[ruscruzel](https://github.com/ruscruzel)|0|0|17|14|2013-07-09|![ruscruzel](https://avatars3.githubusercontent.com/u/4977448)|
 |35|[alberto-cabeza](https://github.com/alberto-cabeza)|0|0|3|2|2013-12-19|![alberto-cabeza](https://avatars2.githubusercontent.com/u/6225528)|
 |36|[javivimv](https://github.com/javivimv)|0|0|2|2|2014-02-17|![javivimv](https://avatars2.githubusercontent.com/u/6708850)|

@@ -1,10 +1,10 @@
 # Ranking Cáceres
 
-Generado 10:41PM-February-08-2018.
+Generado 07:12AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -13,8 +13,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[ishmilan](https://github.com/ishmilan)|200|0|15|6|2014-10-07|![ishmilan](https://avatars1.githubusercontent.com/u/9059414)|
-|2|[afrasilv](https://github.com/afrasilv)|159|0|23|11|2014-10-15|![afrasilv](https://avatars2.githubusercontent.com/u/9256924)|
-|3|[alvar0hurtad0](https://github.com/alvar0hurtad0)|147|839|38|17|2011-10-15|![alvar0hurtad0](https://avatars3.githubusercontent.com/u/1130114)|
+|2|[afrasilv](https://github.com/afrasilv)|163|0|23|11|2014-10-15|![afrasilv](https://avatars2.githubusercontent.com/u/9256924)|
+|3|[alvar0hurtad0](https://github.com/alvar0hurtad0)|161|825|38|17|2011-10-15|![alvar0hurtad0](https://avatars3.githubusercontent.com/u/1130114)|
 |4|[Crul](https://github.com/Crul)|144|0|11|6|2013-09-29|![Crul](https://avatars3.githubusercontent.com/u/5569741)|
 |5|[vjgarciag96](https://github.com/vjgarciag96)|136|0|46|9|2016-07-01|![vjgarciag96](https://avatars2.githubusercontent.com/u/20244357)|
 |6|[oscarcpozas](https://github.com/oscarcpozas)|103|7|7|54|2013-01-27|![oscarcpozas](https://avatars3.githubusercontent.com/u/3399621)|

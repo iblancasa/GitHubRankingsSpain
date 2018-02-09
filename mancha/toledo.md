@@ -1,10 +1,10 @@
 # Ranking Toledo
 
-Generado 10:44PM-February-08-2018.
+Generado 07:15AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -16,7 +16,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |2|[javierlopezdeancos](https://github.com/javierlopezdeancos)|317|3|42|55|2011-11-17|![javierlopezdeancos](https://avatars2.githubusercontent.com/u/1202463)|
 |3|[Frostqui](https://github.com/Frostqui)|298|0|20|23|2014-12-06|![Frostqui](https://avatars2.githubusercontent.com/u/10099165)|
 |4|[luismontalba](https://github.com/luismontalba)|211|1|5|11|2013-11-13|![luismontalba](https://avatars3.githubusercontent.com/u/5930419)|
-|5|[JavierIH](https://github.com/JavierIH)|153|16|60|98|2013-08-03|![JavierIH](https://avatars2.githubusercontent.com/u/5154251)|
+|5|[JavierIH](https://github.com/JavierIH)|153|16|60|99|2013-08-03|![JavierIH](https://avatars2.githubusercontent.com/u/5154251)|
 |6|[ManuDevelopia](https://github.com/ManuDevelopia)|117|0|31|10|2008-12-28|![ManuDevelopia](https://avatars3.githubusercontent.com/u/43015)|
 |7|[espectalll](https://github.com/espectalll)|104|0|34|18|2012-09-30|![espectalll](https://avatars1.githubusercontent.com/u/2456419)|
 |8|[guillearch](https://github.com/guillearch)|86|0|9|2|2017-03-28|![guillearch](https://avatars2.githubusercontent.com/u/26745787)|

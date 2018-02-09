@@ -1,10 +1,10 @@
 # Ranking Extremadura
 
-Generado 10:49PM-February-08-2018.
+Generado 07:20AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -15,11 +15,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |1|[gesaodin](https://github.com/gesaodin)|874|0|12|3|2015-03-13|![gesaodin](https://avatars2.githubusercontent.com/u/11463651)|
 |2|[javitoom](https://github.com/javitoom)|232|0|10|4|2015-09-16|![javitoom](https://avatars2.githubusercontent.com/u/14310769)|
 |3|[ishmilan](https://github.com/ishmilan)|200|0|15|6|2014-10-07|![ishmilan](https://avatars1.githubusercontent.com/u/9059414)|
-|4|[afrasilv](https://github.com/afrasilv)|159|0|23|11|2014-10-15|![afrasilv](https://avatars2.githubusercontent.com/u/9256924)|
-|5|[manolodd](https://github.com/manolodd)|155|0|6|4|2013-08-08|![manolodd](https://avatars1.githubusercontent.com/u/5189679)|
-|6|[oscaruhp](https://github.com/oscaruhp)|149|0|51|21|2011-06-18|![oscaruhp](https://avatars0.githubusercontent.com/u/859116)|
-|7|[LueW](https://github.com/LueW)|149|0|6|4|2016-07-06|![LueW](https://avatars0.githubusercontent.com/u/20323507)|
-|8|[alvar0hurtad0](https://github.com/alvar0hurtad0)|147|839|38|17|2011-10-15|![alvar0hurtad0](https://avatars3.githubusercontent.com/u/1130114)|
+|4|[afrasilv](https://github.com/afrasilv)|163|0|23|11|2014-10-15|![afrasilv](https://avatars2.githubusercontent.com/u/9256924)|
+|5|[alvar0hurtad0](https://github.com/alvar0hurtad0)|161|825|38|17|2011-10-15|![alvar0hurtad0](https://avatars3.githubusercontent.com/u/1130114)|
+|6|[manolodd](https://github.com/manolodd)|155|0|6|4|2013-08-08|![manolodd](https://avatars1.githubusercontent.com/u/5189679)|
+|7|[oscaruhp](https://github.com/oscaruhp)|149|0|51|21|2011-06-18|![oscaruhp](https://avatars0.githubusercontent.com/u/859116)|
+|8|[LueW](https://github.com/LueW)|149|0|6|4|2016-07-06|![LueW](https://avatars0.githubusercontent.com/u/20323507)|
 |9|[Crul](https://github.com/Crul)|144|0|11|6|2013-09-29|![Crul](https://avatars3.githubusercontent.com/u/5569741)|
 |10|[vjgarciag96](https://github.com/vjgarciag96)|136|0|46|9|2016-07-01|![vjgarciag96](https://avatars2.githubusercontent.com/u/20244357)|
 |11|[OrlandoJC](https://github.com/OrlandoJC)|131|0|49|2|2016-04-15|![OrlandoJC](https://avatars1.githubusercontent.com/u/18491737)|
@@ -29,9 +29,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |15|[brickbit](https://github.com/brickbit)|96|31|9|4|2016-06-02|![brickbit](https://avatars2.githubusercontent.com/u/19708065)|
 |16|[jesusAlbarregas](https://github.com/jesusAlbarregas)|75|0|4|4|2015-11-05|![jesusAlbarregas](https://avatars3.githubusercontent.com/u/15678914)|
 |17|[raultm](https://github.com/raultm)|50|0|31|29|2011-03-09|![raultm](https://avatars3.githubusercontent.com/u/659494)|
-|18|[sergiocasero](https://github.com/sergiocasero)|47|0|32|31|2015-02-03|![sergiocasero](https://avatars1.githubusercontent.com/u/10833202)|
-|19|[dacamposol](https://github.com/dacamposol)|45|0|5|4|2016-01-27|![dacamposol](https://avatars3.githubusercontent.com/u/16921751)|
-|20|[neriomo](https://github.com/neriomo)|44|0|9|5|2015-01-17|![neriomo](https://avatars1.githubusercontent.com/u/10569358)|
+|18|[neriomo](https://github.com/neriomo)|48|0|9|5|2015-01-17|![neriomo](https://avatars1.githubusercontent.com/u/10569358)|
+|19|[sergiocasero](https://github.com/sergiocasero)|47|0|32|31|2015-02-03|![sergiocasero](https://avatars1.githubusercontent.com/u/10833202)|
+|20|[dacamposol](https://github.com/dacamposol)|45|0|5|4|2016-01-27|![dacamposol](https://avatars3.githubusercontent.com/u/16921751)|
 |21|[jredrejo](https://github.com/jredrejo)|39|0|24|7|2011-08-27|![jredrejo](https://avatars2.githubusercontent.com/u/1008178)|
 |22|[alonsoir](https://github.com/alonsoir)|39|0|133|27|2012-09-23|![alonsoir](https://avatars1.githubusercontent.com/u/2405946)|
 |23|[alexdzul](https://github.com/alexdzul)|37|0|10|105|2012-06-29|![alexdzul](https://avatars2.githubusercontent.com/u/1907359)|
@@ -65,8 +65,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |51|[samu22893](https://github.com/samu22893)|0|0|12|5|2013-10-30|![samu22893](https://avatars1.githubusercontent.com/u/5812967)|
 |52|[goldenboy](https://github.com/goldenboy)|0|0|221|17|2009-05-27|![goldenboy](https://avatars0.githubusercontent.com/u/89311)|
 |53|[Annitap4](https://github.com/Annitap4)|0|0|8|8|2010-08-30|![Annitap4](https://avatars1.githubusercontent.com/u/381260)|
-|54|[jcasero](https://github.com/jcasero)|0|0|9|3|2012-05-06|![jcasero](https://avatars3.githubusercontent.com/u/1710851)|
-|55|[luismiguelmartin](https://github.com/luismiguelmartin)|0|0|14|3|2012-07-07|![luismiguelmartin](https://avatars1.githubusercontent.com/u/1935342)|
+|54|[luismiguelmartin](https://github.com/luismiguelmartin)|0|0|14|3|2012-07-07|![luismiguelmartin](https://avatars1.githubusercontent.com/u/1935342)|
+|55|[jcasero](https://github.com/jcasero)|0|0|9|3|2012-05-06|![jcasero](https://avatars3.githubusercontent.com/u/1710851)|
 |56|[ruscruzel](https://github.com/ruscruzel)|0|0|17|14|2013-07-09|![ruscruzel](https://avatars3.githubusercontent.com/u/4977448)|
 |57|[alberto-cabeza](https://github.com/alberto-cabeza)|0|0|3|2|2013-12-19|![alberto-cabeza](https://avatars2.githubusercontent.com/u/6225528)|
 |58|[javivimv](https://github.com/javivimv)|0|0|2|2|2014-02-17|![javivimv](https://avatars2.githubusercontent.com/u/6708850)|

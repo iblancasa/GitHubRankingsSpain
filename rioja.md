@@ -1,10 +1,10 @@
 # Ranking Rioja
 
-Generado 10:48PM-February-08-2018.
+Generado 07:18AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -40,6 +40,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |26|[rcarnerorojo](https://github.com/rcarnerorojo)|3|404|9|7|2014-04-17|![rcarnerorojo](https://avatars0.githubusercontent.com/u/7326722)|
 |27|[catirado](https://github.com/catirado)|2|0|11|2|2010-08-04|![catirado](https://avatars2.githubusercontent.com/u/354151)|
 |28|[eduardobenito10](https://github.com/eduardobenito10)|1|0|14|2|2011-09-06|![eduardobenito10](https://avatars1.githubusercontent.com/u/1029956)|
-|29|[csadan](https://github.com/csadan)|0|0|4|2|2014-01-21|![csadan](https://avatars0.githubusercontent.com/u/6459730)|
-|30|[borjareinares](https://github.com/borjareinares)|0|0|4|17|2011-01-26|![borjareinares](https://avatars3.githubusercontent.com/u/584645)|
+|29|[borjareinares](https://github.com/borjareinares)|0|0|4|17|2011-01-26|![borjareinares](https://avatars3.githubusercontent.com/u/584645)|
+|30|[csadan](https://github.com/csadan)|0|0|4|2|2014-01-21|![csadan](https://avatars0.githubusercontent.com/u/6459730)|
 |31|[Jimbo2K](https://github.com/Jimbo2K)|0|0|6|3|2016-03-15|![Jimbo2K](https://avatars1.githubusercontent.com/u/17853527)|

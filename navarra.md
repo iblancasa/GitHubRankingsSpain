@@ -1,10 +1,10 @@
 # Ranking Navarra
 
-Generado 10:47PM-February-08-2018.
+Generado 07:18AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -24,11 +24,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |10|[iaguas](https://github.com/iaguas)|89|55|9|9|2013-04-25|![iaguas](https://avatars0.githubusercontent.com/u/4259550)|
 |11|[AsierAndres](https://github.com/AsierAndres)|82|0|6|3|2016-09-23|![AsierAndres](https://avatars1.githubusercontent.com/u/22394419)|
 |12|[alabarga](https://github.com/alabarga)|78|0|237|29|2009-12-11|![alabarga](https://avatars3.githubusercontent.com/u/166339)|
-|13|[quickapps](https://github.com/quickapps)|61|0|5|25|2011-10-15|![quickapps](https://avatars0.githubusercontent.com/u/1129842)|
-|14|[aitorrl](https://github.com/aitorrl)|61|0|8|6|2010-08-19|![aitorrl](https://avatars2.githubusercontent.com/u/369424)|
-|15|[katanagari7c1](https://github.com/katanagari7c1)|44|1066|8|4|2011-05-03|![katanagari7c1](https://avatars1.githubusercontent.com/u/765232)|
-|16|[ChristopherCastro](https://github.com/ChristopherCastro)|43|0|9|3|2011-04-25|![ChristopherCastro](https://avatars0.githubusercontent.com/u/749463)|
-|17|[AlvaroLarumbe](https://github.com/AlvaroLarumbe)|37|1128|8|8|2013-04-25|![AlvaroLarumbe](https://avatars1.githubusercontent.com/u/4255881)|
+|13|[katanagari7c1](https://github.com/katanagari7c1)|66|1044|8|4|2011-05-03|![katanagari7c1](https://avatars1.githubusercontent.com/u/765232)|
+|14|[quickapps](https://github.com/quickapps)|61|0|5|25|2011-10-15|![quickapps](https://avatars0.githubusercontent.com/u/1129842)|
+|15|[aitorrl](https://github.com/aitorrl)|61|0|8|6|2010-08-19|![aitorrl](https://avatars2.githubusercontent.com/u/369424)|
+|16|[AlvaroLarumbe](https://github.com/AlvaroLarumbe)|53|1112|8|8|2013-04-25|![AlvaroLarumbe](https://avatars1.githubusercontent.com/u/4255881)|
+|17|[ChristopherCastro](https://github.com/ChristopherCastro)|43|0|9|3|2011-04-25|![ChristopherCastro](https://avatars0.githubusercontent.com/u/749463)|
 |18|[ahuarte47](https://github.com/ahuarte47)|36|0|19|13|2013-09-30|![ahuarte47](https://avatars3.githubusercontent.com/u/5576272)|
 |19|[bug273](https://github.com/bug273)|29|0|22|5|2010-08-20|![bug273](https://avatars0.githubusercontent.com/u/370630)|
 |20|[pablo-benito](https://github.com/pablo-benito)|28|0|13|3|2015-05-07|![pablo-benito](https://avatars0.githubusercontent.com/u/12297597)|
@@ -47,7 +47,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |33|[javerd](https://github.com/javerd)|3|0|7|3|2010-03-08|![javerd](https://avatars2.githubusercontent.com/u/218214)|
 |34|[xmaeztu](https://github.com/xmaeztu)|1|0|7|6|2011-04-01|![xmaeztu](https://avatars0.githubusercontent.com/u/703490)|
 |35|[baile](https://github.com/baile)|1|0|13|5|2013-07-01|![baile](https://avatars3.githubusercontent.com/u/4908845)|
-|36|[olagato](https://github.com/olagato)|0|0|16|10|2009-11-05|![olagato](https://avatars0.githubusercontent.com/u/149179)|
-|37|[mael](https://github.com/mael)|0|0|16|3|2010-02-10|![mael](https://avatars1.githubusercontent.com/u/200936)|
-|38|[jotegui](https://github.com/jotegui)|0|0|29|11|2011-02-28|![jotegui](https://avatars3.githubusercontent.com/u/642210)|
+|36|[mael](https://github.com/mael)|0|0|16|3|2010-02-10|![mael](https://avatars1.githubusercontent.com/u/200936)|
+|37|[jotegui](https://github.com/jotegui)|0|0|29|11|2011-02-28|![jotegui](https://avatars3.githubusercontent.com/u/642210)|
+|38|[olagato](https://github.com/olagato)|0|0|16|10|2009-11-05|![olagato](https://avatars0.githubusercontent.com/u/149179)|
 |39|[MikiAir78](https://github.com/MikiAir78)|0|0|4|3|2013-11-07|![MikiAir78](https://avatars1.githubusercontent.com/u/5882570)|

@@ -1,10 +1,10 @@
 # Ranking Lugo
 
-Generado 10:42PM-February-08-2018.
+Generado 07:13AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -32,9 +32,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |18|[man08](https://github.com/man08)|6|0|2|2|2015-07-07|![man08](https://avatars0.githubusercontent.com/u/13219860)|
 |19|[michon](https://github.com/michon)|2|0|7|3|2009-04-06|![michon](https://avatars3.githubusercontent.com/u/70982)|
 |20|[albertoluengo](https://github.com/albertoluengo)|1|2|3|3|2012-08-30|![albertoluengo](https://avatars2.githubusercontent.com/u/2248231)|
-|21|[jorgeSV](https://github.com/jorgeSV)|1|0|25|5|2013-04-18|![jorgeSV](https://avatars1.githubusercontent.com/u/4189901)|
-|22|[eccoilmoro](https://github.com/eccoilmoro)|1|0|16|2|2013-01-28|![eccoilmoro](https://avatars1.githubusercontent.com/u/3404161)|
+|21|[eccoilmoro](https://github.com/eccoilmoro)|1|0|16|2|2013-01-28|![eccoilmoro](https://avatars1.githubusercontent.com/u/3404161)|
+|22|[jorgeSV](https://github.com/jorgeSV)|1|0|25|5|2013-04-18|![jorgeSV](https://avatars1.githubusercontent.com/u/4189901)|
 |23|[Reptiliancore](https://github.com/Reptiliancore)|1|0|4|2|2016-02-08|![Reptiliancore](https://avatars1.githubusercontent.com/u/17118706)|
-|24|[Ebrithil](https://github.com/Ebrithil)|0|0|6|6|2008-12-20|![Ebrithil](https://avatars2.githubusercontent.com/u/41769)|
-|25|[chucu](https://github.com/chucu)|0|0|9|4|2012-11-15|![chucu](https://avatars0.githubusercontent.com/u/2808398)|
+|24|[chucu](https://github.com/chucu)|0|0|9|4|2012-11-15|![chucu](https://avatars0.githubusercontent.com/u/2808398)|
+|25|[Ebrithil](https://github.com/Ebrithil)|0|0|6|6|2008-12-20|![Ebrithil](https://avatars2.githubusercontent.com/u/41769)|
 |26|[santiarg](https://github.com/santiarg)|0|0|4|4|2014-05-16|![santiarg](https://avatars1.githubusercontent.com/u/7600476)|

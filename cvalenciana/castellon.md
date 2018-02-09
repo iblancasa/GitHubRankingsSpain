@@ -1,10 +1,10 @@
 # Ranking Castellón
 
-Generado 10:38PM-February-08-2018.
+Generado 07:09AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -18,7 +18,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |4|[albertjimenez](https://github.com/albertjimenez)|402|0|19|7|2015-05-21|![albertjimenez](https://avatars3.githubusercontent.com/u/12547680)|
 |5|[joanpaon](https://github.com/joanpaon)|379|0|151|15|2013-06-30|![joanpaon](https://avatars1.githubusercontent.com/u/4895527)|
 |6|[lbraun](https://github.com/lbraun)|297|9|25|6|2010-06-02|![lbraun](https://avatars2.githubusercontent.com/u/294776)|
-|7|[a-castellano](https://github.com/a-castellano)|255|0|29|6|2015-03-17|![a-castellano](https://avatars0.githubusercontent.com/u/11519707)|
+|7|[a-castellano](https://github.com/a-castellano)|268|0|30|6|2015-03-17|![a-castellano](https://avatars0.githubusercontent.com/u/11519707)|
 |8|[s1vh](https://github.com/s1vh)|154|0|6|2|2014-10-09|![s1vh](https://avatars1.githubusercontent.com/u/9099118)|
 |9|[oscarbelmon](https://github.com/oscarbelmon)|152|0|18|16|2013-04-05|![oscarbelmon](https://avatars0.githubusercontent.com/u/4066452)|
 |10|[uvemas](https://github.com/uvemas)|109|0|3|3|2011-10-03|![uvemas](https://avatars1.githubusercontent.com/u/1099529)|
@@ -27,8 +27,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |13|[jcgarsan](https://github.com/jcgarsan)|71|0|9|2|2013-09-26|![jcgarsan](https://avatars3.githubusercontent.com/u/5547857)|
 |14|[penalvea](https://github.com/penalvea)|54|0|6|2|2013-04-09|![penalvea](https://avatars3.githubusercontent.com/u/4102114)|
 |15|[pho](https://github.com/pho)|46|0|24|18|2009-05-25|![pho](https://avatars0.githubusercontent.com/u/88469)|
-|16|[nachomiralles](https://github.com/nachomiralles)|44|19|19|6|2013-06-26|![nachomiralles](https://avatars2.githubusercontent.com/u/4831513)|
-|17|[dcentelles](https://github.com/dcentelles)|40|529|7|2|2013-07-15|![dcentelles](https://avatars2.githubusercontent.com/u/5012707)|
+|16|[dcentelles](https://github.com/dcentelles)|44|525|7|2|2013-07-15|![dcentelles](https://avatars2.githubusercontent.com/u/5012707)|
+|17|[nachomiralles](https://github.com/nachomiralles)|44|19|19|6|2013-06-26|![nachomiralles](https://avatars2.githubusercontent.com/u/4831513)|
 |18|[pusewicz](https://github.com/pusewicz)|35|0|83|31|2008-02-26|![pusewicz](https://avatars2.githubusercontent.com/u/940)|
 |19|[mijim](https://github.com/mijim)|24|0|6|3|2016-02-01|![mijim](https://avatars1.githubusercontent.com/u/17006034)|
 |20|[Ardumania](https://github.com/Ardumania)|15|0|5|2|2012-02-17|![Ardumania](https://avatars0.githubusercontent.com/u/1445949)|

@@ -1,10 +1,10 @@
 # Ranking Cantabria
 
-Generado 10:45PM-February-08-2018.
+Generado 07:16AM-February-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
-Estos ránkings se suelen generar una vez a la semana. Generados por [Israel Blancas @iblancasa](https://github.com/iblancasa/) [(Twitter)](https://twitter.com/iblancasa).
+Estos ránkings se suelen generar una vez a la semana. Generados por [Ernesto Serrano @erseco](https://github.com/erseco/) [(Twitter)](https://twitter.com/erseco).
 
 Las plantillas se encuentran en [este repositorio](https://github.com/iblancasa/GH-Spanish-Ranking), utilizando la biblioteca [GitHubCity](https://github.com/iblancasa/GitHubCity). Los resultados están disponibles en MD y en JSON.
 
@@ -27,9 +27,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |13|[pelusito](https://github.com/pelusito)|61|0|17|4|2016-04-22|![pelusito](https://avatars2.githubusercontent.com/u/18612896)|
 |14|[cofinoa](https://github.com/cofinoa)|60|0|28|7|2013-07-26|![cofinoa](https://avatars1.githubusercontent.com/u/5098603)|
 |15|[abalozz](https://github.com/abalozz)|47|0|39|46|2012-01-08|![abalozz](https://avatars1.githubusercontent.com/u/1312336)|
-|16|[jgferrero](https://github.com/jgferrero)|46|0|8|2|2015-03-12|![jgferrero](https://avatars1.githubusercontent.com/u/11438536)|
-|17|[juanmadlg](https://github.com/juanmadlg)|40|0|15|2|2011-11-04|![juanmadlg](https://avatars0.githubusercontent.com/u/1173469)|
-|18|[nothnk](https://github.com/nothnk)|36|1963|37|15|2009-09-05|![nothnk](https://avatars0.githubusercontent.com/u/123532)|
+|16|[nothnk](https://github.com/nothnk)|46|1953|37|15|2009-09-05|![nothnk](https://avatars0.githubusercontent.com/u/123532)|
+|17|[jgferrero](https://github.com/jgferrero)|46|0|8|2|2015-03-12|![jgferrero](https://avatars1.githubusercontent.com/u/11438536)|
+|18|[juanmadlg](https://github.com/juanmadlg)|40|0|15|2|2011-11-04|![juanmadlg](https://avatars0.githubusercontent.com/u/1173469)|
 |19|[andrestraspuesto](https://github.com/andrestraspuesto)|34|0|11|2|2014-01-16|![andrestraspuesto](https://avatars1.githubusercontent.com/u/6418792)|
 |20|[dsmatilla](https://github.com/dsmatilla)|22|0|11|6|2011-02-14|![dsmatilla](https://avatars0.githubusercontent.com/u/618172)|
 |21|[fernandezcuesta](https://github.com/fernandezcuesta)|21|0|29|4|2014-04-16|![fernandezcuesta](https://avatars0.githubusercontent.com/u/7312236)|
@@ -48,10 +48,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |34|[magranero](https://github.com/magranero)|3|0|3|2|2016-03-30|![magranero](https://avatars3.githubusercontent.com/u/18167085)|
 |35|[Barbrady](https://github.com/Barbrady)|1|0|5|2|2014-01-18|![Barbrady](https://avatars1.githubusercontent.com/u/6436548)|
 |36|[saidrodriguez](https://github.com/saidrodriguez)|0|0|2|2|2009-09-28|![saidrodriguez](https://avatars3.githubusercontent.com/u/132459)|
-|37|[xerox91](https://github.com/xerox91)|0|0|6|7|2011-04-19|![xerox91](https://avatars0.githubusercontent.com/u/740021)|
-|38|[zhensydow](https://github.com/zhensydow)|0|0|21|6|2011-05-09|![zhensydow](https://avatars1.githubusercontent.com/u/777247)|
-|39|[daveruiz](https://github.com/daveruiz)|0|0|4|3|2012-08-16|![daveruiz](https://avatars2.githubusercontent.com/u/2165375)|
-|40|[chuchiperriman](https://github.com/chuchiperriman)|0|0|26|9|2008-11-25|![chuchiperriman](https://avatars2.githubusercontent.com/u/36635)|
+|37|[zhensydow](https://github.com/zhensydow)|0|0|21|6|2011-05-09|![zhensydow](https://avatars1.githubusercontent.com/u/777247)|
+|38|[chuchiperriman](https://github.com/chuchiperriman)|0|0|26|9|2008-11-25|![chuchiperriman](https://avatars2.githubusercontent.com/u/36635)|
+|39|[xerox91](https://github.com/xerox91)|0|0|6|7|2011-04-19|![xerox91](https://avatars0.githubusercontent.com/u/740021)|
+|40|[daveruiz](https://github.com/daveruiz)|0|0|4|3|2012-08-16|![daveruiz](https://avatars2.githubusercontent.com/u/2165375)|
 |41|[injectilo](https://github.com/injectilo)|0|0|9|7|2014-09-01|![injectilo](https://avatars1.githubusercontent.com/u/8612274)|
 |42|[fonsotf](https://github.com/fonsotf)|0|0|4|2|2015-11-03|![fonsotf](https://avatars1.githubusercontent.com/u/15630996)|
 |43|[ssg70](https://github.com/ssg70)|0|0|4|2|2015-11-04|![ssg70](https://avatars0.githubusercontent.com/u/15652669)|
