@@ -1,6 +1,6 @@
 # Ranking Zamora
 
-Generado 07:07AM-February-09-2018.
+Generado 08:25PM-February-15-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -17,7 +17,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |3|[arcxyz](https://github.com/arcxyz)|52|78|39|13|2010-01-18|![arcxyz](https://avatars3.githubusercontent.com/u/185002)|
 |4|[aaronpr95](https://github.com/aaronpr95)|34|0|4|5|2016-11-21|![aaronpr95](https://avatars0.githubusercontent.com/u/23632537)|
 |5|[Roberth1203](https://github.com/Roberth1203)|28|0|10|3|2014-12-31|![Roberth1203](https://avatars3.githubusercontent.com/u/10360581)|
-|6|[amaliahern](https://github.com/amaliahern)|10|0|31|9|2010-06-14|![amaliahern](https://avatars0.githubusercontent.com/u/304761)|
-|7|[Curicaveri](https://github.com/Curicaveri)|2|0|9|5|2014-01-06|![Curicaveri](https://avatars0.githubusercontent.com/u/6333993)|
-|8|[AMoraga](https://github.com/AMoraga)|0|0|7|5|2010-02-26|![AMoraga](https://avatars3.githubusercontent.com/u/211362)|
-|9|[ganipa93](https://github.com/ganipa93)|0|0|13|14|2015-09-03|![ganipa93](https://avatars0.githubusercontent.com/u/14114469)|
+|6|[josecriadom](https://github.com/josecriadom)|19|0|2|6|2018-01-06|![josecriadom](https://avatars3.githubusercontent.com/u/35175638)|
+|7|[amaliahern](https://github.com/amaliahern)|12|0|31|9|2010-06-14|![amaliahern](https://avatars0.githubusercontent.com/u/304761)|
+|8|[Curicaveri](https://github.com/Curicaveri)|2|0|9|5|2014-01-06|![Curicaveri](https://avatars0.githubusercontent.com/u/6333993)|
+|9|[AMoraga](https://github.com/AMoraga)|0|0|7|5|2010-02-26|![AMoraga](https://avatars3.githubusercontent.com/u/211362)|
+|10|[ganipa93](https://github.com/ganipa93)|0|0|13|14|2015-09-03|![ganipa93](https://avatars0.githubusercontent.com/u/14114469)|
