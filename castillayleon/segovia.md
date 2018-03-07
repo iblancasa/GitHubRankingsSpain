@@ -1,6 +1,6 @@
 # Ranking Segovia
 
-Generado 02:56AM-February-28-2018.
+Generado 02:58AM-March-07-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,11 +12,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[kikettas](https://github.com/kikettas)|1196|0|16|8|2014-10-08|![kikettas](https://avatars3.githubusercontent.com/u/9082270)|
+|1|[kikettas](https://github.com/kikettas)|1186|0|16|8|2014-10-08|![kikettas](https://avatars3.githubusercontent.com/u/9082270)|
 |2|[sergioortegagomez](https://github.com/sergioortegagomez)|98|0|8|5|2014-09-14|![sergioortegagomez](https://avatars2.githubusercontent.com/u/8767128)|
-|3|[iMartinezMateu](https://github.com/iMartinezMateu)|97|195|14|11|2014-10-19|![iMartinezMateu](https://avatars2.githubusercontent.com/u/9308066)|
-|4|[tinproject](https://github.com/tinproject)|51|0|14|6|2013-03-01|![tinproject](https://avatars3.githubusercontent.com/u/3742174)|
-|5|[migumar2](https://github.com/migumar2)|28|192|2|11|2011-05-31|![migumar2](https://avatars2.githubusercontent.com/u/819947)|
+|3|[iMartinezMateu](https://github.com/iMartinezMateu)|97|189|14|11|2014-10-19|![iMartinezMateu](https://avatars2.githubusercontent.com/u/9308066)|
+|4|[tinproject](https://github.com/tinproject)|52|0|15|6|2013-03-01|![tinproject](https://avatars3.githubusercontent.com/u/3742174)|
+|5|[migumar2](https://github.com/migumar2)|35|176|2|11|2011-05-31|![migumar2](https://avatars2.githubusercontent.com/u/819947)|
 |6|[albertocc](https://github.com/albertocc)|14|0|7|3|2015-08-18|![albertocc](https://avatars2.githubusercontent.com/u/13858689)|
 |7|[josejuanllopistemes](https://github.com/josejuanllopistemes)|9|0|7|4|2015-05-28|![josejuanllopistemes](https://avatars0.githubusercontent.com/u/12647640)|
 |8|[robertobermejo](https://github.com/robertobermejo)|9|0|33|8|2010-03-13|![robertobermejo](https://avatars1.githubusercontent.com/u/221931)|
