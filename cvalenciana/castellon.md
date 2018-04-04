@@ -1,6 +1,6 @@
 # Ranking Castellón
 
-Generado 03:25AM-March-28-2018.
+Generado 03:21AM-April-04-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,35 +12,36 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[ander7agar](https://github.com/ander7agar)|1090|0|6|11|2014-03-06|![ander7agar](https://avatars2.githubusercontent.com/u/6875232)|
-|2|[FrancescAlted](https://github.com/FrancescAlted)|615|0|40|136|2010-06-25|![FrancescAlted](https://avatars0.githubusercontent.com/u/314521)|
-|3|[agonper](https://github.com/agonper)|568|411|22|6|2015-01-27|![agonper](https://avatars3.githubusercontent.com/u/10727467)|
-|4|[a-castellano](https://github.com/a-castellano)|505|0|38|9|2015-03-17|![a-castellano](https://avatars0.githubusercontent.com/u/11519707)|
-|5|[joanpaon](https://github.com/joanpaon)|386|0|151|17|2013-06-30|![joanpaon](https://avatars1.githubusercontent.com/u/4895527)|
-|6|[lbraun](https://github.com/lbraun)|385|0|27|8|2010-06-02|![lbraun](https://avatars2.githubusercontent.com/u/294776)|
-|7|[albertjimenez](https://github.com/albertjimenez)|361|0|22|9|2015-05-21|![albertjimenez](https://avatars3.githubusercontent.com/u/12547680)|
-|8|[dnchia](https://github.com/dnchia)|160|14|12|7|2015-08-14|![dnchia](https://avatars2.githubusercontent.com/u/13800551)|
-|9|[oscarbelmon](https://github.com/oscarbelmon)|136|0|20|22|2013-04-05|![oscarbelmon](https://avatars0.githubusercontent.com/u/4066452)|
-|10|[uvemas](https://github.com/uvemas)|109|0|3|3|2011-10-03|![uvemas](https://avatars1.githubusercontent.com/u/1099529)|
-|11|[jaracil](https://github.com/jaracil)|100|0|24|14|2014-01-10|![jaracil](https://avatars0.githubusercontent.com/u/6370372)|
-|12|[rgzr](https://github.com/rgzr)|100|47|4|3|2015-07-03|![rgzr](https://avatars1.githubusercontent.com/u/13169716)|
-|13|[s1vh](https://github.com/s1vh)|93|0|6|2|2014-10-09|![s1vh](https://avatars1.githubusercontent.com/u/9099118)|
-|14|[dcentelles](https://github.com/dcentelles)|56|566|9|2|2013-07-15|![dcentelles](https://avatars2.githubusercontent.com/u/5012707)|
-|15|[mijim](https://github.com/mijim)|48|2|9|4|2016-02-01|![mijim](https://avatars1.githubusercontent.com/u/17006034)|
-|16|[pusewicz](https://github.com/pusewicz)|44|0|82|30|2008-02-26|![pusewicz](https://avatars2.githubusercontent.com/u/940)|
-|17|[tomaseroles](https://github.com/tomaseroles)|42|0|7|5|2015-02-16|![tomaseroles](https://avatars0.githubusercontent.com/u/11036562)|
-|18|[penalvea](https://github.com/penalvea)|38|0|6|3|2013-04-09|![penalvea](https://avatars3.githubusercontent.com/u/4102114)|
-|19|[nachomiralles](https://github.com/nachomiralles)|36|33|19|6|2013-06-26|![nachomiralles](https://avatars2.githubusercontent.com/u/4831513)|
-|20|[pho](https://github.com/pho)|30|0|24|17|2009-05-25|![pho](https://avatars0.githubusercontent.com/u/88469)|
-|21|[bcelaya](https://github.com/bcelaya)|28|0|8|3|2014-09-12|![bcelaya](https://avatars2.githubusercontent.com/u/8750450)|
-|22|[jcgarsan](https://github.com/jcgarsan)|23|0|9|2|2013-09-26|![jcgarsan](https://avatars3.githubusercontent.com/u/5547857)|
-|23|[zodier](https://github.com/zodier)|23|0|3|3|2010-11-13|![zodier](https://avatars0.githubusercontent.com/u/480371)|
-|24|[chrbongardt](https://github.com/chrbongardt)|15|0|12|6|2012-11-19|![chrbongardt](https://avatars3.githubusercontent.com/u/2834466)|
-|25|[Ardumania](https://github.com/Ardumania)|12|0|5|2|2012-02-17|![Ardumania](https://avatars0.githubusercontent.com/u/1445949)|
-|26|[smusaran](https://github.com/smusaran)|10|0|15|3|2015-11-10|![smusaran](https://avatars2.githubusercontent.com/u/15787704)|
-|27|[siserte](https://github.com/siserte)|1|0|4|2|2014-02-05|![siserte](https://avatars2.githubusercontent.com/u/6595035)|
-|28|[amsgames94](https://github.com/amsgames94)|1|0|14|6|2014-03-15|![amsgames94](https://avatars3.githubusercontent.com/u/6959189)|
-|29|[kadosch](https://github.com/kadosch)|0|0|4|3|2011-12-31|![kadosch](https://avatars1.githubusercontent.com/u/1296520)|
-|30|[aitorquinza](https://github.com/aitorquinza)|0|0|14|5|2012-09-17|![aitorquinza](https://avatars3.githubusercontent.com/u/2361502)|
-|31|[AlessMascherpa](https://github.com/AlessMascherpa)|0|0|5|64|2011-04-03|![AlessMascherpa](https://avatars2.githubusercontent.com/u/706750)|
-|32|[Berbel93](https://github.com/Berbel93)|0|0|2|2|2016-03-02|![Berbel93](https://avatars2.githubusercontent.com/u/17596372)|
+|1|[oscarbelmon](https://github.com/oscarbelmon)|0|0|-1|-1||![oscarbelmon]()|
+|2|[chrbongardt](https://github.com/chrbongardt)|0|0|-1|-1||![chrbongardt]()|
+|3|[nachomiralles](https://github.com/nachomiralles)|0|37|-1|-1||![nachomiralles]()|
+|4|[uvemas](https://github.com/uvemas)|0|0|-1|-1||![uvemas]()|
+|5|[joanpaon](https://github.com/joanpaon)|0|0|-1|-1||![joanpaon]()|
+|6|[penalvea](https://github.com/penalvea)|0|0|-1|-1||![penalvea]()|
+|7|[dcentelles](https://github.com/dcentelles)|0|584|-1|-1||![dcentelles]()|
+|8|[jcgarsan](https://github.com/jcgarsan)|0|0|-1|-1||![jcgarsan]()|
+|9|[jaracil](https://github.com/jaracil)|0|0|-1|-1||![jaracil]()|
+|10|[Ardumania](https://github.com/Ardumania)|0|0|-1|-1||![Ardumania]()|
+|11|[zodier](https://github.com/zodier)|0|0|-1|-1||![zodier]()|
+|12|[aitorquinza](https://github.com/aitorquinza)|0|0|-1|-1||![aitorquinza]()|
+|13|[pho](https://github.com/pho)|0|0|-1|-1||![pho]()|
+|14|[marcfeliu](https://github.com/marcfeliu)|0|0|-1|-1||![marcfeliu]()|
+|15|[kadosch](https://github.com/kadosch)|0|0|-1|-1||![kadosch]()|
+|16|[AlessMascherpa](https://github.com/AlessMascherpa)|0|0|-1|-1||![AlessMascherpa]()|
+|17|[FrancescAlted](https://github.com/FrancescAlted)|0|0|-1|-1||![FrancescAlted]()|
+|18|[lbraun](https://github.com/lbraun)|0|0|-1|-1||![lbraun]()|
+|19|[pusewicz](https://github.com/pusewicz)|0|0|-1|-1||![pusewicz]()|
+|20|[siserte](https://github.com/siserte)|0|0|-1|-1||![siserte]()|
+|21|[ander7agar](https://github.com/ander7agar)|0|0|-1|-1||![ander7agar]()|
+|22|[bcelaya](https://github.com/bcelaya)|0|0|-1|-1||![bcelaya]()|
+|23|[albertjimenez](https://github.com/albertjimenez)|0|0|-1|-1||![albertjimenez]()|
+|24|[tomaseroles](https://github.com/tomaseroles)|0|0|-1|-1||![tomaseroles]()|
+|25|[rgzr](https://github.com/rgzr)|0|47|-1|-1||![rgzr]()|
+|26|[agonper](https://github.com/agonper)|0|434|-1|-1||![agonper]()|
+|27|[smusaran](https://github.com/smusaran)|0|0|-1|-1||![smusaran]()|
+|28|[a-castellano](https://github.com/a-castellano)|0|0|-1|-1||![a-castellano]()|
+|29|[dnchia](https://github.com/dnchia)|0|14|-1|-1||![dnchia]()|
+|30|[mijim](https://github.com/mijim)|0|2|-1|-1||![mijim]()|
+|31|[s1vh](https://github.com/s1vh)|0|0|-1|-1||![s1vh]()|
+|32|[Berbel93](https://github.com/Berbel93)|0|0|-1|-1||![Berbel93]()|
+|33|[amsgames94](https://github.com/amsgames94)|0|0|-1|-1||![amsgames94]()|

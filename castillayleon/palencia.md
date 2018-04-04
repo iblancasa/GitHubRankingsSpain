@@ -1,6 +1,6 @@
 # Ranking Palencia
 
-Generado 02:57AM-March-28-2018.
+Generado 02:55AM-April-04-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,10 +12,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[miguelarman](https://github.com/miguelarman)|374|117|8|2|2016-10-13|![miguelarman](https://avatars1.githubusercontent.com/u/22821797)|
-|2|[CodeBackpackofEndika](https://github.com/CodeBackpackofEndika)|126|0|24|4|2017-09-25|![CodeBackpackofEndika](https://avatars2.githubusercontent.com/u/32270483)|
-|3|[zdavidlnx](https://github.com/zdavidlnx)|103|0|12|6|2011-07-28|![zdavidlnx](https://avatars2.githubusercontent.com/u/944150)|
-|4|[adrianetete](https://github.com/adrianetete)|21|0|9|13|2014-03-13|![adrianetete](https://avatars2.githubusercontent.com/u/6943237)|
-|5|[villeparamio](https://github.com/villeparamio)|1|0|11|3|2015-12-01|![villeparamio](https://avatars2.githubusercontent.com/u/16100827)|
-|6|[josetristan](https://github.com/josetristan)|1|0|18|3|2011-07-15|![josetristan](https://avatars1.githubusercontent.com/u/916947)|
-|7|[mines](https://github.com/mines)|0|0|10|5|2011-03-07|![mines](https://avatars2.githubusercontent.com/u/655278)|
+|1|[adrianetete](https://github.com/adrianetete)|0|0|-1|-1||![adrianetete]()|
+|2|[zdavidlnx](https://github.com/zdavidlnx)|0|0|-1|-1||![zdavidlnx]()|
+|3|[CodeBackpackofEndika](https://github.com/CodeBackpackofEndika)|0|0|-1|-1||![CodeBackpackofEndika]()|
+|4|[miguelarman](https://github.com/miguelarman)|0|125|-1|-1||![miguelarman]()|
+|5|[josetristan](https://github.com/josetristan)|0|0|-1|-1||![josetristan]()|
+|6|[mines](https://github.com/mines)|0|0|-1|-1||![mines]()|
+|7|[villeparamio](https://github.com/villeparamio)|0|0|-1|-1||![villeparamio]()|
