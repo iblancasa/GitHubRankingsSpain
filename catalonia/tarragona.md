@@ -1,6 +1,6 @@
 # Ranking Tarragona
 
-Generado 03:19AM-April-04-2018.
+Generado 03:20AM-April-11-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -17,38 +17,38 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |3|[ivoarch](https://github.com/ivoarch)|0|0|-1|-1||![ivoarch]()|
 |4|[alex-pardo](https://github.com/alex-pardo)|0|0|-1|-1||![alex-pardo]()|
 |5|[dayalav](https://github.com/dayalav)|0|0|-1|-1||![dayalav]()|
-|6|[jalucenyo](https://github.com/jalucenyo)|0|0|-1|-1||![jalucenyo]()|
-|7|[edgarzamora](https://github.com/edgarzamora)|0|0|-1|-1||![edgarzamora]()|
-|8|[cmmata](https://github.com/cmmata)|0|1|-1|-1||![cmmata]()|
-|9|[fontinixxl](https://github.com/fontinixxl)|0|0|-1|-1||![fontinixxl]()|
-|10|[martinproject](https://github.com/martinproject)|0|0|-1|-1||![martinproject]()|
-|11|[jrodriguezg](https://github.com/jrodriguezg)|0|0|-1|-1||![jrodriguezg]()|
-|12|[jpahullo](https://github.com/jpahullo)|0|0|-1|-1||![jpahullo]()|
-|13|[ShantiSR](https://github.com/ShantiSR)|0|0|-1|-1||![ShantiSR]()|
-|14|[rmondejar](https://github.com/rmondejar)|0|0|-1|-1||![rmondejar]()|
-|15|[AndresOller](https://github.com/AndresOller)|0|0|-1|-1||![AndresOller]()|
-|16|[marcgraub](https://github.com/marcgraub)|0|0|-1|-1||![marcgraub]()|
+|6|[fontinixxl](https://github.com/fontinixxl)|0|0|-1|-1||![fontinixxl]()|
+|7|[jalucenyo](https://github.com/jalucenyo)|0|0|-1|-1||![jalucenyo]()|
+|8|[rmondejar](https://github.com/rmondejar)|0|0|-1|-1||![rmondejar]()|
+|9|[cmmata](https://github.com/cmmata)|0|1|-1|-1||![cmmata]()|
+|10|[edgarzamora](https://github.com/edgarzamora)|0|0|-1|-1||![edgarzamora]()|
+|11|[jpahullo](https://github.com/jpahullo)|0|0|-1|-1||![jpahullo]()|
+|12|[AndresOller](https://github.com/AndresOller)|0|0|-1|-1||![AndresOller]()|
+|13|[jrodriguezg](https://github.com/jrodriguezg)|0|0|-1|-1||![jrodriguezg]()|
+|14|[marcgraub](https://github.com/marcgraub)|0|0|-1|-1||![marcgraub]()|
+|15|[ShantiSR](https://github.com/ShantiSR)|0|0|-1|-1||![ShantiSR]()|
+|16|[martinproject](https://github.com/martinproject)|0|0|-1|-1||![martinproject]()|
 |17|[ryanfox1985](https://github.com/ryanfox1985)|0|0|-1|-1||![ryanfox1985]()|
-|18|[Elexy](https://github.com/Elexy)|0|1312|-1|-1||![Elexy]()|
+|18|[Elexy](https://github.com/Elexy)|0|1320|-1|-1||![Elexy]()|
 |19|[ssorgatem](https://github.com/ssorgatem)|0|0|-1|-1||![ssorgatem]()|
-|20|[pipo02mix](https://github.com/pipo02mix)|0|179|-1|-1||![pipo02mix]()|
+|20|[pipo02mix](https://github.com/pipo02mix)|0|193|-1|-1||![pipo02mix]()|
 |21|[alexgrauroca](https://github.com/alexgrauroca)|0|0|-1|-1||![alexgrauroca]()|
-|22|[mhjabreel](https://github.com/mhjabreel)|0|0|-1|-1||![mhjabreel]()|
-|23|[AlfredoRoca](https://github.com/AlfredoRoca)|0|0|-1|-1||![AlfredoRoca]()|
+|22|[AlfredoRoca](https://github.com/AlfredoRoca)|0|0|-1|-1||![AlfredoRoca]()|
+|23|[mhjabreel](https://github.com/mhjabreel)|0|0|-1|-1||![mhjabreel]()|
 |24|[nicolaeturcan](https://github.com/nicolaeturcan)|0|0|-1|-1||![nicolaeturcan]()|
-|25|[juankadiaz](https://github.com/juankadiaz)|0|0|-1|-1||![juankadiaz]()|
-|26|[JosepSampe](https://github.com/JosepSampe)|0|0|-1|-1||![JosepSampe]()|
-|27|[marcrobledo](https://github.com/marcrobledo)|0|0|-1|-1||![marcrobledo]()|
-|28|[eugenio-valdano](https://github.com/eugenio-valdano)|0|5|-1|-1||![eugenio-valdano]()|
-|29|[Joanpanisello](https://github.com/Joanpanisello)|0|0|-1|-1||![Joanpanisello]()|
-|30|[arnaumartifont](https://github.com/arnaumartifont)|0|0|-1|-1||![arnaumartifont]()|
-|31|[ivanbardon](https://github.com/ivanbardon)|0|0|-1|-1||![ivanbardon]()|
-|32|[LuisMuniz](https://github.com/LuisMuniz)|0|0|-1|-1||![LuisMuniz]()|
+|25|[eugenio-valdano](https://github.com/eugenio-valdano)|0|5|-1|-1||![eugenio-valdano]()|
+|26|[marcrobledo](https://github.com/marcrobledo)|0|0|-1|-1||![marcrobledo]()|
+|27|[JosepSampe](https://github.com/JosepSampe)|0|0|-1|-1||![JosepSampe]()|
+|28|[LuisMuniz](https://github.com/LuisMuniz)|0|0|-1|-1||![LuisMuniz]()|
+|29|[arnaumartifont](https://github.com/arnaumartifont)|0|0|-1|-1||![arnaumartifont]()|
+|30|[juankadiaz](https://github.com/juankadiaz)|0|0|-1|-1||![juankadiaz]()|
+|31|[Joanpanisello](https://github.com/Joanpanisello)|0|0|-1|-1||![Joanpanisello]()|
+|32|[ivanbardon](https://github.com/ivanbardon)|0|0|-1|-1||![ivanbardon]()|
 |33|[iricartb](https://github.com/iricartb)|0|0|-1|-1||![iricartb]()|
-|34|[Shanti-SR](https://github.com/Shanti-SR)|0|0|-1|-1||![Shanti-SR]()|
+|34|[MyriamMtz](https://github.com/MyriamMtz)|0|0|-1|-1||![MyriamMtz]()|
 |35|[dlizarra](https://github.com/dlizarra)|0|0|-1|-1||![dlizarra]()|
-|36|[deltcod](https://github.com/deltcod)|0|2|-1|-1||![deltcod]()|
-|37|[MyriamMtz](https://github.com/MyriamMtz)|0|0|-1|-1||![MyriamMtz]()|
+|36|[Shanti-SR](https://github.com/Shanti-SR)|0|0|-1|-1||![Shanti-SR]()|
+|37|[deltcod](https://github.com/deltcod)|0|2|-1|-1||![deltcod]()|
 |38|[joanroig](https://github.com/joanroig)|0|0|-1|-1||![joanroig]()|
 |39|[Ismaaa](https://github.com/Ismaaa)|0|0|-1|-1||![Ismaaa]()|
 |40|[juliamauri](https://github.com/juliamauri)|0|1|-1|-1||![juliamauri]()|

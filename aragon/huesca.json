@@ -1,4 +1,4 @@
-{ "date": "02:52AM-April-04-2018",
+{ "date": "02:52AM-April-11-2018",
   "users": [
   { "name": "inazense",
     "position": 1,
@@ -12,7 +12,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "SrPerso",
+  { "name": "lopezmuzas",
     "position": 2,
     "contributions": -1,
     "public": 0,
@@ -24,7 +24,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "fernand0",
+  { "name": "SrPerso",
     "position": 3,
     "contributions": -1,
     "public": 0,
@@ -36,7 +36,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "lopezmuzas",
+  { "name": "hbiarge",
     "position": 4,
     "contributions": -1,
     "public": 0,
@@ -48,7 +48,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "hbiarge",
+  { "name": "fernand0",
     "position": 5,
     "contributions": -1,
     "public": 0,
@@ -60,7 +60,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "Albertowska",
+  { "name": "sergioibs",
     "position": 6,
     "contributions": -1,
     "public": 0,
@@ -72,7 +72,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "fgarcialainez",
+  { "name": "jchine",
     "position": 7,
     "contributions": -1,
     "public": 0,
@@ -84,7 +84,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "sergioibs",
+  { "name": "Albertowska",
     "position": 8,
     "contributions": -1,
     "public": 0,
@@ -96,7 +96,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "giltesa",
+  { "name": "fgarcialainez",
     "position": 9,
     "contributions": -1,
     "public": 0,
@@ -108,7 +108,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "jchine",
+  { "name": "giltesa",
     "position": 10,
     "contributions": -1,
     "public": 0,

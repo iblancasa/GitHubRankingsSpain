@@ -1,6 +1,6 @@
 # Ranking Ávila
 
-Generado 02:54AM-April-04-2018.
+Generado 02:54AM-April-11-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,8 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[eltrueno](https://github.com/eltrueno)|0|0|-1|-1||![eltrueno]()|
-|2|[EugenioFidel](https://github.com/EugenioFidel)|0|0|-1|-1||![EugenioFidel]()|
-|3|[diegocasillasdev](https://github.com/diegocasillasdev)|0|0|-1|-1||![diegocasillasdev]()|
-|4|[sergio11](https://github.com/sergio11)|0|914|-1|-1||![sergio11]()|
-|5|[jmperezra](https://github.com/jmperezra)|0|0|-1|-1||![jmperezra]()|
+|1|[EugenioFidel](https://github.com/EugenioFidel)|0|0|-1|-1||![EugenioFidel]()|
+|2|[diegocasillasdev](https://github.com/diegocasillasdev)|0|0|-1|-1||![diegocasillasdev]()|
+|3|[eltrueno](https://github.com/eltrueno)|0|0|-1|-1||![eltrueno]()|
+|4|[sergio11](https://github.com/sergio11)|0|1077|-1|-1||![sergio11]()|
