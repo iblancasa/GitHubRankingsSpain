@@ -11,6 +11,11 @@ autonomous community or the complete country), the ranking of this region is gen
 **What kind of rankings?**: It sorts GitHub users by the number of
 **public contributions** and groups them by the location in their profile. 
 
+#### *Requirements to appear in the ranking*
+
+* At least 1 public repository
+* At least 1 follower
+
 ## How is this dataset generated?
 
 This repository contains the results of [GitHubSpanishRankingGenerator](https://github.com/iblancasa/GitHubSpanishRankingGenerator).
