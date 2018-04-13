@@ -1,16 +1,16 @@
-{ "date": "04:05AM-April-11-2018",
+{ "date": "03:50AM-April-13-2018",
   "users": [
   { "name": "seravb",
     "position": 1,
-    "contributions": -1,
+    "contributions": 16,
     "public": 0,
     "private": 32,
     "bio": "",
-    "followers": -1,
-    "repositories":-1,
-    "organizations":-1,
-    "join": "",
-    "avatar": ""
+    "followers": 16,
+    "repositories":11,
+    "organizations":1,
+    "join": "2012-01-09",
+    "avatar": "https://avatars0.githubusercontent.com/u/1315992"
   }
   ]
 }

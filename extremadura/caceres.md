@@ -1,6 +1,6 @@
 # Ranking Cáceres
 
-Generado 03:28AM-April-11-2018.
+Generado 01:58AM-April-13-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,28 +12,28 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[ishmilan](https://github.com/ishmilan)|0|0|-1|-1||![ishmilan]()|
-|2|[csuarez](https://github.com/csuarez)|0|299|-1|-1||![csuarez]()|
-|3|[pbustos](https://github.com/pbustos)|0|0|-1|-1||![pbustos]()|
-|4|[javiernuber](https://github.com/javiernuber)|0|0|-1|-1||![javiernuber]()|
-|5|[JPery](https://github.com/JPery)|0|0|-1|-1||![JPery]()|
-|6|[gonzalo-rodriguez](https://github.com/gonzalo-rodriguez)|0|0|-1|-1||![gonzalo-rodriguez]()|
-|7|[oscarcpozas](https://github.com/oscarcpozas)|0|2|-1|-1||![oscarcpozas]()|
-|8|[srkapi](https://github.com/srkapi)|0|3|-1|-1||![srkapi]()|
-|9|[enreas](https://github.com/enreas)|0|0|-1|-1||![enreas]()|
-|10|[jmunozco](https://github.com/jmunozco)|0|0|-1|-1||![jmunozco]()|
-|11|[mcmiguelac](https://github.com/mcmiguelac)|0|0|-1|-1||![mcmiguelac]()|
-|12|[pedrojimenez](https://github.com/pedrojimenez)|0|0|-1|-1||![pedrojimenez]()|
-|13|[alvar0hurtad0](https://github.com/alvar0hurtad0)|0|566|-1|-1||![alvar0hurtad0]()|
-|14|[fuseprods](https://github.com/fuseprods)|0|0|-1|-1||![fuseprods]()|
-|15|[Crul](https://github.com/Crul)|0|0|-1|-1||![Crul]()|
-|16|[ivangd97](https://github.com/ivangd97)|0|0|-1|-1||![ivangd97]()|
-|17|[Axas](https://github.com/Axas)|0|0|-1|-1||![Axas]()|
-|18|[sifiro](https://github.com/sifiro)|0|0|-1|-1||![sifiro]()|
-|19|[samu22893](https://github.com/samu22893)|0|0|-1|-1||![samu22893]()|
-|20|[afrasilv](https://github.com/afrasilv)|0|0|-1|-1||![afrasilv]()|
-|21|[Viokeoke](https://github.com/Viokeoke)|0|0|-1|-1||![Viokeoke]()|
-|22|[vjgarciag96](https://github.com/vjgarciag96)|0|0|-1|-1||![vjgarciag96]()|
-|23|[brickbit](https://github.com/brickbit)|0|72|-1|-1||![brickbit]()|
-|24|[SIMasterEPCC](https://github.com/SIMasterEPCC)|0|0|-1|-1||![SIMasterEPCC]()|
-|25|[dacamposol](https://github.com/dacamposol)|0|0|-1|-1||![dacamposol]()|
+|1|[Crul](https://github.com/Crul)|217|0|13|7|2013-09-29|![Crul](https://avatars3.githubusercontent.com/u/5569741)|
+|2|[ishmilan](https://github.com/ishmilan)|197|0|16|6|2014-10-07|![ishmilan](https://avatars1.githubusercontent.com/u/9059414)|
+|3|[vjgarciag96](https://github.com/vjgarciag96)|168|0|42|12|2016-07-01|![vjgarciag96](https://avatars2.githubusercontent.com/u/20244357)|
+|4|[afrasilv](https://github.com/afrasilv)|166|0|25|10|2014-10-15|![afrasilv](https://avatars2.githubusercontent.com/u/9256924)|
+|5|[alvar0hurtad0](https://github.com/alvar0hurtad0)|157|481|38|17|2011-10-15|![alvar0hurtad0](https://avatars3.githubusercontent.com/u/1130114)|
+|6|[pbustos](https://github.com/pbustos)|144|0|22|16|2013-12-06|![pbustos](https://avatars1.githubusercontent.com/u/6126487)|
+|7|[sifiro](https://github.com/sifiro)|91|0|21|4|2011-10-23|![sifiro](https://avatars1.githubusercontent.com/u/1146729)|
+|8|[oscarcpozas](https://github.com/oscarcpozas)|89|2|5|62|2013-01-27|![oscarcpozas](https://avatars3.githubusercontent.com/u/3399621)|
+|9|[brickbit](https://github.com/brickbit)|72|72|10|4|2016-06-02|![brickbit](https://avatars2.githubusercontent.com/u/19708065)|
+|10|[csuarez](https://github.com/csuarez)|68|314|40|40|2011-03-21|![csuarez](https://avatars3.githubusercontent.com/u/680660)|
+|11|[srkapi](https://github.com/srkapi)|41|3|18|10|2015-02-08|![srkapi](https://avatars1.githubusercontent.com/u/10909126)|
+|12|[javiernuber](https://github.com/javiernuber)|36|0|24|2|2011-06-16|![javiernuber](https://avatars2.githubusercontent.com/u/854567)|
+|13|[dacamposol](https://github.com/dacamposol)|27|0|3|4|2016-01-27|![dacamposol](https://avatars3.githubusercontent.com/u/16921751)|
+|14|[JPery](https://github.com/JPery)|23|0|15|8|2015-02-18|![JPery](https://avatars0.githubusercontent.com/u/11062553)|
+|15|[jmunozco](https://github.com/jmunozco)|15|0|15|25|2012-11-23|![jmunozco](https://avatars0.githubusercontent.com/u/2869841)|
+|16|[pedrojimenez](https://github.com/pedrojimenez)|8|0|14|8|2011-09-12|![pedrojimenez](https://avatars1.githubusercontent.com/u/1044532)|
+|17|[ivangd97](https://github.com/ivangd97)|7|0|6|5|2014-05-06|![ivangd97](https://avatars1.githubusercontent.com/u/7497049)|
+|18|[SIMasterEPCC](https://github.com/SIMasterEPCC)|7|0|10|2|2017-03-16|![SIMasterEPCC](https://avatars2.githubusercontent.com/u/26468069)|
+|19|[Viokeoke](https://github.com/Viokeoke)|5|0|5|7|2015-10-23|![Viokeoke](https://avatars0.githubusercontent.com/u/15265427)|
+|20|[fuseprods](https://github.com/fuseprods)|4|0|15|9|2012-12-15|![fuseprods](https://avatars0.githubusercontent.com/u/3052275)|
+|21|[gonzalo-rodriguez](https://github.com/gonzalo-rodriguez)|1|0|2|2|2013-04-02|![gonzalo-rodriguez](https://avatars2.githubusercontent.com/u/4035127)|
+|22|[enreas](https://github.com/enreas)|1|0|4|2|2011-11-07|![enreas](https://avatars1.githubusercontent.com/u/1179213)|
+|23|[mcmiguelac](https://github.com/mcmiguelac)|0|0|7|3|2014-05-07|![mcmiguelac](https://avatars2.githubusercontent.com/u/7512450)|
+|24|[Axas](https://github.com/Axas)|0|0|9|2|2015-03-04|![Axas](https://avatars3.githubusercontent.com/u/11320626)|
+|25|[samu22893](https://github.com/samu22893)|0|0|12|5|2013-10-30|![samu22893](https://avatars1.githubusercontent.com/u/5812967)|

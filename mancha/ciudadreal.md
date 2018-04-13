@@ -1,6 +1,6 @@
 # Ranking Ciudad Real
 
-Generado 03:32AM-April-11-2018.
+Generado 02:11AM-April-13-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,41 +12,41 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[davidvilla](https://github.com/davidvilla)|0|0|-1|-1||![davidvilla]()|
-|2|[magmax](https://github.com/magmax)|0|0|-1|-1||![magmax]()|
-|3|[patarra](https://github.com/patarra)|0|0|-1|-1||![patarra]()|
-|4|[tabad](https://github.com/tabad)|0|0|-1|-1||![tabad]()|
-|5|[javifelices](https://github.com/javifelices)|0|0|-1|-1||![javifelices]()|
-|6|[soker90](https://github.com/soker90)|0|0|-1|-1||![soker90]()|
-|7|[sergiosquevedo](https://github.com/sergiosquevedo)|0|0|-1|-1||![sergiosquevedo]()|
-|8|[andresmcu](https://github.com/andresmcu)|0|0|-1|-1||![andresmcu]()|
-|9|[SuperJMN](https://github.com/SuperJMN)|0|0|-1|-1||![SuperJMN]()|
-|10|[fdzjuancarlos](https://github.com/fdzjuancarlos)|0|1|-1|-1||![fdzjuancarlos]()|
-|11|[vroman](https://github.com/vroman)|0|1|-1|-1||![vroman]()|
-|12|[odeniz](https://github.com/odeniz)|0|0|-1|-1||![odeniz]()|
-|13|[mayoral](https://github.com/mayoral)|0|402|-1|-1||![mayoral]()|
-|14|[AngryLemonn](https://github.com/AngryLemonn)|0|0|-1|-1||![AngryLemonn]()|
-|15|[yebenes](https://github.com/yebenes)|0|188|-1|-1||![yebenes]()|
-|16|[vpoblete](https://github.com/vpoblete)|0|0|-1|-1||![vpoblete]()|
-|17|[roberkixote](https://github.com/roberkixote)|0|0|-1|-1||![roberkixote]()|
-|18|[jotajotavm](https://github.com/jotajotavm)|0|0|-1|-1||![jotajotavm]()|
-|19|[j2sg](https://github.com/j2sg)|0|0|-1|-1||![j2sg]()|
-|20|[shakaran](https://github.com/shakaran)|0|506|-1|-1||![shakaran]()|
-|21|[ivandelabeldad](https://github.com/ivandelabeldad)|0|0|-1|-1||![ivandelabeldad]()|
-|22|[DiegoMolero](https://github.com/DiegoMolero)|0|0|-1|-1||![DiegoMolero]()|
-|23|[Alejandro-MartinG](https://github.com/Alejandro-MartinG)|0|0|-1|-1||![Alejandro-MartinG]()|
-|24|[agomezgar](https://github.com/agomezgar)|0|0|-1|-1||![agomezgar]()|
-|25|[enriquesimarrosantamaria](https://github.com/enriquesimarrosantamaria)|0|0|-1|-1||![enriquesimarrosantamaria]()|
-|26|[diego-anderica](https://github.com/diego-anderica)|0|0|-1|-1||![diego-anderica]()|
-|27|[benjasHu](https://github.com/benjasHu)|0|0|-1|-1||![benjasHu]()|
-|28|[fpromero](https://github.com/fpromero)|0|0|-1|-1||![fpromero]()|
-|29|[LauraJaime8](https://github.com/LauraJaime8)|0|0|-1|-1||![LauraJaime8]()|
-|30|[basestylo](https://github.com/basestylo)|0|1825|-1|-1||![basestylo]()|
-|31|[RuthRML](https://github.com/RuthRML)|0|0|-1|-1||![RuthRML]()|
-|32|[CarlosCordoba96](https://github.com/CarlosCordoba96)|0|156|-1|-1||![CarlosCordoba96]()|
-|33|[pablopalomino96](https://github.com/pablopalomino96)|0|0|-1|-1||![pablopalomino96]()|
-|34|[JMavs](https://github.com/JMavs)|0|0|-1|-1||![JMavs]()|
-|35|[AlejandroFISC97](https://github.com/AlejandroFISC97)|0|18|-1|-1||![AlejandroFISC97]()|
-|36|[SSromancr](https://github.com/SSromancr)|0|0|-1|-1||![SSromancr]()|
-|37|[Jgd-m3](https://github.com/Jgd-m3)|0|7|-1|-1||![Jgd-m3]()|
-|38|[RoberPlaza](https://github.com/RoberPlaza)|0|0|-1|-1||![RoberPlaza]()|
+|1|[soker90](https://github.com/soker90)|966|0|33|4|2014-08-03|![soker90](https://avatars0.githubusercontent.com/u/8345188)|
+|2|[ivandelabeldad](https://github.com/ivandelabeldad)|562|0|32|4|2014-12-27|![ivandelabeldad](https://avatars3.githubusercontent.com/u/10326536)|
+|3|[SuperJMN](https://github.com/SuperJMN)|501|0|46|35|2012-12-23|![SuperJMN](https://avatars0.githubusercontent.com/u/3109851)|
+|4|[shakaran](https://github.com/shakaran)|414|506|104|26|2008-06-19|![shakaran](https://avatars0.githubusercontent.com/u/14254)|
+|5|[LauraJaime8](https://github.com/LauraJaime8)|400|0|14|5|2016-09-27|![LauraJaime8](https://avatars3.githubusercontent.com/u/22475540)|
+|6|[CarlosCordoba96](https://github.com/CarlosCordoba96)|299|155|30|20|2016-09-28|![CarlosCordoba96](https://avatars3.githubusercontent.com/u/22503199)|
+|7|[mayoral](https://github.com/mayoral)|283|388|8|31|2008-04-06|![mayoral](https://avatars0.githubusercontent.com/u/5371)|
+|8|[dmartingarcia](https://github.com/dmartingarcia)|161|1819|10|9|2015-03-16|![dmartingarcia](https://avatars1.githubusercontent.com/u/11503528)|
+|9|[pablopalomino96](https://github.com/pablopalomino96)|114|0|11|4|2016-10-06|![pablopalomino96](https://avatars0.githubusercontent.com/u/22655548)|
+|10|[magmax](https://github.com/magmax)|98|0|93|41|2011-01-26|![magmax](https://avatars3.githubusercontent.com/u/584026)|
+|11|[AlejandroFISC97](https://github.com/AlejandroFISC97)|97|18|19|7|2017-02-19|![AlejandroFISC97](https://avatars2.githubusercontent.com/u/25884198)|
+|12|[RuthRML](https://github.com/RuthRML)|83|0|8|7|2016-09-28|![RuthRML](https://avatars0.githubusercontent.com/u/22493098)|
+|13|[javifelices](https://github.com/javifelices)|74|0|78|15|2013-02-24|![javifelices](https://avatars3.githubusercontent.com/u/3685015)|
+|14|[DiegoMolero](https://github.com/DiegoMolero)|70|0|6|8|2015-09-28|![DiegoMolero](https://avatars2.githubusercontent.com/u/14870400)|
+|15|[diego-anderica](https://github.com/diego-anderica)|66|0|2|4|2016-09-20|![diego-anderica](https://avatars3.githubusercontent.com/u/22325064)|
+|16|[davidvilla](https://github.com/davidvilla)|60|0|36|16|2011-06-08|![davidvilla](https://avatars2.githubusercontent.com/u/838459)|
+|17|[Jgd-m3](https://github.com/Jgd-m3)|55|7|9|2|2017-03-21|![Jgd-m3](https://avatars3.githubusercontent.com/u/26570829)|
+|18|[SSromancr](https://github.com/SSromancr)|42|0|8|3|2017-02-27|![SSromancr](https://avatars1.githubusercontent.com/u/26056669)|
+|19|[yebenes](https://github.com/yebenes)|33|194|3|17|2011-10-08|![yebenes](https://avatars1.githubusercontent.com/u/1112888)|
+|20|[patarra](https://github.com/patarra)|24|0|18|4|2012-09-04|![patarra](https://avatars1.githubusercontent.com/u/2276101)|
+|21|[RoberPlaza](https://github.com/RoberPlaza)|24|0|10|5|2018-02-19|![RoberPlaza](https://avatars2.githubusercontent.com/u/36627781)|
+|22|[enriquesimarrosantamaria](https://github.com/enriquesimarrosantamaria)|23|0|8|5|2015-10-19|![enriquesimarrosantamaria](https://avatars0.githubusercontent.com/u/15198291)|
+|23|[tabad](https://github.com/tabad)|18|0|5|4|2012-08-20|![tabad](https://avatars2.githubusercontent.com/u/2183103)|
+|24|[JMavs](https://github.com/JMavs)|9|0|5|6|2015-09-11|![JMavs](https://avatars1.githubusercontent.com/u/14231017)|
+|25|[agomezgar](https://github.com/agomezgar)|7|0|18|17|2015-02-18|![agomezgar](https://avatars0.githubusercontent.com/u/11057399)|
+|26|[AngryLemonn](https://github.com/AngryLemonn)|6|0|3|9|2014-02-19|![AngryLemonn](https://avatars2.githubusercontent.com/u/6731364)|
+|27|[Alejandro-MartinG](https://github.com/Alejandro-MartinG)|6|0|15|5|2015-09-05|![Alejandro-MartinG](https://avatars2.githubusercontent.com/u/14140693)|
+|28|[sergiosquevedo](https://github.com/sergiosquevedo)|5|0|8|14|2012-04-28|![sergiosquevedo](https://avatars3.githubusercontent.com/u/1688176)|
+|29|[fdzjuancarlos](https://github.com/fdzjuancarlos)|4|1|14|2|2013-09-27|![fdzjuancarlos](https://avatars3.githubusercontent.com/u/5560118)|
+|30|[andresmcu](https://github.com/andresmcu)|3|0|4|2|2014-04-01|![andresmcu](https://avatars2.githubusercontent.com/u/7127924)|
+|31|[vpoblete](https://github.com/vpoblete)|1|0|2|2|2012-08-23|![vpoblete](https://avatars1.githubusercontent.com/u/2203544)|
+|32|[jotajotavm](https://github.com/jotajotavm)|0|0|5|58|2013-12-10|![jotajotavm](https://avatars3.githubusercontent.com/u/6154935)|
+|33|[vroman](https://github.com/vroman)|0|1|3|8|2009-01-09|![vroman](https://avatars3.githubusercontent.com/u/45230)|
+|34|[j2sg](https://github.com/j2sg)|0|0|8|2|2011-03-18|![j2sg](https://avatars3.githubusercontent.com/u/677220)|
+|35|[odeniz](https://github.com/odeniz)|0|0|4|2|2013-02-19|![odeniz](https://avatars2.githubusercontent.com/u/3634016)|
+|36|[roberkixote](https://github.com/roberkixote)|0|0|20|4|2011-02-10|![roberkixote](https://avatars3.githubusercontent.com/u/610447)|
+|37|[benjasHu](https://github.com/benjasHu)|0|0|8|3|2014-09-28|![benjasHu](https://avatars2.githubusercontent.com/u/8950146)|
+|38|[fpromero](https://github.com/fpromero)|0|0|7|2|2014-11-06|![fpromero](https://avatars3.githubusercontent.com/u/9592895)|

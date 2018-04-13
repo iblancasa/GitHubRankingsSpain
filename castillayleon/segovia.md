@@ -1,6 +1,6 @@
 # Ranking Segovia
 
-Generado 02:56AM-April-11-2018.
+Generado 12:20AM-April-13-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,13 +12,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[migumar2](https://github.com/migumar2)|0|70|-1|-1||![migumar2]()|
-|2|[iMartinezMateu](https://github.com/iMartinezMateu)|0|189|-1|-1||![iMartinezMateu]()|
-|3|[albertocc](https://github.com/albertocc)|0|0|-1|-1||![albertocc]()|
-|4|[alvardsoler](https://github.com/alvardsoler)|0|0|-1|-1||![alvardsoler]()|
-|5|[josejuanllopistemes](https://github.com/josejuanllopistemes)|0|0|-1|-1||![josejuanllopistemes]()|
-|6|[sergioortegagomez](https://github.com/sergioortegagomez)|0|0|-1|-1||![sergioortegagomez]()|
-|7|[carlosdelucas92](https://github.com/carlosdelucas92)|0|0|-1|-1||![carlosdelucas92]()|
-|8|[tinproject](https://github.com/tinproject)|0|1026|-1|-1||![tinproject]()|
-|9|[kikettas](https://github.com/kikettas)|0|0|-1|-1||![kikettas]()|
-|10|[robertobermejo](https://github.com/robertobermejo)|0|0|-1|-1||![robertobermejo]()|
+|1|[kikettas](https://github.com/kikettas)|1151|0|18|8|2014-10-08|![kikettas](https://avatars3.githubusercontent.com/u/9082270)|
+|2|[sergioortegagomez](https://github.com/sergioortegagomez)|101|0|9|5|2014-09-14|![sergioortegagomez](https://avatars2.githubusercontent.com/u/8767128)|
+|3|[albertocc](https://github.com/albertocc)|57|0|9|3|2015-08-18|![albertocc](https://avatars2.githubusercontent.com/u/13858689)|
+|4|[iMartinezMateu](https://github.com/iMartinezMateu)|54|189|14|11|2014-10-19|![iMartinezMateu](https://avatars2.githubusercontent.com/u/9308066)|
+|5|[migumar2](https://github.com/migumar2)|35|68|2|11|2011-05-31|![migumar2](https://avatars2.githubusercontent.com/u/819947)|
+|6|[robertobermejo](https://github.com/robertobermejo)|9|0|33|9|2010-03-13|![robertobermejo](https://avatars1.githubusercontent.com/u/221931)|
+|7|[alvardsoler](https://github.com/alvardsoler)|1|0|15|8|2013-04-09|![alvardsoler](https://avatars1.githubusercontent.com/u/4102837)|
+|8|[josejuanllopistemes](https://github.com/josejuanllopistemes)|1|0|7|5|2015-05-28|![josejuanllopistemes](https://avatars0.githubusercontent.com/u/12647640)|
+|9|[carlosdelucas92](https://github.com/carlosdelucas92)|0|0|5|3|2015-01-27|![carlosdelucas92](https://avatars1.githubusercontent.com/u/10717935)|
+|10|[tinproject](https://github.com/tinproject)|0|1015|15|7|2013-03-01|![tinproject](https://avatars3.githubusercontent.com/u/3742174)|
