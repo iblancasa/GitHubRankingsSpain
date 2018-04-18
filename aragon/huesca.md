@@ -1,6 +1,6 @@
 # Ranking Huesca
 
-Generado 12:09AM-April-13-2018.
+Generado 03:26AM-April-18-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,12 +12,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[fernand0](https://github.com/fernand0)|523|0|39|40|2008-03-06|![fernand0](https://avatars0.githubusercontent.com/u/2467)|
-|2|[SrPerso](https://github.com/SrPerso)|352|0|12|11|2016-02-09|![SrPerso](https://avatars0.githubusercontent.com/u/17146733)|
+|1|[fernand0](https://github.com/fernand0)|516|0|39|40|2008-03-06|![fernand0](https://avatars0.githubusercontent.com/u/2467)|
+|2|[SrPerso](https://github.com/SrPerso)|352|0|12|12|2016-02-09|![SrPerso](https://avatars0.githubusercontent.com/u/17146733)|
 |3|[jmendiara](https://github.com/jmendiara)|128|0|52|32|2011-06-15|![jmendiara](https://avatars0.githubusercontent.com/u/851359)|
 |4|[hbiarge](https://github.com/hbiarge)|66|0|31|35|2010-11-08|![hbiarge](https://avatars0.githubusercontent.com/u/473010)|
 |5|[inazense](https://github.com/inazense)|59|0|7|2|2016-08-16|![inazense](https://avatars0.githubusercontent.com/u/21070069)|
-|6|[giltesa](https://github.com/giltesa)|37|0|5|2|2014-08-26|![giltesa](https://avatars0.githubusercontent.com/u/8562315)|
+|6|[giltesa](https://github.com/giltesa)|38|0|5|2|2014-08-26|![giltesa](https://avatars0.githubusercontent.com/u/8562315)|
 |7|[lopezmuzas](https://github.com/lopezmuzas)|8|0|9|7|2012-02-01|![lopezmuzas](https://avatars0.githubusercontent.com/u/1397384)|
 |8|[jchine](https://github.com/jchine)|4|0|18|8|2012-05-03|![jchine](https://avatars0.githubusercontent.com/u/1701751)|
 |9|[Albertowska](https://github.com/Albertowska)|4|0|10|4|2013-05-21|![Albertowska](https://avatars0.githubusercontent.com/u/4486925)|
