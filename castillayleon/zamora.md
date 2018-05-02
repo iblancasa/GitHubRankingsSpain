@@ -1,6 +1,6 @@
 # Ranking Zamora
 
-Generado 03:34AM-April-25-2018.
+Generado 03:41AM-May-02-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,9 +12,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[vgayolrs](https://github.com/vgayolrs)|136|0|4|7|2016-03-05|![vgayolrs](https://avatars1.githubusercontent.com/u/17665201)|
+|1|[vgayolrs](https://github.com/vgayolrs)|135|0|4|7|2016-03-05|![vgayolrs](https://avatars1.githubusercontent.com/u/17665201)|
 |2|[jairomelo](https://github.com/jairomelo)|100|0|12|3|2014-05-19|![jairomelo](https://avatars2.githubusercontent.com/u/7632991)|
-|3|[arcxyz](https://github.com/arcxyz)|46|60|39|13|2010-01-18|![arcxyz](https://avatars3.githubusercontent.com/u/185002)|
+|3|[arcxyz](https://github.com/arcxyz)|47|59|39|13|2010-01-18|![arcxyz](https://avatars3.githubusercontent.com/u/185002)|
 |4|[Roberth1203](https://github.com/Roberth1203)|27|0|13|3|2014-12-31|![Roberth1203](https://avatars3.githubusercontent.com/u/10360581)|
 |5|[aaronpr95](https://github.com/aaronpr95)|21|0|4|5|2016-11-21|![aaronpr95](https://avatars0.githubusercontent.com/u/23632537)|
 |6|[josecriadom](https://github.com/josecriadom)|19|0|2|6|2018-01-06|![josecriadom](https://avatars3.githubusercontent.com/u/35175638)|

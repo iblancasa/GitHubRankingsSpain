@@ -1,6 +1,6 @@
 # Ranking Segovia
 
-Generado 03:30AM-April-25-2018.
+Generado 03:38AM-May-02-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,13 +12,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[kikettas](https://github.com/kikettas)|1168|0|18|8|2014-10-08|![kikettas](https://avatars3.githubusercontent.com/u/9082270)|
-|2|[sergioortegagomez](https://github.com/sergioortegagomez)|101|0|9|5|2014-09-14|![sergioortegagomez](https://avatars2.githubusercontent.com/u/8767128)|
+|1|[kikettas](https://github.com/kikettas)|1171|0|18|8|2014-10-08|![kikettas](https://avatars3.githubusercontent.com/u/9082270)|
+|2|[sergioortegagomez](https://github.com/sergioortegagomez)|101|0|9|6|2014-09-14|![sergioortegagomez](https://avatars2.githubusercontent.com/u/8767128)|
 |3|[albertocc](https://github.com/albertocc)|58|0|9|3|2015-08-18|![albertocc](https://avatars2.githubusercontent.com/u/13858689)|
-|4|[iMartinezMateu](https://github.com/iMartinezMateu)|57|179|14|11|2014-10-19|![iMartinezMateu](https://avatars2.githubusercontent.com/u/9308066)|
-|5|[tinproject](https://github.com/tinproject)|54|725|15|7|2013-03-01|![tinproject](https://avatars3.githubusercontent.com/u/3742174)|
-|6|[migumar2](https://github.com/migumar2)|30|44|2|11|2011-05-31|![migumar2](https://avatars2.githubusercontent.com/u/819947)|
+|4|[tinproject](https://github.com/tinproject)|53|714|15|7|2013-03-01|![tinproject](https://avatars3.githubusercontent.com/u/3742174)|
+|5|[migumar2](https://github.com/migumar2)|42|22|2|11|2011-05-31|![migumar2](https://avatars2.githubusercontent.com/u/819947)|
+|6|[iMartinezMateu](https://github.com/iMartinezMateu)|39|175|14|11|2014-10-19|![iMartinezMateu](https://avatars2.githubusercontent.com/u/9308066)|
 |7|[robertobermejo](https://github.com/robertobermejo)|9|0|33|9|2010-03-13|![robertobermejo](https://avatars1.githubusercontent.com/u/221931)|
-|8|[alvardsoler](https://github.com/alvardsoler)|1|0|15|8|2013-04-09|![alvardsoler](https://avatars1.githubusercontent.com/u/4102837)|
-|9|[josejuanllopistemes](https://github.com/josejuanllopistemes)|1|0|7|5|2015-05-28|![josejuanllopistemes](https://avatars0.githubusercontent.com/u/12647640)|
+|8|[josejuanllopistemes](https://github.com/josejuanllopistemes)|1|0|7|5|2015-05-28|![josejuanllopistemes](https://avatars0.githubusercontent.com/u/12647640)|
+|9|[alvardsoler](https://github.com/alvardsoler)|1|0|15|8|2013-04-09|![alvardsoler](https://avatars1.githubusercontent.com/u/4102837)|
 |10|[carlosdelucas92](https://github.com/carlosdelucas92)|0|0|5|3|2015-01-27|![carlosdelucas92](https://avatars1.githubusercontent.com/u/10717935)|

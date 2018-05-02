@@ -1,6 +1,6 @@
 # Ranking Ávila
 
-Generado 03:26AM-April-25-2018.
+Generado 03:33AM-May-02-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[sergio11](https://github.com/sergio11)|211|1255|67|24|2014-03-19|![sergio11](https://avatars3.githubusercontent.com/u/6996211)|
-|2|[diegocasillasdev](https://github.com/diegocasillasdev)|107|0|4|9|2016-06-30|![diegocasillasdev](https://avatars3.githubusercontent.com/u/20227008)|
+|1|[diegocasillasdev](https://github.com/diegocasillasdev)|105|0|4|9|2016-06-30|![diegocasillasdev](https://avatars3.githubusercontent.com/u/20227008)|
+|2|[sergio11](https://github.com/sergio11)|54|1418|67|24|2014-03-19|![sergio11](https://avatars3.githubusercontent.com/u/6996211)|
 |3|[EugenioFidel](https://github.com/EugenioFidel)|19|0|14|2|2015-06-01|![EugenioFidel](https://avatars1.githubusercontent.com/u/12699680)|
 |4|[eltrueno](https://github.com/eltrueno)|15|0|4|5|2015-04-06|![eltrueno](https://avatars0.githubusercontent.com/u/11823645)|
