@@ -1,6 +1,6 @@
 # Ranking Cuenca
 
-Generado 05:35AM-May-02-2018.
+Generado 05:33AM-May-09-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[michaeljymsgutierrez](https://github.com/michaeljymsgutierrez)|1364|1|133|12|2016-05-30|![michaeljymsgutierrez](https://avatars0.githubusercontent.com/u/19644179)|
-|2|[ziluvatar](https://github.com/ziluvatar)|77|1029|43|9|2012-02-09|![ziluvatar](https://avatars2.githubusercontent.com/u/1424663)|
+|1|[michaeljymsgutierrez](https://github.com/michaeljymsgutierrez)|1336|1|133|12|2016-05-30|![michaeljymsgutierrez](https://avatars0.githubusercontent.com/u/19644179)|
+|2|[ziluvatar](https://github.com/ziluvatar)|125|963|44|9|2012-02-09|![ziluvatar](https://avatars2.githubusercontent.com/u/1424663)|
 |3|[gggfred](https://github.com/gggfred)|23|0|4|2|2013-01-15|![gggfred](https://avatars3.githubusercontent.com/u/3277081)|
-|4|[DesarrollandoAndroid](https://github.com/DesarrollandoAndroid)|0|0|21|14|2014-06-22|![DesarrollandoAndroid](https://avatars2.githubusercontent.com/u/7956170)|
+|4|[DesarrollandoAndroid](https://github.com/DesarrollandoAndroid)|0|0|21|16|2014-06-22|![DesarrollandoAndroid](https://avatars2.githubusercontent.com/u/7956170)|
