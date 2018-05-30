@@ -1,4 +1,4 @@
-{ "date": "05:57AM-May-23-2018",
+{ "date": "05:59AM-May-30-2018",
   "users": [
   { "name": "dmolina",
     "position": 1,
@@ -14,8 +14,8 @@
   },
   { "name": "carcam",
     "position": 2,
-    "contributions": 27,
-    "public": 27,
+    "contributions": 26,
+    "public": 26,
     "private": 0,
     "bio": "",
     "followers": 15,
