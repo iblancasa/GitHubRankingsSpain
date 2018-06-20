@@ -1,28 +1,28 @@
-{ "date": "03:36AM-June-13-2018",
+{ "date": "03:36AM-June-20-2018",
   "users": [
   { "name": "kikettas",
     "position": 1,
-    "contributions": 1251,
-    "public": 1251,
+    "contributions": 1276,
+    "public": 1276,
     "private": 0,
     "bio": "iOS Developer",
     "followers": 9,
     "repositories":18,
     "organizations":0,
     "join": "2014-10-08",
-    "avatar": "https://avatars3.githubusercontent.com/u/9082270"
+    "avatar": ""
   },
   { "name": "iMartinezMateu",
     "position": 2,
     "contributions": 194,
-    "public": 110,
-    "private": 84,
+    "public": 120,
+    "private": 74,
     "bio": "",
     "followers": 11,
     "repositories":14,
     "organizations":0,
     "join": "2014-10-19",
-    "avatar": "https://avatars2.githubusercontent.com/u/9308066"
+    "avatar": ""
   },
   { "name": "sergioortegagomez",
     "position": 3,
@@ -34,19 +34,19 @@
     "repositories":12,
     "organizations":0,
     "join": "2014-09-14",
-    "avatar": "https://avatars2.githubusercontent.com/u/8767128"
+    "avatar": ""
   },
   { "name": "tinproject",
     "position": 4,
-    "contributions": 756,
-    "public": 58,
-    "private": 698,
+    "contributions": 749,
+    "public": 53,
+    "private": 696,
     "bio": "Sysadmin | Python Developer",
     "followers": 6,
     "repositories":11,
     "organizations":2,
     "join": "2013-03-01",
-    "avatar": "https://avatars3.githubusercontent.com/u/3742174"
+    "avatar": ""
   },
   { "name": "albertocc",
     "position": 5,
@@ -58,7 +58,7 @@
     "repositories":9,
     "organizations":0,
     "join": "2015-08-18",
-    "avatar": "https://avatars2.githubusercontent.com/u/13858689"
+    "avatar": ""
   },
   { "name": "migumar2",
     "position": 6,
@@ -70,7 +70,7 @@
     "repositories":2,
     "organizations":0,
     "join": "2011-05-31",
-    "avatar": "https://avatars2.githubusercontent.com/u/819947"
+    "avatar": ""
   },
   { "name": "robertobermejo",
     "position": 7,
@@ -78,11 +78,11 @@
     "public": 9,
     "private": 0,
     "bio": "",
-    "followers": 10,
+    "followers": 8,
     "repositories":33,
     "organizations":0,
     "join": "2010-03-13",
-    "avatar": "https://avatars1.githubusercontent.com/u/221931"
+    "avatar": ""
   },
   { "name": "alvardsoler",
     "position": 8,
@@ -94,7 +94,7 @@
     "repositories":15,
     "organizations":0,
     "join": "2013-04-09",
-    "avatar": "https://avatars1.githubusercontent.com/u/4102837"
+    "avatar": ""
   },
   { "name": "carlosdelucas92",
     "position": 9,
@@ -106,7 +106,7 @@
     "repositories":5,
     "organizations":0,
     "join": "2015-01-27",
-    "avatar": "https://avatars1.githubusercontent.com/u/10717935"
+    "avatar": ""
   }
   ]
 }

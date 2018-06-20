@@ -1,16 +1,16 @@
-{ "date": "05:32AM-June-13-2018",
+{ "date": "05:35AM-June-20-2018",
   "users": [
   { "name": "ziluvatar",
     "position": 1,
-    "contributions": 1044,
-    "public": 108,
-    "private": 936,
+    "contributions": 1040,
+    "public": 105,
+    "private": 935,
     "bio": "",
     "followers": 9,
     "repositories":45,
     "organizations":0,
     "join": "2012-02-09",
-    "avatar": "https://avatars2.githubusercontent.com/u/1424663"
+    "avatar": ""
   },
   { "name": "gggfred",
     "position": 2,
@@ -22,7 +22,7 @@
     "repositories":4,
     "organizations":0,
     "join": "2013-01-15",
-    "avatar": "https://avatars3.githubusercontent.com/u/3277081"
+    "avatar": ""
   },
   { "name": "DesarrollandoAndroid",
     "position": 3,
@@ -34,7 +34,7 @@
     "repositories":21,
     "organizations":0,
     "join": "2014-06-22",
-    "avatar": "https://avatars2.githubusercontent.com/u/7956170"
+    "avatar": ""
   }
   ]
 }

@@ -1,16 +1,16 @@
-{ "date": "03:26AM-June-13-2018",
+{ "date": "03:26AM-June-20-2018",
   "users": [
   { "name": "jsoriano",
     "position": 1,
-    "contributions": 566,
-    "public": 458,
+    "contributions": 559,
+    "public": 451,
     "private": 108,
     "bio": "Software Engineer at @elastic Beats",
-    "followers": 49,
+    "followers": 48,
     "repositories":55,
     "organizations":3,
     "join": "2008-07-02",
-    "avatar": "https://avatars2.githubusercontent.com/u/15763"
+    "avatar": ""
   },
   { "name": "aaorsi",
     "position": 2,
@@ -22,7 +22,7 @@
     "repositories":11,
     "organizations":0,
     "join": "2014-10-18",
-    "avatar": "https://avatars3.githubusercontent.com/u/9295921"
+    "avatar": ""
   },
   { "name": "alazuga",
     "position": 3,
@@ -34,7 +34,7 @@
     "repositories":9,
     "organizations":0,
     "join": "2014-03-04",
-    "avatar": "https://avatars0.githubusercontent.com/u/6850099"
+    "avatar": ""
   }
   ]
 }

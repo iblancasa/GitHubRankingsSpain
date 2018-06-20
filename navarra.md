@@ -1,6 +1,6 @@
 # Ranking Navarra
 
-Generado 07:20AM-June-13-2018.
+Generado 07:28AM-June-20-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,41 +12,41 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[pxai](https://github.com/pxai)|1274|0|209|32|2011-12-02|![pxai](https://avatars0.githubusercontent.com/u/1235511)|
-|2|[jbarbadillo](https://github.com/jbarbadillo)|323|0|14|7|2016-01-29|![jbarbadillo](https://avatars1.githubusercontent.com/u/16958961)|
-|3|[vgonisanz](https://github.com/vgonisanz)|199|0|28|17|2012-05-03|![vgonisanz](https://avatars3.githubusercontent.com/u/1701387)|
-|4|[acysos](https://github.com/acysos)|164|0|6|103|2012-04-18|![acysos](https://avatars3.githubusercontent.com/u/1657112)|
-|5|[alabarga](https://github.com/alabarga)|135|0|344|36|2009-12-11|![alabarga](https://avatars3.githubusercontent.com/u/166339)|
-|6|[karlosgliberal](https://github.com/karlosgliberal)|108|0|92|50|2010-02-10|![karlosgliberal](https://avatars0.githubusercontent.com/u/200922)|
-|7|[aitorrl](https://github.com/aitorrl)|78|0|8|6|2010-08-19|![aitorrl](https://avatars2.githubusercontent.com/u/369424)|
-|8|[rubenbp](https://github.com/rubenbp)|62|0|8|11|2011-01-18|![rubenbp](https://avatars0.githubusercontent.com/u/570775)|
-|9|[ChristopherCastro](https://github.com/ChristopherCastro)|59|0|9|3|2011-04-25|![ChristopherCastro](https://avatars0.githubusercontent.com/u/749463)|
-|10|[mikelros](https://github.com/mikelros)|54|141|28|2|2016-09-15|![mikelros](https://avatars1.githubusercontent.com/u/22213811)|
-|11|[iaguas](https://github.com/iaguas)|51|17|11|13|2013-04-25|![iaguas](https://avatars0.githubusercontent.com/u/4259550)|
-|12|[ahuarte47](https://github.com/ahuarte47)|48|0|20|16|2013-09-30|![ahuarte47](https://avatars3.githubusercontent.com/u/5576272)|
-|13|[micelshima](https://github.com/micelshima)|43|0|5|5|2014-12-15|![micelshima](https://avatars3.githubusercontent.com/u/10197970)|
-|14|[AlvaroLarumbe](https://github.com/AlvaroLarumbe)|39|1149|9|9|2013-04-25|![AlvaroLarumbe](https://avatars1.githubusercontent.com/u/4255881)|
-|15|[Ameb](https://github.com/Ameb)|36|18|26|6|2010-09-03|![Ameb](https://avatars2.githubusercontent.com/u/386567)|
-|16|[spanishkangaroo](https://github.com/spanishkangaroo)|23|0|21|4|2009-10-29|![spanishkangaroo](https://avatars2.githubusercontent.com/u/146285)|
-|17|[geopamplona](https://github.com/geopamplona)|21|0|10|2|2017-01-10|![geopamplona](https://avatars3.githubusercontent.com/u/25028240)|
-|18|[davidgil](https://github.com/davidgil)|18|0|20|7|2012-03-04|![davidgil](https://avatars2.githubusercontent.com/u/1498740)|
-|19|[pablo-benito](https://github.com/pablo-benito)|18|0|15|3|2015-05-07|![pablo-benito](https://avatars0.githubusercontent.com/u/12297597)|
-|20|[dzapateria](https://github.com/dzapateria)|17|0|2|17|2012-01-08|![dzapateria](https://avatars0.githubusercontent.com/u/1312256)|
-|21|[iolalla](https://github.com/iolalla)|17|2|9|6|2010-06-17|![iolalla](https://avatars2.githubusercontent.com/u/308066)|
-|22|[pabloalbizu](https://github.com/pabloalbizu)|14|0|9|5|2013-01-09|![pabloalbizu](https://avatars0.githubusercontent.com/u/3223601)|
-|23|[jabiertxof](https://github.com/jabiertxof)|12|0|5|2|2013-04-30|![jabiertxof](https://avatars3.githubusercontent.com/u/4304876)|
-|24|[millenc](https://github.com/millenc)|12|0|13|3|2014-06-11|![millenc](https://avatars0.githubusercontent.com/u/7861428)|
-|25|[Alvaroctal](https://github.com/Alvaroctal)|10|2|10|10|2013-05-29|![Alvaroctal](https://avatars0.githubusercontent.com/u/4562922)|
-|26|[pakozm](https://github.com/pakozm)|7|0|58|61|2012-10-26|![pakozm](https://avatars2.githubusercontent.com/u/2655921)|
-|27|[MiguelMarzo](https://github.com/MiguelMarzo)|7|0|45|5|2016-09-15|![MiguelMarzo](https://avatars1.githubusercontent.com/u/22213563)|
-|28|[AlvaroOrduna](https://github.com/AlvaroOrduna)|6|75|13|16|2013-04-26|![AlvaroOrduna](https://avatars0.githubusercontent.com/u/4264243)|
-|29|[makobernal](https://github.com/makobernal)|5|0|12|2|2012-12-01|![makobernal](https://avatars0.githubusercontent.com/u/2937992)|
-|30|[bug273](https://github.com/bug273)|2|0|22|5|2010-08-20|![bug273](https://avatars0.githubusercontent.com/u/370630)|
-|31|[xmaeztu](https://github.com/xmaeztu)|1|0|7|6|2011-04-01|![xmaeztu](https://avatars0.githubusercontent.com/u/703490)|
-|32|[katanagari7c1](https://github.com/katanagari7c1)|1|514|8|4|2011-05-03|![katanagari7c1](https://avatars1.githubusercontent.com/u/765232)|
-|33|[mael](https://github.com/mael)|0|0|16|2|2010-02-10|![mael](https://avatars1.githubusercontent.com/u/200936)|
-|34|[olagato](https://github.com/olagato)|0|0|16|9|2009-11-05|![olagato](https://avatars0.githubusercontent.com/u/149179)|
-|35|[quickapps](https://github.com/quickapps)|0|0|5|25|2011-10-15|![quickapps](https://avatars0.githubusercontent.com/u/1129842)|
-|36|[jotegui](https://github.com/jotegui)|0|0|29|11|2011-02-28|![jotegui](https://avatars3.githubusercontent.com/u/642210)|
-|37|[MikiAir78](https://github.com/MikiAir78)|0|0|4|3|2013-11-07|![MikiAir78](https://avatars1.githubusercontent.com/u/5882570)|
-|38|[AsierAndres](https://github.com/AsierAndres)|0|0|6|3|2016-09-23|![AsierAndres](https://avatars1.githubusercontent.com/u/22394419)|
+|1|[pxai](https://github.com/pxai)|1271|0|211|32|2011-12-02|![pxai]()|
+|2|[jbarbadillo](https://github.com/jbarbadillo)|324|0|15|7|2016-01-29|![jbarbadillo]()|
+|3|[vgonisanz](https://github.com/vgonisanz)|199|0|28|17|2012-05-03|![vgonisanz]()|
+|4|[acysos](https://github.com/acysos)|164|0|6|103|2012-04-18|![acysos]()|
+|5|[alabarga](https://github.com/alabarga)|135|0|344|36|2009-12-11|![alabarga]()|
+|6|[karlosgliberal](https://github.com/karlosgliberal)|109|0|93|50|2010-02-10|![karlosgliberal]()|
+|7|[aitorrl](https://github.com/aitorrl)|78|0|8|6|2010-08-19|![aitorrl]()|
+|8|[rubenbp](https://github.com/rubenbp)|62|0|8|11|2011-01-18|![rubenbp]()|
+|9|[ChristopherCastro](https://github.com/ChristopherCastro)|59|0|9|3|2011-04-25|![ChristopherCastro]()|
+|10|[mikelros](https://github.com/mikelros)|53|148|28|2|2016-09-15|![mikelros]()|
+|11|[iaguas](https://github.com/iaguas)|49|15|11|14|2013-04-25|![iaguas]()|
+|12|[ahuarte47](https://github.com/ahuarte47)|49|0|20|16|2013-09-30|![ahuarte47]()|
+|13|[AlvaroLarumbe](https://github.com/AlvaroLarumbe)|39|1144|9|10|2013-04-25|![AlvaroLarumbe]()|
+|14|[Ameb](https://github.com/Ameb)|36|18|26|6|2010-09-03|![Ameb]()|
+|15|[micelshima](https://github.com/micelshima)|35|0|5|5|2014-12-15|![micelshima]()|
+|16|[spanishkangaroo](https://github.com/spanishkangaroo)|23|0|21|4|2009-10-29|![spanishkangaroo]()|
+|17|[geopamplona](https://github.com/geopamplona)|21|0|10|2|2017-01-10|![geopamplona]()|
+|18|[pablo-benito](https://github.com/pablo-benito)|18|0|15|3|2015-05-07|![pablo-benito]()|
+|19|[iolalla](https://github.com/iolalla)|17|2|9|6|2010-06-17|![iolalla]()|
+|20|[davidgil](https://github.com/davidgil)|16|0|20|7|2012-03-04|![davidgil]()|
+|21|[pabloalbizu](https://github.com/pabloalbizu)|14|0|9|5|2013-01-09|![pabloalbizu]()|
+|22|[dzapateria](https://github.com/dzapateria)|12|0|2|17|2012-01-08|![dzapateria]()|
+|23|[jabiertxof](https://github.com/jabiertxof)|12|0|5|2|2013-04-30|![jabiertxof]()|
+|24|[millenc](https://github.com/millenc)|12|0|13|3|2014-06-11|![millenc]()|
+|25|[Alvaroctal](https://github.com/Alvaroctal)|10|2|10|10|2013-05-29|![Alvaroctal]()|
+|26|[MiguelMarzo](https://github.com/MiguelMarzo)|7|0|45|5|2016-09-15|![MiguelMarzo]()|
+|27|[pakozm](https://github.com/pakozm)|6|0|58|60|2012-10-26|![pakozm]()|
+|28|[AlvaroOrduna](https://github.com/AlvaroOrduna)|6|75|13|16|2013-04-26|![AlvaroOrduna]()|
+|29|[makobernal](https://github.com/makobernal)|5|0|12|2|2012-12-01|![makobernal]()|
+|30|[bug273](https://github.com/bug273)|2|0|22|5|2010-08-20|![bug273]()|
+|31|[xmaeztu](https://github.com/xmaeztu)|1|0|7|6|2011-04-01|![xmaeztu]()|
+|32|[mael](https://github.com/mael)|0|0|16|2|2010-02-10|![mael]()|
+|33|[katanagari7c1](https://github.com/katanagari7c1)|0|497|8|4|2011-05-03|![katanagari7c1]()|
+|34|[quickapps](https://github.com/quickapps)|0|0|5|25|2011-10-15|![quickapps]()|
+|35|[jotegui](https://github.com/jotegui)|0|0|29|11|2011-02-28|![jotegui]()|
+|36|[olagato](https://github.com/olagato)|0|0|16|9|2009-11-05|![olagato]()|
+|37|[MikiAir78](https://github.com/MikiAir78)|0|0|4|3|2013-11-07|![MikiAir78]()|
+|38|[AsierAndres](https://github.com/AsierAndres)|0|0|6|3|2016-09-23|![AsierAndres]()|

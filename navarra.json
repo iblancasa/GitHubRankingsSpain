@@ -1,28 +1,28 @@
-{ "date": "07:20AM-June-13-2018",
+{ "date": "07:28AM-June-20-2018",
   "users": [
   { "name": "pxai",
     "position": 1,
-    "contributions": 1274,
-    "public": 1274,
+    "contributions": 1271,
+    "public": 1271,
     "private": 0,
     "bio": "",
     "followers": 32,
-    "repositories":209,
+    "repositories":211,
     "organizations":0,
     "join": "2011-12-02",
-    "avatar": "https://avatars0.githubusercontent.com/u/1235511"
+    "avatar": ""
   },
   { "name": "jbarbadillo",
     "position": 2,
-    "contributions": 323,
-    "public": 323,
+    "contributions": 324,
+    "public": 324,
     "private": 0,
     "bio": "I am a computer vision engineer specialized in software projects.",
     "followers": 7,
-    "repositories":14,
+    "repositories":15,
     "organizations":0,
     "join": "2016-01-29",
-    "avatar": "https://avatars1.githubusercontent.com/u/16958961"
+    "avatar": ""
   },
   { "name": "vgonisanz",
     "position": 3,
@@ -34,7 +34,7 @@
     "repositories":28,
     "organizations":0,
     "join": "2012-05-03",
-    "avatar": "https://avatars3.githubusercontent.com/u/1701387"
+    "avatar": ""
   },
   { "name": "acysos",
     "position": 4,
@@ -46,7 +46,7 @@
     "repositories":6,
     "organizations":2,
     "join": "2012-04-18",
-    "avatar": "https://avatars3.githubusercontent.com/u/1657112"
+    "avatar": ""
   },
   { "name": "alabarga",
     "position": 5,
@@ -58,19 +58,19 @@
     "repositories":344,
     "organizations":2,
     "join": "2009-12-11",
-    "avatar": "https://avatars3.githubusercontent.com/u/166339"
+    "avatar": ""
   },
   { "name": "karlosgliberal",
     "position": 6,
-    "contributions": 108,
-    "public": 108,
+    "contributions": 109,
+    "public": 109,
     "private": 0,
     "bio": "",
     "followers": 50,
-    "repositories":92,
+    "repositories":93,
     "organizations":0,
     "join": "2010-02-10",
-    "avatar": "https://avatars0.githubusercontent.com/u/200922"
+    "avatar": ""
   },
   { "name": "aitorrl",
     "position": 7,
@@ -82,7 +82,7 @@
     "repositories":8,
     "organizations":1,
     "join": "2010-08-19",
-    "avatar": "https://avatars2.githubusercontent.com/u/369424"
+    "avatar": ""
   },
   { "name": "rubenbp",
     "position": 8,
@@ -94,7 +94,7 @@
     "repositories":8,
     "organizations":1,
     "join": "2011-01-18",
-    "avatar": "https://avatars0.githubusercontent.com/u/570775"
+    "avatar": ""
   },
   { "name": "ChristopherCastro",
     "position": 9,
@@ -106,70 +106,58 @@
     "repositories":9,
     "organizations":1,
     "join": "2011-04-25",
-    "avatar": "https://avatars0.githubusercontent.com/u/749463"
+    "avatar": ""
   },
   { "name": "mikelros",
     "position": 10,
-    "contributions": 195,
-    "public": 54,
-    "private": 141,
+    "contributions": 201,
+    "public": 53,
+    "private": 148,
     "bio": "",
     "followers": 2,
     "repositories":28,
     "organizations":0,
     "join": "2016-09-15",
-    "avatar": "https://avatars1.githubusercontent.com/u/22213811"
+    "avatar": ""
   },
   { "name": "iaguas",
     "position": 11,
-    "contributions": 68,
-    "public": 51,
-    "private": 17,
+    "contributions": 64,
+    "public": 49,
+    "private": 15,
     "bio": "",
-    "followers": 13,
+    "followers": 14,
     "repositories":11,
     "organizations":1,
     "join": "2013-04-25",
-    "avatar": "https://avatars0.githubusercontent.com/u/4259550"
+    "avatar": ""
   },
   { "name": "ahuarte47",
     "position": 12,
-    "contributions": 48,
-    "public": 48,
+    "contributions": 49,
+    "public": 49,
     "private": 0,
     "bio": "",
     "followers": 16,
     "repositories":20,
     "organizations":2,
     "join": "2013-09-30",
-    "avatar": "https://avatars3.githubusercontent.com/u/5576272"
-  },
-  { "name": "micelshima",
-    "position": 13,
-    "contributions": 43,
-    "public": 43,
-    "private": 0,
-    "bio": "Senior SysAdmin focused on automation with Powershell.",
-    "followers": 5,
-    "repositories":5,
-    "organizations":0,
-    "join": "2014-12-15",
-    "avatar": "https://avatars3.githubusercontent.com/u/10197970"
+    "avatar": ""
   },
   { "name": "AlvaroLarumbe",
-    "position": 14,
-    "contributions": 1188,
+    "position": 13,
+    "contributions": 1183,
     "public": 39,
-    "private": 1149,
+    "private": 1144,
     "bio": "",
-    "followers": 9,
+    "followers": 10,
     "repositories":9,
     "organizations":0,
     "join": "2013-04-25",
-    "avatar": "https://avatars1.githubusercontent.com/u/4255881"
+    "avatar": ""
   },
   { "name": "Ameb",
-    "position": 15,
+    "position": 14,
     "contributions": 54,
     "public": 36,
     "private": 18,
@@ -178,7 +166,19 @@
     "repositories":26,
     "organizations":1,
     "join": "2010-09-03",
-    "avatar": "https://avatars2.githubusercontent.com/u/386567"
+    "avatar": ""
+  },
+  { "name": "micelshima",
+    "position": 15,
+    "contributions": 35,
+    "public": 35,
+    "private": 0,
+    "bio": "Senior SysAdmin focused on automation with Powershell.",
+    "followers": 5,
+    "repositories":5,
+    "organizations":0,
+    "join": "2014-12-15",
+    "avatar": ""
   },
   { "name": "spanishkangaroo",
     "position": 16,
@@ -190,7 +190,7 @@
     "repositories":21,
     "organizations":0,
     "join": "2009-10-29",
-    "avatar": "https://avatars2.githubusercontent.com/u/146285"
+    "avatar": ""
   },
   { "name": "geopamplona",
     "position": 17,
@@ -202,22 +202,10 @@
     "repositories":10,
     "organizations":0,
     "join": "2017-01-10",
-    "avatar": "https://avatars3.githubusercontent.com/u/25028240"
-  },
-  { "name": "davidgil",
-    "position": 18,
-    "contributions": 18,
-    "public": 18,
-    "private": 0,
-    "bio": "",
-    "followers": 7,
-    "repositories":20,
-    "organizations":1,
-    "join": "2012-03-04",
-    "avatar": "https://avatars2.githubusercontent.com/u/1498740"
+    "avatar": ""
   },
   { "name": "pablo-benito",
-    "position": 19,
+    "position": 18,
     "contributions": 18,
     "public": 18,
     "private": 0,
@@ -226,22 +214,10 @@
     "repositories":15,
     "organizations":1,
     "join": "2015-05-07",
-    "avatar": "https://avatars0.githubusercontent.com/u/12297597"
-  },
-  { "name": "dzapateria",
-    "position": 20,
-    "contributions": 17,
-    "public": 17,
-    "private": 0,
-    "bio": "Soy un desarrollador autodidacta",
-    "followers": 17,
-    "repositories":2,
-    "organizations":0,
-    "join": "2012-01-08",
-    "avatar": "https://avatars0.githubusercontent.com/u/1312256"
+    "avatar": ""
   },
   { "name": "iolalla",
-    "position": 21,
+    "position": 19,
     "contributions": 19,
     "public": 17,
     "private": 2,
@@ -250,10 +226,22 @@
     "repositories":9,
     "organizations":0,
     "join": "2010-06-17",
-    "avatar": "https://avatars2.githubusercontent.com/u/308066"
+    "avatar": ""
+  },
+  { "name": "davidgil",
+    "position": 20,
+    "contributions": 16,
+    "public": 16,
+    "private": 0,
+    "bio": "",
+    "followers": 7,
+    "repositories":20,
+    "organizations":1,
+    "join": "2012-03-04",
+    "avatar": ""
   },
   { "name": "pabloalbizu",
-    "position": 22,
+    "position": 21,
     "contributions": 14,
     "public": 14,
     "private": 0,
@@ -262,7 +250,19 @@
     "repositories":9,
     "organizations":0,
     "join": "2013-01-09",
-    "avatar": "https://avatars0.githubusercontent.com/u/3223601"
+    "avatar": ""
+  },
+  { "name": "dzapateria",
+    "position": 22,
+    "contributions": 12,
+    "public": 12,
+    "private": 0,
+    "bio": "Soy un desarrollador autodidacta",
+    "followers": 17,
+    "repositories":2,
+    "organizations":0,
+    "join": "2012-01-08",
+    "avatar": ""
   },
   { "name": "jabiertxof",
     "position": 23,
@@ -274,7 +274,7 @@
     "repositories":5,
     "organizations":0,
     "join": "2013-04-30",
-    "avatar": "https://avatars3.githubusercontent.com/u/4304876"
+    "avatar": ""
   },
   { "name": "millenc",
     "position": 24,
@@ -286,7 +286,7 @@
     "repositories":13,
     "organizations":0,
     "join": "2014-06-11",
-    "avatar": "https://avatars0.githubusercontent.com/u/7861428"
+    "avatar": ""
   },
   { "name": "Alvaroctal",
     "position": 25,
@@ -298,22 +298,10 @@
     "repositories":10,
     "organizations":0,
     "join": "2013-05-29",
-    "avatar": "https://avatars0.githubusercontent.com/u/4562922"
-  },
-  { "name": "pakozm",
-    "position": 26,
-    "contributions": 7,
-    "public": 7,
-    "private": 0,
-    "bio": "Computer vision engineer and researcher at das-Nano. Devoted programmer and machine learning algorithms developer.",
-    "followers": 61,
-    "repositories":58,
-    "organizations":1,
-    "join": "2012-10-26",
-    "avatar": "https://avatars2.githubusercontent.com/u/2655921"
+    "avatar": ""
   },
   { "name": "MiguelMarzo",
-    "position": 27,
+    "position": 26,
     "contributions": 7,
     "public": 7,
     "private": 0,
@@ -322,7 +310,19 @@
     "repositories":45,
     "organizations":0,
     "join": "2016-09-15",
-    "avatar": "https://avatars1.githubusercontent.com/u/22213563"
+    "avatar": ""
+  },
+  { "name": "pakozm",
+    "position": 27,
+    "contributions": 6,
+    "public": 6,
+    "private": 0,
+    "bio": "Computer vision engineer and researcher at das-Nano. Devoted programmer and machine learning algorithms developer.",
+    "followers": 60,
+    "repositories":58,
+    "organizations":1,
+    "join": "2012-10-26",
+    "avatar": ""
   },
   { "name": "AlvaroOrduna",
     "position": 28,
@@ -334,7 +334,7 @@
     "repositories":13,
     "organizations":0,
     "join": "2013-04-26",
-    "avatar": "https://avatars0.githubusercontent.com/u/4264243"
+    "avatar": ""
   },
   { "name": "makobernal",
     "position": 29,
@@ -346,7 +346,7 @@
     "repositories":12,
     "organizations":0,
     "join": "2012-12-01",
-    "avatar": "https://avatars0.githubusercontent.com/u/2937992"
+    "avatar": ""
   },
   { "name": "bug273",
     "position": 30,
@@ -358,7 +358,7 @@
     "repositories":22,
     "organizations":1,
     "join": "2010-08-20",
-    "avatar": "https://avatars0.githubusercontent.com/u/370630"
+    "avatar": ""
   },
   { "name": "xmaeztu",
     "position": 31,
@@ -370,22 +370,10 @@
     "repositories":7,
     "organizations":0,
     "join": "2011-04-01",
-    "avatar": "https://avatars0.githubusercontent.com/u/703490"
-  },
-  { "name": "katanagari7c1",
-    "position": 32,
-    "contributions": 515,
-    "public": 1,
-    "private": 514,
-    "bio": "",
-    "followers": 4,
-    "repositories":8,
-    "organizations":0,
-    "join": "2011-05-03",
-    "avatar": "https://avatars1.githubusercontent.com/u/765232"
+    "avatar": ""
   },
   { "name": "mael",
-    "position": 33,
+    "position": 32,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -394,22 +382,22 @@
     "repositories":16,
     "organizations":0,
     "join": "2010-02-10",
-    "avatar": "https://avatars1.githubusercontent.com/u/200936"
+    "avatar": ""
   },
-  { "name": "olagato",
-    "position": 34,
-    "contributions": 0,
+  { "name": "katanagari7c1",
+    "position": 33,
+    "contributions": 497,
     "public": 0,
-    "private": 0,
-    "bio": "Working at @centralreservas",
-    "followers": 9,
-    "repositories":16,
+    "private": 497,
+    "bio": "",
+    "followers": 4,
+    "repositories":8,
     "organizations":0,
-    "join": "2009-11-05",
-    "avatar": "https://avatars0.githubusercontent.com/u/149179"
+    "join": "2011-05-03",
+    "avatar": ""
   },
   { "name": "quickapps",
-    "position": 35,
+    "position": 34,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -418,10 +406,10 @@
     "repositories":5,
     "organizations":0,
     "join": "2011-10-15",
-    "avatar": "https://avatars0.githubusercontent.com/u/1129842"
+    "avatar": ""
   },
   { "name": "jotegui",
-    "position": 36,
+    "position": 35,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -430,7 +418,19 @@
     "repositories":29,
     "organizations":1,
     "join": "2011-02-28",
-    "avatar": "https://avatars3.githubusercontent.com/u/642210"
+    "avatar": ""
+  },
+  { "name": "olagato",
+    "position": 36,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "Working at @centralreservas",
+    "followers": 9,
+    "repositories":16,
+    "organizations":0,
+    "join": "2009-11-05",
+    "avatar": ""
   },
   { "name": "MikiAir78",
     "position": 37,
@@ -442,7 +442,7 @@
     "repositories":4,
     "organizations":0,
     "join": "2013-11-07",
-    "avatar": "https://avatars1.githubusercontent.com/u/5882570"
+    "avatar": ""
   },
   { "name": "AsierAndres",
     "position": 38,
@@ -454,7 +454,7 @@
     "repositories":6,
     "organizations":0,
     "join": "2016-09-23",
-    "avatar": "https://avatars1.githubusercontent.com/u/22394419"
+    "avatar": ""
   }
   ]
 }

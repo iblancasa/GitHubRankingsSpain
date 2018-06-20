@@ -1,4 +1,4 @@
-{ "date": "03:36AM-June-13-2018",
+{ "date": "03:36AM-June-20-2018",
   "users": [
   { "name": "titodevera",
     "position": 1,
@@ -10,31 +10,31 @@
     "repositories":7,
     "organizations":0,
     "join": "2015-03-19",
-    "avatar": "https://avatars2.githubusercontent.com/u/11556124"
+    "avatar": ""
+  },
+  { "name": "pablomario",
+    "position": 2,
+    "contributions": 41,
+    "public": 41,
+    "private": 0,
+    "bio": "",
+    "followers": 7,
+    "repositories":27,
+    "organizations":0,
+    "join": "2013-05-18",
+    "avatar": ""
   },
   { "name": "statickidz",
-    "position": 2,
-    "contributions": 186,
-    "public": 41,
-    "private": 145,
+    "position": 3,
+    "contributions": 194,
+    "public": 38,
+    "private": 156,
     "bio": "",
     "followers": 31,
     "repositories":15,
     "organizations":0,
     "join": "2014-06-14",
-    "avatar": "https://avatars2.githubusercontent.com/u/7888227"
-  },
-  { "name": "pablomario",
-    "position": 3,
-    "contributions": 38,
-    "public": 38,
-    "private": 0,
-    "bio": "",
-    "followers": 7,
-    "repositories":26,
-    "organizations":0,
-    "join": "2013-05-18",
-    "avatar": "https://avatars2.githubusercontent.com/u/4464094"
+    "avatar": ""
   },
   { "name": "silvilidar",
     "position": 4,
@@ -46,7 +46,7 @@
     "repositories":2,
     "organizations":0,
     "join": "2016-03-18",
-    "avatar": "https://avatars0.githubusercontent.com/u/17927667"
+    "avatar": ""
   }
   ]
 }

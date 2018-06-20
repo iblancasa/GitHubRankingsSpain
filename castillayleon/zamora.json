@@ -1,4 +1,4 @@
-{ "date": "03:39AM-June-13-2018",
+{ "date": "03:39AM-June-20-2018",
   "users": [
   { "name": "vgayolrs",
     "position": 1,
@@ -10,7 +10,7 @@
     "repositories":4,
     "organizations":0,
     "join": "2016-03-05",
-    "avatar": "https://avatars1.githubusercontent.com/u/17665201"
+    "avatar": ""
   },
   { "name": "jairomelo",
     "position": 2,
@@ -22,7 +22,7 @@
     "repositories":13,
     "organizations":0,
     "join": "2014-05-19",
-    "avatar": "https://avatars2.githubusercontent.com/u/7632991"
+    "avatar": ""
   },
   { "name": "Roberth1203",
     "position": 3,
@@ -34,19 +34,19 @@
     "repositories":16,
     "organizations":0,
     "join": "2014-12-31",
-    "avatar": "https://avatars3.githubusercontent.com/u/10360581"
+    "avatar": ""
   },
   { "name": "arcxyz",
     "position": 4,
-    "contributions": 91,
+    "contributions": 89,
     "public": 36,
-    "private": 55,
+    "private": 53,
     "bio": "",
     "followers": 13,
     "repositories":40,
     "organizations":0,
     "join": "2010-01-18",
-    "avatar": "https://avatars3.githubusercontent.com/u/185002"
+    "avatar": ""
   },
   { "name": "aaronpr95",
     "position": 5,
@@ -58,7 +58,7 @@
     "repositories":4,
     "organizations":0,
     "join": "2016-11-21",
-    "avatar": "https://avatars0.githubusercontent.com/u/23632537"
+    "avatar": ""
   },
   { "name": "josecriadom",
     "position": 6,
@@ -70,7 +70,7 @@
     "repositories":2,
     "organizations":0,
     "join": "2018-01-06",
-    "avatar": "https://avatars3.githubusercontent.com/u/35175638"
+    "avatar": ""
   },
   { "name": "amaliahern",
     "position": 7,
@@ -82,7 +82,7 @@
     "repositories":31,
     "organizations":0,
     "join": "2010-06-14",
-    "avatar": "https://avatars0.githubusercontent.com/u/304761"
+    "avatar": ""
   },
   { "name": "Curicaveri",
     "position": 8,
@@ -94,7 +94,7 @@
     "repositories":9,
     "organizations":0,
     "join": "2014-01-06",
-    "avatar": "https://avatars0.githubusercontent.com/u/6333993"
+    "avatar": ""
   },
   { "name": "ganipa93",
     "position": 9,
@@ -106,7 +106,7 @@
     "repositories":13,
     "organizations":0,
     "join": "2015-09-03",
-    "avatar": "https://avatars0.githubusercontent.com/u/14114469"
+    "avatar": ""
   },
   { "name": "AMoraga",
     "position": 10,
@@ -118,7 +118,7 @@
     "repositories":7,
     "organizations":0,
     "join": "2010-02-26",
-    "avatar": "https://avatars3.githubusercontent.com/u/211362"
+    "avatar": ""
   }
   ]
 }

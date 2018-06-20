@@ -1,28 +1,28 @@
-{ "date": "07:21AM-June-13-2018",
+{ "date": "07:29AM-June-20-2018",
   "users": [
   { "name": "jynus",
     "position": 1,
-    "contributions": 933,
-    "public": 933,
+    "contributions": 926,
+    "public": 926,
     "private": 0,
     "bio": "",
     "followers": 15,
     "repositories":7,
     "organizations":1,
     "join": "2014-08-28",
-    "avatar": "https://avatars1.githubusercontent.com/u/8576860"
+    "avatar": ""
   },
   { "name": "stronk7",
     "position": 2,
-    "contributions": 675,
-    "public": 675,
+    "contributions": 670,
+    "public": 670,
     "private": 0,
     "bio": "",
     "followers": 56,
     "repositories":62,
     "organizations":2,
     "join": "2009-12-14",
-    "avatar": "https://avatars3.githubusercontent.com/u/167147"
+    "avatar": ""
   },
   { "name": "iderioja",
     "position": 3,
@@ -34,58 +34,70 @@
     "repositories":10,
     "organizations":0,
     "join": "2013-07-25",
-    "avatar": "https://avatars3.githubusercontent.com/u/5090808"
+    "avatar": ""
   },
   { "name": "jecrespo",
     "position": 4,
-    "contributions": 275,
-    "public": 275,
+    "contributions": 272,
+    "public": 272,
     "private": 0,
     "bio": "Teaching Arduino at www.aprendiendoarduino.com and learning about IoT, physical computing, web development and more...",
     "followers": 64,
     "repositories":74,
     "organizations":2,
     "join": "2012-03-15",
-    "avatar": "https://avatars2.githubusercontent.com/u/1539718"
+    "avatar": ""
   },
   { "name": "oscars8a",
     "position": 5,
-    "contributions": 206,
-    "public": 206,
+    "contributions": 207,
+    "public": 207,
     "private": 0,
     "bio": "Computer EngineerUniversity of La Rioja (UR)",
     "followers": 7,
     "repositories":6,
     "organizations":2,
     "join": "2017-11-13",
-    "avatar": "https://avatars2.githubusercontent.com/u/33620978"
+    "avatar": ""
   },
   { "name": "wbugbofh",
     "position": 6,
-    "contributions": 199,
-    "public": 199,
+    "contributions": 201,
+    "public": 201,
     "private": 0,
     "bio": "",
     "followers": 6,
     "repositories":20,
     "organizations":1,
     "join": "2013-04-24",
-    "avatar": "https://avatars2.githubusercontent.com/u/4250161"
+    "avatar": ""
   },
   { "name": "juanmirod",
     "position": 7,
-    "contributions": 179,
-    "public": 179,
+    "contributions": 187,
+    "public": 187,
     "private": 0,
     "bio": "Full-stack web developer",
     "followers": 24,
     "repositories":16,
     "organizations":0,
     "join": "2013-02-27",
-    "avatar": "https://avatars2.githubusercontent.com/u/3714422"
+    "avatar": ""
+  },
+  { "name": "pablo-moreno",
+    "position": 8,
+    "contributions": 71,
+    "public": 71,
+    "private": 0,
+    "bio": "Software Developer. Python.",
+    "followers": 3,
+    "repositories":12,
+    "organizations":0,
+    "join": "2014-07-18",
+    "avatar": ""
   },
   { "name": "davidru85",
-    "position": 8,
+    "position": 9,
     "contributions": 70,
     "public": 70,
     "private": 0,
@@ -94,31 +106,19 @@
     "repositories":9,
     "organizations":1,
     "join": "2010-11-08",
-    "avatar": "https://avatars2.githubusercontent.com/u/472324"
-  },
-  { "name": "pablo-moreno",
-    "position": 9,
-    "contributions": 70,
-    "public": 70,
-    "private": 0,
-    "bio": "Software Developer. Python.",
-    "followers": 3,
-    "repositories":12,
-    "organizations":0,
-    "join": "2014-07-18",
-    "avatar": "https://avatars1.githubusercontent.com/u/8203696"
+    "avatar": ""
   },
   { "name": "damarte",
     "position": 10,
-    "contributions": 54,
-    "public": 54,
+    "contributions": 53,
+    "public": 53,
     "private": 0,
     "bio": "",
     "followers": 4,
     "repositories":53,
     "organizations":0,
     "join": "2013-04-30",
-    "avatar": "https://avatars2.githubusercontent.com/u/4304282"
+    "avatar": ""
   },
   { "name": "aprendiendo-arduino",
     "position": 11,
@@ -130,7 +130,7 @@
     "repositories":5,
     "organizations":2,
     "join": "2016-09-02",
-    "avatar": "https://avatars3.githubusercontent.com/u/21957254"
+    "avatar": ""
   },
   { "name": "rgo",
     "position": 12,
@@ -142,7 +142,7 @@
     "repositories":58,
     "organizations":0,
     "join": "2009-01-16",
-    "avatar": "https://avatars1.githubusercontent.com/u/47124"
+    "avatar": ""
   },
   { "name": "catirado",
     "position": 13,
@@ -154,7 +154,7 @@
     "repositories":14,
     "organizations":0,
     "join": "2010-08-04",
-    "avatar": "https://avatars2.githubusercontent.com/u/354151"
+    "avatar": ""
   },
   { "name": "jlmerdiez",
     "position": 14,
@@ -166,7 +166,7 @@
     "repositories":6,
     "organizations":0,
     "join": "2014-01-24",
-    "avatar": "https://avatars2.githubusercontent.com/u/6492854"
+    "avatar": ""
   },
   { "name": "asiermarques",
     "position": 15,
@@ -178,7 +178,7 @@
     "repositories":6,
     "organizations":1,
     "join": "2009-11-05",
-    "avatar": "https://avatars0.githubusercontent.com/u/149459"
+    "avatar": ""
   },
   { "name": "B1ON1C",
     "position": 16,
@@ -190,7 +190,7 @@
     "repositories":3,
     "organizations":0,
     "join": "2017-05-23",
-    "avatar": "https://avatars3.githubusercontent.com/u/28893918"
+    "avatar": ""
   },
   { "name": "Puigcerber",
     "position": 17,
@@ -198,11 +198,11 @@
     "public": 14,
     "private": 0,
     "bio": "",
-    "followers": 41,
+    "followers": 40,
     "repositories":22,
     "organizations":3,
     "join": "2011-06-22",
-    "avatar": "https://avatars2.githubusercontent.com/u/866808"
+    "avatar": ""
   },
   { "name": "Txumari",
     "position": 18,
@@ -214,10 +214,22 @@
     "repositories":19,
     "organizations":0,
     "join": "2010-09-16",
-    "avatar": "https://avatars1.githubusercontent.com/u/401963"
+    "avatar": ""
+  },
+  { "name": "JGarcia-Panach",
+    "position": 19,
+    "contributions": 12,
+    "public": 12,
+    "private": 0,
+    "bio": "",
+    "followers": 3,
+    "repositories":8,
+    "organizations":1,
+    "join": "2015-07-08",
+    "avatar": ""
   },
   { "name": "didiez",
-    "position": 19,
+    "position": 20,
     "contributions": 10,
     "public": 10,
     "private": 0,
@@ -226,10 +238,10 @@
     "repositories":14,
     "organizations":0,
     "join": "2011-02-22",
-    "avatar": "https://avatars0.githubusercontent.com/u/632860"
+    "avatar": ""
   },
   { "name": "lmarqueta",
-    "position": 20,
+    "position": 21,
     "contributions": 10,
     "public": 10,
     "private": 0,
@@ -238,19 +250,7 @@
     "repositories":18,
     "organizations":0,
     "join": "2015-09-17",
-    "avatar": "https://avatars1.githubusercontent.com/u/14338278"
-  },
-  { "name": "JGarcia-Panach",
-    "position": 21,
-    "contributions": 10,
-    "public": 10,
-    "private": 0,
-    "bio": "",
-    "followers": 3,
-    "repositories":8,
-    "organizations":1,
-    "join": "2015-07-08",
-    "avatar": "https://avatars0.githubusercontent.com/u/13234598"
+    "avatar": ""
   },
   { "name": "vicajilau",
     "position": 22,
@@ -262,19 +262,19 @@
     "repositories":2,
     "organizations":0,
     "join": "2017-12-01",
-    "avatar": "https://avatars0.githubusercontent.com/u/34163765"
+    "avatar": ""
   },
   { "name": "rcarnerorojo",
     "position": 23,
-    "contributions": 150,
+    "contributions": 140,
     "public": 7,
-    "private": 143,
+    "private": 133,
     "bio": "",
     "followers": 7,
     "repositories":10,
     "organizations":0,
     "join": "2014-04-17",
-    "avatar": "https://avatars0.githubusercontent.com/u/7326722"
+    "avatar": ""
   },
   { "name": "jcarlosmontoya",
     "position": 24,
@@ -286,7 +286,7 @@
     "repositories":11,
     "organizations":0,
     "join": "2014-05-23",
-    "avatar": "https://avatars1.githubusercontent.com/u/7680456"
+    "avatar": ""
   },
   { "name": "eduardobenito10",
     "position": 25,
@@ -298,19 +298,19 @@
     "repositories":15,
     "organizations":0,
     "join": "2011-09-06",
-    "avatar": "https://avatars1.githubusercontent.com/u/1029956"
+    "avatar": ""
   },
   { "name": "jorgegorka",
     "position": 26,
-    "contributions": 706,
+    "contributions": 678,
     "public": 6,
-    "private": 700,
+    "private": 672,
     "bio": "Improving Happy Mood Score. Employee feedback and engagement tool for agile companies and companies with remote workers, distributed teams or digital nomads.",
     "followers": 23,
     "repositories":33,
     "organizations":0,
     "join": "2008-05-07",
-    "avatar": "https://avatars3.githubusercontent.com/u/9585"
+    "avatar": ""
   },
   { "name": "chiva",
     "position": 27,
@@ -322,7 +322,7 @@
     "repositories":18,
     "organizations":1,
     "join": "2010-06-15",
-    "avatar": "https://avatars1.githubusercontent.com/u/305333"
+    "avatar": ""
   },
   { "name": "joseRamonLeon",
     "position": 28,
@@ -334,7 +334,7 @@
     "repositories":162,
     "organizations":0,
     "join": "2012-04-26",
-    "avatar": "https://avatars1.githubusercontent.com/u/1682282"
+    "avatar": ""
   },
   { "name": "borjareinares",
     "position": 29,
@@ -346,7 +346,7 @@
     "repositories":4,
     "organizations":0,
     "join": "2011-01-26",
-    "avatar": "https://avatars3.githubusercontent.com/u/584645"
+    "avatar": ""
   },
   { "name": "csadan",
     "position": 30,
@@ -358,22 +358,10 @@
     "repositories":4,
     "organizations":0,
     "join": "2014-01-21",
-    "avatar": "https://avatars0.githubusercontent.com/u/6459730"
-  },
-  { "name": "Orioncete",
-    "position": 31,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 2,
-    "repositories":12,
-    "organizations":0,
-    "join": "2016-03-12",
-    "avatar": "https://avatars0.githubusercontent.com/u/17803185"
+    "avatar": ""
   },
   { "name": "Jimbo2K",
-    "position": 32,
+    "position": 31,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -382,7 +370,19 @@
     "repositories":6,
     "organizations":0,
     "join": "2016-03-15",
-    "avatar": "https://avatars1.githubusercontent.com/u/17853527"
+    "avatar": ""
+  },
+  { "name": "Orioncete",
+    "position": 32,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 2,
+    "repositories":12,
+    "organizations":0,
+    "join": "2016-03-12",
+    "avatar": ""
   }
   ]
 }

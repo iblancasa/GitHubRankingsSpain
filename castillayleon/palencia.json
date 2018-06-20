@@ -1,4 +1,4 @@
-{ "date": "03:34AM-June-13-2018",
+{ "date": "03:34AM-June-20-2018",
   "users": [
   { "name": "miguelarman",
     "position": 1,
@@ -10,19 +10,19 @@
     "repositories":8,
     "organizations":0,
     "join": "2016-10-13",
-    "avatar": "https://avatars1.githubusercontent.com/u/22821797"
+    "avatar": ""
   },
   { "name": "CodeBackpackofEndika",
     "position": 2,
-    "contributions": 126,
-    "public": 126,
+    "contributions": 129,
+    "public": 129,
     "private": 0,
-    "bio": "ASIR Student | Some Code Projects | Enthusiast of Networks",
+    "bio": "Enthusiast of Networks and Security",
     "followers": 4,
-    "repositories":24,
+    "repositories":25,
     "organizations":0,
     "join": "2017-09-25",
-    "avatar": "https://avatars2.githubusercontent.com/u/32270483"
+    "avatar": ""
   },
   { "name": "zdavidlnx",
     "position": 3,
@@ -34,7 +34,7 @@
     "repositories":12,
     "organizations":0,
     "join": "2011-07-28",
-    "avatar": "https://avatars2.githubusercontent.com/u/944150"
+    "avatar": ""
   },
   { "name": "adrianetete",
     "position": 4,
@@ -46,7 +46,7 @@
     "repositories":9,
     "organizations":0,
     "join": "2014-03-13",
-    "avatar": "https://avatars2.githubusercontent.com/u/6943237"
+    "avatar": ""
   },
   { "name": "seattle",
     "position": 5,
@@ -58,7 +58,7 @@
     "repositories":8,
     "organizations":1,
     "join": "2011-02-14",
-    "avatar": "https://avatars1.githubusercontent.com/u/617700"
+    "avatar": ""
   },
   { "name": "villeparamio",
     "position": 6,
@@ -70,7 +70,7 @@
     "repositories":11,
     "organizations":0,
     "join": "2015-12-01",
-    "avatar": "https://avatars2.githubusercontent.com/u/16100827"
+    "avatar": ""
   },
   { "name": "josetristan",
     "position": 7,
@@ -82,7 +82,7 @@
     "repositories":18,
     "organizations":0,
     "join": "2011-07-15",
-    "avatar": "https://avatars1.githubusercontent.com/u/916947"
+    "avatar": ""
   },
   { "name": "mines",
     "position": 8,
@@ -94,7 +94,7 @@
     "repositories":10,
     "organizations":0,
     "join": "2011-03-07",
-    "avatar": "https://avatars2.githubusercontent.com/u/655278"
+    "avatar": ""
   }
   ]
 }
