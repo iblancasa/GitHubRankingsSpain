@@ -1,6 +1,6 @@
 # Ranking Melilla
 
-Generado 07:24AM-June-20-2018.
+Generado 07:18AM-June-27-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 

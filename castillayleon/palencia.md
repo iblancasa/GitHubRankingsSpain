@@ -1,6 +1,6 @@
 # Ranking Palencia
 
-Generado 03:34AM-June-20-2018.
+Generado 03:36AM-June-27-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 

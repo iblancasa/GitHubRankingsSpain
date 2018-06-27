@@ -1,6 +1,6 @@
 # Ranking Ceuta
 
-Generado 06:03AM-June-20-2018.
+Generado 06:01AM-June-27-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
