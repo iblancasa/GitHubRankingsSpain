@@ -1,6 +1,6 @@
 # Ranking León
 
-Generado 03:33AM-June-27-2018.
+Generado 03:34AM-July-04-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,23 +12,23 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[ipazc](https://github.com/ipazc)|344|42|23|14|2014-03-03|![ipazc]()|
-|2|[eherng03](https://github.com/eherng03)|142|107|26|17|2016-03-03|![eherng03]()|
+|1|[ipazc](https://github.com/ipazc)|337|24|23|14|2014-03-03|![ipazc]()|
+|2|[eherng03](https://github.com/eherng03)|134|103|26|17|2016-03-03|![eherng03]()|
 |3|[Libertual](https://github.com/Libertual)|108|0|22|5|2014-11-17|![Libertual]()|
-|4|[ermus19](https://github.com/ermus19)|103|0|15|7|2012-12-14|![ermus19]()|
-|5|[manuel-fidalgo](https://github.com/manuel-fidalgo)|42|11|36|10|2016-02-05|![manuel-fidalgo]()|
-|6|[rubenleon](https://github.com/rubenleon)|34|0|4|3|2017-06-08|![rubenleon]()|
-|7|[jagarciavi](https://github.com/jagarciavi)|31|2|24|11|2012-05-07|![jagarciavi]()|
-|8|[BorjaMerino](https://github.com/BorjaMerino)|25|0|33|127|2012-05-03|![BorjaMerino]()|
-|9|[egara](https://github.com/egara)|24|0|5|3|2015-08-07|![egara]()|
-|10|[sinaiaranda-CIDESI](https://github.com/sinaiaranda-CIDESI)|23|0|3|3|2018-01-11|![sinaiaranda-CIDESI]()|
+|4|[ermus19](https://github.com/ermus19)|100|0|15|7|2012-12-14|![ermus19]()|
+|5|[manuel-fidalgo](https://github.com/manuel-fidalgo)|42|0|36|10|2016-02-05|![manuel-fidalgo]()|
+|6|[sinaiaranda-CIDESI](https://github.com/sinaiaranda-CIDESI)|41|0|4|3|2018-01-11|![sinaiaranda-CIDESI]()|
+|7|[rubenleon](https://github.com/rubenleon)|34|0|4|3|2017-06-08|![rubenleon]()|
+|8|[jagarciavi](https://github.com/jagarciavi)|31|2|24|11|2012-05-07|![jagarciavi]()|
+|9|[egara](https://github.com/egara)|28|0|5|3|2015-08-07|![egara]()|
+|10|[BorjaMerino](https://github.com/BorjaMerino)|25|0|33|127|2012-05-03|![BorjaMerino]()|
 |11|[Alfonso-ASX](https://github.com/Alfonso-ASX)|18|0|22|5|2012-01-11|![Alfonso-ASX]()|
 |12|[mxra8](https://github.com/mxra8)|14|0|17|2|2015-12-14|![mxra8]()|
-|13|[ctabuyo](https://github.com/ctabuyo)|12|0|6|5|2015-08-12|![ctabuyo]()|
+|13|[ctabuyo](https://github.com/ctabuyo)|13|0|6|5|2015-08-12|![ctabuyo]()|
 |14|[jesus-cruz](https://github.com/jesus-cruz)|12|29|29|6|2016-03-04|![jesus-cruz]()|
 |15|[L3cr0f](https://github.com/L3cr0f)|11|0|12|24|2016-02-25|![L3cr0f]()|
 |16|[oschariv](https://github.com/oschariv)|11|0|37|3|2016-09-26|![oschariv]()|
-|17|[NeoMorfeo](https://github.com/NeoMorfeo)|9|0|14|5|2013-03-04|![NeoMorfeo]()|
+|17|[NeoMorfeo](https://github.com/NeoMorfeo)|9|0|14|6|2013-03-04|![NeoMorfeo]()|
 |18|[jesusiglesias](https://github.com/jesusiglesias)|7|2|2|3|2015-02-27|![jesusiglesias]()|
 |19|[Jsalig00](https://github.com/Jsalig00)|5|0|2|2|2018-02-20|![Jsalig00]()|
 |20|[darkmaki](https://github.com/darkmaki)|1|0|2|6|2014-12-01|![darkmaki]()|

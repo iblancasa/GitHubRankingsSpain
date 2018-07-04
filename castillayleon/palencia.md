@@ -1,6 +1,6 @@
 # Ranking Palencia
 
-Generado 03:36AM-June-27-2018.
+Generado 03:36AM-July-04-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[miguelarman](https://github.com/miguelarman)|236|488|8|3|2016-10-13|![miguelarman]()|
+|1|[miguelarman](https://github.com/miguelarman)|315|409|8|3|2016-10-13|![miguelarman]()|
 |2|[CodeBackpackofEndika](https://github.com/CodeBackpackofEndika)|129|0|25|4|2017-09-25|![CodeBackpackofEndika]()|
 |3|[zdavidlnx](https://github.com/zdavidlnx)|103|0|12|5|2011-07-28|![zdavidlnx]()|
 |4|[adrianetete](https://github.com/adrianetete)|21|0|9|14|2014-03-13|![adrianetete]()|
