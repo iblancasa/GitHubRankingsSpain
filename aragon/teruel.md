@@ -1,6 +1,6 @@
 # Ranking Teruel
 
-Generado 03:28AM-July-04-2018.
+Generado 03:28AM-July-11-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,6 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[jsoriano](https://github.com/jsoriano)|409|107|55|48|2008-07-02|![jsoriano]()|
-|2|[aaorsi](https://github.com/aaorsi)|89|0|11|3|2014-10-18|![aaorsi]()|
-|3|[alazuga](https://github.com/alazuga)|4|0|10|3|2014-03-04|![alazuga]()|
+|1|[jsoriano](https://github.com/jsoriano)|402|101|55|48|2008-07-02|![jsoriano]()|
+|2|[aaorsi](https://github.com/aaorsi)|90|0|11|3|2014-10-18|![aaorsi]()|
+|3|[rocammo](https://github.com/rocammo)|7|0|4|2|2014-10-31|![rocammo]()|
+|4|[alazuga](https://github.com/alazuga)|4|0|10|3|2014-03-04|![alazuga]()|
