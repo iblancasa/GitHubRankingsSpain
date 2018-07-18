@@ -1,6 +1,6 @@
 # Ranking Palencia
 
-Generado 03:36AM-July-11-2018.
+Generado 03:22AM-July-18-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -18,5 +18,5 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |4|[adrianetete](https://github.com/adrianetete)|21|0|9|14|2014-03-13|![adrianetete]()|
 |5|[seattle](https://github.com/seattle)|2|0|8|2|2011-02-14|![seattle]()|
 |6|[villeparamio](https://github.com/villeparamio)|1|0|11|3|2015-12-01|![villeparamio]()|
-|7|[josetristan](https://github.com/josetristan)|0|0|18|3|2011-07-15|![josetristan]()|
-|8|[mines](https://github.com/mines)|0|0|10|5|2011-03-07|![mines]()|
+|7|[mines](https://github.com/mines)|0|0|10|5|2011-03-07|![mines]()|
+|8|[josetristan](https://github.com/josetristan)|0|0|18|3|2011-07-15|![josetristan]()|

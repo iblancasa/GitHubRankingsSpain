@@ -1,4 +1,4 @@
-{ "date": "03:36AM-July-11-2018",
+{ "date": "03:22AM-July-18-2018",
   "users": [
   { "name": "miguelarman",
     "position": 1,
@@ -72,20 +72,8 @@
     "join": "2015-12-01",
     "avatar": ""
   },
-  { "name": "josetristan",
-    "position": 7,
-    "contributions": 0,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": 3,
-    "repositories":18,
-    "organizations":0,
-    "join": "2011-07-15",
-    "avatar": ""
-  },
   { "name": "mines",
-    "position": 8,
+    "position": 7,
     "contributions": 0,
     "public": 0,
     "private": 0,
@@ -94,6 +82,18 @@
     "repositories":10,
     "organizations":0,
     "join": "2011-03-07",
+    "avatar": ""
+  },
+  { "name": "josetristan",
+    "position": 8,
+    "contributions": 0,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": 3,
+    "repositories":18,
+    "organizations":0,
+    "join": "2011-07-15",
     "avatar": ""
   }
   ]

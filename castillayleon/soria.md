@@ -1,6 +1,6 @@
 # Ranking Soria
 
-Generado 03:38AM-July-11-2018.
+Generado 03:24AM-July-18-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -13,6 +13,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[titodevera](https://github.com/titodevera)|56|0|7|8|2015-03-19|![titodevera]()|
-|2|[pablomario](https://github.com/pablomario)|39|0|26|8|2013-05-18|![pablomario]()|
-|3|[statickidz](https://github.com/statickidz)|39|210|15|32|2014-06-14|![statickidz]()|
+|2|[statickidz](https://github.com/statickidz)|39|210|15|32|2014-06-14|![statickidz]()|
+|3|[pablomario](https://github.com/pablomario)|39|0|26|8|2013-05-18|![pablomario]()|
 |4|[silvilidar](https://github.com/silvilidar)|15|0|2|2|2016-03-18|![silvilidar]()|
