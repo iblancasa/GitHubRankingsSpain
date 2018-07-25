@@ -1,6 +1,6 @@
 # Ranking Zamora
 
-Generado 03:26AM-July-18-2018.
+Generado 03:23AM-July-25-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,9 +12,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[vgayolrs](https://github.com/vgayolrs)|139|0|4|7|2016-03-05|![vgayolrs]()|
-|2|[jairomelo](https://github.com/jairomelo)|138|0|16|3|2014-05-19|![jairomelo]()|
-|3|[leopaglia](https://github.com/leopaglia)|47|0|20|2|2013-04-10|![leopaglia]()|
+|1|[jairomelo](https://github.com/jairomelo)|140|0|16|3|2014-05-19|![jairomelo]()|
+|2|[vgayolrs](https://github.com/vgayolrs)|139|0|4|7|2016-03-05|![vgayolrs]()|
+|3|[leopaglia](https://github.com/leopaglia)|49|0|21|2|2013-04-10|![leopaglia]()|
 |4|[Roberth1203](https://github.com/Roberth1203)|41|0|16|3|2014-12-31|![Roberth1203]()|
 |5|[arcxyz](https://github.com/arcxyz)|39|53|41|13|2010-01-18|![arcxyz]()|
 |6|[aaronpr95](https://github.com/aaronpr95)|21|0|4|5|2016-11-21|![aaronpr95]()|
