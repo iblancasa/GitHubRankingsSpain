@@ -1,6 +1,6 @@
 # Ranking Lugo
 
-Generado 04:41AM-July-25-2018.
+Generado 04:44AM-August-01-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,11 +12,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[nosolosw](https://github.com/nosolosw)|832|210|30|41|2011-01-25|![nosolosw]()|
-|2|[jesusVMayor](https://github.com/jesusVMayor)|490|35|7|14|2013-09-05|![jesusVMayor]()|
-|3|[antoniovazquezblanco](https://github.com/antoniovazquezblanco)|298|0|15|27|2010-06-13|![antoniovazquezblanco]()|
-|4|[omar7r](https://github.com/omar7r)|257|0|13|21|2011-02-25|![omar7r]()|
-|5|[palas](https://github.com/palas)|221|0|11|4|2011-02-25|![palas]()|
+|1|[nosolosw](https://github.com/nosolosw)|799|244|30|41|2011-01-25|![nosolosw]()|
+|2|[jesusVMayor](https://github.com/jesusVMayor)|487|35|7|14|2013-09-05|![jesusVMayor]()|
+|3|[antoniovazquezblanco](https://github.com/antoniovazquezblanco)|289|0|15|27|2010-06-13|![antoniovazquezblanco]()|
+|4|[palas](https://github.com/palas)|233|0|11|4|2011-02-25|![palas]()|
+|5|[omar7r](https://github.com/omar7r)|233|0|13|21|2011-02-25|![omar7r]()|
 |6|[segundofdez](https://github.com/segundofdez)|190|0|15|18|2011-06-25|![segundofdez]()|
 |7|[dieg0v](https://github.com/dieg0v)|157|0|16|10|2011-06-23|![dieg0v]()|
 |8|[chavaone](https://github.com/chavaone)|111|0|32|24|2011-07-28|![chavaone]()|
@@ -28,13 +28,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |14|[WuShell](https://github.com/WuShell)|7|0|11|5|2011-06-25|![WuShell]()|
 |15|[MarcosBL](https://github.com/MarcosBL)|6|0|47|39|2010-09-06|![MarcosBL]()|
 |16|[man08](https://github.com/man08)|6|0|2|2|2015-07-07|![man08]()|
-|17|[albertoluengo](https://github.com/albertoluengo)|1|25|3|3|2012-08-30|![albertoluengo]()|
-|18|[chucu](https://github.com/chucu)|1|0|10|4|2012-11-15|![chucu]()|
-|19|[LucasMontero](https://github.com/LucasMontero)|1|0|4|4|2014-05-29|![LucasMontero]()|
-|20|[martinffernandezf](https://github.com/martinffernandezf)|1|0|4|2|2016-02-08|![martinffernandezf]()|
-|21|[eccoilmoro](https://github.com/eccoilmoro)|0|0|16|2|2013-01-28|![eccoilmoro]()|
-|22|[jorgeSV](https://github.com/jorgeSV)|0|0|25|5|2013-04-18|![jorgeSV]()|
-|23|[michon](https://github.com/michon)|0|0|7|3|2009-04-06|![michon]()|
+|17|[chucu](https://github.com/chucu)|1|0|10|4|2012-11-15|![chucu]()|
+|18|[LucasMontero](https://github.com/LucasMontero)|1|0|4|4|2014-05-29|![LucasMontero]()|
+|19|[martinffernandezf](https://github.com/martinffernandezf)|1|0|4|2|2016-02-08|![martinffernandezf]()|
+|20|[jorgeSV](https://github.com/jorgeSV)|0|0|25|5|2013-04-18|![jorgeSV]()|
+|21|[albertoluengo](https://github.com/albertoluengo)|0|33|3|3|2012-08-30|![albertoluengo]()|
+|22|[michon](https://github.com/michon)|0|0|7|3|2009-04-06|![michon]()|
+|23|[Ebrithil](https://github.com/Ebrithil)|0|0|6|4|2008-12-20|![Ebrithil]()|
 |24|[NeoPolus](https://github.com/NeoPolus)|0|0|7|4|2012-02-04|![NeoPolus]()|
-|25|[Ebrithil](https://github.com/Ebrithil)|0|0|6|4|2008-12-20|![Ebrithil]()|
+|25|[eccoilmoro](https://github.com/eccoilmoro)|0|0|16|2|2013-01-28|![eccoilmoro]()|
 |26|[santiarg](https://github.com/santiarg)|0|0|4|4|2014-05-16|![santiarg]()|
