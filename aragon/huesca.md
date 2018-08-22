@@ -1,6 +1,6 @@
 # Ranking Huesca
 
-Generado 03:13AM-August-08-2018.
+Generado 03:28AM-August-22-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,7 +12,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[fernand0](https://github.com/fernand0)|525|0|39|44|2008-03-06|![fernand0]()|
+|1|[fernand0](https://github.com/fernand0)|554|0|39|45|2008-03-06|![fernand0]()|
 |2|[SrPerso](https://github.com/SrPerso)|268|0|12|13|2016-02-09|![SrPerso]()|
 |3|[jmendiara](https://github.com/jmendiara)|87|0|55|32|2011-06-15|![jmendiara]()|
 |4|[hbiarge](https://github.com/hbiarge)|69|0|36|40|2010-11-08|![hbiarge]()|
@@ -22,5 +22,5 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |8|[jchine](https://github.com/jchine)|3|0|18|8|2012-05-03|![jchine]()|
 |9|[viktorKhan](https://github.com/viktorKhan)|3|0|11|3|2013-06-13|![viktorKhan]()|
 |10|[sergioibs](https://github.com/sergioibs)|2|0|9|3|2013-09-26|![sergioibs]()|
-|11|[lopezmuzas](https://github.com/lopezmuzas)|2|0|9|7|2012-02-01|![lopezmuzas]()|
-|12|[JuanS](https://github.com/JuanS)|1|0|135|6|2012-08-16|![JuanS]()|
+|11|[JuanS](https://github.com/JuanS)|1|0|135|6|2012-08-16|![JuanS]()|
+|12|[lopezmuzas](https://github.com/lopezmuzas)|0|0|9|7|2012-02-01|![lopezmuzas]()|
