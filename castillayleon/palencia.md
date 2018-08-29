@@ -1,6 +1,6 @@
 # Ranking Palencia
 
-Generado 03:37AM-August-22-2018.
+Generado 03:40AM-August-29-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -14,9 +14,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
 |1|[miguelarman](https://github.com/miguelarman)|386|364|8|3|2016-10-13|![miguelarman]()|
 |2|[CodeBackpackofEndika](https://github.com/CodeBackpackofEndika)|129|0|25|4|2017-09-25|![CodeBackpackofEndika]()|
-|3|[zdavidlnx](https://github.com/zdavidlnx)|82|0|12|5|2011-07-28|![zdavidlnx]()|
-|4|[adrianetete](https://github.com/adrianetete)|11|0|9|14|2014-03-13|![adrianetete]()|
-|5|[seattle](https://github.com/seattle)|2|0|8|3|2011-02-14|![seattle]()|
-|6|[villeparamio](https://github.com/villeparamio)|1|0|11|3|2015-12-01|![villeparamio]()|
-|7|[josetristan](https://github.com/josetristan)|0|0|18|3|2011-07-15|![josetristan]()|
-|8|[mines](https://github.com/mines)|0|0|10|5|2011-03-07|![mines]()|
+|3|[zdavidlnx](https://github.com/zdavidlnx)|75|0|12|5|2011-07-28|![zdavidlnx]()|
+|4|[sergio11](https://github.com/sergio11)|60|968|66|26|2014-03-19|![sergio11]()|
+|5|[adrianetete](https://github.com/adrianetete)|11|0|9|14|2014-03-13|![adrianetete]()|
+|6|[seattle](https://github.com/seattle)|2|0|8|3|2011-02-14|![seattle]()|
+|7|[villeparamio](https://github.com/villeparamio)|1|0|11|3|2015-12-01|![villeparamio]()|
+|8|[josetristan](https://github.com/josetristan)|0|0|18|3|2011-07-15|![josetristan]()|
+|9|[mines](https://github.com/mines)|0|0|10|5|2011-03-07|![mines]()|
