@@ -1,4 +1,4 @@
-{ "date": "03:42AM-August-29-2018",
+{ "date": "03:42AM-September-05-2018",
   "users": [
   { "name": "titodevera",
     "position": 1,
@@ -14,8 +14,8 @@
   },
   { "name": "pablomario",
     "position": 2,
-    "contributions": 35,
-    "public": 35,
+    "contributions": 29,
+    "public": 29,
     "private": 0,
     "bio": "",
     "followers": 8,
@@ -24,8 +24,20 @@
     "join": "2013-05-18",
     "avatar": ""
   },
-  { "name": "silvilidar",
+  { "name": "statickidz",
     "position": 3,
+    "contributions": 200,
+    "public": 23,
+    "private": 177,
+    "bio": "",
+    "followers": 35,
+    "repositories":15,
+    "organizations":0,
+    "join": "2014-06-14",
+    "avatar": ""
+  },
+  { "name": "silvilidar",
+    "position": 4,
     "contributions": 14,
     "public": 14,
     "private": 0,
@@ -34,18 +46,6 @@
     "repositories":2,
     "organizations":0,
     "join": "2016-03-18",
-    "avatar": ""
-  },
-  { "name": "statickidz",
-    "position": 4,
-    "contributions": 240,
-    "public": 0,
-    "private": 314,
-    "bio": "",
-    "followers": 35,
-    "repositories":15,
-    "organizations":0,
-    "join": "2014-06-14",
     "avatar": ""
   }
   ]

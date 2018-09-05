@@ -1,6 +1,6 @@
 # Ranking Jaén
 
-Generado 03:06AM-August-29-2018.
+Generado 03:06AM-September-05-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,56 +12,56 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[javacasm](https://github.com/javacasm)|2101|0|377|60|2013-03-12|![javacasm]()|
-|2|[acharluk](https://github.com/acharluk)|951|0|30|32|2013-08-03|![acharluk]()|
-|3|[lrlopez](https://github.com/lrlopez)|353|208|26|34|2011-01-04|![lrlopez]()|
-|4|[aabedraba](https://github.com/aabedraba)|353|0|21|14|2017-04-19|![aabedraba]()|
-|5|[pakillottk](https://github.com/pakillottk)|345|0|19|2|2013-11-12|![pakillottk]()|
-|6|[Jamargle](https://github.com/Jamargle)|343|0|32|5|2015-03-24|![Jamargle]()|
-|7|[bameda](https://github.com/bameda)|331|2|92|161|2011-06-26|![bameda]()|
-|8|[neokore](https://github.com/neokore)|194|2115|8|16|2011-07-25|![neokore]()|
-|9|[AlfonsoLRz](https://github.com/AlfonsoLRz)|190|496|3|3|2016-10-02|![AlfonsoLRz]()|
-|10|[franfj](https://github.com/franfj)|153|1|15|3|2014-10-13|![franfj]()|
+|1|[javacasm](https://github.com/javacasm)|2101|0|377|61|2013-03-12|![javacasm]()|
+|2|[acharluk](https://github.com/acharluk)|924|0|30|32|2013-08-03|![acharluk]()|
+|3|[lrlopez](https://github.com/lrlopez)|348|208|26|34|2011-01-04|![lrlopez]()|
+|4|[pakillottk](https://github.com/pakillottk)|345|0|19|2|2013-11-12|![pakillottk]()|
+|5|[Jamargle](https://github.com/Jamargle)|343|0|32|5|2015-03-24|![Jamargle]()|
+|6|[aabedraba](https://github.com/aabedraba)|340|0|21|14|2017-04-19|![aabedraba]()|
+|7|[bameda](https://github.com/bameda)|329|2|92|161|2011-06-26|![bameda]()|
+|8|[neokore](https://github.com/neokore)|194|2963|8|16|2011-07-25|![neokore]()|
+|9|[AlfonsoLRz](https://github.com/AlfonsoLRz)|189|496|3|3|2016-10-02|![AlfonsoLRz]()|
+|10|[franfj](https://github.com/franfj)|177|1|15|3|2014-10-13|![franfj]()|
 |11|[manugarcia101](https://github.com/manugarcia101)|151|0|8|6|2017-09-22|![manugarcia101]()|
-|12|[raulmoyareyes](https://github.com/raulmoyareyes)|129|1783|18|18|2012-08-04|![raulmoyareyes]()|
-|13|[xenahort](https://github.com/xenahort)|115|7|16|5|2016-03-30|![xenahort]()|
-|14|[OdeiRZ](https://github.com/OdeiRZ)|104|0|47|6|2014-10-01|![OdeiRZ]()|
+|12|[raulmoyareyes](https://github.com/raulmoyareyes)|129|1765|18|18|2012-08-04|![raulmoyareyes]()|
+|13|[xenahort](https://github.com/xenahort)|113|9|16|5|2016-03-30|![xenahort]()|
+|14|[OdeiRZ](https://github.com/OdeiRZ)|103|0|47|6|2014-10-01|![OdeiRZ]()|
 |15|[algm](https://github.com/algm)|88|0|12|10|2009-10-29|![algm]()|
 |16|[jrba0001](https://github.com/jrba0001)|72|0|50|8|2016-07-17|![jrba0001]()|
 |17|[jccuevas](https://github.com/jccuevas)|66|0|27|28|2013-04-10|![jccuevas]()|
-|18|[josemam](https://github.com/josemam)|66|0|16|22|2015-03-14|![josemam]()|
-|19|[jrbalsas](https://github.com/jrbalsas)|56|0|13|39|2010-08-07|![jrbalsas]()|
+|18|[josemam](https://github.com/josemam)|63|0|17|22|2015-03-14|![josemam]()|
+|19|[jrbalsas](https://github.com/jrbalsas)|55|0|13|39|2010-08-07|![jrbalsas]()|
 |20|[vrivas](https://github.com/vrivas)|55|0|35|41|2012-12-14|![vrivas]()|
 |21|[alejandrocq](https://github.com/alejandrocq)|54|0|16|18|2010-05-20|![alejandrocq]()|
-|22|[juancazalla](https://github.com/juancazalla)|48|758|6|20|2015-03-24|![juancazalla]()|
-|23|[JaviHort](https://github.com/JaviHort)|48|0|4|4|2018-01-04|![JaviHort]()|
-|24|[jesusr](https://github.com/jesusr)|46|912|72|9|2011-12-11|![jesusr]()|
+|22|[JaviHort](https://github.com/JaviHort)|48|0|4|4|2018-01-04|![JaviHort]()|
+|23|[juancazalla](https://github.com/juancazalla)|47|779|7|20|2015-03-24|![juancazalla]()|
+|24|[jesusr](https://github.com/jesusr)|44|937|72|9|2011-12-11|![jesusr]()|
 |25|[sofiafernandezmoreno](https://github.com/sofiafernandezmoreno)|41|0|13|7|2014-11-21|![sofiafernandezmoreno]()|
-|26|[FJLendinez](https://github.com/FJLendinez)|39|0|10|2|2016-04-25|![FJLendinez]()|
+|26|[FJLendinez](https://github.com/FJLendinez)|40|0|11|2|2016-04-25|![FJLendinez]()|
 |27|[skuark](https://github.com/skuark)|36|0|5|10|2010-10-26|![skuark]()|
 |28|[fgallegosalido](https://github.com/fgallegosalido)|33|27|14|29|2015-03-24|![fgallegosalido]()|
 |29|[FernandoCabrera](https://github.com/FernandoCabrera)|32|0|8|3|2017-09-13|![FernandoCabrera]()|
 |30|[Andreasrn](https://github.com/Andreasrn)|29|0|8|11|2016-03-31|![Andreasrn]()|
-|31|[acanteror](https://github.com/acanteror)|26|0|19|2|2016-03-15|![acanteror]()|
-|32|[dhurtadorosales](https://github.com/dhurtadorosales)|25|0|23|3|2016-09-19|![dhurtadorosales]()|
+|31|[BeardOverflow](https://github.com/BeardOverflow)|27|0|5|4|2013-04-13|![BeardOverflow]()|
+|32|[acanteror](https://github.com/acanteror)|26|0|19|2|2016-03-15|![acanteror]()|
 |33|[davidmartinez1995](https://github.com/davidmartinez1995)|24|0|8|12|2015-11-11|![davidmartinez1995]()|
 |34|[Zaldric](https://github.com/Zaldric)|22|21|13|4|2016-03-29|![Zaldric]()|
-|35|[gDanix](https://github.com/gDanix)|19|36|25|24|2011-10-10|![gDanix]()|
+|35|[dhurtadorosales](https://github.com/dhurtadorosales)|21|0|23|3|2016-09-19|![dhurtadorosales]()|
 |36|[juanluisparra](https://github.com/juanluisparra)|19|0|7|2|2016-09-19|![juanluisparra]()|
-|37|[AntonioCortesB](https://github.com/AntonioCortesB)|18|0|2|10|2016-09-15|![AntonioCortesB]()|
-|38|[Kirbo92](https://github.com/Kirbo92)|17|0|48|5|2011-01-12|![Kirbo92]()|
-|39|[Lynx901](https://github.com/Lynx901)|17|2|4|9|2014-11-11|![Lynx901]()|
-|40|[Aralnoth](https://github.com/Aralnoth)|16|0|5|8|2011-04-06|![Aralnoth]()|
-|41|[BeardOverflow](https://github.com/BeardOverflow)|15|0|4|4|2013-04-13|![BeardOverflow]()|
+|37|[gDanix](https://github.com/gDanix)|18|36|25|24|2011-10-10|![gDanix]()|
+|38|[AntonioCortesB](https://github.com/AntonioCortesB)|18|0|2|10|2016-09-15|![AntonioCortesB]()|
+|39|[Kirbo92](https://github.com/Kirbo92)|17|0|48|5|2011-01-12|![Kirbo92]()|
+|40|[Lynx901](https://github.com/Lynx901)|17|10|4|9|2014-11-11|![Lynx901]()|
+|41|[Aralnoth](https://github.com/Aralnoth)|16|0|5|8|2011-04-06|![Aralnoth]()|
 |42|[jpmelguizo](https://github.com/jpmelguizo)|12|0|7|3|2013-01-29|![jpmelguizo]()|
 |43|[IvanSecaduras](https://github.com/IvanSecaduras)|11|0|2|2|2015-09-25|![IvanSecaduras]()|
-|44|[menudoproblema](https://github.com/menudoproblema)|10|0|28|26|2011-08-12|![menudoproblema]()|
-|45|[JuanFra1990](https://github.com/JuanFra1990)|9|0|4|5|2015-10-22|![JuanFra1990]()|
-|46|[orestescm76](https://github.com/orestescm76)|9|0|3|3|2016-09-04|![orestescm76]()|
-|47|[alejgarciarodriguez](https://github.com/alejgarciarodriguez)|8|0|5|4|2015-12-19|![alejgarciarodriguez]()|
-|48|[mjgr0013](https://github.com/mjgr0013)|7|0|10|2|2014-10-01|![mjgr0013]()|
-|49|[MarcialSanchez](https://github.com/MarcialSanchez)|7|0|6|8|2015-10-03|![MarcialSanchez]()|
-|50|[fcharte](https://github.com/fcharte)|5|109|29|47|2014-08-05|![fcharte]()|
+|44|[JuanFra1990](https://github.com/JuanFra1990)|9|0|4|5|2015-10-22|![JuanFra1990]()|
+|45|[menudoproblema](https://github.com/menudoproblema)|8|0|28|26|2011-08-12|![menudoproblema]()|
+|46|[mjgr0013](https://github.com/mjgr0013)|7|0|10|2|2014-10-01|![mjgr0013]()|
+|47|[MarcialSanchez](https://github.com/MarcialSanchez)|7|0|6|8|2015-10-03|![MarcialSanchez]()|
+|48|[alejgarciarodriguez](https://github.com/alejgarciarodriguez)|7|0|5|4|2015-12-19|![alejgarciarodriguez]()|
+|49|[orestescm76](https://github.com/orestescm76)|7|0|3|3|2016-09-04|![orestescm76]()|
+|50|[fcharte](https://github.com/fcharte)|5|106|29|47|2014-08-05|![fcharte]()|
 |51|[jlc00016](https://github.com/jlc00016)|5|0|6|4|2015-06-05|![jlc00016]()|
 |52|[nicomda](https://github.com/nicomda)|4|0|9|2|2013-06-13|![nicomda]()|
 |53|[sp-ivan-ortega](https://github.com/sp-ivan-ortega)|4|0|8|2|2016-02-22|![sp-ivan-ortega]()|
@@ -75,13 +75,13 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |61|[Evef](https://github.com/Evef)|0|0|4|6|2012-12-15|![Evef]()|
 |62|[felmoltor](https://github.com/felmoltor)|0|0|33|29|2011-06-13|![felmoltor]()|
 |63|[xtoxico](https://github.com/xtoxico)|0|0|12|3|2012-08-07|![xtoxico]()|
-|64|[vlledo](https://github.com/vlledo)|0|0|9|6|2011-03-28|![vlledo]()|
-|65|[maxcosworth](https://github.com/maxcosworth)|0|0|2|21|2010-09-06|![maxcosworth]()|
+|64|[maxcosworth](https://github.com/maxcosworth)|0|0|2|21|2010-09-06|![maxcosworth]()|
+|65|[vlledo](https://github.com/vlledo)|0|0|9|6|2011-03-28|![vlledo]()|
 |66|[Mecan0](https://github.com/Mecan0)|0|0|4|13|2013-06-11|![Mecan0]()|
-|67|[Joseja8](https://github.com/Joseja8)|0|0|5|14|2014-07-12|![Joseja8]()|
+|67|[Ciorraga](https://github.com/Ciorraga)|0|0|9|4|2013-11-08|![Ciorraga]()|
 |68|[pedroag](https://github.com/pedroag)|0|0|7|3|2013-09-23|![pedroag]()|
-|69|[sanchezjr](https://github.com/sanchezjr)|0|0|3|4|2013-12-17|![sanchezjr]()|
-|70|[Ciorraga](https://github.com/Ciorraga)|0|0|9|4|2013-11-08|![Ciorraga]()|
+|69|[Joseja8](https://github.com/Joseja8)|0|0|5|14|2014-07-12|![Joseja8]()|
+|70|[sanchezjr](https://github.com/sanchezjr)|0|0|3|4|2013-12-17|![sanchezjr]()|
 |71|[manuelpancorbo](https://github.com/manuelpancorbo)|0|0|5|9|2014-11-04|![manuelpancorbo]()|
 |72|[guillermochica](https://github.com/guillermochica)|0|0|26|7|2014-10-20|![guillermochica]()|
 |73|[OscarLaraJandula](https://github.com/OscarLaraJandula)|0|0|6|3|2016-09-19|![OscarLaraJandula]()|
