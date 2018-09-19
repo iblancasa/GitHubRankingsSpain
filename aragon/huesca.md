@@ -1,6 +1,6 @@
 # Ranking Huesca
 
-Generado 03:31AM-September-12-2018.
+Generado 03:31AM-September-19-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,10 +12,10 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[fernand0](https://github.com/fernand0)|574|0|39|45|2008-03-06|![fernand0]()|
-|2|[SrPerso](https://github.com/SrPerso)|290|0|10|13|2016-02-09|![SrPerso]()|
-|3|[jmendiara](https://github.com/jmendiara)|85|0|55|32|2011-06-15|![jmendiara]()|
-|4|[hbiarge](https://github.com/hbiarge)|68|0|36|41|2010-11-08|![hbiarge]()|
+|1|[fernand0](https://github.com/fernand0)|577|0|39|45|2008-03-06|![fernand0]()|
+|2|[SrPerso](https://github.com/SrPerso)|285|0|10|13|2016-02-09|![SrPerso]()|
+|3|[jmendiara](https://github.com/jmendiara)|86|0|55|32|2011-06-15|![jmendiara]()|
+|4|[hbiarge](https://github.com/hbiarge)|69|0|37|42|2010-11-08|![hbiarge]()|
 |5|[giltesa](https://github.com/giltesa)|52|0|6|5|2014-08-26|![giltesa]()|
 |6|[inazense](https://github.com/inazense)|39|0|7|2|2016-08-16|![inazense]()|
 |7|[fgarcialainez](https://github.com/fgarcialainez)|7|0|14|13|2012-05-19|![fgarcialainez]()|
