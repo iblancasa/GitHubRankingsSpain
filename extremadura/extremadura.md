@@ -1,6 +1,6 @@
 # Ranking Extremadura
 
-Generado 05:44AM-September-19-2018.
+Generado 05:39AM-September-26-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,42 +12,42 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[gesaodin](https://github.com/gesaodin)|478|0|14|4|2015-03-13|![gesaodin]()|
-|2|[ibarbech](https://github.com/ibarbech)|331|0|19|4|2015-09-20|![ibarbech]()|
+|1|[gesaodin](https://github.com/gesaodin)|477|0|14|4|2015-03-13|![gesaodin]()|
+|2|[ibarbech](https://github.com/ibarbech)|349|0|19|4|2015-09-20|![ibarbech]()|
 |3|[alvar0hurtad0](https://github.com/alvar0hurtad0)|246|1|41|20|2011-10-15|![alvar0hurtad0]()|
-|4|[vjgarciag96](https://github.com/vjgarciag96)|238|0|43|14|2016-07-01|![vjgarciag96]()|
-|5|[jredrejo](https://github.com/jredrejo)|232|0|31|7|2011-08-27|![jredrejo]()|
-|6|[Crul](https://github.com/Crul)|231|0|15|7|2013-09-29|![Crul]()|
-|7|[manolodd](https://github.com/manolodd)|222|0|7|6|2013-08-08|![manolodd]()|
-|8|[alonsoir](https://github.com/alonsoir)|203|0|166|34|2012-09-23|![alonsoir]()|
+|4|[jredrejo](https://github.com/jredrejo)|244|0|31|7|2011-08-27|![jredrejo]()|
+|5|[Crul](https://github.com/Crul)|223|0|15|7|2013-09-29|![Crul]()|
+|6|[manolodd](https://github.com/manolodd)|220|0|7|6|2013-08-08|![manolodd]()|
+|7|[vjgarciag96](https://github.com/vjgarciag96)|218|0|43|15|2016-07-01|![vjgarciag96]()|
+|8|[alonsoir](https://github.com/alonsoir)|203|0|166|35|2012-09-23|![alonsoir]()|
 |9|[afrasilv](https://github.com/afrasilv)|173|0|26|12|2014-10-15|![afrasilv]()|
 |10|[OrlandoJC](https://github.com/OrlandoJC)|140|0|63|3|2016-04-15|![OrlandoJC]()|
-|11|[pbustos](https://github.com/pbustos)|117|0|22|15|2013-12-06|![pbustos]()|
+|11|[pbustos](https://github.com/pbustos)|139|0|22|16|2013-12-06|![pbustos]()|
 |12|[raultm](https://github.com/raultm)|115|0|39|30|2011-03-09|![raultm]()|
-|13|[neriomo](https://github.com/neriomo)|95|0|13|17|2015-01-17|![neriomo]()|
-|14|[oscarcpozas](https://github.com/oscarcpozas)|93|3|6|68|2013-01-27|![oscarcpozas]()|
-|15|[oscaruhp](https://github.com/oscaruhp)|78|0|52|23|2011-06-18|![oscaruhp]()|
-|16|[alexdzul](https://github.com/alexdzul)|70|0|10|107|2012-06-29|![alexdzul]()|
-|17|[jmunozco](https://github.com/jmunozco)|68|1|32|33|2012-11-23|![jmunozco]()|
+|13|[oscarcpozas](https://github.com/oscarcpozas)|97|3|6|68|2013-01-27|![oscarcpozas]()|
+|14|[neriomo](https://github.com/neriomo)|95|0|13|17|2015-01-17|![neriomo]()|
+|15|[jmunozco](https://github.com/jmunozco)|80|1|33|33|2012-11-23|![jmunozco]()|
+|16|[oscaruhp](https://github.com/oscaruhp)|78|0|52|23|2011-06-18|![oscaruhp]()|
+|17|[alexdzul](https://github.com/alexdzul)|70|0|10|107|2012-06-29|![alexdzul]()|
 |18|[pamamu](https://github.com/pamamu)|67|0|10|3|2014-11-19|![pamamu]()|
-|19|[jesusAlbarregas](https://github.com/jesusAlbarregas)|63|0|4|4|2015-11-05|![jesusAlbarregas]()|
-|20|[srkapi](https://github.com/srkapi)|62|15|21|10|2015-02-08|![srkapi]()|
-|21|[ishmilan](https://github.com/ishmilan)|57|0|16|6|2014-10-07|![ishmilan]()|
-|22|[dacamposol](https://github.com/dacamposol)|38|0|5|4|2016-01-27|![dacamposol]()|
-|23|[brickbit](https://github.com/brickbit)|37|80|11|4|2016-06-02|![brickbit]()|
-|24|[Joanes04](https://github.com/Joanes04)|36|445|4|2|2014-11-25|![Joanes04]()|
-|25|[javitoom](https://github.com/javitoom)|29|2|9|5|2015-09-16|![javitoom]()|
-|26|[sergiocasero](https://github.com/sergiocasero)|25|0|35|35|2015-02-03|![sergiocasero]()|
+|19|[srkapi](https://github.com/srkapi)|62|15|21|10|2015-02-08|![srkapi]()|
+|20|[ishmilan](https://github.com/ishmilan)|57|0|16|6|2014-10-07|![ishmilan]()|
+|21|[dacamposol](https://github.com/dacamposol)|38|0|5|4|2016-01-27|![dacamposol]()|
+|22|[Joanes04](https://github.com/Joanes04)|36|445|4|2|2014-11-25|![Joanes04]()|
+|23|[brickbit](https://github.com/brickbit)|34|86|10|4|2016-06-02|![brickbit]()|
+|24|[javitoom](https://github.com/javitoom)|31|2|9|5|2015-09-16|![javitoom]()|
+|25|[sergiocasero](https://github.com/sergiocasero)|25|0|35|35|2015-02-03|![sergiocasero]()|
+|26|[javiernuber](https://github.com/javiernuber)|22|0|25|2|2011-06-16|![javiernuber]()|
 |27|[JPery](https://github.com/JPery)|22|0|16|9|2015-02-18|![JPery]()|
 |28|[trejoel](https://github.com/trejoel)|22|0|16|2|2014-12-05|![trejoel]()|
-|29|[EPGamer](https://github.com/EPGamer)|22|0|4|2|2017-10-04|![EPGamer]()|
-|30|[thyagodias](https://github.com/thyagodias)|21|0|9|2|2017-09-08|![thyagodias]()|
-|31|[javiernuber](https://github.com/javiernuber)|20|0|24|2|2011-06-16|![javiernuber]()|
+|29|[jesusAlbarregas](https://github.com/jesusAlbarregas)|22|0|5|4|2015-11-05|![jesusAlbarregas]()|
+|30|[EPGamer](https://github.com/EPGamer)|22|0|4|2|2017-10-04|![EPGamer]()|
+|31|[thyagodias](https://github.com/thyagodias)|20|0|7|2|2017-09-08|![thyagodias]()|
 |32|[miguelplaza94](https://github.com/miguelplaza94)|20|0|3|3|2015-04-05|![miguelplaza94]()|
 |33|[gitlucashubtebar](https://github.com/gitlucashubtebar)|19|0|6|2|2018-02-06|![gitlucashubtebar]()|
 |34|[javbonilla](https://github.com/javbonilla)|17|0|4|3|2011-10-12|![javbonilla]()|
-|35|[cesargomez](https://github.com/cesargomez)|17|159|5|2|2013-02-14|![cesargomez]()|
-|36|[csuarez](https://github.com/csuarez)|15|680|41|40|2011-03-21|![csuarez]()|
+|35|[cesargomez](https://github.com/cesargomez)|17|162|5|2|2013-02-14|![cesargomez]()|
+|36|[csuarez](https://github.com/csuarez)|15|671|41|40|2011-03-21|![csuarez]()|
 |37|[masc1293](https://github.com/masc1293)|14|0|3|7|2013-10-08|![masc1293]()|
 |38|[Shaofuhw](https://github.com/Shaofuhw)|14|0|13|9|2015-12-11|![Shaofuhw]()|
 |39|[adobo](https://github.com/adobo)|12|0|16|27|2011-05-09|![adobo]()|
@@ -63,18 +63,18 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |49|[jormaral](https://github.com/jormaral)|1|0|56|80|2011-06-03|![jormaral]()|
 |50|[ruscruzel](https://github.com/ruscruzel)|1|0|17|16|2013-07-09|![ruscruzel]()|
 |51|[LueW](https://github.com/LueW)|1|0|3|4|2016-07-06|![LueW]()|
-|52|[gonzalo-rodriguez](https://github.com/gonzalo-rodriguez)|0|0|2|2|2013-04-02|![gonzalo-rodriguez]()|
-|53|[enreas](https://github.com/enreas)|0|0|4|2|2011-11-07|![enreas]()|
+|52|[enreas](https://github.com/enreas)|0|0|4|2|2011-11-07|![enreas]()|
+|53|[gonzalo-rodriguez](https://github.com/gonzalo-rodriguez)|0|0|2|2|2013-04-02|![gonzalo-rodriguez]()|
 |54|[samu22893](https://github.com/samu22893)|0|0|12|5|2013-10-30|![samu22893]()|
 |55|[Axas](https://github.com/Axas)|0|0|9|2|2015-03-04|![Axas]()|
 |56|[SIMasterEPCC](https://github.com/SIMasterEPCC)|0|0|10|2|2017-03-16|![SIMasterEPCC]()|
 |57|[goldenboy](https://github.com/goldenboy)|0|0|221|17|2009-05-27|![goldenboy]()|
-|58|[andresgsaravia](https://github.com/andresgsaravia)|0|129|17|12|2011-06-13|![andresgsaravia]()|
+|58|[andresgsaravia](https://github.com/andresgsaravia)|0|128|17|12|2011-06-13|![andresgsaravia]()|
 |59|[Annitap4](https://github.com/Annitap4)|0|0|8|8|2010-08-30|![Annitap4]()|
 |60|[jtuz](https://github.com/jtuz)|0|0|17|6|2011-12-01|![jtuz]()|
-|61|[jcasero](https://github.com/jcasero)|0|0|9|3|2012-05-06|![jcasero]()|
-|62|[mendel81](https://github.com/mendel81)|0|0|14|8|2012-07-18|![mendel81]()|
-|63|[luismiguelmartin](https://github.com/luismiguelmartin)|0|0|14|3|2012-07-07|![luismiguelmartin]()|
+|61|[luismiguelmartin](https://github.com/luismiguelmartin)|0|0|14|3|2012-07-07|![luismiguelmartin]()|
+|62|[jcasero](https://github.com/jcasero)|0|0|9|3|2012-05-06|![jcasero]()|
+|63|[mendel81](https://github.com/mendel81)|0|0|14|8|2012-07-18|![mendel81]()|
 |64|[alberto-cabeza](https://github.com/alberto-cabeza)|0|0|3|2|2013-12-19|![alberto-cabeza]()|
 |65|[javivimv](https://github.com/javivimv)|0|0|2|2|2014-02-17|![javivimv]()|
 |66|[cdiazmo](https://github.com/cdiazmo)|0|0|2|3|2014-09-23|![cdiazmo]()|
