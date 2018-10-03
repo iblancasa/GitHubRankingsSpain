@@ -1,6 +1,6 @@
 # Ranking Zamora
 
-Generado 03:45AM-September-26-2018.
+Generado 03:44AM-October-03-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -15,11 +15,11 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |1|[jairomelo](https://github.com/jairomelo)|155|0|18|3|2014-05-19|![jairomelo]()|
 |2|[vgayolrs](https://github.com/vgayolrs)|80|0|4|7|2016-03-05|![vgayolrs]()|
 |3|[leopaglia](https://github.com/leopaglia)|45|0|21|3|2013-04-10|![leopaglia]()|
-|4|[Roberth1203](https://github.com/Roberth1203)|40|0|16|3|2014-12-31|![Roberth1203]()|
-|5|[arcxyz](https://github.com/arcxyz)|26|53|41|14|2010-01-18|![arcxyz]()|
+|4|[Roberth1203](https://github.com/Roberth1203)|42|0|17|3|2014-12-31|![Roberth1203]()|
+|5|[arcxyz](https://github.com/arcxyz)|26|4|41|14|2010-01-18|![arcxyz]()|
 |6|[aaronpr95](https://github.com/aaronpr95)|20|0|4|5|2016-11-21|![aaronpr95]()|
 |7|[josecriadom](https://github.com/josecriadom)|19|0|2|6|2018-01-06|![josecriadom]()|
 |8|[amaliahern](https://github.com/amaliahern)|6|0|31|9|2010-06-14|![amaliahern]()|
 |9|[Curicaveri](https://github.com/Curicaveri)|0|0|9|10|2014-01-06|![Curicaveri]()|
-|10|[ganipa93](https://github.com/ganipa93)|0|0|13|16|2015-09-03|![ganipa93]()|
-|11|[AMoraga](https://github.com/AMoraga)|0|0|7|4|2010-02-26|![AMoraga]()|
+|10|[AMoraga](https://github.com/AMoraga)|0|0|7|4|2010-02-26|![AMoraga]()|
+|11|[ganipa93](https://github.com/ganipa93)|0|0|13|15|2015-09-03|![ganipa93]()|

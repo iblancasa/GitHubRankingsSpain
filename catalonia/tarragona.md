@@ -1,6 +1,6 @@
 # Ranking Tarragona
 
-Generado 05:07AM-September-26-2018.
+Generado 05:04AM-October-03-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,27 +12,27 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[amercader](https://github.com/amercader)|928|155|58|70|2010-02-09|![amercader]()|
-|2|[pipo02mix](https://github.com/pipo02mix)|557|614|51|7|2011-07-03|![pipo02mix]()|
-|3|[Elexy](https://github.com/Elexy)|374|685|44|12|2010-10-14|![Elexy]()|
-|4|[JosepSampe](https://github.com/JosepSampe)|244|0|6|3|2015-01-08|![JosepSampe]()|
-|5|[sfrias](https://github.com/sfrias)|127|0|640|20|2012-05-06|![sfrias]()|
+|1|[amercader](https://github.com/amercader)|932|161|60|71|2010-02-09|![amercader]()|
+|2|[pipo02mix](https://github.com/pipo02mix)|566|624|52|7|2011-07-03|![pipo02mix]()|
+|3|[Elexy](https://github.com/Elexy)|374|633|44|12|2010-10-14|![Elexy]()|
+|4|[JosepSampe](https://github.com/JosepSampe)|195|0|6|3|2015-01-08|![JosepSampe]()|
+|5|[sfrias](https://github.com/sfrias)|127|0|641|20|2012-05-06|![sfrias]()|
 |6|[jorditg](https://github.com/jorditg)|108|0|13|2|2014-02-03|![jorditg]()|
-|7|[marcrobledo](https://github.com/marcrobledo)|103|0|10|45|2015-09-19|![marcrobledo]()|
-|8|[jpahullo](https://github.com/jpahullo)|92|0|24|21|2012-07-26|![jpahullo]()|
-|9|[iricartb](https://github.com/iricartb)|88|0|16|15|2016-07-19|![iricartb]()|
-|10|[juliamauri](https://github.com/juliamauri)|53|1|10|7|2013-11-28|![juliamauri]()|
+|7|[marcrobledo](https://github.com/marcrobledo)|100|0|10|45|2015-09-19|![marcrobledo]()|
+|8|[jpahullo](https://github.com/jpahullo)|92|0|24|22|2012-07-26|![jpahullo]()|
+|9|[juliamauri](https://github.com/juliamauri)|84|1|10|7|2013-11-28|![juliamauri]()|
+|10|[iricartb](https://github.com/iricartb)|68|0|16|15|2016-07-19|![iricartb]()|
 |11|[AlfredoRoca](https://github.com/AlfredoRoca)|52|0|29|12|2014-08-15|![AlfredoRoca]()|
 |12|[rmondejar](https://github.com/rmondejar)|49|0|20|8|2008-06-20|![rmondejar]()|
 |13|[jmarinllao](https://github.com/jmarinllao)|45|42|4|3|2015-07-26|![jmarinllao]()|
 |14|[joanroig](https://github.com/joanroig)|43|0|5|4|2015-05-14|![joanroig]()|
-|15|[cmmata](https://github.com/cmmata)|41|0|17|30|2013-04-22|![cmmata]()|
+|15|[cmmata](https://github.com/cmmata)|42|0|17|30|2013-04-22|![cmmata]()|
 |16|[ryanfox1985](https://github.com/ryanfox1985)|38|0|53|20|2011-10-26|![ryanfox1985]()|
 |17|[rgarcia87](https://github.com/rgarcia87)|38|0|4|2|2017-11-17|![rgarcia87]()|
 |18|[d3ltcod](https://github.com/d3ltcod)|37|0|7|8|2017-12-11|![d3ltcod]()|
 |19|[ReoDeveloper](https://github.com/ReoDeveloper)|30|0|3|5|2013-01-20|![ReoDeveloper]()|
-|20|[ivoarch](https://github.com/ivoarch)|26|0|28|61|2011-03-18|![ivoarch]()|
-|21|[Ismaaa](https://github.com/Ismaaa)|24|0|49|2|2016-09-16|![Ismaaa]()|
+|20|[ivoarch](https://github.com/ivoarch)|26|0|28|60|2011-03-18|![ivoarch]()|
+|21|[Ismaaa](https://github.com/Ismaaa)|22|0|49|2|2016-09-16|![Ismaaa]()|
 |22|[mhjabreel](https://github.com/mhjabreel)|19|0|62|31|2014-10-08|![mhjabreel]()|
 |23|[didacrios](https://github.com/didacrios)|11|0|38|13|2010-02-25|![didacrios]()|
 |24|[jalucenyo](https://github.com/jalucenyo)|10|0|14|17|2012-04-06|![jalucenyo]()|
@@ -48,8 +48,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |34|[dayalav](https://github.com/dayalav)|1|0|9|2|2013-06-10|![dayalav]()|
 |35|[AndresOller](https://github.com/AndresOller)|1|0|3|4|2013-07-06|![AndresOller]()|
 |36|[fontinixxl](https://github.com/fontinixxl)|1|0|10|4|2013-07-24|![fontinixxl]()|
-|37|[jrodriguezg](https://github.com/jrodriguezg)|0|0|5|2|2013-02-05|![jrodriguezg]()|
-|38|[marcgraub](https://github.com/marcgraub)|0|0|3|2|2012-10-02|![marcgraub]()|
+|37|[marcgraub](https://github.com/marcgraub)|0|0|3|2|2012-10-02|![marcgraub]()|
+|38|[jrodriguezg](https://github.com/jrodriguezg)|0|0|5|2|2013-02-05|![jrodriguezg]()|
 |39|[martinproject](https://github.com/martinproject)|0|0|219|9|2008-06-13|![martinproject]()|
 |40|[ShantiSR](https://github.com/ShantiSR)|0|0|205|7|2013-01-16|![ShantiSR]()|
 |41|[alexgrauroca](https://github.com/alexgrauroca)|0|0|2|12|2013-07-31|![alexgrauroca]()|
