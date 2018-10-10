@@ -1,19 +1,7 @@
-{ "date": "03:35AM-October-03-2018",
+{ "date": "03:36AM-October-10-2018",
   "users": [
-  { "name": "EugenioFidel",
-    "position": 1,
-    "contributions": 10,
-    "public": 10,
-    "private": 0,
-    "bio": "",
-    "followers": 2,
-    "repositories":14,
-    "organizations":0,
-    "join": "2015-06-01",
-    "avatar": ""
-  },
   { "name": "eltrueno",
-    "position": 2,
+    "position": 1,
     "contributions": 10,
     "public": 10,
     "private": 0,
@@ -22,6 +10,18 @@
     "repositories":4,
     "organizations":0,
     "join": "2015-04-06",
+    "avatar": ""
+  },
+  { "name": "EugenioFidel",
+    "position": 2,
+    "contributions": 3,
+    "public": 3,
+    "private": 0,
+    "bio": "",
+    "followers": 2,
+    "repositories":14,
+    "organizations":0,
+    "join": "2015-06-01",
     "avatar": ""
   }
   ]
