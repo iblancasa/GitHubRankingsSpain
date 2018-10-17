@@ -1,6 +1,6 @@
 # Ranking Ceuta
 
-Generado 06:18AM-October-10-2018.
+Generado 06:20AM-October-17-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,6 +12,6 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[dmolina](https://github.com/dmolina)|266|0|43|13|2010-12-17|![dmolina]()|
+|1|[dmolina](https://github.com/dmolina)|213|0|43|13|2010-12-17|![dmolina]()|
 |2|[ewokcillo](https://github.com/ewokcillo)|31|0|38|20|2011-12-27|![ewokcillo]()|
-|3|[carcam](https://github.com/carcam)|23|0|39|15|2012-05-01|![carcam]()|
+|3|[carcam](https://github.com/carcam)|22|0|40|15|2012-05-01|![carcam]()|

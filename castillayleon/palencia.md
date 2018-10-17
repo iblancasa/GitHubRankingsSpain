@@ -1,6 +1,6 @@
 # Ranking Palencia
 
-Generado 03:40AM-October-10-2018.
+Generado 03:40AM-October-17-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,12 +12,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[miguelarman](https://github.com/miguelarman)|326|388|8|3|2016-10-13|![miguelarman]()|
-|2|[sergio11](https://github.com/sergio11)|64|898|67|26|2014-03-19|![sergio11]()|
-|3|[CodeBackpackofEndika](https://github.com/CodeBackpackofEndika)|30|0|25|4|2017-09-25|![CodeBackpackofEndika]()|
-|4|[zdavidlnx](https://github.com/zdavidlnx)|26|0|12|5|2011-07-28|![zdavidlnx]()|
-|5|[adrianetete](https://github.com/adrianetete)|11|0|9|14|2014-03-13|![adrianetete]()|
+|1|[miguelarman](https://github.com/miguelarman)|319|390|8|3|2016-10-13|![miguelarman]()|
+|2|[sergio11](https://github.com/sergio11)|58|876|67|26|2014-03-19|![sergio11]()|
+|3|[CodeBackpackofEndika](https://github.com/CodeBackpackofEndika)|26|0|25|4|2017-09-25|![CodeBackpackofEndika]()|
+|4|[zdavidlnx](https://github.com/zdavidlnx)|18|0|12|5|2011-07-28|![zdavidlnx]()|
+|5|[adrianetete](https://github.com/adrianetete)|11|0|15|14|2014-03-13|![adrianetete]()|
 |6|[seattle](https://github.com/seattle)|3|0|9|3|2011-02-14|![seattle]()|
-|7|[villeparamio](https://github.com/villeparamio)|1|0|11|3|2015-12-01|![villeparamio]()|
-|8|[josetristan](https://github.com/josetristan)|0|0|18|3|2011-07-15|![josetristan]()|
-|9|[mines](https://github.com/mines)|0|0|10|5|2011-03-07|![mines]()|
+|7|[villeparamio](https://github.com/villeparamio)|1|0|11|5|2015-12-01|![villeparamio]()|
+|8|[mines](https://github.com/mines)|0|0|10|5|2011-03-07|![mines]()|
+|9|[josetristan](https://github.com/josetristan)|0|0|18|3|2011-07-15|![josetristan]()|
