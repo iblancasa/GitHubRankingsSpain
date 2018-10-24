@@ -1,6 +1,6 @@
 # Ranking Huesca
 
-Generado 03:31AM-October-17-2018.
+Generado 03:32AM-October-24-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,15 +12,15 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[fernand0](https://github.com/fernand0)|578|0|41|44|2008-03-06|![fernand0]()|
-|2|[SrPerso](https://github.com/SrPerso)|210|0|12|13|2016-02-09|![SrPerso]()|
-|3|[jmendiara](https://github.com/jmendiara)|93|0|60|33|2011-06-15|![jmendiara]()|
-|4|[hbiarge](https://github.com/hbiarge)|64|0|40|42|2010-11-08|![hbiarge]()|
+|1|[fernand0](https://github.com/fernand0)|563|0|40|44|2008-03-06|![fernand0]()|
+|2|[SrPerso](https://github.com/SrPerso)|174|0|10|13|2016-02-09|![SrPerso]()|
+|3|[jmendiara](https://github.com/jmendiara)|92|0|56|33|2011-06-15|![jmendiara]()|
+|4|[hbiarge](https://github.com/hbiarge)|63|0|37|42|2010-11-08|![hbiarge]()|
 |5|[giltesa](https://github.com/giltesa)|52|0|6|5|2014-08-26|![giltesa]()|
 |6|[inazense](https://github.com/inazense)|43|0|7|2|2016-08-16|![inazense]()|
 |7|[fgarcialainez](https://github.com/fgarcialainez)|7|0|14|13|2012-05-19|![fgarcialainez]()|
-|8|[sergioibs](https://github.com/sergioibs)|3|0|10|3|2013-09-26|![sergioibs]()|
-|9|[jchine](https://github.com/jchine)|3|0|18|8|2012-05-03|![jchine]()|
-|10|[viktorKhan](https://github.com/viktorKhan)|2|0|14|3|2013-06-13|![viktorKhan]()|
-|11|[JuanS](https://github.com/JuanS)|1|0|136|6|2012-08-16|![JuanS]()|
-|12|[lopezmuzas](https://github.com/lopezmuzas)|0|0|10|7|2012-02-01|![lopezmuzas]()|
+|8|[jchine](https://github.com/jchine)|3|0|18|8|2012-05-03|![jchine]()|
+|9|[sergioibs](https://github.com/sergioibs)|3|0|10|3|2013-09-26|![sergioibs]()|
+|10|[viktorKhan](https://github.com/viktorKhan)|2|0|11|4|2013-06-13|![viktorKhan]()|
+|11|[JuanS](https://github.com/JuanS)|1|0|135|6|2012-08-16|![JuanS]()|
+|12|[lopezmuzas](https://github.com/lopezmuzas)|0|0|9|7|2012-02-01|![lopezmuzas]()|
