@@ -1,6 +1,6 @@
 # Ranking León
 
-Generado 03:37AM-November-14-2018.
+Generado 03:41AM-November-21-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,20 +12,20 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[eherng03](https://github.com/eherng03)|182|44|31|20|2016-03-03|![eherng03]()|
-|2|[egara](https://github.com/egara)|131|0|5|3|2015-08-07|![egara]()|
-|3|[ermus19](https://github.com/ermus19)|130|0|18|7|2012-12-14|![ermus19]()|
-|4|[ipazc](https://github.com/ipazc)|100|26|24|22|2014-03-03|![ipazc]()|
+|1|[eherng03](https://github.com/eherng03)|170|44|31|20|2016-03-03|![eherng03]()|
+|2|[egara](https://github.com/egara)|134|0|5|3|2015-08-07|![egara]()|
+|3|[ermus19](https://github.com/ermus19)|125|0|18|7|2012-12-14|![ermus19]()|
+|4|[ipazc](https://github.com/ipazc)|81|26|24|23|2014-03-03|![ipazc]()|
 |5|[droidpl](https://github.com/droidpl)|63|0|17|21|2012-08-13|![droidpl]()|
 |6|[sinaiaranda-CIDESI](https://github.com/sinaiaranda-CIDESI)|51|0|5|3|2018-01-11|![sinaiaranda-CIDESI]()|
 |7|[erprom](https://github.com/erprom)|45|0|6|2|2018-04-03|![erprom]()|
-|8|[manuel-fidalgo](https://github.com/manuel-fidalgo)|41|0|37|10|2016-02-05|![manuel-fidalgo]()|
-|9|[afernv10](https://github.com/afernv10)|41|92|9|5|2017-02-23|![afernv10]()|
+|8|[afernv10](https://github.com/afernv10)|41|92|9|5|2017-02-23|![afernv10]()|
+|9|[manuel-fidalgo](https://github.com/manuel-fidalgo)|37|0|37|10|2016-02-05|![manuel-fidalgo]()|
 |10|[rubenleon](https://github.com/rubenleon)|32|0|4|6|2017-06-08|![rubenleon]()|
-|11|[mxra8](https://github.com/mxra8)|23|120|32|2|2015-12-14|![mxra8]()|
+|11|[mxra8](https://github.com/mxra8)|23|121|32|2|2015-12-14|![mxra8]()|
 |12|[Alfonso-ASX](https://github.com/Alfonso-ASX)|19|0|24|5|2012-01-11|![Alfonso-ASX]()|
 |13|[jesus-cruz](https://github.com/jesus-cruz)|19|24|29|6|2016-03-04|![jesus-cruz]()|
-|14|[BorjaMerino](https://github.com/BorjaMerino)|11|0|32|139|2012-05-03|![BorjaMerino]()|
+|14|[BorjaMerino](https://github.com/BorjaMerino)|11|0|32|140|2012-05-03|![BorjaMerino]()|
 |15|[jagarciavi](https://github.com/jagarciavi)|11|0|26|11|2012-05-07|![jagarciavi]()|
 |16|[oschariv](https://github.com/oschariv)|9|0|37|3|2016-09-26|![oschariv]()|
 |17|[NeoMorfeo](https://github.com/NeoMorfeo)|8|0|14|6|2013-03-04|![NeoMorfeo]()|
@@ -44,4 +44,4 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |30|[pizcogirl](https://github.com/pizcogirl)|0|0|66|2|2014-09-26|![pizcogirl]()|
 |31|[villeparamio](https://github.com/villeparamio)|0|0|11|5|2015-12-01|![villeparamio]()|
 |32|[JuanmaNatal](https://github.com/JuanmaNatal)|0|0|2|2|2016-04-04|![JuanmaNatal]()|
-|33|[L3cr0f](https://github.com/L3cr0f)|0|0|12|26|2016-02-25|![L3cr0f]()|
+|33|[L3cr0f](https://github.com/L3cr0f)|0|0|12|25|2016-02-25|![L3cr0f]()|
